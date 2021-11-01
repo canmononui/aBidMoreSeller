@@ -1,0 +1,94 @@
+.card-border-3 {
+  border: 3px solid #E7EDF4; 
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.dot {
+  position: absolute; 
+  top: -6px; 
+  right: 0px;
+}
+
+/* .dot-unread {
+  position: absolute; 
+  top: 2px; 
+  right: 12px;
+  height: 15px;
+  width: 15px;
+  background-color: #E54040;
+  border-radius: 50%;
+  display: inline-block;
+} */
+
+.dot-unread {
+  position: absolute; 
+  top: 2px; 
+  right: 12px;
+  height: 20px;
+  width: 20px;
+  background-color:#E54040;
+  border: 1px solid #EEE;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.card-list {
+  margin-top: 15px;
+  border-radius: 5px; 
+  background-color: #FFF;
+}
+
+.card-padding {
+  padding: 15px;
+}
+
+.img-store {
+  max-width: 70px;
+  max-height: 70px;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media only screen and (max-width: 480px) {
+  .card-border-3 {
+    border: 1.5px solid #E7EDF4;
+    border-radius: 0px;
+    padding: 10px;
+  }
+
+  .card-list {
+    margin-top: 8px;
+  }
+
+  .card-padding {
+    padding: 8px;
+  }
+
+  .sm-pr {
+    padding-right: 8px;
+  }
+
+  .img-store {
+    max-width: 50px;
+    max-height: 50px;
+  }
+
+  .dot-unread {
+    top: 2px; 
+    right: 13px;
+    height: 17px;
+    width: 17px;
+  }
+
+  .font-topic {
+    font-size: 1rem;
+  }
+
+  .font-date {
+    font-size: 0.8rem;
+  }
+
+  .font-des {
+    font-size: 0.8rem;
+  }
+}

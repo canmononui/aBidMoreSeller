@@ -1,0 +1,108 @@
+.dropdown-item:active {
+  color: #FFF; 
+  background-color: #FE5721;
+}
+
+.page-border-3 {
+  border: 3px solid #E7EDF4; 
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.btn-submit {
+  border: none; 
+  border-radius: 1.5rem; 
+  width: 100%; 
+  color: #fff; 
+  background-color: #D9534F;
+}
+
+.btn-edit {
+  border: none; 
+  border-radius: 1.5rem; 
+  color: #373E48; 
+  border: 1px solid #373E48; 
+  background-color: #FEEBE7;
+}
+
+.balance-padding {
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-bottom: 48px;
+}
+
+.input-style {
+  padding: 16px 16px 16px 24px; 
+  border-radius: 10px; 
+  background-color: #F2F6FA;
+}
+
+.col-icon {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  border-radius: 13px 13px 13px 13px;
+  /* background-color: #20232A; */
+  background-color: #525253;
+  cursor: pointer;
+}
+
+.col-icon-select {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  border-radius: 13px 13px 13px 13px;
+  background-color: #20232A;
+}
+
+.img-payment {
+  max-width: 60px;
+  max-height: 60px; 
+}
+
+.modal-padding {
+  padding: 48px;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media only screen and (max-width: 480px) {
+  .page-border-3 {
+    border: 1.5px solid #E7EDF4;
+    border-radius: 0px;
+    padding: 10px;
+  }
+
+  .btn-submit {
+    width: 95%;
+  }
+
+  .modal-padding {
+    padding: 24px;
+  }
+
+  .input-style {
+    padding: 10px 10px 10px 15px; 
+    border-radius: 0px;
+  }
+
+  .text-input {
+    font-size: 0.8rem;
+  }
+
+  .text-placeholder {
+    font-size: 0.7rem;
+  }
+
+  .col-icon {
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+
+  .img-payment {
+    max-width: 30px;
+    max-height: 30px; 
+  }
+
+  .text-icon {
+    font-size: 0.75rem;
+  }
+
+}

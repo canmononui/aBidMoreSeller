@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-1" x="1" y="39" width="998" height="228" rx="30" ry="30"/>
+  <path id="Rounded_Rectangle_2" data-name="Rounded Rectangle 2" class="cls-2" d="M68.5,309h863a30,30,0,0,1,30,30V930a30,30,0,0,1-30,30H68.5a30,30,0,0,1-30-30V339A30,30,0,0,1,68.5,309ZM416,424H583a30,30,0,0,1,30,30v15a30,30,0,0,1-30,30H416a30,30,0,0,1-30-30V454A30,30,0,0,1,416,424Z"/>
+</svg>

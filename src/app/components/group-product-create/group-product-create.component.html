@@ -1,0 +1,51 @@
+<!-- TOP MENU -->
+<div class="row">
+  <div class="col-auto" style="cursor: pointer;" (click)="groupList()">
+    <p>กลุ่มสินค้า</p>
+  </div>
+  <div class="col-auto pl-1" style="color: #FFA101; cursor: pointer;">
+    <p>เพิ่มกลุ่มสินค้า</p>
+  </div>
+</div>
+<!-- END TOP MENU -->
+
+<!-- CONTENT -->
+<!-- <div class="page-border-3 bg-white mt-2"> -->
+  <div class="input-style mt-2">
+    <p class="mb-0 text-input">เพิ่มชื่อกลุ่มสินค้า ({{ groupNameLength }}/30)</p>
+    <input maxlength="30" (keyup)='keyGroupName($event)' class="form-control border-0 pl-3 text-placeholder bg-input-white" #groupName_ placeholder="เพิ่มชื่อกลุ่มสินค้า">
+  </div>
+
+  <!-- Submit Button -->
+  <div class="text-center mb-2">
+    <button data-toggle="modal" data-target="#ModalPopupSubmit" data-backdrop="static" data-keyboard="false" 
+    type="button" class="btn mt-2 text-center btn-submit" [class.disabled]="groupNameLength == 0" (click)="groupCreateStatus(groupName_.value)">เพิ่มกลุ่มสินค้า
+    </button>
+  </div>
+  
+<!-- </div> -->
+<!-- END CONTENT -->
+
+<!-- MODAL POPUP REFCODE -->
+<div class="modal fade" id="ModalPopupSubmit" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+      <p class="text-center">ต้องการเพิ่มกลุ่มสินค้ากลุ่มสินค้า "{{ groupNameInput }}"</p>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal" (click)="groupCreate(groupName_.value)">ตกลง</button>
+        </div>
+        <div class="mt-2" *ngIf="status">
+          <a data-dismiss="modal" aria-label="Close" #closeModal style="cursor: pointer;">
+            <p class="text-center">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END MODAL POPUP REFCODE -->

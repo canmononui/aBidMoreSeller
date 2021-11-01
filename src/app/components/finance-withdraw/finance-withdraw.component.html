@@ -1,0 +1,51 @@
+<!-- TOP MENU -->
+<div class="row">
+  <div class="col-auto" style="cursor: pointer;" (click)="summary()">
+    <p>สรุปการเงิน</p>
+  </div>
+  <div class="col-auto pl-1" style="color: #FFA101; cursor: pointer;">
+    <p>เบิกเงิน</p>
+  </div>
+  <!-- <div class="col-auto pl-1" style="cursor: pointer;" (click)="deposit()">
+    <p>เติมเงิน</p>
+  </div> -->
+  <div class="col-auto pl-1" style="cursor: pointer;" (click)="waitingWithdraw()">
+    <p>รออนุมัติการเบิก</p>
+  </div>
+  <div class="col-auto pl-1 disabled" style="cursor: pointer;" (click)="donate()">
+    <p>บริจาค</p>
+  </div>
+</div>
+<!-- END TOP MENU -->
+<div *ngIf="showContent">
+  <div class="text-center balance-padding" style="background-color: #FEEBE7; border-radius: 10px;">
+    <h5>฿{{ balance }}</h5>
+    <!-- <p>ยอดเงินที่สามารถถอนได้</p> -->
+    <p class="mb-0">ยอดเงินที่จะถูกโอนเข้าบัญชีร้าน</p>
+  </div>
+
+  <div class="mt-2 p-4" style="background-color: #F2F6FA; border-radius: 10px;">
+    <p class="mb-0 font-weight-bold">รอบวันที่เงินที่จะถูกโอนเข้าบัญชีร้าน</p>
+    <!-- <p class="mb-0 text-danger">• โปรดทำรายการเบิกก่อนวันที่ 15/05/2020</p> -->
+    <p class="mb-0 text-danger">• รอบวันที่เงินเข้า {{ dateWithdraw.dateWithdraw.seconds*1000 | date: 'd/M/yyyy' }}</p>
+    <!-- <p class="mb-0 text-danger">• อาจใช้เวลาทำการประมาณ 1-2 วันทำการ ขึ้นอยู่กับผู้ให้บริการธนาคารปลายทาง</p> -->
+    <!-- <input class="form-control mt-2" style="border-radius: 50px; max-width: 50%;" placeholder="ระบุจำนวนเงิน"> -->
+
+    <p class="mt-2 mb-0 font-weight-bold">รายละเอียดบัญชีร้าน</p>
+    <!-- BANK CARD -->
+    <div class="row mt-2">
+      <div class="col-10 col-md-6 col-lg-4">
+        <div class="bank-card">
+          <p class="mb-0">เลขที่บัญชี : {{ userSeller.bookbank.bankNumber }}</p>
+          <p class="mb-0">ธนาคาร : {{ userSeller.bookbank.bankNameTH }}</p>
+          <p class="mb-0">เลขที่สาขา : {{ userSeller.bookbank.bankBranch }}</p>
+          <p class="mb-0">ชื่อบัญชี : {{ userSeller.bookbank.accountName }}</p>
+        </div>
+      </div>
+    </div>
+    <p class="mt-2 mb-0 font-weight-bold">หมายเหตุ</p>
+    <!-- <p class="mb-0">• หากยอดการเบิกต่ำการ 500 บาทจะมีค่าบริการจำนวน 30 บาท</p>
+  <p class="mb-0">• เงินจะถูกอนุมัติและโอนเข้าบัญชีภายใน 14-20 วัน ตามรอบการโอนเงิน</p> -->
+    <p class="mb-0 text-danger">• อาจใช้เวลาทำการประมาณ 1-2 วันทำการ ขึ้นอยู่กับผู้ให้บริการธนาคารปลายทาง</p>
+  </div>
+</div>

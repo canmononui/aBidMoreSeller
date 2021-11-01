@@ -1,0 +1,30 @@
+.bank-card {
+  color: #FFF;
+  background-color: #373E48;
+  padding: 24px 24px 24px 24px; 
+  border-radius: 10px;
+}
+
+.balance-padding {
+  padding-top: 48px;
+  padding-bottom: 48px;
+}
+
+.disabled {
+  pointer-events: none;
+  opacity: 0.4;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media only screen and (max-width: 480px) {
+  .bank-card {
+    padding: 16px 16px 16px 24px; 
+    border-radius: 10px;
+  }
+
+  .balance-padding {
+    padding-top: 32px;
+    padding-bottom: 32px;
+  }
+
+}

@@ -1,0 +1,279 @@
+<div *ngIf="showContent" class="container-bg-color">
+  <!-- ! -->
+  <div class="row">
+    <div class="col">
+      <p class="mb-0">สถานะ</p>
+      <p *ngIf="productData.productStatus == 'waitAuction'" class="mb-0 productDataText">• รอประมูล</p>
+      <p *ngIf="productData.productStatus == 'bidding'" class="mb-0 productDataText">• กำลังประมูล</p>
+      <p *ngIf="productData.productStatus == 'forSale'" class="mb-0 productDataText">• วางขาย</p>
+      <p *ngIf="productData.productStatus == 'waitOrderConfirm'" class="mb-0 productDataText">• รอยืนยันคำสั่งซื้อ</p>
+      <p *ngIf="productData.productStatus == 'onSale14Days'" class="mb-0 productDataText">• วางขาย (14 วัน)</p>
+      <p *ngIf="productData.productStatus == 'waitBackAuction'" class="mb-0 productDataText">• รอนำกลับไปประมูล</p>
+      <p *ngIf="productData.productStatus == 'deleted'" class="mb-0 productDataText">• สินค้าถูกลบ</p>
+    </div>
+    <div class="col-auto text-right">
+      <button type="button" class="btn text-placeholder text-center btn-des disabled" (click)="gotoProductDescription()">หน้าสินค้า</button>
+    </div>
+  </div>
+  <!-- ! -->
+  <p class="mt-2 mb-0">รหัสสินค้า</p>
+  <div class="row">
+    <div class="col-auto pr-0 align-self-center">
+      <p class="mb-0 productDataText">• {{ id }}</p>
+    </div>
+    <div class="col-auto">
+      <button type="button" class="btn text-placeholder text-center btn-copy" 
+      data-toggle="modal" data-target="#ModalPopupCopy" (click)="copyProductKey()">คัดลอก</button>
+    </div>
+  </div>
+  <!-- ! -->
+  <p class="mt-2 mb-0">ชื่อสินค้า</p>
+  <p class="mb-0 productDataText">• {{ productData.name }}</p>
+  <!-- ! -->
+  <p class="mt-2 mb-0">ประเภทสินค้า</p>
+  <p class="mb-0 productDataText">• {{ productData.tag.tagTH }} / {{ productData.tag.subTagTH }}</p>
+  <!-- ! -->
+  <p class="mt-2 mb-0">ชนิดสินค้า</p>
+  <p *ngIf="productData.type == 'new'" class="mb-0 productDataText">• สินค้าใหม่</p>
+  <p *ngIf="productData.type == 'secondHand'" class="mb-0 productDataText">• สินค้ามือสอง</p>
+  <p *ngIf="productData.type == 'secondHand'" class="mb-0 productDataText">• {{ productData.type2HandPer }}</p>
+  <!-- ! -->
+  <p class="mt-2 mb-0">แบรนด์สินค้า</p>
+  <p class="mb-0 productDataText">• {{ productData.brandName }}</p>
+  <!-- ! -->
+  <p class="mt-2 mb-0">กลุ่มสินค้าของร้าน</p>
+  <p *ngIf="productData.groupProduct == null" class="mb-0 productDataText">• ไม่ได้ระบุกลุ่มสินค้า</p>
+  <p *ngIf="productData.groupProduct != null" class="mb-0 productDataText">• {{ productData.groupProduct }}</p>
+
+  <!-- ! -->
+  <p class="mt-2 mb-0">รายละเอียดสินค้า</p>
+  <div class="productDes">
+    <div [innerHTML]="productData.productDescription"></div>
+  </div>
+  <!-- ! -->
+  <p class="mt-2 mb-0">Keyword สำหรับการค้นหาสินค้า</p>
+  <div class="row ml-0 mr-0">
+    <div class="col-auto p-0 productDataText" *ngFor="let _data of productData.keySearch; let i = index;">
+      <a>{{ _data }}</a><a *ngIf="i+1 != productData.keySearch.length">,</a>
+    </div>
+  </div>
+  <!-- ! -->
+  <p class="mt-2 mb-0">ตัวเลือกสินค้า</p>
+  <div *ngFor="let _dataOp of productData.productOption; let i = index;">
+    <p class="mb-0 productDataText">• ตัวเลือก {{ i+1 }} ({{ _dataOp.optionName }})</p>
+    <!-- NO SUBOPTION -->
+    <div class="row ml-2" *ngIf="_dataOp.subOption.length == 0">
+      <div class="col-6 col-md-4 col-xl-4">
+        <p class="mb-0 productDataText">• {{ _dataOp.optionName }}</p>
+      </div>
+      <div class="col-4 col-md-4 col-xl-4">
+        <a class="mb-0 productDataText mr-2" style="text-decoration: none;">จำนวน</a>
+        <a class="mb-0 productDataText" style="text-decoration: none;">{{ _dataOp.optionNumber }}</a>
+      </div>
+    </div>
+    <!-- END NO SUBOPTION -->
+    <!-- HAVE SUBOPTION -->
+    <div *ngIf="_dataOp.subOption.length != 0">
+      <div class="row ml-2" *ngFor="let _dataSub of _dataOp.subOption">
+        <div class="col-6 col-md-4 col-xl-4">
+          <p class="mb-0 productDataText">• {{ _dataSub.subOption }}</p>
+        </div>
+        <div class="col-4 col-md-4 col-xl-4">
+          <a class="mb-0 productDataText mr-2" style="text-decoration: none;">จำนวน</a>
+          <a class="mb-0 productDataText" style="text-decoration: none;">{{ _dataSub.subOptionNumber }}</a>
+        </div>
+      </div>
+    </div>  
+    <!-- END HAVE SUBOPTION -->
+  </div>
+  <!-- ! -->
+  <!-- src="{{ data.value.imgProduct[0].imgUrl }}" -->
+  <p class="mt-2 mb-0">ภาพสินค้า</p>
+  <div class="row row-img-m" style="margin-top: -8px;">
+    <div class="col-6 col-md-6 col-lg-2 col-img-p mt-2" *ngFor="let _dataImg of productData.imgProduct;">
+      <img data-toggle="modal" data-target="#ModalPopupImg" (click)="popUpImg(_dataImg.imgUrl)" src="{{ _dataImg.imgUrl }}" class="img-fluid border-radius-10" style="cursor: pointer;">
+    </div>
+  </div>
+
+  <!-- AUCTION -->
+  <div *ngIf="productData.salesType == 'auction'">
+    <p class="mt-2 mb-0">ราคาเริ่มประมูล</p>
+    <a class="mb-0 productDataText mr-2" style="text-decoration: none;">• {{ productData.priceData.priceStart }}</a>
+    <a class="mb-0 productDataText" style="text-decoration: none;">บาท</a>
+    <!-- ! -->
+    <p class="mt-2 mb-0">ราคาบิด</p>
+    <a class="mb-0 productDataText mr-2" style="text-decoration: none;">• {{ productData.priceData.priceBid }}</a>
+    <a class="mb-0 productDataText" style="text-decoration: none;">บาท/บิด</a>
+    <!-- ! -->
+    <p class="mt-2 mb-0">ราคา AutoWin</p>
+    <div *ngIf="productData.priceData.priceAutoWin == 0">
+      <a class="mb-0 productDataText" style="text-decoration: none;">ไม่ได้ระบุราคา AutoWin ลูกค้าจะไม่สามารถซื้อสินค้าในราคา AutoWin ได้</a>
+    </div>
+    <div *ngIf="productData.priceData.priceAutoWin != 0">
+      <a class="mb-0 productDataText mr-2" style="text-decoration: none;">• {{ productData.priceData.priceAutoWin }}</a>
+      <a class="mb-0 productDataText" style="text-decoration: none;">บาท</a>
+    </div>
+    <!-- ! -->
+    <p class="mt-2 mb-0">วันที่เริ่มประมูล</p>
+    <a class="mb-0 productDataText mr-2" style="text-decoration: none;">• {{ productData.dateTime.dateTime.seconds*1000 | date: 'd/M/yyyy' }}</a>
+    <a class="mb-0 productDataText" style="text-decoration: none;">{{ productData.dateTime.dateTime.seconds*1000 | date: "HH:mm:ss" }}</a>
+    
+    <!-- <a class="mb-0 productDataText mr-2" style="text-decoration: none;">• {{ productData.dateTime.dateStartBid.year }}/{{ productData.dateTime.dateStartBid.month }}/{{ productData.dateTime.dateStartBid.day }}</a>
+    <a class="mb-0 productDataText" style="text-decoration: none;">{{ productData.dateTime.timeStartBid.hour }}:{{ productData.dateTime.timeStartBid.minute }}</a> -->
+    <p class="mt-2 mb-0">ระยะเวลาประมูล/ชิ้น</p>
+    <!-- <a class="mb-0 productDataText mr-2" style="text-decoration: none;">• {{ productData.dateTime.timeBidAutoComMin }}</a> -->
+    <a class="mb-0 productDataText" style="text-decoration: none;">• {{ productData.dateTime.timeBidCount.hour }}:</a>
+    <a class="mb-0 productDataText" style="text-decoration: none;">{{ productData.dateTime.timeBidCount.minute }}:</a>
+    <a class="mb-0 productDataText" style="text-decoration: none;">{{ productData.dateTime.timeBidCount.second }}</a>
+  </div>
+
+  <!-- FORSALE -->
+  <div *ngIf="productData.salesType == 'setSellingPrice'">
+    <p class="mt-2 mb-0">ตั้งราคาขาย</p>
+    <a class="mb-0 productDataText mr-2" style="text-decoration: none;">• {{ productData.priceData.priceProduct }}</a>
+    <a class="mb-0 productDataText" style="text-decoration: none;">บาท</a>
+  </div>
+
+  <!-- ! -->
+  <p class="mt-2 mb-0">รายละเอียดขนส่ง</p>
+  <div class="row">
+    <div class="col-12" *ngFor="let _dataDeli of productData.priceDelivery">
+      <div *ngIf="_dataDeli.deliveryName != 'handPickUp'">
+        <div class="row">
+          <div class="col-6 col-md-4 col-xl-4">
+            <p class="mb-0 productDataText">• {{ _dataDeli.deliveryName }}</p>
+          </div>
+          <div class="col-4 col-md-4 col-xl-4">
+            <a class="mb-0 productDataText mr-2" style="text-decoration: none;">{{ _dataDeli.priceDeliveryInput }}</a>
+            <a class="mb-0 productDataText" style="text-decoration: none;">บาท</a>
+          </div>
+        </div>
+        <p *ngIf="productData.salesType == 'auction'" class="mb-0 productDataText">• รองรับการเก็บเงินปลายทาง (ราคายังไม่รวมค่าบริการเรียกเก็บเงินปลายทาง)</p>
+        <p *ngIf="productData.salesType == 'setSellingPrice'" class="mb-0 productDataText">• รองรับการเก็บเงินปลายทาง (ราคารวมค่าบริการเรียกเก็บเงินปลายทางแล้ว)</p>
+      </div>
+      <div *ngIf="_dataDeli.deliveryName == 'handPickUp'">
+        <div class="row">
+          <div class="col-12">
+            <p class="mb-0 productDataText">• {{ _dataDeli.deliveryName }}</p>
+          </div>
+          <div class="col-12">
+            <a class="mb-0 productDataText mr-2" style="text-decoration: none;">ประเทศ : {{ _dataDeli.country }}</a>
+          </div>
+          <div class="col-12">
+            <a class="mb-0 productDataText mr-2" style="text-decoration: none;">จังหวัด : {{ _dataDeli.province }}</a>
+          </div>
+          <div class="col-12">
+            <a class="mb-0 productDataText mr-2" style="text-decoration: none;">รายละเอียด : {{ _dataDeli.description }}</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- ! -->
+  <p class="mt-2 mb-0">เตรียมส่งนานกว่าปกติ</p>
+  <p *ngIf="!productData.dateOverForPickUp.status" class="mb-0 productDataText">• ไม่</p>
+  <a *ngIf="productData.dateOverForPickUp.status" class="mb-0 productDataText mr-2">• {{ productData.dateOverForPickUp.dateForPickUp }}</a>
+  <a *ngIf="productData.dateOverForPickUp.status" class="mb-0 productDataText">วัน</a>
+  <!-- ! -->
+  <p class="mt-2 mb-0">สินค้าร่วมบริจาค</p>
+  <p *ngIf="!productData.donate.status" class="mb-0 productDataText">• ไม่</p>
+  <a *ngIf="productData.donate.status" class="mb-0 productDataText mr-2">• {{ productData.donate.shopName }}</a>
+  <a *ngIf="productData.donate.status" class="mb-0 productDataText mr-2">จำนวน</a>
+  <a *ngIf="productData.donate.status" class="mb-0 productDataText mr-2">{{ productData.donate.donatePer }}%</a>
+  <!-- ! -->
+
+  <!-- REAL -->
+  <div class="row row-img-m mt-4" [class.disabled]="productData.productStatus == 'bidding'"> 
+    <div class="col col-img-p"> 
+      <button data-toggle="modal" data-target="#ModalPopupReport" type="button" class="btn text-placeholder text-center btn-edit">แก้ไขสินค้า</button>
+    </div>
+    <div class="col col-img-p"> 
+      <button data-toggle="modal" data-target="#ModalPopupDelete" type="button" class="btn text-placeholder text-center btn-delete">ลบสินค้า</button>
+    </div>
+  </div>
+</div>
+
+<!-- Modal Popup Show Img -->
+<div class="modal fade" id="ModalPopupImg" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img src="{{ imgUrl }}" class="img-fluid border-radius-10">
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal">ตกลง</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Modal Popup Show Img -->
+
+<!-- Modal Popup Sales Type => Auction -->
+<div class="modal fade" id="ModalPopupReport" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+      <p class="text-center">ต้องการแก้ไขข้อมูลสินค้า ?</p>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal" (click)="goToEditProduct()">ตกลง</button>
+        </div>
+        <div class="mt-2">
+          <a data-dismiss="modal" aria-label="Close" style="cursor: pointer;">
+            <p class="text-center">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Modal Sales Type => Auction -->
+
+<!-- Modal Popup Delete -->
+<div class="modal fade" id="ModalPopupDelete" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+      <p class="text-center">ต้องการลบสินค้า ?</p>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal" (click)="deleteProduct()">ตกลง</button>
+        </div>
+        <div class="mt-2">
+          <a data-dismiss="modal" aria-label="Close" style="cursor: pointer;">
+            <p class="text-center">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Modal Popup Delete -->
+
+<!-- Modal Popup Copy -->
+<div class="modal fade" id="ModalPopupCopy" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+      <p class="text-center">คัดลอกรหัสสินค้าเรียบร้อย</p>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal">ตกลง</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Modal Popup Copy -->
+

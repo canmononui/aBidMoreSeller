@@ -1,0 +1,149 @@
+<div class="modal fade" id="modalSideBar" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel"
+style="display: none;" aria-hidden="true">
+<div class="modal-dialog modal-bottom">
+  <div class="modal-content p-3" style="background-color: #373A3C;">
+    <div class="text-right justify-content-center">
+      <button type="button" class="close text-white" data-dismiss="modal" aria-label="Close">
+        <span aria-hidden="true" style="font-size: 2.3rem;">×</span>
+      </button>
+    </div>
+    <div class="modal-body p-0">
+      <div class="text-center mt-3">
+        <img class="align-self-center" src="./assets/img/WebsiteLogo-hourglass-B-Edit2_MoreBubble_shadow.png" width="40"
+          height="40">
+        <p class="mb-0 text-white">Merchant Center</p>
+      </div>
+      <div class="row mt-4 router" [class.disabled]="!auth.authenticated || disabledLink || !checkStatus" [routerLink]="['/add-product']" data-dismiss="modal" aria-label="Close">
+        <div class="col-auto pr-0">
+          <img class="align-self-center" src="./assets/img/sidebar/sidebar-svg/1.svg" width="30" height="30">
+        </div>
+        <div class="col pl-2">
+          <p class="mb-0" [class.text-active]="path.addProductPath" [class.text-white]="!path.addProductPath">ลงสินค้า</p>
+        </div>
+      </div>
+        <div class="row mt-2 router" [class.disabled]="!auth.authenticated || disabledLink || !checkStatus" [routerLink]="['/product-list']" data-dismiss="modal" aria-label="Close">
+          <div class="col-auto pr-0">
+            <img class="align-self-center" src="./assets/img/sidebar/sidebar-svg/2.svg" width="30" height="30">
+          </div>
+          <div class="col pl-2">
+            <p class="mb-0" [class.text-active]="path.productListPath" [class.text-white]="!path.productListPath">รายการสินค้า</p>
+          </div>
+        </div>
+      <!-- </div> -->
+      <div class="row mt-2 router" [class.disabled]="!auth.authenticated || disabledLink || !checkStatus" [routerLink]="['/shipped-list']" data-dismiss="modal" aria-label="Close">
+        <div class="col-auto pr-0">
+          <img class="align-self-center" src="./assets/img/sidebar/sidebar-svg/3.svg" width="30" height="30">
+        </div>
+        <div class="col pl-2">
+          <a class="mb-0" style="text-decoration: none;" [class.text-active]="path.shippedListPath" [class.text-white]="!path.shippedListPath">สินค้าที่ต้องส่ง</a>
+          <a *ngIf="countWaitingForDelivery != '0' && auth.authenticated && !disabledLink" class="badge badge-pill ml-2" style="padding: .3em .8em; color: #FFF; background-color: #E54040;">
+            {{ countWaitingForDelivery }}
+          </a>
+        </div>
+      </div>
+      <div class="row mt-2 router" [class.disabled]="!auth.authenticated || disabledLink || !checkStatus" [routerLink]="['/shipping-list']" data-dismiss="modal" aria-label="Close">
+        <div class="col-auto pr-0">
+          <img class="align-self-center" src="./assets/img/sidebar/sidebar-svg/4.svg" width="30" height="30">
+        </div>
+        <div class="col pl-2">
+          <p class="mb-0" [class.text-active]="path.shippingListPath" [class.text-white]="!path.shippingListPath">สินค้าอยู่ระหว่างส่ง</p>
+        </div>
+      </div>
+      <div class="row mt-2 router" [class.disabled]="!auth.authenticated || disabledLink || !checkStatus" [routerLink]="['/shipped-success-list']" data-dismiss="modal" aria-label="Close">
+        <div class="col-auto pr-0">
+          <img class="align-self-center" src="./assets/img/sidebar/sidebar-svg/5.svg" width="30" height="30">
+        </div>
+        <div class="col pl-2">
+          <a class="mb-0" style="text-decoration: none;" [class.text-active]="path.shippedSuccessListPath" [class.text-white]="!path.shippedSuccessListPath">สินค้ารอการยอมรับ</a>
+          <a *ngIf="countShippedSuccess != '0' && auth.authenticated && !disabledLink" class="badge badge-pill ml-2" style="padding: .3em .8em; color: #FFF; background-color: #E54040;">
+            {{ countShippedSuccess }}
+          </a>
+        </div>
+      </div>
+      <div class="row mt-2 router" [class.disabled]="!auth.authenticated || disabledLink || !checkStatus" [routerLink]="['/return-products-list']" data-dismiss="modal" aria-label="Close">
+        <div class="col-auto pr-0">
+          <img class="align-self-center" src="./assets/img/sidebar/sidebar-svg/6.svg" width="30" height="30">
+        </div>
+        <div class="col pl-2">
+          <a class="mb-0" style="text-decoration: none;" [class.text-active]="path.returnProductsPath" [class.text-white]="!path.returnProductsPath">คืนสินค้า</a>
+          <a *ngIf="countReturnProduct != '0' && auth.authenticated && !disabledLink" class="badge badge-pill ml-2" style="padding: .3em .8em; color: #FFF; background-color: #E54040;">
+            {{ countReturnProduct }}
+          </a>
+        </div>
+      </div>
+      <div class="row mt-2 router" [class.disabled]="!auth.authenticated || disabledLink || !checkStatus" [routerLink]="['/sale-success-list']" data-dismiss="modal" aria-label="Close">
+        <div class="col-auto pr-0">
+          <img class="align-self-center" src="./assets/img/sidebar/sidebar-svg/7.svg" width="30" height="30">
+        </div>
+        <div class="col pl-2">
+          <p class="mb-0" [class.text-active]="path.saleSuccessListPath" [class.text-white]="!path.saleSuccessListPath">ขายสำเร็จ</p>
+        </div>
+      </div>
+      <div class="row mt-2 router" [class.disabled]="!auth.authenticated || disabledLink || !checkStatus" [routerLink]="['/review-list']" data-dismiss="modal" aria-label="Close">
+        <div class="col-auto pr-0">
+          <img class="align-self-center" src="./assets/img/sidebar/sidebar-svg/8.svg" width="30" height="30">
+        </div>
+        <div class="col pl-2">
+          <p class="mb-0" [class.text-active]="path.reviewListPath" [class.text-white]="!path.reviewListPath">การรีวิว</p>
+        </div>
+      </div>
+      <div class="row mt-2 router" [class.disabled]="!auth.authenticated || disabledLink || !checkStatus" [routerLink]="['/group-product-list']" data-dismiss="modal" aria-label="Close">
+        <div class="col-auto pr-0">
+          <img class="align-self-center" src="./assets/img/sidebar/sidebar-svg/9.svg" width="30" height="30">
+        </div>
+        <div class="col pl-2">
+          <p class="mb-0" [class.text-active]="path.groupProductListPath" [class.text-white]="!path.groupProductListPath">กลุ่มสินค้าของร้าน</p>
+        </div>
+      </div>
+      <div class="row mt-2 router" [class.disabled]="!auth.authenticated || disabledLink || !checkStatus" [routerLink]="['/sales-statistics-summary']"  data-dismiss="modal" aria-label="Close">
+        <div class="col-auto pr-0">
+          <img class="align-self-center" src="./assets/img/sidebar/sidebar-svg/10.svg" width="30" height="30">
+        </div>
+        <div class="col pl-2">
+          <p class="mb-0" [class.text-active]="path.salesStatisticsPath" [class.text-white]="!path.salesStatisticsPath">สถิติการขาย</p>
+        </div>
+      </div>
+      <div class="row mt-2 router" [class.disabled]="!auth.authenticated || disabledLink || !checkStatus" [routerLink]="['/finance-summary']" data-dismiss="modal" aria-label="Close">
+        <div class="col-auto pr-0">
+          <img class="align-self-center" src="./assets/img/sidebar/sidebar-svg/11.svg" width="30" height="30">
+        </div>
+        <div class="col pl-2">
+          <p class="mb-0" [class.text-active]="path.financeSummaryPath" [class.text-white]="!path.financeSummaryPath">การเงิน</p>
+        </div>
+      </div>
+      <div class="row mt-2 router disabled" [routerLink]="['/support-buy-banner']" data-dismiss="modal" aria-label="Close">
+        <div class="col-auto pr-0">
+          <img class="align-self-center" src="./assets/img/sidebar/sidebar-svg/12.svg" width="30" height="30">
+        </div>
+        <div class="col pl-2">
+          <p class="mb-0" [class.text-active]="path.supportPath" [class.text-white]="!path.supportPath">การสนับสนุน</p>
+        </div>
+      </div>
+      <div class="row mt-2 router" [class.disabled]="!auth.authenticated || disabledLink" [routerLink]="['/profile-settings']" data-dismiss="modal" aria-label="Close">
+        <div class="col-auto pr-0">
+          <img class="align-self-center" src="./assets/img/sidebar/sidebar-svg/13.svg" width="30" height="30">
+        </div>
+        <div class="col pl-2">
+          <p class="mb-0" [class.text-active]="path.profileSettingsPath" [class.text-white]="!path.profileSettingsPath">ตั้งค่าบัญชี</p>
+        </div>
+      </div>
+      <div class="row mt-2 router" [class.disabled]="!auth.authenticated || disabledLink || !checkStatus" [routerLink]="['/help-center-list']" data-dismiss="modal" aria-label="Close">
+        <div class="col-auto pr-0">
+          <img class="align-self-center" src="./assets/img/sidebar/sidebar-svg/14.svg" width="30" height="30">
+        </div>
+        <div class="col pl-2">
+          <p class="mb-0" [class.text-active]="path.helpCenterPath" [class.text-white]="!path.helpCenterPath">ศูนย์ช่วยเหลือ</p>
+        </div>
+      </div>
+      <div class="row mt-2 router" [class.disabled]="!auth.authenticated || disabledLink || !checkStatus" [routerLink]="['/contact-admin']" data-dismiss="modal" aria-label="Close">
+        <div class="col-auto pr-0">
+          <img class="align-self-center" src="./assets/img/sidebar/sidebar-svg/15.svg" width="30" height="30">
+        </div>
+        <div class="col pl-2">
+          <p class="mb-0" [class.text-active]="path.contactAdminPath" [class.text-white]="!path.contactAdminPath">ติดต่อเจ้าหน้าที่</p>
+        </div>
+      </div>
+  </div>
+</div>
+</div>
+</div>

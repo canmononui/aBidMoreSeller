@@ -1,0 +1,780 @@
+<!-- SHOW ERROR LOGIN -->
+<div [hidden]="!showContent">
+  <!-- INFO -->
+  <div [hidden]="!showInfo">    
+    <div class="row row-right">
+      <div class="col-auto">
+        <h2 class="mb-0 text-15">ข้อมูล (1/8)</h2>
+      </div>
+    </div>
+    <p class="mb-0 text-dark">ชื่อ-นามสกุลผู้สมัคร (ตามบัตรประชาชน)</p>
+    <div class="input-style mt-2">
+      <p class="mb-0 text-input">ชื่อ</p>
+      <input class="form-control border-0 p-0 text-placeholder" maxlength="100"
+        style="box-shadow: none; background-color: #F2F6FA;" #name_ [value]="name" placeholder="ชื่อจริง">
+    </div>
+    <div class="input-style mt-2">
+      <p class="mb-0 text-input">นามสกุล</p>
+      <input class="form-control border-0 p-0 text-placeholder" maxlength="100"
+        style="box-shadow: none; background-color: #F2F6FA;" #lastName_ [value]="lastName" placeholder="นามสกุล">
+    </div>
+    <div class="input-style mt-2 mb-2" [class.disabled]="phoneNumber != ''">
+      <p class="mb-0 text-input">หมายเลขโทรศัพท์ (เพื่อขอรหัส OTP)</p>
+      <input class="form-control border-0 p-0 text-placeholder" style="box-shadow: none; background-color: #F2F6FA;"
+        #phoneNumber_ [value]="phoneNumber" oninput="this.value=this.value.replace(/[^0-9]/g,'');" maxlength="10"
+        placeholder="xxxxxxxxxx">
+    </div>
+    <div id="recaptcha-container"></div>
+    <!-- BUTTON SUBMIT -->
+    <div *ngIf="phoneNumber == ''">
+      <button (click)="goToShopDetails(name_.value, lastName_.value, phoneNumber_.value)" type="button"
+      class="btn mt-3 btn-submit" data-toggle="modal" data-target="#ModalPopupOTP" data-backdrop="static"
+      data-keyboard="false">
+      ขอรหัส OTP
+    </button>
+    </div>
+    <div *ngIf="phoneNumber != ''">
+      <button (click)="goToShopDetails_(name_.value, lastName_.value)" type="button" class="btn mt-3 btn-submit">
+        ถัดไป
+      </button>
+    </div>
+  </div>
+  <!-- END INFO -->
+
+  <!-- INPUT SHOP DETAILS -->
+  <div *ngIf="showShopDetails">
+    <div class="row row-right">
+      <div class="col-auto">
+        <h2 class="mb-0 text-15">รายละเอียดร้าน (2/8)</h2>
+      </div>
+      <div class="col align-self-center text-right">
+        <a (click)="backWardToInfo()" class="backWard-text">
+          <i class="fa fa-angle-left mr-2"></i>ย้อนกลับ
+        </a>
+      </div>
+    </div>
+    <p class="mb-0 text-dark">ใช้เพื่อการอนุมัติร้าน สามารถแก้ไขข้อมูลได้ภายหลัง</p>
+    <div class="input-style mt-2">
+      <p class="mb-0 text-input" [class.text-danger]="shopNameInput_ == 30">ชื่อร้านค้า (ภาษาอังกฤษ) ({{ shopNameInput_ }}/30)</p>
+      <input (keyup)='shopNameInput($event)'
+        onkeypress="return (event.charCode >= 48 && event.charCode <= 57) || (event.charCode >= 65 && event.charCode <= 90) || (event.charCode >= 97 && event.charCode <= 122)"
+        class="form-control border-0 p-0 text-placeholder" maxlength="30"
+        style="box-shadow: none; background-color: #F2F6FA;" #shopName_ [value]="shopName" placeholder="ชื่อร้านค้า">
+    </div>
+    <div class="input-style mt-2">
+      <p class="mb-0 text-input">สินค้าที่ลงขาย (ประเภท,ชื่อ)</p>
+      <textarea class="form-control border-0 p-0 text-placeholder" maxlength="100"
+        style="box-shadow: none; background-color: #F2F6FA;" #shopDescription_ [value]="shopDescription"
+        placeholder="รายละเอียด"></textarea>
+    </div>
+    <p class="mt-2 mb-0 text-danger">{{ errorText3 }}</p>
+    <!-- BUTTON SUBMIT -->
+    <button (click)="goToProfileImg(shopName_.value, shopDescription_.value)" type="button" class="btn mt-3 btn-submit">
+      ถัดไป
+    </button>
+  </div>
+
+  <!-- INPUT SHOP DETAILS -->
+  <div *ngIf="showProfileImg">
+    <div class="row row-right">
+      <div class="col-auto">
+        <h2 class="mb-0 text-15">รูปโปรไฟล์ร้านค้า (3/8)</h2>
+      </div>
+      <div class="col align-self-center text-right">
+        <a (click)="backWardToShopDetails()" class="backWard-text">
+          <i class="fa fa-angle-left mr-2"></i>ย้อนกลับ
+        </a>
+      </div>
+    </div>
+    <div class="input-style">
+      <div class="row">
+        <div class="col-auto pr-0 align-self-center">
+          <p class="mb-0">สามารถเพิ่มรูปโปรไฟล์ร้านค้าได้ในภายหลัง</p>
+        </div>
+        <div class="col-auto">
+          <button type="button" class="btn text-center btn-edit" data-toggle="modal"
+            data-target="#ModalAddShopImg">เพิ่ม</button>
+        </div>
+      </div>
+      <img class="rounded-circle mt-1" style="width: 150px; height: 150px;"
+        src="{{ this.userSeller.profileImg.imgUrl }}">
+    </div>
+    <!-- BUTTON SUBMIT -->
+    <div class="text-center mb-2">
+      <button data-toggle="modal" type="button" class="btn mt-2 text-center btn-submit" (click)="goToCoverImg()">ถัดไป
+      </button>
+    </div>
+  </div>
+  <!-- END INPUT PROFILE IMG -->
+
+  <!-- INPUT COVER IMG -->
+  <div *ngIf="showCoverImg">
+    <div class="row row-right">
+      <div class="col-auto">
+        <h2 class="mb-0 text-15">รูปปกร้านค้า (4/8)</h2>
+      </div>
+      <div class="col align-self-center text-right">
+        <a (click)="backWardToProfileImg()" class="backWard-text">
+          <i class="fa fa-angle-left mr-2"></i>ย้อนกลับ
+        </a>
+      </div>
+    </div>
+    <div class="input-style">
+      <div class="row">
+        <div class="col-auto pr-0 align-self-center">
+          <p class="mb-0">สามารถเพิ่มรูปปกร้านค้าได้ในภายหลัง</p>
+        </div>
+        <div class="col-auto">
+          <button type="button" class="btn text-center btn-edit" data-toggle="modal"
+            data-target="#ModalAddCoverImg">เพิ่ม</button>
+        </div>
+      </div>
+      <img class="img-fluid mt-1 w-100" style="border-radius: 10px;" src="{{ this.userSeller.coverImg.imgUrl }}">
+    </div>
+    <!-- BUTTON SUBMIT -->
+    <div class="text-center mb-2">
+      <button data-toggle="modal" type="button" class="btn mt-2 text-center btn-submit" (click)="goToShopAddress()">ถัดไป
+      </button>
+    </div>
+  </div>
+  <!-- END INPUT COVER IMG -->
+
+  <!-- INPUT ADDRESS -->
+  <div *ngIf="showAddress">
+    <div class="row row-right">
+      <div class="col-auto">
+        <h2 class="mb-0 text-15">ที่อยู่ร้าน (5/8)</h2>
+      </div>
+      <div class="col align-self-center text-right">
+        <a (click)="backWardToCoverImg()" class="backWard-text">
+          <i class="fa fa-angle-left mr-2"></i>ย้อนกลับ
+        </a>
+      </div>
+    </div>
+    <p class="mb-0 text-dark">ชื่อที่อยู่ร้าน (ใช้ในการติดต่อหรือกรณีการส่งคืนสินค้าสามารถเปลี่ยนได้ภายหลัง)</p>
+    <div class="input-style mt-2">
+      <p class="mb-0 text-input">ชื่อ*</p>
+      <input class="form-control border-0 p-0 text-placeholder" maxlength="100"
+        style="box-shadow: none; background-color: #F2F6FA;" #addName_ [value]="dataAddress.name"
+        placeholder="ชื่อจริง">
+    </div>
+    <div class="input-style mt-2">
+      <p class="mb-0 text-input">นามสกุล*</p>
+      <input class="form-control border-0 p-0 text-placeholder" maxlength="100"
+        style="box-shadow: none; background-color: #F2F6FA;" #addLastName_ [value]="dataAddress.lastName"
+        placeholder="นามสกุล">
+    </div>
+    <div class="input-style mt-2">
+      <p class="mb-0 text-input">หมายเลขโทรศัพท์*</p>
+      <input class="form-control border-0 p-0 text-placeholder" maxlength="10"
+        oninput="this.value=this.value.replace(/[^0-9]/g,'');" style="box-shadow: none; background-color: #F2F6FA;"
+        #addPhone_ [value]="dataAddress.phone" placeholder="xxxxxxxxxx">
+    </div>
+    <div class="input-style mt-2">
+      <p class="mb-0 text-input">บ้านเลขที่*</p>
+      <input class="form-control border-0 p-0 text-placeholder" maxlength="100"
+        style="box-shadow: none; background-color: #F2F6FA;" #addNumber_ [value]="dataAddress.number"
+        placeholder="ข้อความ">
+    </div>
+    <div class="input-style mt-2">
+      <p class="mb-0 text-input">หมู่ที่</p>
+      <input class="form-control border-0 p-0 text-placeholder" maxlength="100"
+        style="box-shadow: none; background-color: #F2F6FA;" #addMoo_ [value]="dataAddress.moo" placeholder="ข้อความ">
+    </div>
+    <div class="input-style mt-2">
+      <p class="mb-0 text-input">หมู่บ้าน / อาคาร / ชั้น</p>
+      <input class="form-control border-0 p-0 text-placeholder" maxlength="100"
+        style="box-shadow: none; background-color: #F2F6FA;" #addVillage_ [value]="dataAddress.village"
+        placeholder="ข้อความ">
+    </div>
+    <div class="input-style mt-2">
+      <p class="mb-0 text-input">ตรอก / ซอย</p>
+      <input class="form-control border-0 p-0 text-placeholder" maxlength="100"
+        style="box-shadow: none; background-color: #F2F6FA;" #addLane_ [value]="dataAddress.lane" placeholder="ข้อความ">
+    </div>
+    <div class="input-style mt-2">
+      <p class="mb-0 text-input">ถนน</p>
+      <input class="form-control border-0 p-0 text-placeholder" maxlength="100"
+        style="box-shadow: none; background-color: #F2F6FA;" #addRoad_ [value]="dataAddress.road" placeholder="ข้อความ">
+    </div>
+    <div class="input-style mt-2">
+      <p class="mb-0 text-input">ตำบล / แขวง*</p>
+      <input class="form-control border-0 p-0 text-placeholder" maxlength="100"
+        style="box-shadow: none; background-color: #F2F6FA;" #addSubDistrict_ (keyup)='districtInput($event)'
+        [value]="dataAddress.subDistrict" placeholder="ข้อความ">
+    </div>
+    <div *ngIf="addDisJSON.length != 0" id="matchList">
+      <div *ngFor="let data of addDisJSON">
+        <a (click)="selectAddress(data)" class="dropdown-item">{{ data.district }} / {{ data.amphoe }} / {{
+          data.province }} / {{ data.zipcode }}</a>
+      </div>
+    </div>
+    <div class="input-style mt-2">
+      <p class="mb-0 text-input">อำเภอ / เขต*</p>
+      <input class="form-control border-0 p-0 text-placeholder" maxlength="100"
+        style="box-shadow: none; background-color: #F2F6FA;" #addDistrict_ (keyup)='amphoeInput($event)'
+        [value]="dataAddress.district" placeholder="ข้อความ">
+    </div>
+    <div *ngIf="addAmphoeJSON.length != 0" id="matchList">
+      <div *ngFor="let data of addAmphoeJSON">
+        <a (click)="selectAddress(data)" class="dropdown-item">{{ data.district }} / {{ data.amphoe }} / {{
+          data.province }} / {{ data.zipcode }}</a>
+      </div>
+    </div>
+    <div class="input-style mt-2">
+      <p class="mb-0 text-input">จังหวัด*</p>
+      <input class="form-control border-0 p-0 text-placeholder" maxlength="100"
+        style="box-shadow: none; background-color: #F2F6FA;" #addProvince_ (keyup)='provinceInput($event)'
+        [value]="dataAddress.province" placeholder="ข้อความ">
+    </div>
+    <div *ngIf="addProvinceJSON.length != 0" id="matchList">
+      <div *ngFor="let data of addProvinceJSON">
+        <a (click)="selectAddress(data)" class="dropdown-item">{{ data.district }} / {{ data.amphoe }} / {{
+          data.province }} / {{ data.zipcode }}</a>
+      </div>
+    </div>
+    <div class="input-style mt-2">
+      <p class="mb-0 text-input">รหัสไปรษณีย์*</p>
+      <input class="form-control border-0 p-0 text-placeholder" maxlength="10"
+        style="box-shadow: none; background-color: #F2F6FA;" #addPostalCode_ (keyup)='zipcodeInput($event)'
+        [value]="dataAddress.postalCode" placeholder="ข้อความ">
+    </div>
+    <div *ngIf="addZipcodeJSON.length != 0" id="matchList">
+      <div *ngFor="let data of addZipcodeJSON">
+        <a (click)="selectAddress(data)" class="dropdown-item">{{ data.district }} / {{ data.amphoe }} / {{
+          data.province }} / {{ data.zipcode }}</a>
+      </div>
+    </div>
+    <p class="mt-2 mb-0 text-danger">{{ errorText4 }}</p>
+    <!-- BUTTON SUBMIT -->
+    <button
+      (click)="goToRefCode(addName_.value, addLastName_.value, addPhone_.value, addNumber_.value, addMoo_.value, addVillage_.value, addLane_.value, addRoad_.value, addSubDistrict_.value, addDistrict_.value, addProvince_.value, addPostalCode_.value)"
+      type="button" class="btn mt-3 mb-2 btnAdd-mb-sm btn-submit">
+      ถัดไป
+    </button>
+  </div>
+  <!-- END INPUT ADDRESS -->
+
+  <!-- INPUT REF CODE -->
+  <div *ngIf="showRefCode">
+    <div class="row row-right">
+      <div class="col-auto">
+        <h2 class="mb-0 text-15">รหัสแนะนำสามารถเพิ่มได้ในภายหลัง (6/8)</h2>
+      </div>
+      <div class="col align-self-center text-right">
+        <a (click)="backWardToAddress()" class="backWard-text">
+          <i class="fa fa-angle-left mr-2"></i>ย้อนกลับ
+        </a>
+      </div>
+    </div>
+    <p class="mb-0 text-dark">กรุณาเพิ่มรหัสแนะนำเพื่อรับสิทธิประโยชน์พิเศษ</p>
+    <div class="input-style mt-2">
+      <p class="mb-0 text-input">รหัสแนะนำ</p>
+      <input class="form-control border-0 p-0 text-placeholder" [class.disabled]="refCodeCheck" style="box-shadow: none; background-color: #F2F6FA;"
+        #refCode_ [value]="refCode" placeholder="ตัวอย่างรหัส AB1621859416">
+    </div>
+    <p class="mt-2 mb-0 text-danger">{{ errorText5 }}</p>
+    <!-- BUTTON SUBMIT -->
+    <button (click)="goToDocument(refCode_.value)" type="button" class="btn mt-3 btn-submit">
+      ถัดไป
+    </button>
+  </div>
+  <!-- END INPUT REF CODE -->
+
+  <!-- INPUT DOCUMENT -->
+  <div *ngIf="showDocument">
+    <div class="row row-right">
+      <div class="col-auto">
+        <h2 class="mb-0 text-15">เอกสาร (7/8)</h2>
+      </div>
+      <div class="col align-self-center text-right">
+        <a (click)="backWardToRefcode()" class="backWard-text">
+          <i class="fa fa-angle-left mr-2"></i>ย้อนกลับ
+        </a>
+      </div>
+    </div>
+    <!-- DROPDOWN -->
+    <div class="dropdown">
+      <div class="input-style mt-2" style="cursor: pointer;" data-toggle="dropdown" aria-haspopup="true"
+        aria-expanded="false">
+        <p class="mb-0 text-input">ประเภท</p>
+        <div style="box-shadow: none; background-color: #FFF; border-radius: 5px; padding: 6px 12px 6px 16px;">
+          <div class="row">
+            <div class="col-10 pr-0">
+              <p class="mb-0 text-placeholder">{{ text_type_place_company }}</p>
+            </div>
+            <div class="col-2 pl-0 text-right">
+              <p class="mb-0 dropdown-toggle"></p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <ul class="dropdown-menu pt-2 pb-2 pl-3 pr-3" role="menu">
+        <li><a (click)="selectIndividual()" class="dropdown-menu-text"
+            style="cursor: pointer;">บุคคลธรรมดา</a></li>
+        <li><a (click)="selectCorporation()" class="dropdown-menu-text"
+            style="cursor: pointer;">นิติบุคคล/บริษัท</a></li>
+      </ul>
+    </div>
+    <!-- END DROPDOWN -->
+    <div class="mt-2" *ngIf="showIndividual">
+      <p class="mb-0">1. บัตรประชาชน</p>
+      <p class="mb-0" style="font-size: .9rem;">• สำเนาพร้อมลงนามยืนยันความถูกต้อง</p>
+      <div class="row">
+        <div class="col-12 align-self-center pr-0">
+          <p class="mb-0">{{ printidCard }}</p>
+        </div>
+        <div class="col-12">
+          <label class="btn btn-up">อัพรูปภาพบัตรประชาชน (png,jpg)
+            <input type="file" accept="image/png, image/jpeg" style="display: none;"
+              (change)="uploadidCardIndividual($event)">
+          </label>
+        </div>
+      </div>
+    </div>
+    <div class="mt-2" *ngIf="showCorporation">
+      <p class="mb-0">1. บัตรประชาชน</p>
+      <p class="mb-0" style="font-size: .9rem;">• สำเนาพร้อมลงนามยืนยันความถูกต้อง</p>
+      <div class="row">
+          <div class="col-12 align-self-center pr-0" *ngFor="let data of idCardCorporation">
+            <a class="mr-4 text-dark font-weight-bold" style="cursor: pointer; text-decoration: none;"
+              (click)="removeidCardCorporation(data)">ลบ</a>
+            <a class="mb-0 text-dark" style="text-decoration: none;">{{ data.FileName }}</a>
+          </div>
+        <div class="col-12">
+          <label class="btn btn-up">อัพรูปภาพบัตรประชาชน (png,jpg)
+            <input type="file" accept="image/png, image/jpeg" style="display: none;"
+              (change)="uploadidCardCorporation($event)">
+          </label>
+        </div>
+      </div>
+    </div>
+    <div class="mt-2" *ngIf="showIndividual">
+      <p class="mb-0">2. ทะเบียนบ้าน</p>
+      <p class="mb-0" style="font-size: .9rem;">• สำเนาพร้อมลงนามยืนยันความถูกต้อง</p>
+      <div class="row">
+        <div class="col-12 align-self-center pr-0">
+          <p class="mb-0">{{ printhouseRegis }}</p>
+        </div>
+        <div class="col-12">
+          <label class="btn btn-up">อัพรูปภาพทะเบียนบ้าน (png,jpg)
+            <input type="file" accept="image/png, image/jpeg" style="display: none;"
+              (change)="uploadhouseRegis($event)">
+          </label>
+        </div>
+      </div>
+    </div>
+    <div class="mt-2" *ngIf="showCorporation">
+      <p class="mb-0">2. หนังสือรับรองนิติบุคคล</p>
+      <p class="mb-0" style="font-size: .9rem;">• สำเนาหนังสือรับรองนิติบุคคล 2 หน้าแรก (DBD)</p>
+      <div class="row">
+        <div class="col-12 align-self-center pr-0">
+          <p class="mb-0">{{ printdbdFile }}</p>
+        </div>
+        <div class="col-12">
+          <label class="btn btn-up">อัพรูปภาพหนังสือรับรองนิติบุคคล (pdf)
+            <input type="file" accept="application/pdf" style="display: none;"
+              (change)="uploadDBDFile($event)">
+          </label>
+        </div>
+      </div>
+    </div>
+    <div class="mt-2">
+      <p class="mb-0">3. หน้าสมุดบัญชี</p>
+      <!-- DROPDOWN BANK -->
+      <div class="dropdown">
+        <div class="input-style mt-2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          <p class="mb-0 text-input">ธนาคาร</p>
+          <div style="box-shadow: none; background-color: #FFF; border-radius: 5px; padding: 6px 12px 6px 16px;">
+            <div class="row">
+              <div class="col-10 pr-0">
+                <p class="mb-0 text-placeholder">{{ placeholderBank }}</p>
+              </div>
+              <div class="col-2 pl-0 text-right">
+                <p class="mb-0 dropdown-toggle"></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="dropdown-menu scrollable-menu">
+          <a class="dropdown-item" (click)="selectBank('BAY', 'ธ.กรุงศรีอุธยา', 'ธ.กรุงศรีอุธยา จำกัด (มหาชน)')">ธ.กรุงศรีอุธยา จำกัด (มหาชน)</a>
+          <a class="dropdown-item" (click)="selectBank('BBL', 'ธ.กรุงเทพ', 'ธ.กรุงเทพ จำกัด (มหาชน)')">ธ.กรุงเทพ จำกัด (มหาชน)</a>
+          <a class="dropdown-item" (click)="selectBank('KTB', 'ธ.กรุงไทย', 'ธ.กรุงไทย จำกัด (มหาชน)')">ธ.กรุงไทย จำกัด (มหาชน)</a>
+          <a class="dropdown-item" (click)="selectBank('KBANK', 'ธ.กสิกรไทย', 'ธ.กสิกรไทย จำกัด (มหาชน)')">ธ.กสิกรไทย จำกัด (มหาชน)</a>
+          <a class="dropdown-item" (click)="selectBank('SCB', 'ธ.ไทยพาณิชย์', 'ธ.ไทยพาณิชย์ จำกัด (มหาชน)')">ธ.ไทยพาณิชย์ จำกัด (มหาชน)</a>
+          <!-- <a class="dropdown-item" (click)="selectBank('TMB', 'ธ.ทหารไทย', 'ธ.ทหารไทย จำกัด (มหาชน)')">ธ.ทหารไทย จำกัด (มหาชน)</a> -->
+          <!-- <a class="dropdown-item" (click)="selectBank('TBANK', 'ธ.ธนชาต', 'ธ.ธนชาต จำกัด (มหาชน)')">ธ.ธนชาต จำกัด (มหาชน)</a> -->
+        </div>
+      </div>
+      <!-- BANK NUMBER -->
+      <div class="input-style mt-2">
+        <p class="mb-0 text-input">เลขที่บัญชี (โดยไม่เว้นวรรคและไม่มีเครื่องหมาย '-')</p>
+        <input maxlength="100"
+          class="form-control border-0 pl-3 text-placeholder bg-input-white" 
+          #bankNumber_ [value]="bankNumber" oninput="this.value=this.value.replace(/[^0-9]/g,'');" placeholder="xxxxxxxxxx">
+      </div>
+      <!-- BANK BRANCH -->
+      <div class="input-style mt-2">
+        <p class="mb-0 text-input" style="cursor: pointer;" data-toggle="modal" data-target="#ModalPopupBankBranch">เลขที่สาขา 
+          <i class="fa fa-question-circle" aria-hidden="true"></i>
+        </p>
+        <input maxlength="20"
+          class="form-control border-0 pl-3 text-placeholder bg-input-white" 
+          #bankBranch_ [value]="bankBranch" oninput="this.value=this.value.replace(/[^0-9]/g,'');" placeholder="xxxx">
+      </div>
+      <!-- ACCOUNT NAME -->
+      <div class="input-style mt-2">
+        <p class="mb-0 text-input">ชื่อบัญชี</p>
+        <input maxlength="100"
+          class="form-control border-0 pl-3 text-placeholder bg-input-white" 
+          #accountName_ [value]="accountName" placeholder="ชื่อบัญชี">
+      </div>
+      <!-- BOOK BANK FILE -->
+      <p class="mt-1 mb-0" style="font-size: .9rem;">• สำเนาพร้อมลงนามยืนยันความถูกต้อง</p>
+      <div class="row">
+        <div class="col-12 align-self-center pr-0">
+          <p class="mb-0">{{ printbookBank }}</p>
+        </div>
+        <div class="col-12">
+          <label class="btn btn-up">อัพรูปภาพหน้าสมุดบัญชี (png,jpg)
+            <input type="file" accept="image/png, image/jpeg" style="display: none;"
+              (change)="uploadbookBank($event)">
+          </label>
+        </div>
+      </div>
+    </div>
+    <div class="mt-2">
+      <p class="mb-0">4. ทะเบียนภาษีมูลค่าเพิ่ม (ถ้ามี)</p>
+      <p class="mb-0" style="font-size: .9rem;">• สำเนาพร้อมลงนามยืนยันความถูกต้อง</p>
+      <div class="row">
+        <div class="col-12 align-self-center pr-0">
+          <p class="mb-0">{{ printvatRegis }}</p>
+        </div>
+        <div class="col-12">
+          <label class="btn btn-up">อัพรูปภาพทะเบียนภาษีมูลค่าเพิ่ม (png,jpg)
+            <input type="file" accept="image/png, image/jpeg" style="display: none;"
+              (change)="uploadvatRegis($event)">
+          </label>
+        </div>
+      </div>
+    </div>
+    <p class="mt-2 mb-0 text-danger">{{ errorText6 }}</p>
+    <!-- BUTTON SUBMIT -->
+    <button (click)="goToCondition(bankNumber_.value, bankBranch_.value, accountName_.value)" type="button" class="btn mt-3 btn-submit">
+      ถัดไป
+    </button>
+  </div>
+  <!-- END INPUT DOCUMENT -->
+
+  <!-- INPUT CONDITION -->
+  <div *ngIf="showCondition">
+    <div class="row row-right">
+      <div class="col-auto">
+        <h2 class="mb-0">เงื่อนไข (8/8)</h2>
+      </div>
+      <div class="col align-self-center text-right">
+        <a (click)="backWardToDocument()" class="backWard-text">
+          <i class="fa fa-angle-left mr-2"></i>ย้อนกลับ
+        </a>
+      </div>
+    </div>
+    <!-- HTML TAG CONTRACT -->
+    <div *ngIf="contract != undefined" class="input-style contract mt-2" [innerHTML]="contract.html"></div>
+    <!-- DOWNLOAD FILE -->
+    <div class="input-style mt-2">
+      <a class="row" style="color: #343a40; text-decoration: none;"
+      href="https://firebasestorage.googleapis.com/v0/b/abidmore-seller.appspot.com/o/condition-merchant%2F%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%95%E0%B8%81%E0%B8%A5%E0%B8%87%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%95%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%AA%20A%20BID%20MORE.pdf?alt=media&token=4a1cd1c4-9f97-4294-b548-e7ce492d0953"
+      target="_blank">
+      <div class="col-auto pr-0">
+        <button type="button" class="btn btn-warning btn-circle btn-lg text-white">
+          <i class="fa fa-file"></i>
+        </button>
+      </div>
+      <div class="col align-self-center">
+        <p class="mb-0">ดาวน์โหลดสัญญาข้อตกลงมาร์เก็ตเพลส A Bid More</p>
+      </div>
+    </a>
+    </div>
+    <p class="mt-2 mb-4 text-dark">กรุณาอ่านสัญญาข้อตกลงมาร์เก็ตเพลส A Bid More เพื่อรับทราบถึงเงื่อนไขการใช้งาน
+      เมื่อกดยอมรับเงื่อนไขจะถือว่าท่านได้รับทราบถึงเงื่อนไขและยอมรับตามจดหมายฉบับนี้
+    </p>
+    <div class="custom-control custom-radio custom-control-inline" (click)="checkCon()">
+      <input type="radio" id="customRadioInline5" name="customRadioInline3" class="custom-control-input">
+      <label class="custom-control-label" style="color: #616a71;"
+        for="customRadioInline5">ยอมรับเงื่อนไข</label>
+    </div>
+    <!-- BUTTON SUBMIT -->
+    <re-captcha *ngIf="checkCondition" (resolved)="resolved($event)"
+      siteKey="6LfvpuoZAAAAAAKnsMZkIVEHywtargEw6bNqzHZu"></re-captcha>
+    <button type="button" [disabled]="captchaVerify" (click)="goToRegis()" class="btn mt-3 btn-submit">
+      บันทึกข้อมูล
+    </button>
+  </div>
+  <!-- END INPUT CONDITION -->
+
+
+
+
+
+</div>
+<!-- END SHOW ERROR LOGIN -->
+
+<!-- MODAL POPUP OTP -->
+<div class="modal fade" id="ModalPopupOTP" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content modal-otp" style="border-radius: 1rem;">
+      <!-- SHOW ERROR -->
+      <div *ngIf="errorText2 != ''">
+        <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+        <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+        <p class="text-center">{{ errorText2 }}</p>
+        <div class="mt-4">
+          <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+            <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+              style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;" data-dismiss="modal"
+              (click)="next()">ตกลง</button>
+          </div>
+        </div>
+      </div>
+      <!-- LOADING CONTENT -->
+      <p *ngIf="textLoad" class="text-center mb-0">กำลังโหลด</p>
+      <!-- SUBMIT OTP FAIL -->
+      <div *ngIf="submitOTPFail">
+        <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+        <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+        <p class="text-center">{{ errorTextOtpFail }}</p>
+        <div class="mt-4">
+          <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+            <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+              style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+              (click)="otpFail()">เพิ่มรหัส OTP อีกครั้ง</button>
+          </div>
+        </div>
+      </div>
+      <!-- RESEND OTP -->
+      <!-- <div *ngIf="reSendOTP"> -->
+      <div [hidden]="!reSendOTP">
+        <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+        <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+        <p class="text-center mt-2 mb-2">กรุณายืนยันฉันไม่ใช่โปรแกรมอัตโนมัติ</p>
+        <div id="recaptcha-container-resend"></div>
+        <div class="mt-4">
+          <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+            <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+              style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+              (click)="requestOtpCodeAgain()">ขอรหัสใหม่อีกครั้ง</button>
+          </div>
+        </div>
+        <div class="mt-2">
+          <a (click)="closeResendOTP()" style="cursor: pointer;">
+            <p class="text-center">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+      <!-- SHOP POPUP OTP -->
+      <div *ngIf="showOtp">
+        <h4 class="mb-0">รหัส OTP</h4>
+        <div class="otp mt-2 mb-2">
+          <!-- <p class="text-input text-right mb-0" style="color: #585858;">รหัสอ้างอิง QPRK</p> -->
+          <div class="row justify-content-center otp-input" style="margin-left: -4px; margin-right: -4px;">
+            <div class="col-2" style="padding-left: 4px; padding-right: 4px;">
+              <div class="input-otp-style">
+                <input class="form-control border-0 p-0 text-placeholder text-center"
+                  style="box-shadow: none; background-color: #F2F6FA;" #digit1_ (keyup)="inputFocus(digit1_, digit2_)"
+                  oninput="this.value=this.value.replace(/[^0-9]/g,'');" maxlength="1" placeholder="-">
+              </div>
+            </div>
+            <div class="col-2" style="padding-left: 4px; padding-right: 4px;">
+              <div class="input-otp-style">
+                <input class="form-control border-0 p-0 text-placeholder text-center"
+                  style="box-shadow: none; background-color: #F2F6FA;" #digit2_ (keyup)="inputFocus(digit2_, digit3_)"
+                  oninput="this.value=this.value.replace(/[^0-9]/g,'');" maxlength="1" placeholder="-">
+              </div>
+            </div>
+            <div class="col-2" style="padding-left: 4px; padding-right: 4px;">
+              <div class="input-otp-style">
+                <input class="form-control border-0 p-0 text-placeholder text-center"
+                  style="box-shadow: none; background-color: #F2F6FA;" #digit3_ (keyup)="inputFocus(digit3_, digit4_)"
+                  oninput="this.value=this.value.replace(/[^0-9]/g,'');" maxlength="1" placeholder="-">
+              </div>
+            </div>
+            <div class="col-2" style="padding-left: 4px; padding-right: 4px;">
+              <div class="input-otp-style">
+                <input class="form-control border-0 p-0 text-placeholder text-center"
+                  style="box-shadow: none; background-color: #F2F6FA;" #digit4_ (keyup)="inputFocus(digit4_, digit5_)"
+                  oninput="this.value=this.value.replace(/[^0-9]/g,'');" maxlength="1" placeholder="-">
+              </div>
+            </div>
+            <div class="col-2" style="padding-left: 4px; padding-right: 4px;">
+              <div class="input-otp-style">
+                <input class="form-control border-0 p-0 text-placeholder text-center"
+                  style="box-shadow: none; background-color: #F2F6FA;" #digit5_ (keyup)="inputFocus(digit5_, digit6_)"
+                  oninput="this.value=this.value.replace(/[^0-9]/g,'');" maxlength="1" placeholder="-">
+              </div>
+            </div>
+            <div class="col-2" style="padding-left: 4px; padding-right: 4px;">
+              <div class="input-otp-style">
+                <input class="form-control border-0 p-0 text-placeholder text-center"
+                  style="box-shadow: none; background-color: #F2F6FA;" #digit6_
+                  oninput="this.value=this.value.replace(/[^0-9]/g,'');" maxlength="1" placeholder="-">
+              </div>
+            </div>
+          </div>
+          <!-- <p class="mb-0 text-input" style="color: #FE5721; cursor: pointer;" data-dismiss="modal" (click)="changePhoneNumber()">เปลี่ยนหมายเลขโทรศัพท์</p> -->
+          <div class="row" style="margin-left: -4px; margin-right: -4px;">
+            <div class="col-auto" style="padding-left: 4px; padding-right: 0px;">
+              <p class="mb-0 text-input" style="color: #FE5721; cursor: pointer;" data-dismiss="modal"
+                (click)="changePhoneNumber()">เปลี่ยนหมายเลขโทรศัพท์</p>
+            </div>
+            <div class="col text-right" style="padding-left: 0px; padding-right: 4px;">
+              <p class="mb-0 text-input" [class.disabled]="display != ''" style="color: #FE5721; cursor: pointer;"
+                (click)="reSendOTPClick()">ขอรหัสใหม่อีกครั้ง{{ display }}</p>
+            </div>
+          </div>
+        </div>
+        <!-- BUTTON SUBMIT -->
+        <button
+          (click)="checkOtp(digit1_.value, digit2_.value, digit3_.value, digit4_.value, digit5_.value, digit6_.value)"
+          type="button" class="btn mt-3 btn-submit">
+          ยืนยันรหัส OTP
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END MODAL POPUP OTP -->
+
+<!-- MODAL POPUP RESEND RECAPTCHA -->
+<div class="modal fade" id="ModalPopupReRecaptcha" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <!-- <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png"> -->
+      <!-- <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5> -->
+      <!-- <p class="text-center">ต้องการเพิ่มสินค้ารหัส F34G7gk5Hj2io8p9 จากกลุ่มสินค้านาทีทอง ?</p> -->
+      <div id="recaptcha-container-resend"></div>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal">ขอรหัสใหม่อีกครั้ง</button>
+        </div>
+        <div class="mt-2">
+          <a data-dismiss="modal" aria-label="Close" style="cursor: pointer;">
+            <p class="text-center">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- ENG MODAL POPUP RESEND RECAPTCHA -->
+
+<!-- MODAL POPUP PROFILE IMG -->
+<div class="modal fade" id="ModalAddShopImg" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <label class="btn btn-up">เลือกรูปโปรไฟล์ร้านค้า
+        <input type="file" accept="image/png, image/jpeg" style="display: none;" (change)="fileChangeEvent($event)">
+      </label>
+      <image-cropper [imageChangedEvent]="imageChangedEvent" [maintainAspectRatio]="true" [aspectRatio]="1 / 1"
+        [resizeToWidth]="1000" format="png" (imageCropped)="imageCropped($event)">
+      </image-cropper>
+
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;" data-dismiss="modal"
+            (click)="setProductImg()">ตกลง</button>
+        </div>
+        <div class="mt-2">
+          <a data-dismiss="modal" aria-label="Close" style="cursor: pointer;">
+            <p class="text-center mb-0">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END MODAL POPUP PROFILE IMG -->
+
+<!-- MODAL POPUP COVER IMG  -->
+<div class="modal fade" id="ModalAddCoverImg" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <label class="btn btn-up">เลือกรูปปกร้านค้า
+        <input type="file" accept="image/png, image/jpeg" style="display: none;"
+          (change)="fileChangeEventCoverImg($event)">
+      </label>
+      <image-cropper [imageChangedEvent]="imageChangedEventCoverImg" [maintainAspectRatio]="true" [aspectRatio]="5 / 2"
+        [resizeToWidth]="1000" format="png" (imageCropped)="imageCroppedCoverImg($event)">
+      </image-cropper>
+
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;" data-dismiss="modal"
+            (click)="setProductImgCoverImg()">ตกลง</button>
+        </div>
+        <div class="mt-2">
+          <a data-dismiss="modal" aria-label="Close" style="cursor: pointer;">
+            <p class="text-center mb-0">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END MODAL POPUP COVER IMG -->
+
+<!-- MODAL POPUP REF BANK BRANCH -->
+<div class="modal fade" id="ModalPopupBankBranch" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <p class="text-center">ตัวอย่างเลขที่สาขา</p>
+      <img class="img-fluid" src="../../assets/img/bookbank.png">
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal">ตกลง</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END MODAL POPUP REF BANK BRANCH -->
+
+  <!-- MODAL POPUP FAIL -->
+  <div class="modal fade" [class.show]="_errorText2 != ''" [class.modalShow]="_errorText2 != ''" id="updateInfoFail" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+        <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+        <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+        <p class="text-center">{{ _errorText2 }}</p>
+
+        <div class="mt-4">
+          <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+            <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+              style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+              data-dismiss="modal" (click)="closeModalPopupPpdateInfoFail()">ตกลง</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- END MODAL POPUP FAIL -->
+
+<!-- SHOW LOADING -->
+<div *ngIf="showLoading">
+  <div style="height: 100vh;">
+    <div class="container h-100 d-flex justify-content-center">
+      <div class="my-auto text-center">
+        <img class="rounded-circle shadow" style="width: 60px; height: 60px;"
+          src="./assets/img/WebsiteLogo-hourglass-B-Edit2_MoreBubble_shadow.png">
+        <p>Loading...</p>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END SHOW LOADING  -->

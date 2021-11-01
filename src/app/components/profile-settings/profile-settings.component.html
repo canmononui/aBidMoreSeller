@@ -1,0 +1,548 @@
+<div *ngIf="showContent">
+  <!-- CARD SCORE -->
+  <!-- <div class="bg-color-bd" style="opacity: 20%;">
+    <div class="row">
+      <div class="col-12 col-md-4 col-lg-4 mt-mb-sm text-center align-self-center">
+        <h5 class="mb-0">500 คะแนน</h5>
+        <p class="mb-0 p-07">คะแนนร้านค้า</p>
+      </div>  
+      <div class="col-12 col-md-8 col-lg-8">
+        <p class="mb-0">15/04/2020 - 15/05/2020</p>
+        <p class="mb-0 p-07">ช่วงเวลา</p>
+        <p class="mt-1 mb-0">ยกเลิกคำสั่งซื้อ, ส่งสินค้าไม่ทันกำหนด, ยอมรับการคืนสินค้าโดนหัก 10 คะแนน</p>
+        <p class="mb-0 p-07">เหตุผลการหักคะแนน</p>
+        <p class="mt-1 mb-0">หากคะแนนเท่ากับ 0 ติดต่อกัน 3 รอบเดือนจะถูกแบนร้านค้าไม่ให้ขายสินค้าจำนวน 1 สัปดาห์</p>
+        <p class="mb-0 p-07">ผลกระทบ</p>
+      </div>
+    </div>
+  </div> -->
+  <!-- END CARD SCORE -->
+
+  <!-- DATA INFO SHOP -->
+  <!-- SHOP STATUS -->
+  <div class="bg-bd mt-2 text-dark">
+    <p class="mb-0">สถานะร้านค้า</p>
+    <p *ngIf="!userSeller.checkStatus" class="mb-0 text-danger">• กรุณาเพิ่มข้อมูลเพื่อการอนุมัติ</p>
+    <p *ngIf="userSeller.checkStatus && userSeller.shopStatus == 'waitingApproval'" class="mb-0 text-gray">• รอการอนุมัติ</p>
+    <p *ngIf="userSeller.checkStatus && userSeller.shopStatus == 'approval'" class="mb-0 text-gray">• อนุมัติเรียบร้อย</p>
+    <p *ngIf="userSeller.checkStatus && userSeller.shopStatus == 'disable'" class="mb-0 text-gray">• ถูกระงับ</p>
+  </div>
+
+  <!-- YOUR REF CODE -->
+  <div class="bg-bd mt-2 text-dark">
+    <p class="mb-0">รหัสแนะนำของคุณคือ (สำหรับแนะนำร้านค้าอื่น)</p>
+    <div class="row mt-3">
+      <div class="col-auto pr-0 align-self-center">
+        <p class="mb-0 text-gray">• {{ userSeller.yourRefCode }}</p>
+      </div>
+      <div class="col-auto">
+        <button type="button" class="btn text-center btn-edit" 
+        data-toggle="modal" data-target="#ModalPopupCopyYourRefCode" data-backdrop="static" data-keyboard="false" 
+        (click)="copyYourRefCode()">คัดลอก</button>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-auto pr-0 align-self-center">
+        <p class="mb-0 text-gray">• https://merchant.abidmore.com/{{ userSeller.yourRefCode }}</p>
+      </div>
+      <div class="col-auto">
+        <button type="button" class="btn text-center btn-edit" 
+        data-toggle="modal" data-target="#ModalPopupCopyLinkYourRefCode" data-backdrop="static" data-keyboard="false" 
+        (click)="copyLinkYourRefCode()">คัดลอก</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- REF CODE -->
+  <div class="bg-bd mt-2 text-dark">
+    <div class="row">
+      <div class="col-auto pr-0 align-self-center">
+        <p class="mb-0">รหัสแนะนำจากร้านค้าอื่น (ถ้ามี)</p>
+      </div>
+      <div class="col-auto" *ngIf="userSeller.refCode == null">
+        <button type="button" class="btn text-center btn-edit" 
+        data-toggle="modal" data-target="#ModalPopupRefCode"
+        data-backdrop="static" data-keyboard="false">เพิ่ม</button>
+      </div>
+    </div>
+    <p *ngIf="userSeller.refCode != null" class="mb-2 text-gray">• {{ userSeller.refCode }}</p>
+  </div>
+
+  <!-- SHOP NAME -->
+  <div class="bg-bd mt-2 text-dark">
+    <div class="row">
+      <div class="col-auto pr-0 align-self-center">
+        <p class="mb-0">ชื่อร้านค้า</p>
+      </div>
+      <div class="col-auto">
+        <button type="button" class="btn text-center btn-edit" 
+        data-toggle="modal" data-target="#ModalPopupShopName" 
+        data-backdrop="static" data-keyboard="false">เพิ่ม</button>
+      </div>
+    </div>
+    <p *ngIf="userSeller.shopName != null" class="mb-0 text-gray">• {{ userSeller.shopName }}</p>
+  </div>
+
+  <!-- SHOP DES -->
+  <div class="bg-bd mt-2 text-dark">
+    <div class="row">
+      <div class="col-auto pr-0 align-self-center">
+        <p class="mb-0">คำอธิบายร้านค้า</p>
+      </div>
+      <div class="col-auto">
+        <button type="button" class="btn text-center btn-edit" 
+        data-toggle="modal" data-target="#ModalPopupShopDescription" 
+        data-backdrop="static" data-keyboard="false">เพิ่ม</button>
+      </div>
+    </div>
+    <p *ngIf="userSeller.shopDescription != null" class="mb-0 text-gray">• {{ userSeller.shopDescription }}</p>
+  </div>
+
+  <!-- PROFILE IMG -->
+  <div class="bg-bd mt-2 text-dark">
+    <div class="row">
+      <div class="col-auto pr-0 align-self-center">
+        <p class="mb-0">รูปโปรไฟล์ร้านค้า</p>
+      </div>
+      <div class="col-auto">
+        <button type="button" class="btn text-center btn-edit" data-toggle="modal" data-target="#ModalPopupShopImg">เพิ่ม</button>
+      </div>
+    </div>
+    <img class="rounded-circle mt-1" style="width: 150px; height: 150px;" src="{{ this.userSeller.profileImg.imgUrl }}">
+  </div>
+
+  <!-- COVER IMG -->
+  <div class="bg-bd mt-2 text-dark">
+    <div class="row">
+      <div class="col-auto pr-0 align-self-center">
+        <p class="mb-0">รูปปกร้านค้า</p>
+      </div>
+      <div class="col-auto">
+        <button type="button" class="btn text-center btn-edit" data-toggle="modal" data-target="#ModalPopupShopImgCover">เพิ่ม</button>
+      </div>
+    </div>
+    <img class="img-fluid mt-1 img-cover-w" style="border-radius: 10px;" src="{{ this.userSeller.coverImg.imgUrl }}">
+  </div>
+
+  <!-- INFO REGISTER -->
+  <div class="bg-bd mt-2 text-dark">
+    <div class="row">
+      <div class="col-auto pr-0 align-self-center">
+        <p class="mb-0">ข้อมูลผู้สมัคร</p>
+      </div>
+      <!-- <div class="col-auto" *ngIf="userSeller.name == null">
+        <button type="button" class="btn text-center btn-edit"
+          data-toggle="modal" data-target="#ModalPopupInfo" 
+        data-backdrop="static" data-keyboard="false">เพิ่ม</button>
+      </div> -->
+    </div>
+    <div *ngIf="userSeller.name != null">
+      <p class="mb-0 text-gray">• ชื่อ: {{ userSeller.name }}</p>
+      <p class="mb-0 text-gray">• นามสกุล: {{ userSeller.lastName }}</p>
+      <p class="mb-0 text-gray">• โทร:  {{ userSeller.phoneNumber }}</p>
+    </div>
+  </div>
+
+  <!-- BANK DES -->
+  <div class="bg-bd mt-2 text-dark">
+    <div class="row">
+      <div class="col-auto pr-0 align-self-center">
+        <p class="mb-0">บัญชีร้านค้า</p>
+      </div>
+      <div class="col-auto" *ngIf="userSeller.bookbank == null">
+        <button type="button" class="btn text-center btn-edit" data-toggle="modal" data-target="#ModalPopupBookBank">เพิ่ม</button>
+      </div>
+    </div>
+    <p class="mb-0 text-gray">• บัญชีร้านคือบัญชีสำหรับเบิกเงินจากการขายสินค้ากับ A Bid More สามารถเพิ่มได้ 1 บัญชี</p>
+    <p class="mb-0 text-gray">• จะไม่สามารถลบบัญชีได้หากมีการรายการรออนุมัติรอบการเบิกเงินที่เกี่ยวข้อกับบัญชี้นี้ หากต้องการลบบัญชีจะต้องรอรอบการเบิกเงินถัดไป</p>
+    <p class="mb-0 text-gray">• บัญชีหลักของร้านค้าจะต้องเป็นบัญชีที่มีชื่อบัญชีตรงกับชื่อผู้เปิดร้านและตรงตามบัตรประชาชนที่ใช้ในการสมัคร 
+      โดยการเปลี่ยนแปลงบัญชีหลักจะต้องรอตรวจสอบและอนุมัติผลจากทาง A Bid More และสามารถใช้บัญชีที่เป็นนิติบุคคลได้</p>
+    <!-- BANK CARD -->
+    <div *ngIf="userSeller.bookbank != null" class="row mt-2">
+        <div class="col-10 col-md-6 col-lg-4">
+          <div class="bank-card">
+            <div class="text-right">
+              <button type="button" class="btn text-center btn-delete pl-3 pr-3" data-toggle="modal" data-target="#ModalPopupDeleteBank">ลบ</button>
+            </div>
+            <p class="mb-0">เลขที่บัญชี : {{ userSeller.bookbank.bankNumber }}</p>
+            <p class="mb-0">ธนาคาร : {{ userSeller.bookbank.bankNameTH }}</p>
+            <p class="mb-0">เลขที่สาขา : {{ userSeller.bookbank.bankBranch }}</p>
+            <p class="mb-0">ชื่อบัญชี : {{ userSeller.bookbank.accountName }}</p>
+          </div>
+        </div>
+      </div>
+  </div>
+
+  <!-- SHOP ADDRESS -->
+  <div class="bg-bd mt-2 text-dark">
+   <div class="row">
+    <div class="col-auto pr-0 align-self-center">
+      <p class="mb-0">ชื่อที่อยู่ร้านค้า</p>
+    </div>
+    <div class="col-auto">
+      <button type="button" class="btn text-center btn-edit" data-toggle="modal" data-target="#ModalPopupShopAddress">เพิ่ม</button>
+    </div>
+  </div>
+  <div class="text-gray" *ngIf="userSeller.shopAddress != null">
+    <p class="mb-0">ชื่อ-นามสกุล : {{ userSeller.shopAddress.name }} {{ userSeller.shopAddress.lastName }}</p>
+    <p class="mb-0">บ้านเลขที่ : {{ userSeller.shopAddress.number }}</p> 
+    <p class="mb-0">หมู่ที่ : {{ userSeller.shopAddress.moo }}</p> 
+    <p class="mb-0">หมู่บ้าน / อาคาร / ชั้น : {{ userSeller.shopAddress.village }}</p> 
+    <p class="mb-0">ตรอก / ซอย : {{ userSeller.shopAddress.lane }}</p> 
+    <p class="mb-0">ถนน : {{ userSeller.shopAddress.road }}</p>
+    <p class="mb-0">ตำบล : {{ userSeller.shopAddress.subDistrict }}</p> 
+    <p class="mb-0">อำเภอ : {{ userSeller.shopAddress.district }}</p> 
+    <p class="mb-0">จังหวัด : {{ userSeller.shopAddress.province }}</p> 
+    <p class="mb-0">รหัสไปรษณีย์ : {{ userSeller.shopAddress.postalCode }}</p> 
+    <p class="mb-0">หมายเลขโทรศัพท์ : {{ userSeller.shopAddress.phone }}</p> 
+  </div>
+  </div>
+
+  <!-- DOC -->
+  <div class="bg-bd mt-2 text-dark">
+    <div class="row">
+      <div class="col-auto pr-0">
+        <p class="mb-0">เอกสาร</p>
+      </div>
+      <div *ngIf="fileItems.idCard == null && fileItems.houseRegis_dbdFive == null" class="col-auto">
+        <button type="button" class="btn text-center btn-edit" data-toggle="modal" data-target="#ModalPopupShopFile">เพิ่ม</button>
+      </div>
+    </div>
+    <p *ngIf="fileShowStatus == false && fileItems.idCard != null && fileItems.houseRegis_dbdFive != null" (click)="showFile()" class="mb-2 text-danger" style="cursor: pointer;">แสดงเพิ่มเติม</p>
+    <p *ngIf="fileShowStatus == true && fileItems.idCard != null && fileItems.houseRegis_dbdFive != null" (click)="showFile()" class="mb-2 text-danger" style="cursor: pointer;">แสดงน้อยลง</p>
+    <div *ngIf="fileShowStatus">
+      <p class="mb-2">1. บัตรประชาชน</p>
+      <div *ngIf="userSeller.shopType == 'Individual'">
+        <img src="{{ fileItems.idCard }}" class="img-fluid mt-1 shop-file-m-w">
+      </div>
+      <div *ngIf="userSeller.shopType == 'Corporation'">
+        <div class="row row-img-m">
+          <div class="col-6 col-md-6 col-lg-3 col-img-p mt-2" *ngFor="let data of fileItems.idCard">
+            <img src="{{ data.idCardCorporation_urlFile }}" class="img-fluid mt-1" style="border-radius: 10px;">
+          </div>
+        </div>
+      </div>
+      <div *ngIf="userSeller.shopType == 'Individual'" class="mt-2">
+        <p class="mb-0">2. ทะเบียนบ้าน</p>
+        <img class="img-fluid mt-1 shop-file-m-w" src="{{ fileItems.houseRegis_dbdFive }}">
+      </div>
+      <div *ngIf="userSeller.shopType == 'Corporation'" class="mt-2">
+        <p class="mb-0">2. หนังสือรับรองนิติบุคคล</p>
+          <a class="row" style="color: #343a40; text-decoration: none;"
+          href="{{ fileItems.houseRegis_dbdFive }}"
+          target="_blank">
+          <div class="col-auto pr-0">
+            <button type="button" class="btn btn-warning btn-circle btn-lg text-white">
+              <i class="fa fa-file"></i>
+            </button>
+          </div>
+          <div class="col align-self-center">
+            <p class="mb-0">หนังสือรับรองนิติบุคคล</p>
+          </div>
+        </a>
+      </div>
+      <div *ngIf="fileItems.bookBank != null" class="mt-2">
+        <p class="mb-2">3. หน้าสมุดบัญชี</p>
+        <img class="img-fluid mt-1 shop-file-m-w" src="{{ fileItems.bookBank }}">
+      </div>
+      <div *ngIf="fileItems.vatRegis != null" class="mt-2">
+        <p class="mb-2">4. ทะเบียนภาษีมูลค่าเพิ่ม</p>
+        <img class="img-fluid mt-1 shop-file-m-w" src="{{ fileItems.vatRegis }}">
+      </div>
+    </div>
+  </div>
+  <!-- END DATA INFO SHOP -->
+</div>
+<!-- END SHOW CONTENT -->
+
+<!-- SHOW LOADING -->
+<div *ngIf="showLoading">
+  <div style="height: 100vh;">
+    <div class="container h-100 d-flex justify-content-center">
+      <div class="my-auto text-center">
+        <img class="rounded-circle shadow" style="width: 60px; height: 60px;"
+          src="./assets/img/WebsiteLogo-hourglass-B-Edit2_MoreBubble_shadow.png">
+        <p>Loading...</p>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END SHOW LOADING -->
+
+<!-- MODAL POPUP COPY YOUR REFCODE -->
+<div class="modal fade" id="ModalPopupCopyYourRefCode" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+      <p class="text-center">คัดลอกรหัสแนะนำเรียบร้อย</p>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal">ตกลง</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END MODAL POPUP COPY YOUR REFCODE -->
+
+<!-- MODAL POPUP COPY YOUR REFCODE -->
+<div class="modal fade" id="ModalPopupCopyLinkYourRefCode" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+      <p class="text-center">คัดลอกลิ้งก์รหัสแนะนำเรียบร้อย</p>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal">ตกลง</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END MODAL POPUP COPY YOUR REFCODE -->
+
+<!-- MODAL POPUP REFCODE -->
+<div class="modal fade" id="ModalPopupRefCode" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+      <p class="text-center">ต้องการเพิ่มรหัสแนะนำจากร้านค้าอื่น ?</p>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal" (click)="refCode()">ตกลง</button>
+        </div>
+        <div class="mt-2">
+          <a data-dismiss="modal" aria-label="Close" style="cursor: pointer;">
+            <p class="text-center">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END MODAL POPUP REFCODE -->
+
+<!-- MODAL POPUP INFO -->
+<div class="modal fade" id="ModalPopupInfo" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+      <p class="text-center">ต้องการเพิ่มข้อมูลผู้สมัคร ?</p>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal" (click)="info()">ตกลง</button>
+        </div>
+        <div class="mt-2">
+          <a data-dismiss="modal" aria-label="Close" style="cursor: pointer;">
+            <p class="text-center">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END MODAL POPUP INFO -->
+
+<!-- MODAL POPUP EDIT SHOP NAME -->
+<div class="modal fade" id="ModalPopupShopName" role="dialog" aria-hidden="true" >
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+      <p class="text-center">ต้องการเพิ่มชื่อร้านค้า ?</p>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal" (click)="shopName()">ตกลง</button>
+        </div>
+        <div class="mt-2">
+          <a data-dismiss="modal" aria-label="Close" style="cursor: pointer;">
+            <p class="text-center">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END MODAL POPUP EDIT SHOP NAME -->
+
+<!-- MODAL POPUP EDIT SHOP NAME -->
+<div class="modal fade" id="ModalPopupShopDescription" role="dialog" aria-hidden="true" >
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+      <p class="text-center">ต้องการเพิ่มคำอธิบายร้านค้า ?</p>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal" (click)="shopDescription()">ตกลง</button>
+        </div>
+        <div class="mt-2">
+          <a data-dismiss="modal" aria-label="Close" style="cursor: pointer;">
+            <p class="text-center">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END MODAL POPUP EDIT SHOP NAME -->
+
+<!-- MODAL POPUP SHOP IMG -->
+<div class="modal fade" id="ModalPopupShopImg" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+      <p class="text-center">ต้องการเพิ่มรูปโปรไฟล์ร้านค้า ?</p>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal" (click)="profileImg()">ตกลง</button>
+        </div>
+        <div class="mt-2">
+          <a data-dismiss="modal" aria-label="Close" style="cursor: pointer;">
+            <p class="text-center">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END MODAL POPUP SHOP IMG -->
+
+<!-- MODAL POPUP SHOP IMG COVER -->
+<div class="modal fade" id="ModalPopupShopImgCover" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+      <p class="text-center">ต้องการเพิ่มรูปปกร้านค้า ?</p>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal" (click)="coverImg()">ตกลง</button>
+        </div>
+        <div class="mt-2">
+          <a data-dismiss="modal" aria-label="Close" style="cursor: pointer;">
+            <p class="text-center">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END MODAL POPUP SHOP IMG COVER -->
+
+<!-- MODAL POPUP ADD BANK -->
+<div class="modal fade" id="ModalPopupBookBank" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+      <p class="text-center">ต้องการเพิ่มบัญชีร้านค้า ?</p>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal" (click)="bookBank()">ตกลง</button>
+        </div>
+        <div class="mt-2">
+          <a data-dismiss="modal" aria-label="Close" style="cursor: pointer;">
+            <p class="text-center">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END MODAL POPUP ADD BANK -->
+
+<!-- MODAL POPUP DELETE BANK -->
+<div class="modal fade" id="ModalPopupDeleteBank" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+      <p class="text-center">ต้องการลบบัญชีร้านค้า ?</p>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            a data-dismiss="modal" (click)="deleteBank()">ตกลง</button>
+        </div>
+        <div class="mt-2">
+          <a data-dismiss="modal" aria-label="Close" style="cursor: pointer;">
+            <p class="text-center">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END MODAL POPUP DELETE BANK -->
+
+<!-- MODAL POPUP EDIT SHOP ADDRESS -->
+<div class="modal fade" id="ModalPopupShopAddress" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+      <p class="text-center">ต้องการเพิ่มที่อยู่ร้านค้า ?</p>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal" (click)="shopAddress()">ตกลง</button>
+        </div>
+        <div class="mt-2">
+          <a data-dismiss="modal" aria-label="Close" style="cursor: pointer;">
+            <p class="text-center">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END MODAL POPUP EDIT SHOP ADDRESS -->
+
+<!-- MODAL POPUP EDIT SHOP ADDRESS -->
+<div class="modal fade" id="ModalPopupShopFile" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+      <p class="text-center">ต้องการเพิ่มเอกสารสำหรับยืนยันร้านค้า ?</p>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal" (click)="shopFile()">ตกลง</button>
+        </div>
+        <div class="mt-2">
+          <a data-dismiss="modal" aria-label="Close" style="cursor: pointer;">
+            <p class="text-center">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END MODAL POPUP EDIT SHOP ADDRESS -->

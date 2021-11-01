@@ -1,0 +1,250 @@
+<div *ngIf="showContent">
+  <!-- CARD STATUS -->
+  <div class="row row-m">
+    <div class="col col-p">
+      <div class="col-auction-date">
+        <i class="fa fa-2x fa-flag"></i>
+        <p class="mb-0">{{ orderDetail.productCreateAt.seconds*1000 | date: 'd/M/yyyy' }} {{
+          orderDetail.productCreateAt.seconds*1000 | date: "HH:mm:ss" }}</p>
+        <p class="mb-0 text-07">วันที่ลงสินค้า</p>
+      </div>
+    </div>
+    <div class="col col-p">
+      <div class="col-order-date">
+        <i class="fa fa-2x fa-shopping-cart"></i>
+        <p class="mb-0">{{ orderDetail.createAt.seconds*1000 | date: 'd/M/yyyy' }} {{ orderDetail.createAt.seconds*1000
+          | date: "HH:mm:ss" }}</p>
+        <p class="mb-0 text-07">วันที่สั่งสินค้า</p>
+      </div>
+    </div>
+    <div class="col col-p">
+      <div class="col-send-date">
+        <i class="fa fa-2x fa-archive"></i>
+        <p class="mb-0">{{ orderDetail.startShippingAt.seconds*1000 | date: 'd/M/yyyy' }} {{
+          orderDetail.startShippingAt.seconds*1000 | date: "HH:mm:ss" }}</p>
+        <p class="mb-0 text-07">วันที่ส่งสินค้า</p>
+      </div>
+    </div>
+    <div class="col col-p">
+      <div class="col-pickup-date">
+        <i class="fa fa-2x fa-archive"></i>
+        <p class="mb-0">xx/xx/xxxx xx:xx</p>
+        <p class="mb-0 text-07">วันที่รับสินค้า</p>
+      </div>
+    </div>
+  </div>
+  <!-- END CARD STATUS -->
+
+  <!-- PRODUCT DETAIL -->
+  <div class="container-bg-color mt-2">
+    <!-- ORDER CODE -->
+    <p class="mt-2 mb-0">รหัสคำสั่งซื้อ</p>
+    <div class="row">
+      <div class="col-auto pr-0 align-self-center">
+        <p class="mb-0 productDataText">• {{ id }}</p>
+      </div>
+      <div class="col-auto">
+        <button type="button" class="btn text-placeholder text-center btn-copy" data-toggle="modal"
+          data-target="#ModalPopupOrderCopy" (click)="copyOrderKey()">คัดลอก</button>
+      </div>
+    </div>
+    <!-- PRODUCT CODE -->
+    <p class="mt-2 mb-0">รหัสสินค้า</p>
+    <div class="row">
+      <div class="col-auto pr-0 align-self-center">
+        <p class="mb-0 productDataText">• {{ orderDetail.productKey }}</p>
+      </div>
+      <div class="col-auto">
+        <button type="button" class="btn text-placeholder text-center btn-copy" data-toggle="modal"
+          data-target="#ModalPopupCopy" (click)="copyProductKey()">คัดลอก</button>
+      </div>
+    </div>
+    <!-- PRODUCT NAME -->
+    <p class="mt-2 mb-0">ชื่อสินค้า</p>
+    <p class="mb-0 productDataText">• {{ orderDetail.productName }}</p>
+    <!-- PRICE AUCTION -->
+    <p class="mt-2 mb-0">ราคาสินค้า</p>
+    <p class="mb-0 productDataText">• {{ orderDetail.priceOfProduct }}</p>
+    <!-- PRODUCT OPTION -->
+    <p class="mt-2 mb-0">ตัวเลือกสินค้า</p>
+    <p class="mb-0 productDataText">• ตัวเลือก {{ orderDetail.productOption.optionName }}</p>
+    <p class="mb-0 ml-2 productDataText">• ตัวเลือกย่อย {{
+      orderDetail.productOption.subOption }}</p>
+    <!-- PRODUCT IMG -->
+    <p class="mt-2 mb-0">ภาพสินค้า</p>
+    <div class="row row-img-m" style="margin-top: -8px;">
+      <div class="col-6 col-md-6 col-lg-2 col-img-p mt-2" *ngFor="let _dataImg of orderDetail.imgProduct;">
+        <img data-toggle="modal" data-target="#ModalPopupImg" (click)="popUpImg(_dataImg.imgUrl)"
+          src="{{ _dataImg.imgUrl }}" class="img-fluid border-radius-10" style="cursor: pointer;">
+      </div>
+    </div>
+    <!-- DELIVERY DETAIL -->
+    <a class="mt-2" style="text-decoration:none; color: #000;">รายละเอียดขนส่ง</a>
+    <a class="mt-2 ml-2 productDataText" style="text-decoration:none;">ราคาที่ระบุ
+      คือราคาที่ได้เพิ่มในขั้นตอนลงสินค้าซึ่งไม่ใช่ราคาจากผู้ให้บริการขนส่ง</a>
+
+    <div class="row">
+      <div class="col-auto">
+        <p class="mb-0 productDataText">• {{ orderDetail.delivery.priceDelivery.deliveryName }} (ด่วนพิเศษ)</p>
+        <p *ngIf="orderDetail.delivery.codStatus" class="mb-0 productDataText text-danger">• จัดส่งแบบเก็บเงินปลายทาง
+          (COD)</p>
+      </div>
+      <div class="col">
+        <p class="mb-0 productDataText">ราคาที่ระบุ ฿{{ orderDetail.delivery.priceDelivery.priceDeliveryInput }}</p>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-auto align-self-center">
+        <p class="mb-0 productDataText">• รหัสติดตามสินค้า {{ orderDetail.delivery.trackingNumber }}</p>
+      </div>
+      <div class="col-auto pr-0">
+        <button type="button" class="btn text-placeholder text-center btn-copy" data-toggle="modal"
+          data-target="#ModalPopupCopyTrackNumber" (click)="copyTrackNumber()">คัดลอก</button>
+      </div>
+      <div class="col-auto" *ngIf="orderDetail.delivery.priceDelivery.deliveryName != 'handPickUp'">
+        <button type="button" class="btn text-placeholder text-center btn-copy"
+          *ngIf="orderDetail.delivery.priceDelivery.deliveryName == 'Kerry Express'"
+          onclick="window.open('https://th.kerryexpress.com/th/track/')"
+          target="_blank">ติดตามสินค้าผ่านเว็บไซต์</button>
+        <button type="button" class="btn text-placeholder text-center btn-copy"
+          *ngIf="orderDetail.delivery.priceDelivery.deliveryName == 'Thailand Post'"
+          onclick="window.open('https://track.thailandpost.co.th/')" target="_blank">ติดตามสินค้าผ่านเว็บไซต์</button>
+        <button type="button" class="btn text-placeholder text-center btn-copy"
+          *ngIf="orderDetail.delivery.priceDelivery.deliveryName == 'SCG Express'"
+          onclick="window.open('https://www.scgexpress.co.th/tracking')"
+          target="_blank">ติดตามสินค้าผ่านเว็บไซต์</button>
+        <button type="button" class="btn text-placeholder text-center btn-copy"
+          *ngIf="orderDetail.delivery.priceDelivery.deliveryName == 'Flash Express'"
+          onclick="window.open('https://www.flashexpress.co.th/tracking')"
+          target="_blank">ติดตามสินค้าผ่านเว็บไซต์</button>
+      </div>
+    </div>
+
+    <!-- DESCRIPTION-->
+    <div class="mt-2" style="background-color: #373E48; border-radius: 5px; padding: 15px;">
+      <!-- TRANSPORT -->
+      <p class="text-white mb-0">การขนส่ง</p>
+      <!-- TRANSPORT EMPTY -->
+      <div *ngIf="transport == null" class="mt-4 mb-4">
+        <p class="text-center text-danger mb-0">ไม่พบข้อมูลรายละเอียดการจัดส่ง</p>
+        <p class="text-center text-danger mb-0">โปรดติดตามสินค้าผ่านเว็บไซต์</p>
+      </div>
+      <!-- TRANSPORT !EMPTY -->
+      <div *ngIf="transport != null">
+        <div *ngFor="let data of transport.routes; let i = index;" class="row row-mlr mt10">
+          <div class="col-auto col-plr pr-0 align-self-center">
+            <div [class.dot-start]="i+1 < transport.routes.length"></div>
+            <div [class.line-start]="i+1 > 1 && i+1 != transport.routes.length"></div>
+            <div [class.dot-now-opa]="i+1 == transport.routes.length"></div>
+            <div [class.dot-now]="i+1 == transport.routes.length"></div>
+            <div [class.line-start]="i+1 != 1 && i+1 == transport.routes.length"></div>
+          </div>
+          <div class="col col-plr">
+            <p class="mb-0 text-white font-sm-1">{{ data.stateTextTH }}</p>
+            <p class="mb-0 font-sm-7" style="color: #A2A2A2;">{{ data.stateDate | date: 'd/M/yyyy' }} {{ data.stateDate | date: "HH:mm" }}</p>
+          </div>
+        </div>
+      </div>
+      <!-- END TRANSPORT -->
+    </div>
+
+    <!-- BUYER -->
+    <p class="mt-2 mb-0">ผู้สั่งซื้อ</p>
+    <div class="row">
+      <div class="col-auto pr-0 align-self-center">
+        <!-- <p class="mb-0 productDataText">• รหัสผู้ใช้งาน : {{ orderDetail.buyerUID }}</p> -->
+        <p class="mb-0 productDataText">• ติดต่อผู้สั่งซื้อ</p>
+      </div>
+      <div class="col-auto">
+        <button type="button" class="btn text-placeholder text-center btn-copy" (click)="gotoChatRoom()">ข้อความ</button>
+      </div>
+    </div>
+    <!-- BUYER ADDRESS -->
+    <p class="mt-2 mb-0">ที่อยู่ในการจัดส่ง</p>
+    <p class="mb-0 productDataText">• ชื่อ-นามสกุล: {{ buyerName }}</p>
+    <p class="mb-0 productDataText">• ที่อยู่: {{ buyerAddress }}</p>
+    <!-- TRACKING -->
+    <!-- <p class="mt-2 mb-0">สถานะขนส่ง</p>
+    <p class="mb-0 productDataText">• เชียงใหม่ (10/05/2020 10:17)</p>
+    <p class="mb-0 productDataText">• รถเข้ารับพัสดุ (10/05/2020 10:17)</p>
+    <p class="mb-0 productDataText">• ศูนย์คัดจังหวัดสมุทรปราการ (10/05/2020 10:17)</p>
+    <p class="mb-0 productDataText">• พัสดุรอนำจ่าย (10/05/2020 10:17)</p>
+    <p class="mb-0 productDataText">• พัสดุนำจ่ายจำเร็จ (06/05/2020 10:17)</p> -->
+  </div>
+  <!-- END PRODUCT DETAIL -->
+</div>
+
+<!-- MODAL POPUP ORDER COPY -->
+<div class="modal fade" id="ModalPopupOrderCopy" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+      <p class="text-center">คัดลอกรหัสคำสั่งซื้อเรียบร้อย</p>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal">ตกลง</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- ENG MODAL POPUP ORDER COPY -->
+
+<!-- MODAL POPUP COPY -->
+<div class="modal fade" id="ModalPopupCopy" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+      <p class="text-center">คัดลอกรหัสสินค้าเรียบร้อย</p>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal">ตกลง</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- ENG MODAL POPUP COPY -->
+
+<!-- MODAL POPUP SHOW IMG -->
+<div class="modal fade" id="ModalPopupImg" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img src="{{ imgUrl }}" class="img-fluid border-radius-10">
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal">ตกลง</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- ENG MODAL POPUP SHOW IMG -->
+
+<!-- MODAL POPUP CANCEL -->
+<div class="modal fade" id="ModalPopupCopyTrackNumber" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+      <p class="text-center">คัดลอกรหัสติดตามสินค้าเรียบร้อย</p>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal">ตกลง</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- ENG MODAL POPUP CANCEL -->

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #373a3c;
+      }
+
+      .cls-2 {
+        font-size: 400px;
+        text-anchor: middle;
+        font-family: Kanit;
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <rect id="Rounded_Rectangle_1_copy_2" data-name="Rounded Rectangle 1 copy 2" class="cls-1" x="281" y="715" width="718" height="140" rx="30" ry="30"/>
+  <rect id="Rounded_Rectangle_1_copy" data-name="Rounded Rectangle 1 copy" class="cls-1" x="281" y="426" width="718" height="140" rx="30" ry="30"/>
+  <rect id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-1" x="281" y="141" width="718" height="140" rx="30" ry="30"/>
+  <text id="_3" data-name="3" class="cls-2" transform="translate(104.568 996.53) scale(1.056)"><tspan x="0">3</tspan></text>
+  <text id="_2" data-name="2" class="cls-2" transform="translate(104.568 638.53) scale(1.056)"><tspan x="0">2</tspan></text>
+  <text id="_1" data-name="1" class="cls-2" transform="translate(104.568 276.53) scale(1.056)"><tspan x="0">1</tspan></text>
+</svg>

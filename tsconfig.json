@@ -2,6 +2,12 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
+    "resolveJsonModule":true,
+    "esModuleInterop": true,
+    // "allowSyntheticDefaultImports": true,
+    // For Error Get Data (any)
+    "noImplicitAny": false,
+    "strictPropertyInitialization": false,
     "baseUrl": "./",
     "outDir": "./dist/out-tsc",
     "forceConsistentCasingInFileNames": true,

@@ -1,0 +1,33 @@
+<div class="mb-2">
+  <!-- NOTIFICATION LIST -->
+  <div class="card-border-3 bg-white mt-2" style="cursor: pointer;" (click)="gotoNotiDes(noti.key, noti.value)"
+    *ngFor="let noti of notiList">
+    <div class="row">
+      <!-- IMG ICON & DOT-UNREAD -->
+      <div class="col-auto">
+        <img src="./assets/img/navbar/noti-noti-icon.svg" class="img-fluid rounded-circle img-store">
+        <div class="dot">
+          <span *ngIf="!noti.value.readed" class="dot-unread"></span>
+        </div>
+      </div>
+      <!-- TOPIC & DES -->
+      <div class="col pl-0 align-self-center">
+        <h5 class="mb-0 font-topic">{{ noti.value.topic }}</h5>
+        <p class="mb-0 font-date">{{ noti.value.description | slice:0:100 }}</p>
+        <p class="mb-0 font-date">{{ noti.value.createAt.seconds*1000 | date: 'd/M/yyyy' }} {{
+          noti.value.createAt.seconds*1000 | date: "HH:mm:ss" }}</p>
+
+        <!-- NOTIFICATION DES -->
+        <div class="row p-des mt-2">
+          <div class="col-auto sm-pr">
+            <img class="img-fluid img-store" style="border-radius: 10px;" src="{{ noti.value.product.imgProduct1.imgUrl }}">
+          </div>
+          <div class="col pl-0">
+            <h5 *ngIf="noti.value.type == 'order' || noti.value.type == 'review'" class="mb-0 font-topic">คำสั่งซื้อ #{{ noti.value.product.orderNo }}</h5>
+            <p class="mb-0 font-des">{{ noti.value.product.productName | slice:0:18 }}<a *ngIf="noti.value.product.productName.length > 18">...</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

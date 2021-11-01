@@ -1,0 +1,311 @@
+<div *ngIf="showContent">
+  <!-- CARD STATUS -->
+  <div class="row row-m">
+    <div class="col col-p">
+      <div class="col-auction-date">
+        <i class="fa fa-2x fa-flag"></i>
+        <p class="mb-0">{{ orderDetail.productCreateAt.seconds*1000 | date: 'd/M/yyyy' }} {{ orderDetail.productCreateAt.seconds*1000 | date: "HH:mm:ss" }}</p>
+        <p class="mb-0 text-07">วันที่ลงสินค้า</p>
+        <!-- <div *ngIf="orderDetail.salesType == 'auction'">
+          <p class="mb-0 text-07">วันที่เริ่มประมูล</p>
+        </div> -->
+        <!-- <div *ngIf="orderDetail.salesType == 'setSellingPrice'">
+          <p class="mb-0 text-07">วันที่ลงสินค้า</p>
+        </div> -->
+      </div>
+    </div>
+    <div class="col col-p">
+      <div class="col-order-date">
+        <i class="fa fa-2x fa-shopping-cart"></i>
+        <p class="mb-0">{{ orderDetail.createAt.seconds*1000 | date: 'd/M/yyyy' }} {{ orderDetail.createAt.seconds*1000 | date: "HH:mm:ss" }}</p>
+        <p class="mb-0 text-07">วันที่สั่งสินค้า</p>
+      </div>
+    </div>
+    <div class="col col-p">
+      <div class="col-send-date">
+        <i class="fa fa-2x fa-archive"></i>
+        <p class="mb-0">{{ orderDetail.countDate }} วัน</p>
+        <p class="mb-0 text-07">ต้องส่งสินค้าภายใน</p>
+      </div>
+    </div>
+  </div>
+  <!-- END CARD STATUS -->
+  <!-- PRODUCT DETAIL -->
+  <div class="container-bg-color mt-2">
+    <!-- ORDER CODE -->
+    <p class="mt-2 mb-0">รหัสคำสั่งซื้อ</p>
+    <div class="row">
+      <div class="col-auto pr-0 align-self-center">
+        <!-- <p class="mb-0 productDataText">• {{ id }}</p> -->
+        <p class="mb-0 productDataText">• {{ orderDetail.orderNo }}</p>
+      </div>
+      <div class="col-auto">
+        <button type="button" class="btn text-placeholder text-center btn-copy" 
+        data-toggle="modal" data-target="#ModalPopupOrderCopy" (click)="copyOrderKey()">คัดลอก</button>
+      </div>
+    </div>
+    <!-- PRODUCT CODE -->
+    <p class="mt-2 mb-0">รหัสสินค้า</p>
+    <div class="row">
+      <div class="col-auto pr-0 align-self-center">
+        <p class="mb-0 productDataText">• {{ orderDetail.productKey }}</p>
+      </div>
+      <div class="col-auto">
+        <button type="button" class="btn text-placeholder text-center btn-copy" 
+        data-toggle="modal" data-target="#ModalPopupCopy" (click)="copyProductKey()">คัดลอก</button>
+      </div>
+    </div>
+    <!-- PRODUCT NAME -->
+    <p class="mt-2 mb-0">ชื่อสินค้า</p>
+    <p class="mb-0 productDataText">• {{ orderDetail.productName }}</p>
+    <!-- PRICE AUCTION -->
+    <p class="mt-2 mb-0">ราคาสินค้า</p>
+    <p class="mb-0 productDataText">• {{ orderDetail.priceOfProduct }}</p>
+    <!-- PRODUCT OPTION -->
+    <p class="mt-2 mb-0">ตัวเลือกสินค้า</p>
+      <p class="mb-0 productDataText">• ตัวเลือก {{ orderDetail.productOption.optionName }}</p>
+      <p class="mb-0 productDataText" *ngIf="orderDetail.productOption.subOption != null">• ตัวเลือกย่อย {{ orderDetail.productOption.subOption }}</p>
+    <!-- PRODUCT IMG -->
+    <p class="mt-2 mb-0">ภาพสินค้า</p>
+    <div class="row row-img-m" style="margin-top: -8px;">
+      <div class="col-6 col-md-6 col-lg-2 col-img-p mt-2" *ngFor="let _dataImg of orderDetail.imgProduct;">
+        <img data-toggle="modal" data-target="#ModalPopupImg" (click)="popUpImg(_dataImg.imgUrl)" src="{{ _dataImg.imgUrl }}" class="img-fluid border-radius-10" style="cursor: pointer;">
+      </div>
+    </div>
+    <!-- DELIVERY DETAIL -->
+    <a class="mt-2" style="text-decoration:none; color: #000;">รายละเอียดขนส่ง</a>
+    <a class="mt-2 ml-2 productDataText" style="text-decoration:none;">ราคาที่ระบุ คือราคาที่ได้เพิ่มในขั้นตอนลงสินค้าซึ่งไม่ใช่ราคาจากผู้ให้บริการขนส่ง</a>
+
+    <div class="row">
+      <div class="col-auto">
+        <p class="mb-0 productDataText">• {{ orderDetail.delivery.priceDelivery.deliveryName }} (ด่วนพิเศษ)</p>
+        <p *ngIf="orderDetail.delivery.codStatus" class="mb-0 productDataText text-danger">• จัดส่งแบบเก็บเงินปลายทาง (COD)</p>
+      </div>
+      <div class="col">
+        <p class="mb-0 productDataText">ราคาที่ระบุ ฿{{ orderDetail.delivery.priceDelivery.priceDeliveryInput }}</p>
+      </div>
+    </div>
+    <p class="mb-0 text-danger">• โปรดเก็บหลักฐานการบรรจุของไม่ว่าจะเป็นในรูปแบบภาพถ่ายหรือวิดีโอการบรรจุเพื่อใช้ในกรณีการโต้แย้งการขอคืนสินค้าจากผู้ซื้อ</p>
+    <!-- CREATE FIRST -->
+    <div *ngIf="orderDetail.delivery.status == null || orderDetail.delivery.status == 'fail'">
+      <button type="button" class="btn mt-2 text-center btn-create-pdf" (click)="createOrderDelivery()">ออกใบปะหน้ากล่องพัสดุ {{ orderDetail.delivery.priceDelivery.deliveryName }}</button>
+    </div>
+    <!-- WONT CREATE PDF AGAIN -->
+    <div *ngIf="orderDetail.delivery.status == 'created'">
+      <button type="button" class="btn mt-2 text-center btn-create-pdf" (click)="createPdf()">ออกใบปะหน้ากล่องพัสดุอีกครั้ง {{ orderDetail.delivery.priceDelivery.deliveryName }}</button>
+    </div>
+    <!-- FLASH EXPRESS -->
+    <!-- CALL COURIER -->
+    <div *ngIf="orderDetail.delivery.status == 'created' && orderDetail.delivery.priceDelivery.deliveryName == 'Flash Express'">
+      <!-- CALL COURIER -->
+      <div *ngIf="orderDetail.delivery.flashExCallCourier == undefined" class="mt-2 mb-2">
+        <button type="button" class="btn mt-2 text-center btn-call-courier" (click)="flashExCallCourier()">เรียกรถเข้ารับพัสดุโดย {{ orderDetail.delivery.priceDelivery.deliveryName }}</button>
+        <p class="mb-0 text-danger">หากร้านค้าเรียกรถเข้ารับพัสดุในวันนี้แล้ว ร้านค้าไม่จำเป็นต้องกดเรียกรถเข้ารับสำหรับพัสดุอื่น ๆ ให้ทำการฝากส่งในรอบเดียวกันได้เลย</p>
+      </div>
+      <div *ngIf="orderDetail.delivery.flashExCallCourier != undefined" class="mt-2 mb-2">
+        <p class="mb-0"><a style="text-decoration: none;">ชื่อพนักงาน</a>: <a style="text-decoration: none;">{{ responseCallCourier.staffInfoName }}</a></p>
+        <p class="mb-0"><a style="text-decoration: none;">เบอร์ติดต่อ</a>: <a style="text-decoration: none;">{{ responseCallCourier.staffInfoPhone }}</a></p>
+        <p class="mb-0"><a style="text-decoration: none;">เวลาเข้ารับพัสดุ</a>: <a style="text-decoration: none;">{{ responseCallCourier.timeoutAtText }}</a></p>
+        <p class="mb-0"><a style="text-decoration: none;">หมายเหตุ</a>: <a style="text-decoration: none;">{{ responseCallCourier.ticketMessage }}</a></p>
+        <p class="mb-0 text-danger">หากร้านค้าเรียกรถเข้ารับพัสดุในวันนี้แล้ว ร้านค้าไม่จำเป็นต้องกดเรียกรถเข้ารับสำหรับพัสดุอื่น ๆ ให้ทำการฝากส่งในรอบเดียวกันได้เลย</p>
+      </div>
+    </div>
+
+    <!-- INPUT DELIVERY TACKING -->
+    <!-- <div class="input-style mt-2 mb-2">
+      <p class="mb-0 text-input">กรุณาเพิ่มรหัสติดตามสินค้า</p>
+      <input maxlength="100" class="form-control border-0 pl-3 text-placeholder bg-input-white" placeholder="กรุณาเพิ่มรหัสติดตามสินค้า" #trackingNumber_>
+    </div> -->
+    <!-- BUYER -->
+    <p class="mt-2 mb-0">ผู้สั่งซื้อ</p>
+    <div class="row">
+      <div class="col-auto pr-0 align-self-center">
+        <!-- <p class="mb-0 productDataText">• รหัสผู้ใช้งาน : {{ orderDetail.buyerUID }}</p> -->
+        <p class="mb-0 productDataText">• ติดต่อผู้สั่งซื้อ</p>
+      </div>
+      <div class="col-auto">
+        <button type="button" class="btn text-placeholder text-center btn-copy" (click)="gotoChatRoom()">ข้อความ</button>
+      </div>
+    </div>
+    <!-- BUYER ADDRESS -->
+    <p class="mt-2 mb-0">ที่อยู่ในการจัดส่ง</p>
+    <p class="mb-0 productDataText">• ชื่อ-นามสกุล: {{ buyerName }}</p>
+    <p class="mb-0 productDataText">• ที่อยู่: {{ buyerAddress }}</p>
+    <!-- BOTTOM BUTTON -->
+    <div class="row row-img-m mt-4"> 
+      <div class="col col-img-p"> 
+        <button data-toggle="modal" data-target="#ModalPopupCancel" type="button" class="btn text-placeholder text-center btn-cancel">ยกเลิกคำสั่งซื้อ</button>
+      </div>
+      <!-- <div class="col col-img-p"> 
+        <button data-toggle="modal" data-target="#ModalPopupSuccess" type="button" class="btn text-placeholder text-center btn-success" (click)="checkTrackingNumber(trackingNumber_.value)">ส่งสินค้าเรียบร้อย</button>
+        <p>ควรกดเมื่อส่งสินค้ากับผู้ให้บริการขนส่งเรียบร้อยแล้ว
+          เพื่อเริ่มนับเวลาในการขนส่ง</p>
+      </div> -->
+    </div>
+  </div>
+  <!-- END PRODUCT DETAIL -->
+</div>
+
+<!-- MODAL POPUP ORDER COPY -->
+<div class="modal fade" id="ModalPopupOrderCopy" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+      <p class="text-center">คัดลอกรหัสคำสั่งซื้อเรียบร้อย</p>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal">ตกลง</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- ENG MODAL POPUP ORDER COPY -->
+
+<!-- MODAL POPUP COPY -->
+<div class="modal fade" id="ModalPopupCopy" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+      <p class="text-center">คัดลอกรหัสสินค้าเรียบร้อย</p>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal">ตกลง</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- ENG MODAL POPUP COPY -->
+
+<!-- MODAL POPUP SHOW IMG -->
+<div class="modal fade" id="ModalPopupImg" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img src="{{ imgUrl }}" class="img-fluid border-radius-10">
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal">ตกลง</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- ENG MODAL POPUP SHOW IMG -->
+
+<!-- MODAL POPUP CANCEL -->
+<div class="modal fade" id="ModalPopupCancel" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+      <p class="text-center">หากไม่สามารถส่งสินค้าได้ตามกำหนดไม่ว่าเหตุใดก็ตาม ร้านจะถูกหักคะแนน 10 คะแนน</p>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal" (click)="cancelOrder()">ตกลง</button>
+        </div>
+        <div class="mt-2">
+          <a data-dismiss="modal" aria-label="Close" style="cursor: pointer;">
+            <p class="text-center">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- ENG MODAL POPUP CANCEL -->
+
+<!-- MODAL POPUP SUCCESS -->
+<div class="modal fade" id="ModalPopupSuccess" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+      <p class="text-center">{{ textModal }}</p>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal" (click)="updateTracking()">ตกลง</button>
+        </div>
+        <div class="mt-2">
+          <a data-dismiss="modal" aria-label="Close" style="cursor: pointer;">
+            <p class="text-center">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- ENG MODAL POPUP SUCCESS -->
+
+<!-- MODAL POPUP CREATE DELIVERY FAIL -->
+<div class="modal fade" [class.show]="CreateDelveryFail" [class.modalShow]="CreateDelveryFail" id="ModalCreateDelveryFail" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+      <p class="text-center">สร้างรายการพัสดุไม่สำเร็จโปรดติดต่อศูนย์ช่วยเหลือ</p>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal" (click)="closeModalCreateDelveryFail()">ตกลง</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- ENG MODAL POPUP CREATE DELIVERY FAIL -->
+
+<!-- MODAL POPUP CREATE DELIVERY FAIL -->
+<div class="modal fade" [class.show]="CreatePdfFail" [class.modalShow]="CreatePdfFail" id="ModalCreatePdfFail" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+      <p class="text-center">สร้างใบปะหน้าพัสดุไม่สำเร็จโปรดติดต่อศูนย์ช่วยเหลือ</p>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal" (click)="closeModalCreatePdfFail()">ตกลง</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- ENG MODAL POPUP CREATE DELIVERY FAIL -->
+
+<!-- MODAL POPUP CREATE DELIVERY FAIL -->
+<div class="modal fade" [class.show]="callCourierSucc" [class.modalShow]="callCourierSucc" id="ModalCallCourierSucc" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+      <p class="mb-0"><a style="text-decoration: none;">ชื่อพนักงาน</a>: <a style="text-decoration: none;">{{ responseCallCourier.staffInfoName }}</a></p>
+        <p class="mb-0"><a style="text-decoration: none;">เบอร์ติดต่อ</a>: <a style="text-decoration: none;">{{ responseCallCourier.staffInfoPhone }}</a></p>
+        <p class="mb-0"><a style="text-decoration: none;">เวลาเข้ารับพัสดุ</a>: <a style="text-decoration: none;">{{ responseCallCourier.timeoutAtText }}</a></p>
+        <p class="mb-0"><a style="text-decoration: none;">หมายเหตุ</a>: <a style="text-decoration: none;">{{ responseCallCourier.ticketMessage }}</a></p>
+        <p class="mb-0 text-danger">หากร้านค้าเรียกรถเข้ารับพัสดุในวันนี้แล้ว ร้านค้าไม่จำเป็นต้องกดเรียกรถเข้ารับสำหรับพัสดุอื่น ๆ ให้ทำการฝากส่งในรอบเดียวกันได้เลย</p>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal" (click)="closeModalCallCourierSucc()">ตกลง</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- ENG MODAL POPUP CREATE DELIVERY FAIL -->

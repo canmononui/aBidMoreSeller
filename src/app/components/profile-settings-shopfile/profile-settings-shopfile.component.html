@@ -1,0 +1,162 @@
+<div *ngIf="showContent">
+  <!-- Dropdown -->
+  <div class="dropdown">
+    <div class="input-style mt-2" style="cursor: pointer;" data-toggle="dropdown" aria-haspopup="true"
+      aria-expanded="false">
+      <p class="mb-0 text-input">ประเภท</p>
+      <div style="box-shadow: none; background-color: #FFF; border-radius: 5px; padding: 6px 12px 6px 16px;">
+        <div class="row">
+          <div class="col-10 pr-0">
+            <p class="mb-0 text-placeholder">{{ text_type_place_company }}</p>
+          </div>
+          <div class="col-2 pl-0 text-right">
+            <p class="mb-0 dropdown-toggle"></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <ul class="dropdown-menu pt-2 pb-2 pl-3 pr-3" role="menu">
+      <li><a (click)="selectIndividual()" class="dropdown-menu-text"
+          style="cursor: pointer;">บุคคลธรรมดา</a></li>
+      <li><a (click)="selectCorporation()" class="dropdown-menu-text"
+          style="cursor: pointer;">นิติบุคคล/บริษัท</a></li>
+    </ul>
+  </div>
+  <div class="mt-2" *ngIf="showIndividual">
+    <p class="mb-0">1. บัตรประชาชน</p>
+    <p class="mb-0" style="font-size: .9rem;">• สำเนาพร้อมลงนามยืนยันความถูกต้อง</p>
+    <div class="row">
+      <div class="col-12 align-self-center pr-0">
+        <p class="mb-0">{{ printidCard }}</p>
+      </div>
+      <div class="col-12">
+        <label class="btn btn-up">อัพรูปภาพบัตรประชาชน (png,jpg)
+          <input type="file" accept="image/png, image/jpeg" style="display: none;"
+            (change)="uploadidCardIndividual($event)">
+        </label>
+      </div>
+    </div>
+  </div>
+  <div class="mt-2" *ngIf="showCorporation">
+    <p class="mb-0">1. บัตรประชาชน</p>
+    <p class="mb-0" style="font-size: .9rem;">• สำเนาพร้อมลงนามยืนยันความถูกต้อง</p>
+    <div class="row">
+      <div *ngFor="let data of idCardCorporation" class="col-12 align-self-center pr-0">
+        <a class="mr-4 text-dark font-weight-bold" style="cursor: pointer; text-decoration: none;"
+          (click)="removeidCardCorporation(data)">ลบ</a>
+        <a class="mb-0 text-dark" style="text-decoration: none;">{{ data.FileName }}</a>
+      </div>
+      <div class="col-12">
+        <label class="btn btn-up">อัพรูปภาพบัตรประชาชน (png,jpg)
+          <input type="file" accept="image/png, image/jpeg" style="display: none;"
+            (change)="uploadidCardCorporation($event)">
+        </label>
+      </div>
+    </div>
+  </div>
+  <div class="mt-2" *ngIf="showIndividual">
+    <p class="mb-0">2. ทะเบียนบ้าน</p>
+    <p class="mb-0" style="font-size: .9rem;">• สำเนาพร้อมลงนามยืนยันความถูกต้อง</p>
+    <div class="row">
+      <div class="col-12 align-self-center pr-0">
+        <p class="mb-0">{{ printhouseRegis }}</p>
+      </div>
+      <div class="col-12">
+        <label class="btn btn-up">อัพรูปภาพทะเบียนบ้าน (png,jpg)
+          <input type="file" accept="image/png, image/jpeg" style="display: none;"
+            (change)="uploadhouseRegis($event)">
+        </label>
+      </div>
+    </div>
+  </div>
+  <div class="mt-2" *ngIf="showCorporation">
+    <p class="mb-0">2. หนังสือรับรองนิติบุคคล</p>
+    <p class="mb-0" style="font-size: .9rem;">• สำเนาหนังสือรับรองนิติบุคคล 2 หน้าแรก (DBD)</p>
+    <div class="row">
+      <div class="col-12 align-self-center pr-0">
+        <p class="mb-0">{{ printdbdFile }}</p>
+      </div>
+      <div class="col-12">
+        <label class="btn btn-up">อัพรูปภาพหนังสือรับรองนิติบุคคล (pdf)
+          <input type="file" accept="application/pdf" style="display: none;"
+            (change)="uploadDBDFile($event)">
+        </label>
+      </div>
+    </div>
+  </div>
+  <!-- <div class="mt-2">
+    <p class="mb-0">3. หน้าสมุดบัญชี</p>
+    <p class="mb-0" style="font-size: .9rem;">• สำเนาพร้อมลงนามยืนยันความถูกต้อง</p>
+    <div class="row">
+      <div class="col-12 align-self-center pr-0">
+        <p class="mb-0">{{ printbookBank }}</p>
+      </div>
+      <div class="col-12">
+        <label class="btn btn-up">อัพรูปภาพหน้าสมุดบัญชี (png,jpg)
+          <input type="file" accept="image/png, image/jpeg" style="display: none;"
+            (change)="uploadbookBank($event)">
+        </label>
+      </div>
+    </div>
+  </div> -->
+  <div class="mt-2">
+    <p class="mb-0">3. ทะเบียนภาษีมูลค่าเพิ่ม (ถ้ามี)</p>
+    <p class="mb-0" style="font-size: .9rem;">• สำเนาพร้อมลงนามยืนยันความถูกต้อง</p>
+    <div class="row">
+      <div class="col-12 align-self-center pr-0">
+        <p class="mb-0">{{ printvatRegis }}</p>
+      </div>
+      <div class="col-12">
+        <label class="btn btn-up">อัพรูปภาพทะเบียนภาษีมูลค่าเพิ่ม (png,jpg)
+          <input type="file" accept="image/png, image/jpeg" style="display: none;"
+            (change)="uploadvatRegis($event)">
+        </label>
+      </div>
+    </div>
+  </div>
+
+  <!-- Submit Button -->
+  <div class="text-center mb-2">
+    <button data-toggle="modal" data-target="#ModalPopupSubmit" data-backdrop="static" data-keyboard="false" 
+    type="button" class="btn mt-2 text-center btn-submit" (click)="checkFile()">เพิ่มเอกสาร
+    </button>
+  </div>
+
+  <!-- MODAL POPUP UPDATE FILE -->
+  <div class="modal fade" id="ModalPopupSubmit" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+        <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+        <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+        <p class="text-center">{{ textError }}</p>
+        <div class="mt-4">
+          <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+            <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+              style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+              data-dismiss="modal" (click)="addFile()">ตกลง</button>
+          </div>
+          <div class="mt-2" *ngIf="status">
+            <a data-dismiss="modal" aria-label="Close" #closeModal style="cursor: pointer;">
+              <p class="text-center">ยกเลิก</p>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- END MODAL POPUP UPDATE FILE -->
+</div>
+
+<!-- SHOW LOADING -->
+<div *ngIf="showLoading">
+  <div style="height: 100vh;">
+    <div class="container h-100 d-flex justify-content-center">
+      <div class="my-auto text-center">
+        <img class="rounded-circle shadow" style="width: 60px; height: 60px;"
+          src="./assets/img/WebsiteLogo-hourglass-B-Edit2_MoreBubble_shadow.png">
+        <p>Loading...</p>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END SHOW LOADING -->

@@ -1,0 +1,417 @@
+.input-style {
+  padding: 16px 16px 16px 24px; 
+  border-radius: 10px; 
+  background-color: #F2F6FA;
+}
+
+.scrollable-menu {
+  height: auto;
+  max-height: 250px;
+  overflow-x: hidden;
+}
+
+.dropdown-menu-text {
+  color: #343a40;
+  text-decoration: none;
+}
+
+.input_ {
+  box-shadow: none; 
+  background-color: #F2F6FA;
+}
+
+.dot {
+  position: absolute; 
+  top: 10px; 
+  right: 10px;
+}
+
+.dot-waitAuction {
+  height: 20px;
+  width: 20px;
+  background-color: #FFD500;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot-bidding {
+  height: 20px;
+  width: 20px;
+  background-color: #69D969;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot-forSale {
+  height: 20px;
+  width: 20px;
+  background-color: #4f84ff;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot-waitOrderConfirm {
+  height: 20px;
+  width: 20px;
+  background-color: #FE7F00;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot-onSale14Days {
+  height: 20px;
+  width: 20px;
+  background-color: #FE1B1B;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot-productHistory {
+  height: 20px;
+  width: 20px;
+  background-color: #483737;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.row-top-menu {
+  margin-left: -4px;
+  margin-right: -4px;
+}
+
+.col-top-menu {
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+/* Card Product */
+/* .img-card-auto-win {
+  padding: 0px 4px 0px 0px;
+  background-color: #fff;
+  border: 3px solid #F0F0F0; 
+  border-radius: 0px 15px 15px 0px; 
+}
+
+.img-card-time {
+  padding: 0px 0px 0px 4px;
+  background-color: #fff;
+  border: 3px solid #F0F0F0; 
+  border-radius: 15px 0px 0px 15px; 
+} */
+
+.rating-stars {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0;
+  padding: 0;
+}
+
+.rating-stars li {
+  display: block;
+  text-overflow: clip;
+  white-space: nowrap;
+  z-index: 1;
+}
+
+.m-row-card-product {
+  margin-left: -4px; 
+  margin-right: -4px;
+}
+
+.p-col-card-product {
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+.img-auto-win-other {
+  margin: -5px 1px 0px -12px;
+  max-width: 40px;
+}
+
+.img-time-other {
+  margin: -5px -12px 0px 1px;
+  max-width: 40px;
+}
+
+.card-border-3 {
+  border: 3px solid #E7EDF4; 
+  border-radius: 15px;
+}
+
+.posi-card {
+  position: relative;
+}
+
+.product-img-card {
+  width: 100%; 
+  border-radius: 13px 13px 0px 0px;
+}
+
+.bg-left-auto {
+  position: absolute; 
+  bottom: 6px; 
+  left: 16px;
+}
+
+.bg-right-time {
+  position: absolute; 
+  bottom: 6px; 
+  right: 16px;
+}
+
+.p-text-other {
+  font-size: 1rem;
+}
+
+.card-body-padding {
+  padding: 20px;
+}
+/* End Card Product */
+
+/* Datepicker */
+.form-group.hidden {
+  width: 0;
+  margin-top: 65px;
+  border: none;
+  padding: 0;
+}
+
+/* .form-group.hidden-mt {
+  margin-top: 65px;
+} */
+
+.custom-day {
+  text-align: center;
+  padding: 0.185rem 0.25rem;
+  display: inline-block;
+  height: 2rem;
+  width: 2rem;
+}
+
+.custom-day.focused {
+  background-color: #e6e6e6;
+}
+
+.custom-day.range, .custom-day:hover {
+  background-color: rgb(217, 83, 79);
+  color: white;
+}
+
+.custom-day.faded {
+  background-color: rgb(217, 83, 79, 0.5);
+}
+/* End Datepicker */
+
+.dropdown-menu {
+  width: 200%;
+}
+
+.dropdown-item:active {
+  color: #FFF; 
+  background-color: #FE5721;
+}
+
+.dropdown-menu-show {
+  display: block;
+}
+
+.dropdown-menu-select {
+  color: #FFF;
+  background-color: #D9534F;
+}
+
+.btn-circle.btn-xl {
+  width: 70px;
+  height: 70px;
+  padding: 10px 16px;
+  border-radius: 35px;
+  font-size: 24px;
+  line-height: 1.33;
+}
+
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  padding: 6px 0px;
+  border-radius: 15px;
+  text-align: center;
+  font-size: 12px;
+  line-height: 1.42857;
+}
+
+.col-sub-cat {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.disabled {
+  pointer-events: none;
+  opacity: 0.4;
+}
+
+.search-symbol {
+  font-size: 1rem;
+  color: #495057;
+}
+
+.input-style-search {
+  padding: 16px 16px 18px 24px; 
+  border-radius: 10px; 
+  background-color: #F2F6FA;
+}
+
+@media only screen and (max-width: 768px) {
+  .dropdown-menu {
+    width: 330%;
+  }
+
+  .col-sub-cat {
+    padding-left: 0px;
+    padding-right: 15px;
+  }
+
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media only screen and (max-width: 480px) {
+  .col-sub-cat {
+    padding-left: 0px;
+    padding-right: 15px;
+  }
+  
+  .dropdown-menu {
+    width: 200%;
+  }
+
+  .dropdown-menu-right-custom {
+    right: 0;
+    left: auto;
+  }
+
+  .dot {
+    top: 8px; 
+    right: 8px;
+  }
+
+  .dot-waitAuction {
+    height: 15px;
+    width: 15px;
+  }
+  
+  .dot-bidding {
+    height: 15px;
+    width: 15px;
+  }
+  
+  .dot-forSale {
+    height: 15px;
+    width: 15px;
+  }
+  
+  .dot-waitOrderConfirm {
+    height: 15px;
+    width: 15px;
+  }
+  
+  .dot-onSale14Days {
+    height: 15px;
+    width: 15px;
+  }
+  
+  .dot-productHistory {
+    height: 15px;
+    width: 15px;
+  }
+
+  .form-group {
+    margin-bottom: 0px;
+  }
+
+  .form-group.hidden {
+    /* width: 0; */
+    margin-top: 40px;
+    /* border: none;
+    padding: 0; */
+  }
+
+  .input-style {
+    padding: 10px 10px 10px 15px; 
+    border-radius: 0px;
+  }
+  
+  .text-input {
+    font-size: 0.8rem;
+  }
+
+  .text-placeholder {
+    font-size: 0.7rem;
+  }
+
+  /* Card Product */
+  /* .m-row-card-product {
+    margin-left: -5px; 
+    margin-right: -5px;
+  }
+
+  .p-col-card-product {
+    padding-left: 3px;
+    padding-right: 3px;
+  } */
+
+  .img-auto-win-other {
+    max-width: 30px;
+  }
+  
+  .img-time-other {
+    max-width: 30px;
+  }
+
+  .p-text-other {
+    font-size: 0.5rem;
+  }
+
+  /* .img-card-auto-win {
+    padding: 2px 4px 2px 0px;
+    background-color: #fff;
+    border: 0.5px solid #F0F0F0; 
+    border-radius: 0px 15px 15px 0px; 
+  }
+
+  .img-card-time {
+    padding: 2px 0px 2px 4px;
+    background-color: #fff;
+    border: 0.5px solid #F0F0F0; 
+    border-radius: 15px 0px 0px 15px; 
+  } */
+
+  .card-border-3 {
+    border: 1.5px solid #E7EDF4;
+    border-radius: 15px;
+  }
+
+  .card-body-padding {
+    padding: 10px;
+  }
+
+  .card-title {
+    font-size: 1rem;
+    margin-bottom: 5px;
+  }
+
+  .card-text {
+    font-size: .8rem;
+    margin-bottom: 5px;
+  }
+  /* End Card Product */
+
+  .card-padding-sm {
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+
+  .input-style-search {
+    padding: 10px 10px 11px 15px; 
+    border-radius: 0px;
+  }
+
+}

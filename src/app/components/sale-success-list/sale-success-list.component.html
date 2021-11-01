@@ -1,0 +1,389 @@
+<!-- Top Menu -->
+<div class="row row-top-menu card-padding-sm">
+  <div class="col-6 col-md-4 col-xl-4 col-top-menu" style="cursor: pointer;">
+    <div class="dropdown">
+      <div class="input-style mt-2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <p class="mb-0 text-input">ประเภทสินค้า</p>
+        <div class="row">
+          <div class="col pr-0">
+            <p class="mt-2 mb-2 text-placeholder" style="color: #616a71;">{{ placeholderProductTag }}</p>
+          </div>
+          <div class="col-auto pl-0" style="cursor: pointer;" *ngIf="tagEN != ''" (click)="clearTag()">
+            <p class="mt-2 mb-2">x</p>
+          </div>
+        </div>
+      </div>
+      <div class="dropdown-menu dropdown-menu-right-custom" [class.dropdown-menu-show]="dropdownMenuShow"> 
+        <div class="row">
+          <div class="col text-right" (click)="closeDropdownMenu()">
+              <i class="fa fa-times-circle mr-2" style="cursor: pointer;"></i>
+          </div>
+        </div>
+        <div class="row">
+          <!-- Col SubCat 1 -->
+          <div class="col pr-0 scrollable-menu">
+            <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'maleClothes'">
+              <div class="row">
+                <div class="col pr-0">
+                  <p class="text-input mb-0" (click)="selectTag('maleClothes', 'เสื้อผ้าชาย')">เสื้อผ้าชาย</p>
+                </div>
+                <div class="col-auto pl-0">
+                  <i class="fa fa-chevron-right text-right"></i>
+                </div>
+              </div>
+            </a>
+            <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'maleShoes'">
+              <div class="row">
+                <div class="col pr-0">
+                  <p class="text-input mb-0" (click)="selectTag('maleShoes', 'รองเท้าชาย')">รองเท้าชาย</p>
+                </div>
+                <div class="col-auto pl-0">
+                  <i class="fa fa-chevron-right text-right"></i>
+                </div>
+              </div>
+            </a>
+            <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'femaleClothes'">
+              <div class="row">
+                <div class="col pr-0">
+                  <p class="text-input mb-0" (click)="selectTag('femaleClothes', 'เสื้อผ้าหญิง')">เสื้อผ้าหญิง</p>
+                </div>
+                <div class="col-auto pl-0">
+                  <i class="fa fa-chevron-right text-right"></i>
+                </div>
+              </div>
+            </a>
+            <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'femaleShoes'">
+              <div class="row">
+                <div class="col pr-0">
+                  <p class="text-input mb-0" (click)="selectTag('femaleShoes', 'รองเท้าหญิง')">รองเท้าหญิง</p>
+                </div>
+                <div class="col-auto pl-0">
+                  <i class="fa fa-chevron-right text-right"></i>
+                </div>
+              </div>
+            </a>
+            <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'beauty'">
+              <div class="row">
+                <div class="col pr-0">
+                  <p class="text-input mb-0" (click)="selectTag('beauty', 'ความงาม')">ความงาม</p>
+                </div>
+                <div class="col-auto pl-0">
+                  <i class="fa fa-chevron-right text-right"></i>
+                </div>
+              </div>
+            </a>
+            <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'bag'">
+              <div class="row">
+                <div class="col pr-0">
+                  <p class="text-input mb-0" (click)="selectTag('bag', 'กระเป๋า')">กระเป๋า</p>
+                </div>
+                <div class="col-auto pl-0">
+                  <i class="fa fa-chevron-right text-right"></i>
+                </div>
+              </div>
+            </a>
+            <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'accessories'">
+              <div class="row">
+                <div class="col pr-0">
+                  <p class="text-input mb-0" (click)="selectTag('accessories', 'เครื่องประดับ')">เครื่องประดับ</p>
+                </div>
+                <div class="col-auto pl-0">
+                  <i class="fa fa-chevron-right text-right"></i>
+                </div>
+              </div>
+            </a>
+            <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'homeAppliances'">
+              <div class="row">
+                <div class="col pr-0">
+                  <p class="text-input mb-0" (click)="selectTag('homeAppliances', 'เครื่องใช้ในบ้าน')">เครื่องใช้ในบ้าน</p>
+                </div>
+                <div class="col-auto pl-0">
+                  <i class="fa fa-chevron-right text-right"></i>
+                </div>
+              </div>
+            </a>
+            <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'mobilePhone'">
+              <div class="row">
+                <div class="col pr-0">
+                  <p class="text-input mb-0" (click)="selectTag('mobilePhone', 'มือถือ')">มือถือ</p>
+                </div>
+                <div class="col-auto pl-0">
+                  <i class="fa fa-chevron-right text-right"></i>
+                </div>
+              </div>
+            </a>
+            <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'game'">
+              <div class="row">
+                <div class="col pr-0">
+                  <p class="text-input mb-0" (click)="selectTag('game', 'เกม')">เกม</p>
+                </div>
+                <div class="col-auto pl-0">
+                  <i class="fa fa-chevron-right text-right"></i>
+                </div>
+              </div>
+            </a>
+            <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'camera'">
+              <div class="row">
+                <div class="col pr-0">
+                  <p class="text-input mb-0" (click)="selectTag('camera', 'กล้อง')">กล้อง</p>
+                </div>
+                <div class="col-auto pl-0">
+                  <i class="fa fa-chevron-right text-right"></i>
+                </div>
+              </div>
+            </a>
+            <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'sport'">
+              <div class="row">
+                <div class="col pr-0">
+                  <p class="text-input mb-0" (click)="selectTag('sport', 'กีฬา')">กีฬา</p>
+                </div>
+                <div class="col-auto pl-0">
+                  <i class="fa fa-chevron-right text-right"></i>
+                </div>
+              </div>
+            </a>
+            <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'computer'">
+              <div class="row">
+                <div class="col pr-0">
+                  <p class="text-input mb-0" (click)="selectTag('computer', 'คอมพิวเตอร์')">คอมพิวเตอร์</p>
+                </div>
+                <div class="col-auto pl-0">
+                  <i class="fa fa-chevron-right text-right"></i>
+                </div>
+              </div>
+            </a>
+            <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'food'">
+              <div class="row">
+                <div class="col pr-0">
+                  <p class="text-input mb-0" (click)="selectTag('food', 'อาหาร')">อาหาร</p>
+                </div>
+                <div class="col-auto pl-0">
+                  <i class="fa fa-chevron-right text-right"></i>
+                </div>
+              </div>
+            </a>
+            <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'electricalApp'">
+              <div class="row">
+                <div class="col pr-0">
+                  <p class="text-input mb-0" (click)="selectTag('electricalApp', 'เครื่องใช้ไฟฟ้า')">เครื่องใช้ไฟฟ้า</p>
+                </div>
+                <div class="col-auto pl-0">
+                  <i class="fa fa-chevron-right text-right"></i>
+                </div>
+              </div>
+            </a>
+            <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'motorVehicle'">
+              <div class="row">
+                <div class="col pr-0">
+                  <p class="text-input mb-0" (click)="selectTag('motorVehicle', 'ยานยนต์')">ยานยนต์</p>
+                </div>
+                <div class="col-auto pl-0">
+                  <i class="fa fa-chevron-right text-right"></i>
+                </div>
+              </div>
+            </a>
+            <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'voucher'">
+              <div class="row">
+                <div class="col pr-0">
+                  <p class="text-input mb-0" (click)="selectTag('voucher', 'voucher')">voucher</p>
+                </div>
+                <div class="col-auto pl-0">
+                  <i class="fa fa-chevron-right text-right"></i>
+                </div>
+              </div>
+            </a>
+            <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'fetish'">
+              <div class="row">
+                <div class="col pr-0">
+                  <p class="text-input mb-0" (click)="selectTag('fetish', 'เครื่องราง')">เครื่องราง</p>
+                </div>
+                <div class="col-auto pl-0">
+                  <i class="fa fa-chevron-right text-right"></i>
+                </div>
+              </div>
+            </a>
+            <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'collectibles'">
+              <div class="row">
+                <div class="col pr-0">
+                  <p class="text-input mb-0" (click)="selectTag('collectibles', 'ของสะสม')">ของสะสม</p>
+                </div>
+                <div class="col-auto pl-0">
+                  <i class="fa fa-chevron-right text-right"></i>
+                </div>
+              </div>
+            </a>
+            <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'other'">
+              <div class="row">
+                <div class="col pr-0">
+                  <p class="text-input mb-0" (click)="selectTag('other', 'อื่นๆ')">อื่นๆ</p>
+                </div>
+                <div class="col-auto pl-0">
+                  <i class="fa fa-chevron-right text-right"></i>
+                </div>
+              </div>
+            </a>
+          </div>
+          <!-- End Col SubCat 1 -->
+          <!-- Col SubCat 2 -->
+          <div class="col col-sub-cat scrollable-menu">
+            <a class="dropdown-item" [class.dropdown-menu-select]="dataSubCat == subTagTH" *ngFor="let dataSubCat of subCat" (click)="selectSubTag(dataSubCat)">
+              <div class="row">
+                <div class="col">
+                  <p class="text-input mb-0">{{ dataSubCat }}</p>
+                </div>
+              </div>
+            </a>
+          </div>
+          <!-- End Col SubCat 2 -->
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-6 col-md-4 col-xl-4 col-top-menu" style="cursor: pointer;">
+    <form class="form-inline">
+      <div class="form-group hidden">
+        <div class="input-group">
+          <input name="datepicker"
+                 class="form-control border-0"
+                 ngbDatepicker
+                 #datepicker="ngbDatepicker"
+                 [autoClose]="'outside'"
+                 (dateSelect)="onDateSelection($event)"
+                 [displayMonths]="1"
+                 [dayTemplate]="t"
+                 outsideDays="hidden"
+                 [startDate]="fromDate!"
+                 tabindex="-1">
+          <ng-template #t let-date let-focused="focused">
+            <span class="custom-day"
+                  [class.focused]="focused"
+                  [class.range]="isRange(date)"
+                  [class.faded]="isHovered(date) || isInside(date)"
+                  (mouseenter)="hoveredDate = date"
+                  (mouseleave)="hoveredDate = null">
+              {{ date.day }}
+            </span>
+          </ng-template>
+        </div>
+      </div>
+      <div class="form-group w-100">
+        <div class="input-group w-100">
+          <div class="input-style mt-2 w-100" (click)="datepicker.toggle()">
+            <p class="mb-0 text-input">ช่วงเวลา</p>
+            <p class="mt-2 mb-2 text-placeholder" style="color: #616a71;">{{ dateString }}</p>
+          </div>
+        </div>
+      </div>
+    </form>
+  </div>
+  <div class="col-12 col-md-4 col-xl-4 col-top-menu">
+    <div class="input-style-search mt-2">
+      <p class="mb-0 text-input">ค้นหาสินค้า</p>
+        <div class="row">
+          <div class="col pr-0">
+            <input #searchInput type="text" maxlength="30" class="form-control border-0 p-0 text-placeholder input_"
+            placeholder="รหัสคำสั่งซื้อ/ชื่อสินค้า" (keyup.enter)="searchBtn(searchInput.value)">
+          </div>
+          <div class="col-auto align-self-center" (click)="searchBtn(searchInput.value)">
+            <i class="fa fa-search search-symbol" style="cursor: pointer;"></i>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+<!-- End Top Menu -->
+
+<div *ngIf="showContent">
+  <div class="card-padding-sm">
+    <!-- PRODUCT LIST -->
+    <div class="row m-row-card-product">
+      <div *ngFor="let data of productDataFromFirebase" (click)="productDetail(data.key)"
+        class="col-6 col-sm-3 col-md-6 col-lg-3 col-xl-3 mt-2 p-col-card-product">
+        <div class="card-border-3 bg-white" style="cursor: pointer;">
+          <div class="posi-card">
+            <img src="{{ data.value.imgProduct[0].imgUrl }}" class="product-img-card">
+          </div>
+          <div class="card-body-padding">
+            <!-- PRODUCT NAME & DES -->
+            <h5 class="card-title mb-0">{{ data.value.productName | slice:0:18 }}</h5>
+            <p class="mb-0 text-placeholder text-gray">ชื่อสินค้า</p>
+            <!-- <p class="card-text text-placeholder">สร้าง : {{ data.value.createAt.seconds*1000 | date: 'd/M/yyyy' }}</p> -->
+            <!-- PRODUCT KEY -->
+            <p class="mt-2 mb-0 text-placeholder">{{ data.value.orderNo }}</p>
+            <p class="mb-0 text-placeholder">รหัสคำสั่งซื้อ</p>
+            <!-- DELIVERY TRACKING NUMBER -->
+            <p class="mt-2 mb-0 text-placeholder">{{ data.value.submitOrderAt.seconds*1000 | date: 'd/M/yyyy' }}</p>
+            <p class="mb-0 text-placeholder">วันที่ขายสำเร็จ</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- END PRODUCT LIST -->
+  </div>
+  <!-- ROW CARD PRODUCT -->
+
+  <!-- BACKWARD - FORWARD -->
+  <!-- <div class="row mt-3 mb-3 card-padding-sm">
+    <div class="col">
+      <a class="text-dark" style="text-decoration: none; cursor: pointer;" (click)="previous()"
+        [class.disabled]="pageNumber == 1">
+        <i class="fa fa-angle-left font-weight-bold" aria-hidden="true"></i>
+        ก่อนหน้า
+      </a>
+    </div>
+    <div class="col text-center">
+      <p class="mb-0">หน้า {{ pageNumber }}</p>
+    </div>
+    <div class="col text-right">
+      <a class="text-dark" style="text-decoration: none; cursor: pointer;" (click)="next()"
+        [class.disabled]="productDataFromFirebase.length != 8">
+        ถัดไป
+        <i class="fa fa-angle-right font-weight-bold" aria-hidden="true"></i>
+      </a>
+    </div>
+  </div> -->
+  <!-- END BACKWARD - FORWARD-->
+</div>
+
+<!-- Show Text Select Data -->
+<div *ngIf="showTextSelectData">
+  <div style="height: 80vh;">
+    <div class="container h-100 d-flex justify-content-center">
+      <div class="my-auto text-center">
+        <p class="mb-0">โปรดเลือกตัวเลือก</p>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Show Text Select Data -->
+
+<!-- Show Text Select Data -->
+<div *ngIf="showTextNoData">
+  <div style="height: 80vh;">
+    <div class="container h-100 d-flex justify-content-center">
+      <div class="my-auto text-center">
+        <p class="mb-0 text-danger">ไม่พบข้อมูลที่ตรงกับตัวเลือก</p>
+      </div>
+    </div>
+  </div>
+  <!-- Backward - Forward -->
+  <!-- <div *ngIf="noContentShowPage" class="row mt-3 mb-3 card-padding-sm">
+    <div class="col">
+      <a class="text-dark" style="text-decoration: none; cursor: pointer;" (click)="previous()" [class.disabled]="pageNumber == 1">
+        <i class="fa fa-angle-left font-weight-bold" aria-hidden="true"></i>
+        ก่อนหน้า
+      </a>
+    </div>
+    <div class="col text-center">
+      <p class="mb-0">หน้า {{ pageNumber }}</p>
+    </div>
+    <div class="col text-right">
+      <a class="text-dark" style="text-decoration: none; cursor: pointer;" (click)="next()" [class.disabled]="productDataFromFirebase.length != 8">
+        ถัดไป
+        <i class="fa fa-angle-right font-weight-bold" aria-hidden="true"></i>
+      </a>
+    </div>
+  </div> -->
+  <!-- Backward - Forward -->
+</div>
+<!-- End Show Text Select Data -->

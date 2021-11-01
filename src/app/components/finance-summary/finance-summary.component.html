@@ -1,0 +1,182 @@
+<!-- TOP MENU -->
+<div class="row">
+  <div class="col-auto" style="color: #FFA101; cursor: pointer;">
+    <p>สรุปการเงิน</p>
+  </div>
+  <div class="col-auto pl-1" style="cursor: pointer;" (click)="withdraw()">
+    <p>เบิกเงิน</p>
+  </div>
+  <!-- <div class="col-auto pl-1" style="cursor: pointer;" (click)="deposit()">
+    <p>เติมเงิน</p>
+  </div> -->
+  <div class="col-auto pl-1" style="cursor: pointer;" (click)="waitingWithdraw()">
+    <p>รออนุมัติการเบิก</p>
+  </div>
+  <div class="col-auto pl-1 disabled" style="cursor: pointer;" (click)="donate()">
+    <p>บริจาค</p>
+  </div>
+</div>
+<!-- END TOP MENU -->
+
+<!-- DROPDOWN MENU -->
+<div class="row row-top-menu card-padding-sm">
+  <div class="col-6 col-top-menu" style="cursor: pointer;">
+    <div class="dropdown">
+      <div class="input-style mt-2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <p class="mb-0 text-input">ประเภท</p>
+        <p class="mt-2 mb-2 text-placeholder" style="color: #616a71;">{{ placeholderProductStatus }}</p>
+      </div>
+      <div class="dropdown-menu scrollable-menu w-100">
+        <a (click)="typefinance('revenue', 'รายรับ')" class="dropdown-item">รายรับ</a>
+        <a (click)="typefinance('expenditure', 'รายจ่าย')" class="dropdown-item">รายจ่าย</a>
+        <a (click)="typefinance('all', 'ทั้งหมด')" class="dropdown-item">ทั้งหมด</a>
+      </div>
+    </div>
+  </div>
+  <div class="col-6 col-top-menu" style="cursor: pointer;">
+    <form class="form-inline align-items-start">
+      <div class="form-group hidden">
+        <div class="input-group">
+          <input name="datepicker" class="form-control border-0" ngbDatepicker #datepicker="ngbDatepicker"
+            [autoClose]="'outside'" (dateSelect)="onDateSelection($event)" [displayMonths]="1" [dayTemplate]="t"
+            outsideDays="hidden" [startDate]="fromDate!" tabindex="-1">
+          <ng-template #t let-date let-focused="focused">
+            <span class="custom-day" [class.focused]="focused" [class.range]="isRange(date)"
+              [class.faded]="isHovered(date) || isInside(date)" (mouseenter)="hoveredDate = date"
+              (mouseleave)="hoveredDate = null">
+              {{ date.day }}
+            </span>
+          </ng-template>
+        </div>
+      </div>
+      <div class="form-group w-100">
+        <div class="input-group w-100">
+          <div class="input-style mt-2 w-100" (click)="datepicker.toggle()">
+            <p class="mb-0 text-input">ช่วงเวลา</p>
+            <p class="mt-2 mb-2 text-placeholder" style="color: #616a71;">{{ dateString }}</p>
+          </div>
+        </div>
+      </div>
+    </form>
+  </div>
+</div>
+<!-- END DROPDOWN MENU -->
+
+<div *ngIf="showContent">
+  <!-- MENU -->
+  <div class="row mt-2">
+    <div class="col-auto" [class.text-active]="contentTable" [class.text-dark]="!contentTable"
+      (click)="showContentTable()">
+      <p>ตาราง</p>
+    </div>
+    <div class="col-auto pl-1 disabled" [class.text-active]="contentChart" [class.text-dark]="!contentChart"
+      (click)="showContentChart()">
+      <p>กราฟ</p>
+    </div>
+    <div class="col text-right" [hidden]="!contentTable">
+      <p class="disabled" style="cursor: pointer;">บันทึกเป็น Excel</p>
+    </div>
+  </div>
+  <!-- END MENU -->
+
+  <div class="horizontal-scroll">
+    <!-- CONTENT TABLE -->
+    <table *ngIf="contentTable" class="table">
+      <thead class="thead-light">
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">ประเภท</th>
+          <th scope="col">จำนวนเงิน</th>
+          <th scope="col">วันที่</th>
+          <th scope="col">รหัสอ้างอิง</th>
+        </tr>
+      </thead>
+      <tbody *ngFor="let dataFinance of productDataFromFirebase; let j = index;">
+        <tr class="" [class.table-success]="dataFinance.value.typeEN == 'revenue'" [class.table-danger]="dataFinance.value.typeEN == 'expenditure'">
+          <th scope="row">{{ j+1 }}</th>
+          <td><a>{{ dataFinance.value.description }}</a><a style="margin-left: 5px;" *ngIf="dataFinance.value.refKey != null">({{ dataFinance.value.refKey }})</a></td>
+          <td>฿{{ dataFinance.value.amount }}</td>
+          <td>{{ dataFinance.value.createAt.seconds*1000 | date: 'd/M/yyyy' }} {{ dataFinance.value.createAt.seconds*1000 | date: "HH:mm:ss" }}</td>
+          <td>{{ dataFinance.key }}</td>
+        </tr>
+        <!-- <tr class="table-danger">
+          <th scope="row">2</th>
+          <td>หักการคืนสินค้า #AB2222222222</td>
+          <td>120</td>
+          <td>10/05/2020 12:00</td>
+          <td>UG1350FPSK8039AA</td>
+        </tr>
+        <tr class="table-success">
+          <th scope="row">3</th>
+          <td>ขายสินค้า #AB11111111111</td>
+          <td>15,100</td>
+          <td>11/05/2020 12:00</td>
+          <td>UG1350FPSK8039AA</td>
+        </tr>
+        <tr class="table-danger">
+          <th scope="row">4</th>
+          <td>เบิกเงิน</td>
+          <td>1,000</td>
+          <td>11/05/2020 12:00</td>
+          <td>UG1350FPSK8039AA</td>
+        </tr>
+        <tr class="table-success">
+          <th scope="row">5</th>
+          <td>ขายสินค้า #AB11111111111</td>
+          <td>15,100</td>
+          <td>11/05/2020 12:00</td>
+          <td>UG1350FPSK8039AA</td>
+        </tr>
+        <tr class="table-success">
+          <th scope="row">6</th>
+          <td>ขายสินค้า #AB11111111111</td>
+          <td>15,000</td>
+          <td>11/05/2020 12:00</td>
+          <td>UG1350FPSK8039AA</td>
+        </tr> -->
+      </tbody>
+    </table>
+    <!-- END CONTENT TABLE -->
+  </div>
+
+  <!-- CONTENT CHART -->
+  <div [hidden]="contentTable">
+    <!-- <div> -->
+    <div class="row">
+      <div class="col">
+        <p class="mb-0">สรุปการเงิน</p>
+      </div>
+      <div class="col text-right">
+        <button type="button" class="btn btn-dark" style="border-radius: 1.5rem;"
+          (click)="saveSummaryBarChart()">บันทึก</button>
+      </div>
+    </div>
+    <canvas id="summaryBarChart"></canvas>
+    <!-- </div> -->
+  </div>
+  <!-- END CONTENT CHART -->
+</div>
+<!-- END SHOWCONTENT -->
+
+<!-- Show Text Select Data -->
+<div *ngIf="showTextSelectData">
+  <div style="height: 80vh;">
+    <div class="container h-100 d-flex justify-content-center">
+      <div class="my-auto text-center">
+        <p class="mb-0">โปรดเลือกตัวเลือก</p>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Show Text Select Data -->
+
+<!-- Show Text Select Data -->
+<div *ngIf="showTextNoData">
+  <div style="height: 80vh;">
+    <div class="container h-100 d-flex justify-content-center">
+      <div class="my-auto text-center">
+        <p class="mb-0 text-danger">ไม่พบข้อมูลที่ตรงกับตัวเลือก</p>
+      </div>
+    </div>
+  </div>
+</div>

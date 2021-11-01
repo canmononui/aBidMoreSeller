@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #373a3c;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="1" y="132" width="64" height="741"/>
+  <rect class="cls-1" x="57" y="813" width="942" height="60"/>
+  <rect class="cls-1" x="186" y="507" width="126" height="243"/>
+  <rect class="cls-1" x="376" y="253" width="124" height="497"/>
+  <rect class="cls-1" x="562" y="377" width="125" height="370"/>
+  <rect class="cls-1" x="748" y="189" width="125" height="560"/>
+</svg>

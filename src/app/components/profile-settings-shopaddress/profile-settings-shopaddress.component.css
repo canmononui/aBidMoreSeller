@@ -1,0 +1,45 @@
+.input-style {
+  padding: 16px 16px 16px 24px; 
+  border-radius: 10px; 
+  background-color: #F2F6FA;
+}
+
+.bg-input-white {
+  box-shadow: none; 
+  background-color: #FFF; 
+  border-radius: 5px;
+}
+
+.btn-submit {
+  border: none; 
+  border-radius: 1.5rem; 
+  width: 100%; 
+  color: #fff; 
+  background-color: #D9534F;
+}
+
+.dropdown-item:active {
+  color: #FFF; 
+  background-color: #FE5721;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media only screen and (max-width: 480px) {
+  .input-style {
+    padding: 10px 10px 10px 15px; 
+    border-radius: 0px;
+  }
+
+  .text-input {
+    font-size: 0.8rem;
+  }
+
+  .text-placeholder {
+    font-size: 0.7rem;
+  }
+
+  .btn-submit {
+    width: 95%;
+  }
+
+}

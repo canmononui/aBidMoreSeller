@@ -1,0 +1,111 @@
+
+<!-- DROPDOWN MENU -->
+<div class="row row-top-menu card-padding-sm">
+  <div class="col-6 col-top-menu" style="cursor: pointer;">
+    <div class="dropdown">
+      <div class="input-style mt-2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <p class="mb-0 text-input">ประเภท</p>
+        <p class="mt-2 mb-2 text-placeholder" style="color: #616a71;">{{ placeholderReturnProductStatus }}</p>
+      </div>
+      <div class="dropdown-menu scrollable-menu w-100">
+        <a (click)="typeReturnProduct('buyerRequest', 'ผู้ซื้อแจ้งคืนสินค้า')" class="dropdown-item">ผู้ซื้อแจ้งคืนสินค้า</a>
+        <a (click)="typeReturnProduct('sellerArgueRequest', 'ผู้ขายโต้แย้ง')" class="dropdown-item">ผู้ขายโต้แย้ง</a>
+        <a (click)="typeReturnProduct('returnProductShipping', 'สินค้ากำลังส่งกลับ')" class="dropdown-item">สินค้ากำลังส่งกลับ</a>
+        <!-- <a (click)="typeReturnProduct('returnProductShipped', 'รอยอมรับสินค้าที่ส่งกลับ')" class="dropdown-item">รอยอมรับสินค้าที่ส่งกลับ</a> -->
+        <a (click)="typeReturnProduct('sellerArgueReceive', 'ผู้ขายโต้แย้งสินค้าที่ส่งกลับ')" class="dropdown-item">ผู้ขายโต้แย้งสินค้าที่ส่งกลับ</a>
+        <a (click)="typeReturnProduct('success', 'เสร็จสิ้น')" class="dropdown-item">เสร็จสิ้น</a>
+        <!-- <a (click)="typeReturnProduct('all', 'ทั้งหมด')" class="dropdown-item">ทั้งหมด</a> -->
+      </div>
+    </div>
+  </div>
+  <div class="col-6 col-top-menu">
+    <div class="input-style-search mt-2">
+      <p class="mb-0 text-input">ค้นหาสินค้า</p>
+        <div class="row">
+          <div class="col pr-0">
+            <input #searchInput type="text" maxlength="30" class="form-control border-0 p-0 text-placeholder input_"
+            placeholder="รหัสคำสั่งซื้อ/ชื่อสินค้า" (keyup.enter)="searchBtn(searchInput.value)">
+          </div>
+          <div class="col-auto align-self-center" (click)="searchBtn(searchInput.value)">
+            <i class="fa fa-search search-symbol" style="cursor: pointer;"></i>
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+<!-- END DROPDOWN MENU -->
+
+<div *ngIf="showContent">
+  <div class="card-padding-sm">
+    <!-- PRODUCT LIST -->
+    <div class="row m-row-card-product">
+      <div *ngFor="let data of productDataFromFirebase" (click)="returnProductDetail(data.key)"
+        class="col-6 col-sm-3 col-md-6 col-lg-3 col-xl-3 mt-2 p-col-card-product" style="cursor: pointer;">
+        <div class="card-border-3 bg-white">
+          <div class="posi-card">
+            <img src="{{ data.value.imgProduct[0].imgUrl }}" class="product-img-card">
+          </div>
+          <div class="card-body-padding">
+            <!-- PRODUCT NAME & DES -->
+            <h5 class="card-title mb-0">{{ data.value.productName | slice:0:18 }}</h5>
+            <p class="mb-0 text-placeholder text-gray">ชื่อสินค้า</p>
+            <!-- PRODUCT KEY -->
+            <p class="mt-2 mb-0 text-placeholder">{{ data.value.orderNo }}</p>
+            <p class="mb-0 text-placeholder">รหัสคำสั่งซื้อ</p>
+            <!-- DELIVERY TRACKING NUMBER -->
+            <p class="mt-2 mb-0 text-placeholder">{{ data.value.returnProduct.buyerRequestAt.seconds*1000 | date: 'd/M/yyyy' }}</p>
+            <p class="mb-0 text-placeholder">วันที่แจ้งเตือน</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- END PRODUCT LIST -->
+  </div>
+  <!-- ROW CARD PRODUCT -->
+
+  <!-- BACKWARD - FORWARD -->
+  <!-- <div class="row mt-3 mb-3 card-padding-sm">
+    <div class="col">
+      <a class="text-dark" style="text-decoration: none; cursor: pointer;" (click)="previous()"
+        [class.disabled]="pageNumber == 1">
+        <i class="fa fa-angle-left font-weight-bold" aria-hidden="true"></i>
+        ก่อนหน้า
+      </a>
+    </div>
+    <div class="col text-center">
+      <p class="mb-0">หน้า {{ pageNumber }}</p>
+    </div>
+    <div class="col text-right">
+      <a class="text-dark" style="text-decoration: none; cursor: pointer;" (click)="next()"
+        [class.disabled]="productDataFromFirebase.length != 8">
+        ถัดไป
+        <i class="fa fa-angle-right font-weight-bold" aria-hidden="true"></i>
+      </a>
+    </div>
+  </div> -->
+  <!-- END BACKWARD - FORWARD-->
+</div>
+
+<!-- Show Text Select Data -->
+<div *ngIf="showTextSelectData">
+  <div style="height: 80vh;">
+    <div class="container h-100 d-flex justify-content-center">
+      <div class="my-auto text-center">
+        <p class="mb-0">โปรดเลือกตัวเลือก</p>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Show Text Select Data -->
+
+<!-- SHOW TEXT NO DATA -->
+<div *ngIf="showTextNoData">
+  <div style="height: 80vh;">
+    <div class="container h-100 d-flex justify-content-center">
+      <div class="my-auto text-center">
+        <p class="mb-0 text-danger">ไม่พบข้อมูลที่ตรงกับตัวเลือก</p>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END SHOW TEXT NO DATA -->

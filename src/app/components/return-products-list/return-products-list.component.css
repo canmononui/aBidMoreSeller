@@ -1,0 +1,168 @@
+.input-style {
+  padding: 16px 16px 16px 24px; 
+  border-radius: 10px; 
+  background-color: #F2F6FA;
+}
+
+.input_ {
+  box-shadow: none; 
+  background-color: #F2F6FA;
+}
+
+.row-top-menu {
+  margin-left: -4px;
+  margin-right: -4px;
+}
+
+.col-top-menu {
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+.dropdown-menu {
+  width: 200%;
+}
+
+.scrollable-menu {
+  height: auto;
+  max-height: 250px;
+  overflow-x: hidden;
+}
+
+.dropdown-item:active {
+  color: #FFF; 
+  background-color: #FE5721;
+}
+
+
+/* Datepicker */
+.form-group.hidden {
+  width: 0;
+  margin-top: 65px;
+  border: none;
+  padding: 0;
+}
+
+.custom-day {
+  text-align: center;
+  padding: 0.185rem 0.25rem;
+  display: inline-block;
+  height: 2rem;
+  width: 2rem;
+}
+
+.custom-day.focused {
+  background-color: #e6e6e6;
+}
+
+.custom-day.range, .custom-day:hover {
+  background-color: rgb(217, 83, 79);
+  color: white;
+}
+
+.custom-day.faded {
+  background-color: rgb(217, 83, 79, 0.5);
+}
+/* End Datepicker */
+
+.text-active {
+  color: #FFA101; 
+  cursor: pointer;
+}
+
+.text-dark {
+  color: #000; 
+  cursor: pointer;
+}
+
+.m-row-card-product {
+  margin-left: -4px; 
+  margin-right: -4px;
+}
+
+.p-col-card-product {
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+.card-border-3 {
+  border: 3px solid #E7EDF4; 
+  border-radius: 15px;
+}
+
+.posi-card {
+  position: relative;
+}
+
+.product-img-card {
+  width: 100%; 
+  border-radius: 13px 13px 0px 0px;
+}
+
+.card-body-padding {
+  padding: 20px;
+}
+
+.search-symbol {
+  font-size: 1rem;
+  color: #495057;
+}
+
+.input-style-search {
+  padding: 16px 16px 18px 24px; 
+  border-radius: 10px; 
+  background-color: #F2F6FA;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media only screen and (max-width: 480px) {
+  .form-group {
+    margin-bottom: 0px;
+  }
+
+  .form-group.hidden {
+    margin-top: 40px;
+  }
+
+  .input-style {
+    padding: 10px 10px 10px 15px; 
+    border-radius: 0px;
+  }
+
+  .card-padding-sm {
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+  
+  .text-input {
+    font-size: 0.8rem;
+  }
+
+  .text-placeholder {
+    font-size: 0.7rem;
+  }
+
+  .card-border-3 {
+    border: 1.5px solid #E7EDF4;
+    border-radius: 15px;
+  }
+
+  .card-body-padding {
+    padding: 10px;
+  }
+
+  .card-title {
+    font-size: 1rem;
+    margin-bottom: 5px;
+  }
+
+  .card-text {
+    font-size: .8rem;
+    margin-bottom: 5px;
+  }
+
+  .input-style-search {
+    padding: 10px 10px 11px 15px; 
+    border-radius: 0px;
+  }
+}

@@ -1,0 +1,10703 @@
+[
+  {
+    "bandName": "No Brand (ไม่มียี่ห้อ)"
+  },
+  {
+    "bandName": "Adidas (อาดิดาส)"
+  },
+  {
+    "bandName": "Nike (ไนกี้)"
+  },
+  {
+    "bandName": "DC (ดีซี)"
+  },
+  {
+    "bandName": "Volcom (โวลคอม)"
+  },
+  {
+    "bandName": "Devy (เดวี่)"
+  },
+  {
+    "bandName": "Quicksilver (ควิกซิลเวอร์)"
+  },
+  {
+    "bandName": "FILA (ฟีล่า)"
+  },
+  {
+    "bandName": "Delsey (เดลซี่)"
+  },
+  {
+    "bandName": "Superdry (ซูเปอร์ดราย)"
+  },
+  {
+    "bandName": "Outdoor (เอ้าท์ดอร์)"
+  },
+  {
+    "bandName": "PUMA (พูม่า)"
+  },
+  {
+    "bandName": "Billabong (บิลลาบอง)"
+  },
+  {
+    "bandName": "Bodyglove (บอร์ดี้โกล์ฟ)"
+  },
+  {
+    "bandName": "New-era (นิวอีรา)"
+  },
+  {
+    "bandName": "Supreme (ซุพรีม)"
+  },
+  {
+    "bandName": "Converse (คอนเวิร์ส)"
+  },
+  {
+    "bandName": "Vans (แวนส์)"
+  },
+  {
+    "bandName": "Water Fall (วอเตอร์ฟอล)"
+  },
+  {
+    "bandName": "Yoco (โยโค่)"
+  },
+  {
+    "bandName": "Sanrio (ซาริโอ)"
+  },
+  {
+    "bandName": "Hello Kitty (ฮาโหลคิตตี้)"
+  },
+  {
+    "bandName": "Disney (ดิสนีย์)"
+  },
+  {
+    "bandName": "Levi’s (ลีวายส์)"
+  },
+  {
+    "bandName": "ST.JAMES (เอสที เจมส์)"
+  },
+  {
+    "bandName": "Jacob (จาค็อบ)"
+  },
+  {
+    "bandName": "Louis Fontaine (หลุยส์ ฟองเทน)"
+  },
+  {
+    "bandName": "Guy Laroche (กีย์ ลาโรช)"
+  },
+  {
+    "bandName": "TOUGH (ทัฟ)"
+  },
+  {
+    "bandName": "Thames (เทมส์)"
+  },
+  {
+    "bandName": "Pierre Cardin (ปิแอร์ การ์แดง)"
+  },
+  {
+    "bandName": "Timberland (ทิมเบอร์แลนด์)"
+  },
+  {
+    "bandName": "Playboy (เพลย์บอย)"
+  },
+  {
+    "bandName": "ROXY (ร็อกซี่)"
+  },
+  {
+    "bandName": "Lollipops (โลลี่ป็อปส์)"
+  },
+  {
+    "bandName": "Fossil (ฟอสซิ่ล)"
+  },
+  {
+    "bandName": "DKNY (ดีเคเอ็นวาย)"
+  },
+  {
+    "bandName": "Coach (โค้ช)"
+  },
+  {
+    "bandName": "Calvin Klein (คาลวิน ไคลน์)"
+  },
+  {
+    "bandName": "Tommy Hilfiger (ทอมมี่ ฮิลฟิเกอร์)"
+  },
+  {
+    "bandName": "Ralph Lauren (ราล์ฟ ลอว์เรน)"
+  },
+  {
+    "bandName": "MONTBLANC (มงบล็อง)"
+  },
+  {
+    "bandName": "MANGO (MNG)"
+  },
+  {
+    "bandName": "FOREVER XXI (ฟอร์เอฟเวอร์ ทเวนตี้วัน)"
+  },
+  {
+    "bandName": "JASPAL (แจสปาล)"
+  },
+  {
+    "bandName": "Era-Won (เอราวอน)"
+  },
+  {
+    "bandName": "Uniqlo (ยูนิโคล)"
+  },
+  {
+    "bandName": "H&M (เฮชแอนด์เอ็ม)"
+  },
+  {
+    "bandName": "ZARA (ซาร่า)"
+  },
+  {
+    "bandName": "TOPSHOP (ท็อปช้อป)"
+  },
+  {
+    "bandName": "TOPMAN (ท็อปแมน)"
+  },
+  {
+    "bandName": "Guess (เกซ)"
+  },
+  {
+    "bandName": "CHAPS (แช็ปส์)"
+  },
+  {
+    "bandName": "Lacoste (ลาคอสท์)"
+  },
+  {
+    "bandName": "Disaya (ดิสยา)"
+  },
+  {
+    "bandName": "Kiss Me Doll (คิสมีดอล)"
+  },
+  {
+    "bandName": "Dorottya Scarf (โดโรทยา)"
+  },
+  {
+    "bandName": "Milin (มิลิน)"
+  },
+  {
+    "bandName": "Lyn Around (ลินอราวด์)"
+  },
+  {
+    "bandName": "Stylenanda (สไตล์นันดะ)"
+  },
+  {
+    "bandName": "Boss (บอส)"
+  },
+  {
+    "bandName": "Pandora (แพนโดร่า)"
+  },
+  {
+    "bandName": "Goody (กู้ดดี้)"
+  },
+  {
+    "bandName": "Accessorize (แอสเซสซอไรส์)"
+  },
+  {
+    "bandName": "Claire’s (เคลท)"
+  },
+  {
+    "bandName": "SWAROVSKI (สวารอฟสกี้)"
+  },
+  {
+    "bandName": "Daniel Wellington (แดเนียล เวลลิงตัน)"
+  },
+  {
+    "bandName": "Rastaclat (ราสต้าแคลท)"
+  },
+  {
+    "bandName": "Aurora (ออโรร่า)"
+  },
+  {
+    "bandName": "Siwan Crystal (ซีแวน คริสตัล)"
+  },
+  {
+    "bandName": "Hex’a Jewelry (เฮกซะ จิวเวลรี่)"
+  },
+  {
+    "bandName": "Glintz by sandy (กลินซ์ บาย แซนดี้)"
+  },
+  {
+    "bandName": "Silversmithz (ซิลเวอร์สมิธ)"
+  },
+  {
+    "bandName": "Dallar jewelry (ดาร์ล่า จิวเวลรี่)"
+  },
+  {
+    "bandName": "33 ELE (33 เอลลี่)"
+  },
+  {
+    "bandName": "Woc jewelry (ดับบิว โอ ซี จิวเวลรี่)"
+  },
+  {
+    "bandName": "B.Natuaral (บีเนเชอรัล)"
+  },
+  {
+    "bandName": "Itti bitti Jewelry (อิททิ บิททิ จิวเวลรี่)"
+  },
+  {
+    "bandName": "Lida Jewelry (ลิดา จิวเวลรี่)"
+  },
+  {
+    "bandName": "SWAN Thailand (สวอน ไทยแลนด์)"
+  },
+  {
+    "bandName": "MIZUCHOL (มิสุชล)"
+  },
+  {
+    "bandName": "Risara Jewels (ริสรา จิวเวลรี่)"
+  },
+  {
+    "bandName": "NEVER-N JEWELRY (เนเวอร์เอ็น จิวเวลรี่)"
+  },
+  {
+    "bandName": "Ravipa Jewelry (ระวิภา จิวเวลรี่)"
+  },
+  {
+    "bandName": "Patcharakorn (พัชรากร)"
+  },
+  {
+    "bandName": "Merii (เมอรี)"
+  },
+  {
+    "bandName": "Silom Jewelry (สีลม จิวเวอรี่)"
+  },
+  {
+    "bandName": "GemsHouse (เจมส์ เฮาส์)"
+  },
+  {
+    "bandName": "Lajewelry (ลาจิวเวลรี่)"
+  },
+  {
+    "bandName": "Nagara Jewelry (นาการา จิวเวอรี่)"
+  },
+  {
+    "bandName": "Kate Spade (เคท สเรส)"
+  },
+  {
+    "bandName": "OTS Gems (โอทีเอส เจมส์)"
+  },
+  {
+    "bandName": "Iyara Mongkhon (ไอยรามงคล)"
+  },
+  {
+    "bandName": "Fly Girl Jewely (ฟลาย เกิร์ล จิวเวอร์รี่)"
+  },
+  {
+    "bandName": "Dior (ดิออร์)"
+  },
+  {
+    "bandName": "Mora Jewelry Diamond (โมรา จิลเวอรี่ ไดม่อน)"
+  },
+  {
+    "bandName": "Ojgold (โอเจโกลด์)"
+  },
+  {
+    "bandName": "Earn Jewelry (เอริน จิวเวอรี่)"
+  },
+  {
+    "bandName": "Maidust (ใหม่ดัส)"
+  },
+  {
+    "bandName": "Cath Kidston (แคท คิดสตอน)"
+  },
+  {
+    "bandName": "Suwadee Pearl (สุวดี แพร)"
+  },
+  {
+    "bandName": "Royal Armani (รอยัล อามานี่)"
+  },
+  {
+    "bandName": "Homemade Jewella (โฮมเมด จิลเวอรี่)"
+  },
+  {
+    "bandName": "Vision Street Wear (วิชั่น สตรีท แวร์)"
+  },
+  {
+    "bandName": "Finejewelthai (ไฟน์ จีเวล ไทย)"
+  },
+  {
+    "bandName": "Proud Costume Jewelry (พราว คอสตูม จิลเวอรี่)"
+  },
+  {
+    "bandName": "4 Ocean (4 โอเชียนส์)"
+  },
+  {
+    "bandName": "Lokai (โลไก่)"
+  },
+  {
+    "bandName": "Ponytailhairring (โพนี่เทลแฮร์ริ่ง)"
+  },
+  {
+    "bandName": "NY​ Yankees​ (นิวยอร์ก แยงกีส์)"
+  },
+  {
+    "bandName": "Napinhandmade (นาปินแฮนด์เมด)"
+  },
+  {
+    "bandName": "Renoma (เรโมม่า)"
+  },
+  {
+    "bandName": "Bangkok Diva (บางกอก ดิวา)"
+  },
+  {
+    "bandName": "Hare And Hounds (เฮีย แอนด์ ฮาวส์)"
+  },
+  {
+    "bandName": "Miu Miu (มิว มิว)"
+  },
+  {
+    "bandName": "Urvan Player (เออแวน เพลยเยอร์)"
+  },
+  {
+    "bandName": "Jewelry Buffet (จิวเวอรี่ บัฟเฟต)"
+  },
+  {
+    "bandName": "SK Jewelry (เอสเค จิวเวอรี่)"
+  },
+  {
+    "bandName": "Anne Klein (แอนนี่ แคอิน)"
+  },
+  {
+    "bandName": "Bottega Veneta (บอตทิกา วีนีต้า)"
+  },
+  {
+    "bandName": "Invisibobble (อินวิซิบ๊อบเบิ้ล)"
+  },
+  {
+    "bandName": "Gucci (กุชชี่)"
+  },
+  {
+    "bandName": "Maison de Jewels (ไมสัน เดอ เจเวลส์)"
+  },
+  {
+    "bandName": "Inspire Jewelry (อินไพร์ท จิลเวอรี่)"
+  },
+  {
+    "bandName": "Mirage Retail (มิเรจ รีเทล)"
+  },
+  {
+    "bandName": "Celine (ซีรีน)"
+  },
+  {
+    "bandName": "MaMa Handmade (มาม่า แฮนด์เมด)"
+  },
+  {
+    "bandName": "Off White (ออฟไวท์)"
+  },
+  {
+    "bandName": "Aviikajewellery (อวิกา จิลเวอรี่)"
+  },
+  {
+    "bandName": "Cansooba (แคนชูบา)"
+  },
+  {
+    "bandName": "Mirabell (มิราเบล)"
+  },
+  {
+    "bandName": "Memoire Jewellery (เมมโมรี่ จิลเวอรี่)"
+  },
+  {
+    "bandName": "Smileyhound (สมายฮาวน์)"
+  },
+  {
+    "bandName": "Nici (นิซิ)"
+  },
+  {
+    "bandName": "New Look (นิวลุค)"
+  },
+  {
+    "bandName": "ASOS (เอซอส)"
+  },
+  {
+    "bandName": "Juree Phuket Pearl (จูลี่ ภูเก็ต เพิล)"
+  },
+  {
+    "bandName": "Michael Kors (ไมเคิล คอร์ส)"
+  },
+  {
+    "bandName": "Vetement (เวตมองต์)"
+  },
+  {
+    "bandName": "Vatanika (วทานิกา)"
+  },
+  {
+    "bandName": "Rin & Rin (รินแอนด์ริน)"
+  },
+  {
+    "bandName": "PJ Jewelry (พีเจ จิลเวลรี่)"
+  },
+  {
+    "bandName": "PembaGems (แพมบาแจ่ม)"
+  },
+  {
+    "bandName": "Phya Jewelry (พญาจิวเวลรี่)"
+  },
+  {
+    "bandName": "Enjoy Jewelry (เอ็นจอย จิลเวอลี่)"
+  },
+  {
+    "bandName": "Studex (สตูเด็ก)"
+  },
+  {
+    "bandName": "Touch of Silver (ทัช ออฟ ซิลเวอร์)"
+  },
+  {
+    "bandName": "NaCharme’ (ณชาร์เม้)"
+  },
+  {
+    "bandName": "Patagonia (ปาตาโกเนีย)"
+  },
+  {
+    "bandName": "Ps Diamond (พีเอส ไดมอน)"
+  },
+  {
+    "bandName": "Pomelo (โพเมโล่)"
+  },
+  {
+    "bandName": "DailySquad (เดรี่สวอค)"
+  },
+  {
+    "bandName": "Chrome Heart (โครม ฮีส)"
+  },
+  {
+    "bandName": "Tory Burch (ทอรี เบิร์ช)"
+  },
+  {
+    "bandName": "Thanaporn Jewelry (ธนาภรณ์ จิวเวลรี่)"
+  },
+  {
+    "bandName": "Classy Jewelry (แครซซี่ จิลเวลลี่)"
+  },
+  {
+    "bandName": "Jury Jewelry (จูรี่ จิลเวลรี่)"
+  },
+  {
+    "bandName": "BedeeSilver (บีดี ซิลเว่อร์)"
+  },
+  {
+    "bandName": "Blue Fox (บลู ฟล็อก)"
+  },
+  {
+    "bandName": "IAMWIGS (ไอแอมวิกส์)"
+  },
+  {
+    "bandName": "Kloset (โคลเซ็ท)"
+  },
+  {
+    "bandName": "XACT (เอ็กแซ็ค)"
+  },
+  {
+    "bandName": "Cottonon (คอตตอนออน)"
+  },
+  {
+    "bandName": "Pinpugg (ปิ่นปัก)"
+  },
+  {
+    "bandName": "Vivienne (วิเวียน)"
+  },
+  {
+    "bandName": "Givenchy (จีวองชี่)"
+  },
+  {
+    "bandName": "Panyarisa Jewelry (ปัญญาริษา จิลเวลรี่)"
+  },
+  {
+    "bandName": "Athena (อะทีน่า)"
+  },
+  {
+    "bandName": "Suvani Jewelry (ซูวานิ จิวเวอรี่)"
+  },
+  {
+    "bandName": "Hippie Silver (ฮิปปี้ ซิลเวอร์)"
+  },
+  {
+    "bandName": "Verygood Gold (ห้างเพชรทองเวรี่กู๊ด)"
+  },
+  {
+    "bandName": "Pixie Collection (พิ๊กซี่คอลเลคชั่น)"
+  },
+  {
+    "bandName": "Nida Golds (นิด้า โกล์ด)"
+  },
+  {
+    "bandName": "Beauty Jewelry (บิวตี้ จิวเวอรี่)"
+  },
+  {
+    "bandName": "Ziara (เซียร่า)"
+  },
+  {
+    "bandName": "Authong (อู่ทอง)"
+  },
+  {
+    "bandName": "Tino Cosma (ไทโน คอสมา)"
+  },
+  {
+    "bandName": "NooYoo (นูยู​)"
+  },
+  {
+    "bandName": "Some Story (ซัม สตอรี่)"
+  },
+  {
+    "bandName": "Charles&Keith (ชาร์ลแอนด์คีช)"
+  },
+  {
+    "bandName": "Natcha Jewelry (ณัชชา จิลแวรี่)"
+  },
+  {
+    "bandName": "555Jewelry (555จิวเวลรี่)"
+  },
+  {
+    "bandName": "Louis Montini (หลุยส์ มอนตินี่)"
+  },
+  {
+    "bandName": "Xuping (ซูปิง)"
+  },
+  {
+    "bandName": "Zainab Jewelry (ไซหนับ จิวเวลรี่)"
+  },
+  {
+    "bandName": "Evita (เอวีต้า)"
+  },
+  {
+    "bandName": "Cartier (คาร์เทียร์)"
+  },
+  {
+    "bandName": "Chuu (ชู)"
+  },
+  {
+    "bandName": "Hanky House (แฮงกี้เฮ้าส์)"
+  },
+  {
+    "bandName": "Betsey Johnson (เบ็ทซี่ จอห์นสัน)"
+  },
+  {
+    "bandName": "Knit Your Things (นิต ยัวร์ ติงส์)"
+  },
+  {
+    "bandName": "Valkyrie (โวคีรี่)"
+  },
+  {
+    "bandName": "Bynatji (บายณัชจิ)"
+  },
+  {
+    "bandName": "ManiMani (มาณิมาณิ)"
+  },
+  {
+    "bandName": "Kai Handmade (ไก่ แฮนเมด)"
+  },
+  {
+    "bandName": "Mary Gems (แมรี่ เจมส์)"
+  },
+  {
+    "bandName": "Jewelofangels (จิลเวลออฟแองเจิลส์)"
+  },
+  {
+    "bandName": "Byfern Earrings Shop (ใบเฟริน เอียริ่ง ชฮป)"
+  },
+  {
+    "bandName": "Champion (แชมเปียน)"
+  },
+  {
+    "bandName": "Paul Smith (พอล สมิทธิ์)"
+  },
+  {
+    "bandName": "Divima Jewelry (ดีวีม่า จิลเวอรี่)"
+  },
+  {
+    "bandName": "Chanel (ชาแนล)"
+  },
+  {
+    "bandName": "Jw Glam (เจดับบิว แกรม)"
+  },
+  {
+    "bandName": "Love Pearl (เลิฟ เพียว)"
+  },
+  {
+    "bandName": "Guangtuo (กวงเทา)"
+  },
+  {
+    "bandName": "P&N Suthathip (พีแอนด์เอ็นสุธาทิพย์)"
+  },
+  {
+    "bandName": "Ap Silver 925 (เอพี ซิลเวอร์925)"
+  },
+  {
+    "bandName": "Prapaipatr Jewelry (ประไพภัทร์ จิวเวลรี่)"
+  },
+  {
+    "bandName": "Tiara (เทียร่า)"
+  },
+  {
+    "bandName": "HappenTo Be (แฮปเพ่น ทู บี)"
+  },
+  {
+    "bandName": "Veinnios (เวอินนิออส)"
+  },
+  {
+    "bandName": "Flat2112 (แฟลต2112)"
+  },
+  {
+    "bandName": "GU (จียู)"
+  },
+  {
+    "bandName": "VRG (วีอาร์จี)"
+  },
+  {
+    "bandName": "A Simple (อะ ิซิมเปิล)"
+  },
+  {
+    "bandName": "V-Focus (วี โฟกัส)"
+  },
+  {
+    "bandName": "Tanya Jewelry (ตาลยา จิวเวอรี่)"
+  },
+  {
+    "bandName": "Prae Wear (แพร แวร์)"
+  },
+  {
+    "bandName": "Time Jewelry (ไทม์ จิลเวลลี่)"
+  },
+  {
+    "bandName": "Jewel & Diamond Gold (จีเวล แอนด์ ไดม่อน โกลว์)"
+  },
+  {
+    "bandName": "KK Cleanser (เคเค คลีนเซอร์)"
+  },
+  {
+    "bandName": "White Sapphire (ไวท์ แซฟไฟร์)"
+  },
+  {
+    "bandName": "Marimekko (มารีเมกโกะ)"
+  },
+  {
+    "bandName": "Charriol (ชาร์ริโอล์)"
+  },
+  {
+    "bandName": "Rin By Pink (ริน บาย พิงค์)"
+  },
+  {
+    "bandName": "Mini Me Jewelry (มินิ มี จิวเวอรี่)"
+  },
+  {
+    "bandName": "Wayta Jewelry (เวย์ต้า จิวเวลรี่)"
+  },
+  {
+    "bandName": "Sensitive Stud (เซนต์ซิทีฟ สตูร)"
+  },
+  {
+    "bandName": "Samso Handmade (แซมโซ่ แฮนด์เมท)"
+  },
+  {
+    "bandName": "Ruhoo24 (รูหูทเวนสตี้โฟว์)"
+  },
+  {
+    "bandName": "Snaka Jewels (สนากา จีเวล)"
+  },
+  {
+    "bandName": "Italy (อิสรี่)"
+  },
+  {
+    "bandName": "FloralNatureGem (ฟรอล่า เนเจอร์ เจมส์)"
+  },
+  {
+    "bandName": "Jasmin Silver (จัสมิน ซิลเวอร์)"
+  },
+  {
+    "bandName": "Takashi Murakami (ทาคาชิ มุราคามิ)"
+  },
+  {
+    "bandName": "Deewa Jewels (ดีวา เจเวล)"
+  },
+  {
+    "bandName": "George (กรอส)"
+  },
+  {
+    "bandName": "LuckJewelry (ลัค จิลเวลลี่)"
+  },
+  {
+    "bandName": "Rojaaoyly (โรจาออยลี่)"
+  },
+  {
+    "bandName": "Maurices (มอริส)"
+  },
+  {
+    "bandName": "M&M (เอ็มแอนด์เอ็ม)"
+  },
+  {
+    "bandName": "Prima Diamond (พรีม่าไดมอนด์)"
+  },
+  {
+    "bandName": "Its Me Shop (อิท มี ช็อป)"
+  },
+  {
+    "bandName": "Oreo (โอริโอ)"
+  },
+  {
+    "bandName": "Sapa Shop (ซ๊ะป๊ะ ช็อป)"
+  },
+  {
+    "bandName": "Monizar (โมนิซาร์)"
+  },
+  {
+    "bandName": "Natalya Hat (นัทยา แฮท)"
+  },
+  {
+    "bandName": "Pleatplease (เพลสพีส)"
+  },
+  {
+    "bandName": "La Nita (ลา นิต้า)"
+  },
+  {
+    "bandName": "SMT Watch (เอสเอ็มที วอท)"
+  },
+  {
+    "bandName": "Mafiastore (มาเฟียสโตร์)"
+  },
+  {
+    "bandName": "Tooldebeads (ทูลดีบีดส์)"
+  },
+  {
+    "bandName": "KP Jewelry (เคพี จิวเวลรี)"
+  },
+  {
+    "bandName": "Bershka (เบิร์ชก้า)"
+  },
+  {
+    "bandName": "Dunhill (ดันฮิล)"
+  },
+  {
+    "bandName": "Moschino (มอสชิโน่)"
+  },
+  {
+    "bandName": "Waken Warm (เวคเกน วอร์ม)"
+  },
+  {
+    "bandName": "Jewe (จีว)"
+  },
+  {
+    "bandName": "HoneyBee (ฮันนี่บี)"
+  },
+  {
+    "bandName": "Mencelets (เมนซีเลคส์)"
+  },
+  {
+    "bandName": "Miss Sixty (มิส ซิกตี้)"
+  },
+  {
+    "bandName": "Killah (คิลล่า)"
+  },
+  {
+    "bandName": "Diesel (ดีเซล)"
+  },
+  {
+    "bandName": "LSWgold (ห้างทองลิ้มสุวรรณ)"
+  },
+  {
+    "bandName": "Bomanny (โบว์มันนี่)"
+  },
+  {
+    "bandName": "Lia Sophia (เลีย โซเฟีย)"
+  },
+  {
+    "bandName": "Lenya (เลนยา)"
+  },
+  {
+    "bandName": "Cotton (คอตตอน)"
+  },
+  {
+    "bandName": "Lameila (ลาเมอิล่า)"
+  },
+  {
+    "bandName": "Naniko (นานิโกะ)"
+  },
+  {
+    "bandName": "Varde Jewelry (วาร์เด จิวเวลรี่)"
+  },
+  {
+    "bandName": "Serene Scarf (เซรีน สคาร์ฟ)"
+  },
+  {
+    "bandName": "Nyunyu (นิวนิว)"
+  },
+  {
+    "bandName": "Gvinc Style (จีวินซ์ สไตล์)"
+  },
+  {
+    "bandName": "Happiness By Wawa (แฮบพินเนส บาย วาว่า)"
+  },
+  {
+    "bandName": "FBT (เอฟบีที)"
+  },
+  {
+    "bandName": "Heart Design Jewelry (ฮาร์ท ดีไซน์ จิวเวลรี่ี)"
+  },
+  {
+    "bandName": "Perola (เฟอร์โรล่า)"
+  },
+  {
+    "bandName": "Wawa (วาวา)"
+  },
+  {
+    "bandName": "Makao (มาเกา)"
+  },
+  {
+    "bandName": "Little Cute Bunny (ลิตเติ้ล คิวท์ บันนี่)"
+  },
+  {
+    "bandName": "Sun Power Gemstones (ซัน พาวเวอร์ เจมส์สโตน)"
+  },
+  {
+    "bandName": "Areerat Jewelry (อารีย์รัตน์ จิลเวลรี่)"
+  },
+  {
+    "bandName": "Continue (คอนทินิว)"
+  },
+  {
+    "bandName": "Courreges Paris (คูเรจ ปารีส)"
+  },
+  {
+    "bandName": "Basic Land (เบสิค แลนด์)"
+  },
+  {
+    "bandName": "Kannya Brand (กันยา แบรนด์)"
+  },
+  {
+    "bandName": "Punyai (ปันใหญ่)"
+  },
+  {
+    "bandName": "Senfai (เซ็นไฝ่)"
+  },
+  {
+    "bandName": "NS (เอ็นเอส)"
+  },
+  {
+    "bandName": "Lakkama (หลากขะม่า)"
+  },
+  {
+    "bandName": "Nifichu (นิฟิชู่)"
+  },
+  {
+    "bandName": "Eakkachaigold 3 (เอกชัยโกลด์ 3)"
+  },
+  {
+    "bandName": "Findi (ฟินดิ)"
+  },
+  {
+    "bandName": "Ferragamo (เฟอรากาโม่)"
+  },
+  {
+    "bandName": "D&G (ดีแอนด์จี)"
+  },
+  {
+    "bandName": "CSS (ซีเอสเอส)"
+  },
+  {
+    "bandName": "Tikumporn (ทิฆัมพร)"
+  },
+  {
+    "bandName": "Hommes (ออมเมอะ)"
+  },
+  {
+    "bandName": "OGC Young (โอจีซี ยัง)"
+  },
+  {
+    "bandName": "Burberrys (บลูเบอร์รี่)"
+  },
+  {
+    "bandName": "KAPPA (แคปป้า)"
+  },
+  {
+    "bandName": "Marc Jacobs (มาร์ก จาค็อบส์)"
+  },
+  {
+    "bandName": "Nevstop (เนฟสต็อป)"
+  },
+  {
+    "bandName": "Hatto (แฮ็ทโต้)"
+  },
+  {
+    "bandName": "True Shine (ทรูไชน)"
+  },
+  {
+    "bandName": "Korean Brand (โคเรียนแบรนด์)"
+  },
+  {
+    "bandName": "MARATHON (มาราธอน)"
+  },
+  {
+    "bandName": "Makita (มากีต้า)"
+  },
+  {
+    "bandName": "T-MOBILE (ทีโมบายล์)"
+  },
+  {
+    "bandName": "Toma (โทมา)"
+  },
+  {
+    "bandName": "Parallels (พาราเอล)"
+  },
+  {
+    "bandName": "Diamond Nottyinfinity (ไดมอน น็อตตี้อินฟีนิตี้)"
+  },
+  {
+    "bandName": "Daniel Hechter​ (ดาเนียล เฮชเตอร์)"
+  },
+  {
+    "bandName": "Malik Stone (มาลิค สโตน)"
+  },
+  {
+    "bandName": "Korea Earring (โคเรีย เออร์ริ่ง)"
+  },
+  {
+    "bandName": "Arnold Palmer​ (อาร์โนลด์ ปาล์มเมอร์)"
+  },
+  {
+    "bandName": "Sun Moonlight Shop (ซัน มูนไลท์ ช็อป)"
+  },
+  {
+    "bandName": "Gamhom (แก้มหอม)"
+  },
+  {
+    "bandName": "Kannii’s Shops (แคนนิล ช็อป)"
+  },
+  {
+    "bandName": "Bangiftsuay (บ้านกิฟสวย)"
+  },
+  {
+    "bandName": "Strappin (สแตรพพิน)"
+  },
+  {
+    "bandName": "Bruce Lee (บรู๊ซ ลี)"
+  },
+  {
+    "bandName": "Hermes (แอเมส)"
+  },
+  {
+    "bandName": "Natnontra (ณัฐนนตรา)"
+  },
+  {
+    "bandName": "SKY (เอสเควาย)"
+  },
+  {
+    "bandName": "LUCY (ลูซี่)"
+  },
+  {
+    "bandName": "Abercrombie (อะเบอคอมบี้)"
+  },
+  {
+    "bandName": "Fred Perry (เฟรด เพอร์รี่)"
+  },
+  {
+    "bandName": "MC (แม็ก)"
+  },
+  {
+    "bandName": "Pan Jewelry (แพน จิลเวลรี่)"
+  },
+  {
+    "bandName": "Louis Vuitton (หลุยวิตตอง)"
+  },
+  {
+    "bandName": "Wedgwood (เว็ดวู๊ด)"
+  },
+  {
+    "bandName": "Coat Season (โค้ท ซีซัน)"
+  },
+  {
+    "bandName": "FK Jewelry​ (เอฟเค จิลเวลรี่)"
+  },
+  {
+    "bandName": "Tip Top (ทิพ ท็อป)"
+  },
+  {
+    "bandName": "Yaya Silver925 (ยาย่า ซิลเวอร์925)"
+  },
+  {
+    "bandName": "Onil Gems (โอนิล เกมส์)"
+  },
+  {
+    "bandName": "Imagie (ไอเมจรี้)"
+  },
+  {
+    "bandName": "Oneoeight (วันโอเอ้ก)"
+  },
+  {
+    "bandName": "BB Bandmade (บีบี แฮนเมด)"
+  },
+  {
+    "bandName": "Travis Scott (ทราวิส สก็อตต์)"
+  },
+  {
+    "bandName": "Rattiya (รัตติญา)"
+  },
+  {
+    "bandName": "Jetpilot (เจ็ทไพลอต)"
+  },
+  {
+    "bandName": "Bejewel (บีจิลเวล)"
+  },
+  {
+    "bandName": "Tips Gallery (ทิพส์ แกลอรี่)"
+  },
+  {
+    "bandName": "GEMONDO (จีมอนโด)"
+  },
+  {
+    "bandName": "Vedi Vero (เวดิ วีโร)"
+  },
+  {
+    "bandName": "Asava (อาซาว่า)"
+  },
+  {
+    "bandName": "Capthai (แคปไทย)"
+  },
+  {
+    "bandName": "Add Me Mor (แอด มี มอร์)"
+  },
+  {
+    "bandName": "E Manco (อี มันโค)"
+  },
+  {
+    "bandName": "Super Ayar (ซุปเปอร์ เอยาร์)"
+  },
+  {
+    "bandName": "Sitarkidshop (สิธาคิดส์ช็อป)"
+  },
+  {
+    "bandName": "Sokamo (โซคาโม่)"
+  },
+  {
+    "bandName": "Mira (มิรา)"
+  },
+  {
+    "bandName": "Bringo (บริงโก)"
+  },
+  {
+    "bandName": "Rainbow Rain (เลนโบว์ เลน)"
+  },
+  {
+    "bandName": "Veera (วีร่า)"
+  },
+  {
+    "bandName": "Thursday Accessories (เธิร์สเดย์แอสเซสซอไรส์)"
+  },
+  {
+    "bandName": "Little Mamon (ลิตเติ้ล มามอน)"
+  },
+  {
+    "bandName": "Giftycap (กิ๊ฟตี้แค๊ป)"
+  },
+  {
+    "bandName": "Harris Tweed (ฮาร์ริส ทวิด)"
+  },
+  {
+    "bandName": "Wijittra Jewelry (วิจิตรา จิวเวอร์รี่)"
+  },
+  {
+    "bandName": "Crystallized (ไคสเตลลิเซด)"
+  },
+  {
+    "bandName": "TJewelry Design (ทีเจ จิลเวลรี่ ดีไซน์)"
+  },
+  {
+    "bandName": "Thida (ธิดา)"
+  },
+  {
+    "bandName": "Artcupp (อาร์ตคับบ)"
+  },
+  {
+    "bandName": "Rita (ริต้า)"
+  },
+  {
+    "bandName": "Bewi G (บิววี่ จี)"
+  },
+  {
+    "bandName": "Cha Hijab Story (ชาไฮจั๊บ สตอรี่)"
+  },
+  {
+    "bandName": "A Land (เอแลนด์)"
+  },
+  {
+    "bandName": "Ikka (อิคคา)"
+  },
+  {
+    "bandName": "Attention (แอคเท็นชั่น)"
+  },
+  {
+    "bandName": "Laura Ashley (ลอร่า อัชเลย์)"
+  },
+  {
+    "bandName": "Balmain (บัลแมง)"
+  },
+  {
+    "bandName": "9jewelly (9จิวเวอรี่)"
+  },
+  {
+    "bandName": "In The Mood Handmade (อินเดอะมู๊ด แฮนด์เมซ)"
+  },
+  {
+    "bandName": "Diamond Co (ไดม่อน โค)"
+  },
+  {
+    "bandName": "Pomme (ปอมมี่)"
+  },
+  {
+    "bandName": "Por (ปอ)"
+  },
+  {
+    "bandName": "Movic (โมวิค)"
+  },
+  {
+    "bandName": "CBox168 (ซีบล็อค168)"
+  },
+  {
+    "bandName": "2XU (ทูไทมส์ยู)"
+  },
+  {
+    "bandName": "Mini Mini (มินิ มินิ)"
+  },
+  {
+    "bandName": "Mini Maxi (มินิแม็กซี่)"
+  },
+  {
+    "bandName": "D Dol (ดี ดูล)"
+  },
+  {
+    "bandName": "Rockme (ร็อคเม่)"
+  },
+  {
+    "bandName": "Wika Jewelry (วิกา จิวเวอร์รี่)"
+  },
+  {
+    "bandName": "BL (บีแอล)"
+  },
+  {
+    "bandName": "DH (ดีเอช)"
+  },
+  {
+    "bandName": "Metalmorphose (เมทอลมอร์พอส)"
+  },
+  {
+    "bandName": "Jacks Club (แจ็คคลับ)"
+  },
+  {
+    "bandName": "Vetus (วีตัส)"
+  },
+  {
+    "bandName": "punneeya (ภรรณีญา)"
+  },
+  {
+    "bandName": "Gogo Tales (โกโกเทลส์)"
+  },
+  {
+    "bandName": "Lady Icon Accessories (เลดี้ ไอค่อน แอสเซสซอไรส์)"
+  },
+  {
+    "bandName": "Puppet (พัฟเพ็ต)"
+  },
+  {
+    "bandName": "Rue 21 (รูว์ ทเว้นตี้วัน)"
+  },
+  {
+    "bandName": "Sega (เซก้า)"
+  },
+  {
+    "bandName": "Baan Me Jewelry (บ้าน มี จิวเวอรี่)"
+  },
+  {
+    "bandName": "Kiddy Buddy (คิดดี้ บัดดี้)"
+  },
+  {
+    "bandName": "DMJ (ดีเอ็มจี)"
+  },
+  {
+    "bandName": "Impani (อิมปานิ)"
+  },
+  {
+    "bandName": "CZ Jewelry (ซีซี จิวเวอรี่)"
+  },
+  {
+    "bandName": "Buff (บัฟ)"
+  },
+  {
+    "bandName": "Annasui (แอนนาชุ)"
+  },
+  {
+    "bandName": "Siwalai (ศิวาลัย)"
+  },
+  {
+    "bandName": "Corona (โคโรน่า)"
+  },
+  {
+    "bandName": "Akaru-sa (อคารุสา)"
+  },
+  {
+    "bandName": "Hnonmai (หนอนไหม)"
+  },
+  {
+    "bandName": "Sunbath And Pool Only (ซันบัช แอนด์ พูล โอลี่)"
+  },
+  {
+    "bandName": "Under Armour (อันเดอร์ อาร์เมอร์)"
+  },
+  {
+    "bandName": "Bless Box (บลีส บ๊อกซ์)"
+  },
+  {
+    "bandName": "Pailin Tara (ไพลิน ธารา)"
+  },
+  {
+    "bandName": "PLD Official (พีแอลดี ออฟฟิเชียล)"
+  },
+  {
+    "bandName": "Khun Pum (คุณพุ่ม)"
+  },
+  {
+    "bandName": "Vijittra (วิจิตตรา)"
+  },
+  {
+    "bandName": "Bally (บอลลี่)"
+  },
+  {
+    "bandName": "Navyblue (นาวีบลู)"
+  },
+  {
+    "bandName": "O.E.M (โออีเอ็ม)"
+  },
+  {
+    "bandName": "Apinny (อพินนี่)"
+  },
+  {
+    "bandName": "Chärmbullies (ชาร์มบูรี่)"
+  },
+  {
+    "bandName": "Be Friend (บี เฟรนด์)"
+  },
+  {
+    "bandName": "Lupilu (ลูพิลลู)"
+  },
+  {
+    "bandName": "Coat Over (โค้ท โอเวอร์)"
+  },
+  {
+    "bandName": "Diamond999 (ไดม่อน999)"
+  },
+  {
+    "bandName": "Pema (พีม่า)"
+  },
+  {
+    "bandName": "Sorridere (ชอริเดอร์)"
+  },
+  {
+    "bandName": "Hushush (ฮัสชัช)"
+  },
+  {
+    "bandName": "Yellowwellow (เยลโล่ เวลโล่)"
+  },
+  {
+    "bandName": "SM Entertainment (เอสเอ็ม เอนเตอร์เทนเมนต์)"
+  },
+  {
+    "bandName": "Whitemondayshop (ไวท์มันเดย์ช็อป)"
+  },
+  {
+    "bandName": "Ltrendy (แอลเทรนดี้)"
+  },
+  {
+    "bandName": "PM Chochet Knitting (พีเอ็ม โชเชต เคนิตติ้ง)"
+  },
+  {
+    "bandName": "Mylar (ไมลา)"
+  },
+  {
+    "bandName": "Lerkamongkol (เลอกามองกอล)"
+  },
+  {
+    "bandName": "Khunnai Ho (กันนัย โฮ)"
+  },
+  {
+    "bandName": "Sweety Mall (สวีทตี้ มอลล์)"
+  },
+  {
+    "bandName": "CZ Premium Jewelry (ซีซี พรีเมี่ยม จิวเวอรี่)"
+  },
+  {
+    "bandName": "Kram RPK 53 (กาม อาร์พีเค 53)"
+  },
+  {
+    "bandName": "Uptome Retail (อัพโทม รีเทล)"
+  },
+  {
+    "bandName": "Tigers (ไทเก้อร์)"
+  },
+  {
+    "bandName": "Streamline (สตรีมไลน์)"
+  },
+  {
+    "bandName": "TNC.Jewelry (ทีเอ็นซี จิวเวลรี่)"
+  },
+  {
+    "bandName": "PhuthaiKhongfak (พูไทก้องฟ้า)"
+  },
+  {
+    "bandName": "PJ83 (พีเจ83)"
+  },
+  {
+    "bandName": "PK Gems (พีเค แกรม)"
+  },
+  {
+    "bandName": "Tuck Crochet (ต๊าก โครแชท)"
+  },
+  {
+    "bandName": "Wing Bling (วิง บลิ้ง)"
+  },
+  {
+    "bandName": "Begizmo (บีกิซโม)"
+  },
+  {
+    "bandName": "My Style (มาย สไตล์)"
+  },
+  {
+    "bandName": "Oriflame (ออริแฟม)"
+  },
+  {
+    "bandName": "Super Bowl (ซุปเปอร์ โบล)"
+  },
+  {
+    "bandName": "Mooneyes (มูนอายน์)"
+  },
+  {
+    "bandName": "Lucien (ลูเชียน)"
+  },
+  {
+    "bandName": "Ake Ake (เอก เอก)"
+  },
+  {
+    "bandName": "Ellesse (ออเลส)"
+  },
+  {
+    "bandName": "Tung​ Tung​ Accessory (ตุง ตุง แอคเซสซอรี่)"
+  },
+  {
+    "bandName": "AK Design By Bee (เอเค ดีไซน์ บาย บี)"
+  },
+  {
+    "bandName": "Maneetara (มะนีตะรา)"
+  },
+  {
+    "bandName": "Hasoh (ฮาโซ่)"
+  },
+  {
+    "bandName": "ADK (เอดีเค)"
+  },
+  {
+    "bandName": "BVLGARI (บิลการิ)"
+  },
+  {
+    "bandName": "Hairpiecebylubpui (แฮร์เพอซีบี้ลับบุย)"
+  },
+  {
+    "bandName": "Orajung (โอราจัง)"
+  },
+  {
+    "bandName": "Adamas (อเดมัส)"
+  },
+  {
+    "bandName": "Chicochica (ชิโคชิก้า)"
+  },
+  {
+    "bandName": "Produce48 (ดพรดิวซ์โฟร์ตี้เอ้ก)"
+  },
+  {
+    "bandName": "Lanya Jewelry (เลนญ่า)"
+  },
+  {
+    "bandName": "Hand Made (แฮนด์เมด)"
+  },
+  {
+    "bandName": "Parichart Handmade (ปาริชาติ แฮนเมด)"
+  },
+  {
+    "bandName": "Wish Accessories (วิช แอคเซสซอรี่)"
+  },
+  {
+    "bandName": "Le’ris (เลอริส)"
+  },
+  {
+    "bandName": "Michel Klein (มิเชล เคลน)"
+  },
+  {
+    "bandName": "Varinny (วารินนี)"
+  },
+  {
+    "bandName": "Khaosuay JW (ขาวสวยเจดับบลิว)"
+  },
+  {
+    "bandName": "Dreamcatcher (ดรีมแคชเชอร์)"
+  },
+  {
+    "bandName": "Pena House (พีน่า เฮาส์)"
+  },
+  {
+    "bandName": "Ladywigboss (เลดี้วิกบอส)"
+  },
+  {
+    "bandName": "Enrico Coveri (เอ็นริโค่ โคเวอร์)"
+  },
+  {
+    "bandName": "Ten&Co (เท็นแอนด์โค)"
+  },
+  {
+    "bandName": "Arnys (อาร์นี่)"
+  },
+  {
+    "bandName": "Carhartt (คาร์ฮาร์ท)"
+  },
+  {
+    "bandName": "Magic Shop (เมจิก ช็อบ)"
+  },
+  {
+    "bandName": "Nifty Earring (นิฟตี้ อาร์ริ่ง)"
+  },
+  {
+    "bandName": "MBL (เอ็มบีแอล)"
+  },
+  {
+    "bandName": "Maison Kitsune (ไมชอนคิตชูน)"
+  },
+  {
+    "bandName": "Primala Diamond (พีมาล่า ไดมอนด์)"
+  },
+  {
+    "bandName": "Centro (เซ็นโทร)"
+  },
+  {
+    "bandName": "Spao (สเปา)"
+  },
+  {
+    "bandName": "Buppamalai (บุปผามาลัย)"
+  },
+  {
+    "bandName": "Grandmas Heritage (แกรนด์มาเฮอริเทจ)"
+  },
+  {
+    "bandName": "PS James (พีเอส เจมส์)"
+  },
+  {
+    "bandName": "MCM​ (เอ็มซีเอ็ม​)"
+  },
+  {
+    "bandName": "Tomkid (ทอมคิดส์)"
+  },
+  {
+    "bandName": "Jrkgold (เจอาร์เคโกลว์)"
+  },
+  {
+    "bandName": "The Surreal Monster (เดอะ ซูร์เรียล มอนสเตอร์)"
+  },
+  {
+    "bandName": "Tian Shuai (เทียน ชัว)"
+  },
+  {
+    "bandName": "Random Stiches (แรนดอม สติชีส์)"
+  },
+  {
+    "bandName": "Kurami (คูรามิ)"
+  },
+  {
+    "bandName": "TJShop (ทีเจช็อบ)"
+  },
+  {
+    "bandName": "Ananta Fine Jewelry (อนันทา ไฟน์ จิวเวลรี่)"
+  },
+  {
+    "bandName": "Vivy (วิวี่)"
+  },
+  {
+    "bandName": "Delta Sight (เดลต้า ไซต์)"
+  },
+  {
+    "bandName": "Myrtile Co (มายอาร์ไทล์ โค)"
+  },
+  {
+    "bandName": "Bloomsdays (บลูมเดย์)"
+  },
+  {
+    "bandName": "Lilith (ลิลิธ)"
+  },
+  {
+    "bandName": "Naliga Crafts (นาลิกา คราฟท์ส)"
+  },
+  {
+    "bandName": "Cavin Klein (คาวินไคลน์)"
+  },
+  {
+    "bandName": "Simplisirl (ชิมบิลชิลร์)"
+  },
+  {
+    "bandName": "Deep Rocks (ดีพ ร๊อคส์)"
+  },
+  {
+    "bandName": "Amie Scarf (อามี สคาร์ฟ)"
+  },
+  {
+    "bandName": "Diamond Today (ไดมอนต์ ทูเดย์)"
+  },
+  {
+    "bandName": "7TH Street (เซเว่นสตรีท)"
+  },
+  {
+    "bandName": "Orachat (อรฉัตร)"
+  },
+  {
+    "bandName": "Balentine (บาเลนไทน์)"
+  },
+  {
+    "bandName": "Avocado (อโวคาโด)"
+  },
+  {
+    "bandName": "Leecooper (ลีคูปเปอร์)"
+  },
+  {
+    "bandName": "Alice and Olivia (อลิซแอนด์โอลิเวีย)"
+  },
+  {
+    "bandName": "Les Belles Modes (เลส เบลเลส โมเดส)"
+  },
+  {
+    "bandName": "Step woof (สเต็ปวูฟ)"
+  },
+  {
+    "bandName": "Stony (สโตนี่)"
+  },
+  {
+    "bandName": "Good Mood (กู๊ดมู๊ด)"
+  },
+  {
+    "bandName": "Jewelrycraft (จิวเวลรี่คราฟท์)"
+  },
+  {
+    "bandName": "jewelry Carft (จีเวลรี่ คราฟต์)"
+  },
+  {
+    "bandName": "BasicsBySita (เบสิค บาย ชิต้า)"
+  },
+  {
+    "bandName": "Aura Gold And Jewelry (ออร่า โกลด์ แอนด์ จิวเวลรี่)"
+  },
+  {
+    "bandName": "Cool Enough Studio (คูล อินัฟ สตูดิโอ)"
+  },
+  {
+    "bandName": "Mai Silver (ไหม ซิลเวอร์)"
+  },
+  {
+    "bandName": "MusicFighto (มิวสิคฟิคทู)"
+  },
+  {
+    "bandName": "Benetton (เบเนตตอง)"
+  },
+  {
+    "bandName": "Geminie (จีมิเนีย)"
+  },
+  {
+    "bandName": "Apakornjewelry (อปากรณ์จิลเวลรี่)"
+  },
+  {
+    "bandName": "Avon (เอวอน)"
+  },
+  {
+    "bandName": "Dissaya (ดิสสะยา)"
+  },
+  {
+    "bandName": "Nat Bo Bo GYIZ (แนต โบโบ จีวายไอซี)"
+  },
+  {
+    "bandName": "Lavande Jewelry (ลาเวนดี้ จิวเวลลี่)"
+  },
+  {
+    "bandName": "Ferin Shop (ฟีริน ช็อบ)"
+  },
+  {
+    "bandName": "Go Handmade (โก แฮนด์เมด)"
+  },
+  {
+    "bandName": "12 Victory (ทเวลฟ์วิคตอรี่)"
+  },
+  {
+    "bandName": "Magician Girls (เมจิเชี่ยน เกิรล์)"
+  },
+  {
+    "bandName": "Italy375 (อิตาลี375)"
+  },
+  {
+    "bandName": "Coatwink (โค๊ดวิงค์)"
+  },
+  {
+    "bandName": "Monachio (โมนาชิโอะ)"
+  },
+  {
+    "bandName": "Louis Scherrer (หลุยส์ เอสเชียเลอร์)"
+  },
+  {
+    "bandName": "Fonney (โฟนนี)"
+  },
+  {
+    "bandName": "Orkide (โอวคิเด)"
+  },
+  {
+    "bandName": "Bravo House (เบรเวอร์ เฮ้าส์)"
+  },
+  {
+    "bandName": "Wigs-Shop (วิงค์ ช็อป)"
+  },
+  {
+    "bandName": "Lipton (ลิปตัน)"
+  },
+  {
+    "bandName": "Misslora (มิสโรร่า)"
+  },
+  {
+    "bandName": "Note Silver Shop (โน๊ต ซิลเวอร์ ช็อบ)"
+  },
+  {
+    "bandName": "TD Gems & Jewelry (ทีดี เจมส์แอนด์จิลเวลรี่)"
+  },
+  {
+    "bandName": "D Jewelry (ดี จิลเวลรี่)"
+  },
+  {
+    "bandName": "Masterpiece Jewelry (มาสเตอร์พีช จิวเวอรี่)"
+  },
+  {
+    "bandName": "Alain Delon (อาแล็ง เดอลง)"
+  },
+  {
+    "bandName": "Buriram United (บุรีรัมย์ยูไนเต็ด)"
+  },
+  {
+    "bandName": "Burton (เบอร์ตัน)"
+  },
+  {
+    "bandName": "Dickies (ดิ๊กกี้ส์)"
+  },
+  {
+    "bandName": "ELLE HOMME (เอลโฮม)"
+  },
+  {
+    "bandName": "Eternity (อีเทอร์นิตี้)"
+  },
+  {
+    "bandName": "Funko Pop (ฟังโก้ ป็อป)"
+  },
+  {
+    "bandName": "GALAXY (กาเล็กซี่)"
+  },
+  {
+    "bandName": "GDH (จีดีเฮท)"
+  },
+  {
+    "bandName": "Grandsport (แกรนด์สปอร์ต)"
+  },
+  {
+    "bandName": "Hakone (ฮากอน)"
+  },
+  {
+    "bandName": "KohKae (โก๋แก่)"
+  },
+  {
+    "bandName": "Meticulous (เมธิคิวลัส)"
+  },
+  {
+    "bandName": "Miniso (มินิโซ)"
+  },
+  {
+    "bandName": "NaRaYa (นารายา)"
+  },
+  {
+    "bandName": "Nyla (ไนล่า)"
+  },
+  {
+    "bandName": "Oasis (โอเอซิส)"
+  },
+  {
+    "bandName": "Paul Frank (พอลแฟรงค์)"
+  },
+  {
+    "bandName": "Pony (โพนี่)"
+  },
+  {
+    "bandName": "Shiver Me (ชิเวอร์ มี)"
+  },
+  {
+    "bandName": "Siam (สยาม)"
+  },
+  {
+    "bandName": "Singha Life (สิงห์ ไลฟ์)"
+  },
+  {
+    "bandName": "Sneakavilla (สนีกกาวิลล่า)"
+  },
+  {
+    "bandName": "TVDirect (ทีวีไดเร็กท์)"
+  },
+  {
+    "bandName": "Rika (ริก้า)"
+  },
+  {
+    "bandName": "K&C Handmade (เคแอนด์ซี แฮนเมด)"
+  },
+  {
+    "bandName": "Kiraz Jewelry (กิราซ จิวเวอรี่)"
+  },
+  {
+    "bandName": "Elle (แอล)"
+  },
+  {
+    "bandName": "Ladyicon Accessory (เลดี้ไอคอน แอคเวสซอรี่)"
+  },
+  {
+    "bandName": "Little Nyonya (ลิตเติ้ล ยอนยา)"
+  },
+  {
+    "bandName": "Winter Cute (วินเตอร์ คัต)"
+  },
+  {
+    "bandName": "Violet (ไวโอเล็ต)"
+  },
+  {
+    "bandName": "Misaki Monte Carlo (มิซากิ มอนเต้ คาร์โล)"
+  },
+  {
+    "bandName": "Italy750 (อิตาลี750)"
+  },
+  {
+    "bandName": "Black Clover (แบล็ค โคลเวอร์)"
+  },
+  {
+    "bandName": "Moress (โมเรส)"
+  },
+  {
+    "bandName": "TCS Minimal (ทีซีเอส มินิมอล)"
+  },
+  {
+    "bandName": "S Premiumstore (เอส พรีเมี่ยมสโตร์)"
+  },
+  {
+    "bandName": "Kitan Club (ไคเทน คลับ)"
+  },
+  {
+    "bandName": "Kitan Casual Wears (ไกตัน คาโซล แวร์ป)"
+  },
+  {
+    "bandName": "Kaweetara (กวีธารา)"
+  },
+  {
+    "bandName": "Missile (มิสซิรีย์)"
+  },
+  {
+    "bandName": "Premier (พีเมียร์)"
+  },
+  {
+    "bandName": "Beauty Options (บิวตี้ ออฟชั่นส์)"
+  },
+  {
+    "bandName": "Pink Age (พิง เอ้ก)"
+  },
+  {
+    "bandName": "Tasakant (ทศกานต์)"
+  },
+  {
+    "bandName": "Ecuador Andino (อีคิวเดอร์ แอนดิโน่)"
+  },
+  {
+    "bandName": "LeMarc (เลอมาร์ค)"
+  },
+  {
+    "bandName": "Cottonwool Shop (คอตตอนวูล ช็อบ)"
+  },
+  {
+    "bandName": "Charlotte Russe (เชอร์ลอตเต้ รุสซี่)"
+  },
+  {
+    "bandName": "Lauren Conrad (ลูแรน คอนแรด)"
+  },
+  {
+    "bandName": "Core (คอร์)"
+  },
+  {
+    "bandName": "White Mellow By Honey (ไวท์ เมลโล่ บาย ฮันนี่)"
+  },
+  {
+    "bandName": "Daisy (ไดซี)"
+  },
+  {
+    "bandName": "Napier (นาเปียร์)"
+  },
+  {
+    "bandName": "Aurum Lustre (อัมรัม ลัส)"
+  },
+  {
+    "bandName": "F&F (เอฟ แอนด์ เอฟ)"
+  },
+  {
+    "bandName": "Six (ซิกส์)"
+  },
+  {
+    "bandName": "YaYa (ยาย่า)"
+  },
+  {
+    "bandName": "Edge (อีเดจ)"
+  },
+  {
+    "bandName": "Next (เน็กซ์)"
+  },
+  {
+    "bandName": "Stone Story55 (สโตน สตอรี่55)"
+  },
+  {
+    "bandName": "Notesilver (โน้ตซิลเวอร์)"
+  },
+  {
+    "bandName": "Jennifer Lopez (จีนนิเฟอร์ โลพีซ)"
+  },
+  {
+    "bandName": "Elvira (ออวิร่า)"
+  },
+  {
+    "bandName": "Lovisa (โลวิซ่า)"
+  },
+  {
+    "bandName": "Tutuanna (ทูทูแอนนา)"
+  },
+  {
+    "bandName": "Boy Silver (บอย ซิลเวอร์)"
+  },
+  {
+    "bandName": "FQ&L (เอฟคิวแอนแอล)"
+  },
+  {
+    "bandName": "Taobao (เตาเบา)"
+  },
+  {
+    "bandName": "Lloyd The Gift (ลอยด์ เดอะ กิฟต์)"
+  },
+  {
+    "bandName": "ESP (อีเอสพี)"
+  },
+  {
+    "bandName": "Friday 13 Shops (ฟรายเดย์ 13 ช๊อป)"
+  },
+  {
+    "bandName": "Hocole (โฮโคล)"
+  },
+  {
+    "bandName": "Viva Scarf (วิวา สคราฟ)"
+  },
+  {
+    "bandName": "King Horse (คิง ฮอส)"
+  },
+  {
+    "bandName": "Muji (มูจิ)"
+  },
+  {
+    "bandName": "Atipa (อธิภา)"
+  },
+  {
+    "bandName": "Pygmy (ไพกิม)"
+  },
+  {
+    "bandName": "Clover (โคลเวอร์)"
+  },
+  {
+    "bandName": "Captivating Headgear (แคปติเวติ้ง เฮดเกียร์)"
+  },
+  {
+    "bandName": "Rugiada gems (รูเกียด้า เจมส์)"
+  },
+  {
+    "bandName": "NTM Shop (เอ็นทีเอ็ม ช็อป)"
+  },
+  {
+    "bandName": "None (นอน)"
+  },
+  {
+    "bandName": "Pimaya (พิมายา)"
+  },
+  {
+    "bandName": "Hijab Sunee Dah (ฮิแจบ สุนี แดช)"
+  },
+  {
+    "bandName": "Cleanmate24 (คลีนเมท24)"
+  },
+  {
+    "bandName": "Ducati (ดูคาติ)"
+  },
+  {
+    "bandName": "Nicha Jewelry (นิชา จิวเวลรี่)"
+  },
+  {
+    "bandName": "Marks&Spencer (มาร์คแอนด์สเปนเซอร์)"
+  },
+  {
+    "bandName": "Praeploy Pearl (แพรพลอยเพิร์ล)"
+  },
+  {
+    "bandName": "GP (จีพี)"
+  },
+  {
+    "bandName": "Clare Gems (เคียร์ เกมส์)"
+  },
+  {
+    "bandName": "Purple Drank (เพอร์เพิล แดรงค์)"
+  },
+  {
+    "bandName": "Bucket Shade (บัคเก็ต เชด)"
+  },
+  {
+    "bandName": "JNT Jewelry (เจเอ็นที จิวเวลรี่)"
+  },
+  {
+    "bandName": "United (ยูนิเทด)"
+  },
+  {
+    "bandName": "Shinrinyu (ชินรินยู)"
+  },
+  {
+    "bandName": "Von Zipper (วอน ซิปเปอร์)"
+  },
+  {
+    "bandName": "Trinity Jewelry (ทรินิตี้ จิวเวลรี่)"
+  },
+  {
+    "bandName": "Aphrodite Jewelry (อะโฟรไดต์ จิวเวลรี่)"
+  },
+  {
+    "bandName": "Flynow (ฟลายนาว)"
+  },
+  {
+    "bandName": "Beawelry (บีเวลลี่)"
+  },
+  {
+    "bandName": "Rhino (ไรโน้)"
+  },
+  {
+    "bandName": "Teegarnok (ทีการ์นอค)"
+  },
+  {
+    "bandName": "G&G Center (จีแอนด์จี เซ็นเตอร์)"
+  },
+  {
+    "bandName": "Pacuzzo (พาคุซโซ)"
+  },
+  {
+    "bandName": "Norm Fine Jewelry (นอม ไฟล์จิลเวลรี่)"
+  },
+  {
+    "bandName": "KYRA (ไคร่า)"
+  },
+  {
+    "bandName": "Coatmatter (โคทเมตเตอร์)"
+  },
+  {
+    "bandName": "Pearlymumu (แพรรี่มูมู)"
+  },
+  {
+    "bandName": "Mdean (เอ็มดีน)"
+  },
+  {
+    "bandName": "Glove Story (โกลว์ สโตรี่)"
+  },
+  {
+    "bandName": "Crazy Golf (เครซี่กอล์ฟ)"
+  },
+  {
+    "bandName": "Ganesha Glory Gems (เจนีซา กลอรี่ เก้นส์)"
+  },
+  {
+    "bandName": "Vivienne Westwood (วิเวียน เวสท์วูด)"
+  },
+  {
+    "bandName": "Hard Rock (ฮาร์ด ร็อค)"
+  },
+  {
+    "bandName": "Vixx (วิกซ์)"
+  },
+  {
+    "bandName": "Coco Puss (โคโค่ พุส)"
+  },
+  {
+    "bandName": "Uhhenglee (อึ้งเฮงหลี)"
+  },
+  {
+    "bandName": "Berry Shine Design (เบอรี่ ซายน์ ดีไซน์)"
+  },
+  {
+    "bandName": "Morgan Homme (มอร์แกน ออม)"
+  },
+  {
+    "bandName": "Sarankorn Jewerly (ศรันย์กร จิวเวอรี่)"
+  },
+  {
+    "bandName": "Aisyah Exclusive (อิสยัช เอ็กเชอไซต์)"
+  },
+  {
+    "bandName": "Lamiz (ลามิส)"
+  },
+  {
+    "bandName": "9 Million Jewelry (9มินเลี่ยน จิวเวลรี่​)"
+  },
+  {
+    "bandName": "Numcha Jewelry (น้ำชา จิวเวลรี่)"
+  },
+  {
+    "bandName": "Callaway (แคลลาเวย์)"
+  },
+  {
+    "bandName": "Jeep (จีพ)"
+  },
+  {
+    "bandName": "Raindeer (เรนเดียร์)"
+  },
+  {
+    "bandName": "2 Sis (2 ซิซ)"
+  },
+  {
+    "bandName": "Wanida (วนิดา)"
+  },
+  {
+    "bandName": "On Jewelry (ออน จิวเวอรี่)"
+  },
+  {
+    "bandName": "Hirunta (หิรันตา)"
+  },
+  {
+    "bandName": "Chroc C (ชร์อค ซี)"
+  },
+  {
+    "bandName": "Reitmans (เรียสแมนส์)"
+  },
+  {
+    "bandName": "Zoo York (ซู ยอร์ค)"
+  },
+  {
+    "bandName": "BerryShineDesign (เบอร์รี่ ไชน์ ดีซาย)"
+  },
+  {
+    "bandName": "WaiWhan (วัยหวาน)"
+  },
+  {
+    "bandName": "Crystaline (ไครสเตลไลน์)"
+  },
+  {
+    "bandName": "Alian Delon (อเลนเดอลอง)"
+  },
+  {
+    "bandName": "Tanakaromruay (ธนาค้าร่มรวย)"
+  },
+  {
+    "bandName": "Cool Cop Thai (คูลคอปไทย)"
+  },
+  {
+    "bandName": "Major (เมเจอร์)"
+  },
+  {
+    "bandName": "Kaekai (เก๋ไก๋)"
+  },
+  {
+    "bandName": "The Gal (เดอะ เจล)"
+  },
+  {
+    "bandName": "Never N Jewelry (เนเวอร์ เอ็น จิวเวลรี่)"
+  },
+  {
+    "bandName": "3 Peenong (สามพี่น้อง)"
+  },
+  {
+    "bandName": "Gobi (โกบี)"
+  },
+  {
+    "bandName": "Feliz (เฟลิซ)"
+  },
+  {
+    "bandName": "Muma (มูม่า)"
+  },
+  {
+    "bandName": "Thomas Sabo (โธมัส ซาโบ)"
+  },
+  {
+    "bandName": "Shaka London (ชากะ ลอนดอน)"
+  },
+  {
+    "bandName": "Eclipse (เอคลิปส์)"
+  },
+  {
+    "bandName": "INC (ไอเอ็นซี)"
+  },
+  {
+    "bandName": "Nice Jewelry (ไนซ์ จิวเวลรี่)"
+  },
+  {
+    "bandName": "New York & Company (นิวยอร์ค แอนด์ คอมปานี)"
+  },
+  {
+    "bandName": "Wunwan (วันวาน)"
+  },
+  {
+    "bandName": "Pacsafe (แพคเซฟ)"
+  },
+  {
+    "bandName": "New Diva Diamond (นิว ดีว่า ไดม่อนด์)"
+  },
+  {
+    "bandName": "Issue (อิชชู่)"
+  },
+  {
+    "bandName": "SPK Jewelry (เอสพีเค จิวเวลรี่)"
+  },
+  {
+    "bandName": "Jampoon (แจมพูล)"
+  },
+  {
+    "bandName": "MSI (เอ็มเอสไอ)"
+  },
+  {
+    "bandName": "Gianna (จิอันนา)"
+  },
+  {
+    "bandName": "Bear store (เบีนร์ สโตร์)"
+  },
+  {
+    "bandName": "Clays (เครย์)"
+  },
+  {
+    "bandName": "Gemoniqm (จีโมนิค)"
+  },
+  {
+    "bandName": "Advancegem (แอดวานส์เจม)"
+  },
+  {
+    "bandName": "Tong Dee James (ทอง ดี เจมส์)"
+  },
+  {
+    "bandName": "Clue (คูล)"
+  },
+  {
+    "bandName": "Chow Tai Fook (เชาไถฝู)"
+  },
+  {
+    "bandName": "PD (พีดี)"
+  },
+  {
+    "bandName": "Ohm Iyara (โอม ไอยรา)"
+  },
+  {
+    "bandName": "InTheMoodHandmade (อินเดอะมู๊ดแฮนเมด)"
+  },
+  {
+    "bandName": "Silveritas (ซิลเวอริทัส)"
+  },
+  {
+    "bandName": "Bearies Jewelry (แบร์เรียส จิวเวอร์รี่)"
+  },
+  {
+    "bandName": "Epon (เอพ่อน)"
+  },
+  {
+    "bandName": "Abello Style (อะเบลโล สไตล์)"
+  },
+  {
+    "bandName": "Bijouterie (ไบจูเทอรี)"
+  },
+  {
+    "bandName": "Jewelry Code (จิวเวอรี่ โค้ด)"
+  },
+  {
+    "bandName": "Danze (ดันเซ่)"
+  },
+  {
+    "bandName": "Annie (แอนเนีย)"
+  },
+  {
+    "bandName": "Isadora (ไอซาโดร่า)"
+  },
+  {
+    "bandName": "PALLADIUM (พาราเดียม)"
+  },
+  {
+    "bandName": "Don’t Sleep (ดอนท์สลีป)"
+  },
+  {
+    "bandName": "WATSONS (วัตสัน)"
+  },
+  {
+    "bandName": "925 Nichajewellry (925นิชาจิวเวอรี่)"
+  },
+  {
+    "bandName": "Mewmew Jewelry (มิวมิว จิลเวลรี่)"
+  },
+  {
+    "bandName": "Natch (แน๊ต)"
+  },
+  {
+    "bandName": "Blueprint (บลูปริ้นต์)"
+  },
+  {
+    "bandName": "Srithong Jewelry (สายทอง จิวเวอรี่)"
+  },
+  {
+    "bandName": "Diamond Princess (ไดม่อน พริ้นเซส)"
+  },
+  {
+    "bandName": "925 Shopcenter (925ช็อปเซ็นเตอร์)"
+  },
+  {
+    "bandName": "Hoololi (โฮโอโลลี่)"
+  },
+  {
+    "bandName": "J Style (เจ ไสตล์)"
+  },
+  {
+    "bandName": "Rock X Press (ล็อค เอ็กซ์เพลส)"
+  },
+  {
+    "bandName": "Banhmita (บ้านมิตา)"
+  },
+  {
+    "bandName": "Kenzo (เคนโซ่)"
+  },
+  {
+    "bandName": "Dalta Sight (ดอลต้า ไซต์)"
+  },
+  {
+    "bandName": "Farfi (ฟาร์ฟิ)"
+  },
+  {
+    "bandName": "Chomphongate (ชมพงศ์เกต)"
+  },
+  {
+    "bandName": "Gian Ferrente (เกียร์ เฟอร์เรนเต้)"
+  },
+  {
+    "bandName": "Cameo (คาเมโอ)"
+  },
+  {
+    "bandName": "Chrome Hearts (คอมฮาร์ท)"
+  },
+  {
+    "bandName": "925 Nichajewellry (925 ณิชชาจิวเวลรี่)"
+  },
+  {
+    "bandName": "Bnk48 (บีเอ็นเค48)"
+  },
+  {
+    "bandName": "Getting Rich (เก็ตติ้ง ริซ)"
+  },
+  {
+    "bandName": "DD Time Service (ดีดี ทาม เซอร์วิส)"
+  },
+  {
+    "bandName": "Mimi (มีมี่)"
+  },
+  {
+    "bandName": "Nyx (นิกซ์)"
+  },
+  {
+    "bandName": "Roxi (โรซี่)"
+  },
+  {
+    "bandName": "Beauty Easy (บิวตี้ อีซี่)"
+  },
+  {
+    "bandName": "Oh liang (โอ้ เหรียง)"
+  },
+  {
+    "bandName": "Versace (เวอซาเช่)"
+  },
+  {
+    "bandName": "Chan Luu (เชน ลูร์)"
+  },
+  {
+    "bandName": "La (ลา)"
+  },
+  {
+    "bandName": "La soeur (เลอ ซอเออร์)"
+  },
+  {
+    "bandName": "Real Gold (เรียว โกลว์)"
+  },
+  {
+    "bandName": "Reshel (รีเชล)"
+  },
+  {
+    "bandName": "YSL (วายเอสแอล)"
+  },
+  {
+    "bandName": "Artificial Gold (อาร์ทิฟิเชี่ยล โกล์ด)"
+  },
+  {
+    "bandName": "Lambada Cap (ลัมบาดา แค็บ)"
+  },
+  {
+    "bandName": "Xuanpai (ซวนไป๋)"
+  },
+  {
+    "bandName": "Trollbeads (โทรลเบดส์)"
+  },
+  {
+    "bandName": "Damesir (เดมเซอร์)"
+  },
+  {
+    "bandName": "Polo (โปโล)"
+  },
+  {
+    "bandName": "Phiten (ไฟเท่น)"
+  },
+  {
+    "bandName": "Lucy Summer (ลูซี่ ซัมเมอร์)"
+  },
+  {
+    "bandName": "OCM (โอซีเอ็ม)"
+  },
+  {
+    "bandName": "Murakami (มุราคามิ)"
+  },
+  {
+    "bandName": "Rudedog (รูทด็อก)"
+  },
+  {
+    "bandName": "PREMI3R (พรีเมียร์)"
+  },
+  {
+    "bandName": "Anya Handmade (แอนย่า แฮนด์เมค)"
+  },
+  {
+    "bandName": "Biz Q (บิซ คิว)"
+  },
+  {
+    "bandName": "Warmy (วาร์มี่)"
+  },
+  {
+    "bandName": "Bibi Blue (บิบิ บลู)"
+  },
+  {
+    "bandName": "Nara Diamond (นารา ไดมอนด์)"
+  },
+  {
+    "bandName": "Kloset Season (โครเซ็ท ซีซั่น)"
+  },
+  {
+    "bandName": "Liverpool FC (ลิเวอร์พลู เอฟซี)"
+  },
+  {
+    "bandName": "Sawai (สวาย)"
+  },
+  {
+    "bandName": "Vibrato (ไวเบรโต้)"
+  },
+  {
+    "bandName": "2Sgold (ทูเอสโกลด์)"
+  },
+  {
+    "bandName": "Tipings (ไทปิ้ง)"
+  },
+  {
+    "bandName": "Police (โพลิส)"
+  },
+  {
+    "bandName": "Che Kung (แชกง)"
+  },
+  {
+    "bandName": "PK (พีเค)"
+  },
+  {
+    "bandName": "Jubilee Diamond (ยูบิลี่ ไดมอนด์)"
+  },
+  {
+    "bandName": "Chareef (ชาร์ลีฟ)"
+  },
+  {
+    "bandName": "Tu’i (ทูอี้)"
+  },
+  {
+    "bandName": "Taeyeon (แทยอน)"
+  },
+  {
+    "bandName": "Jaruta Jewelry (จารุฏา จิวเวลรี่)"
+  },
+  {
+    "bandName": "Smart Mix Jewelry (สมาร์ท มิกซ์ จิวเวลลี่)"
+  },
+  {
+    "bandName": "U Star (ยู สตาร์)"
+  },
+  {
+    "bandName": "Puntharik (ปุณฑริก)"
+  },
+  {
+    "bandName": "Working Diamond (เวิร์คกิ้ง ไดมอนด์)"
+  },
+  {
+    "bandName": "Sunny (ซันนี่)"
+  },
+  {
+    "bandName": "Bogie1 (โบกี้1)"
+  },
+  {
+    "bandName": "Minim Jewelry (มินิม จิวเวลรี่)"
+  },
+  {
+    "bandName": "Sabad Prop (สบัดพร็อพ)"
+  },
+  {
+    "bandName": "Miss Selfridge (มิสเซลฟริดจ์)"
+  },
+  {
+    "bandName": "TanGems (แทนเจมส์)"
+  },
+  {
+    "bandName": "Adamas Shop (อดามัส ช็อป)"
+  },
+  {
+    "bandName": "Silver 925 (ซิลเวอร์925)"
+  },
+  {
+    "bandName": "Acer (เอเซอร์)"
+  },
+  {
+    "bandName": "K.R (เคอาร์)"
+  },
+  {
+    "bandName": "Ms Cute (เอ็มเอส คิวส์)"
+  },
+  {
+    "bandName": "MS Cuteband (เอ็มเอส คิ้วท์แบรนด์)"
+  },
+  {
+    "bandName": "Top Beret (ท็อป บีเร็ท)"
+  },
+  {
+    "bandName": "PornphotGold (ห้างเพชรทองพรพจน์)"
+  },
+  {
+    "bandName": "Wintory (วินโทรี่)"
+  },
+  {
+    "bandName": "Naracha Earring (นาราชา เอียร์ริ่ง)"
+  },
+  {
+    "bandName": "VS Jewelry (วีเอส จิวเวลรี)"
+  },
+  {
+    "bandName": "Rain (เรน)"
+  },
+  {
+    "bandName": "JYK (เจวายเค)"
+  },
+  {
+    "bandName": "Chom (ชม)"
+  },
+  {
+    "bandName": "Minature C (มิเนเจอร์ซี)"
+  },
+  {
+    "bandName": "Balenciaga (บาเรนซิเอก้า)"
+  },
+  {
+    "bandName": "Cameo Jewelry (คามีโอ้ จิลเวลรี่)"
+  },
+  {
+    "bandName": "Jojo Siwa (โจโจ ศิวา)"
+  },
+  {
+    "bandName": "I Stylebrand (ไอสไตล์แบรนด์)"
+  },
+  {
+    "bandName": "Stellar (สเตลล่าร์)"
+  },
+  {
+    "bandName": "Charme Jewelry (ชาร์เม่ จิวเวลรี่)"
+  },
+  {
+    "bandName": "Gems (เจมส์)"
+  },
+  {
+    "bandName": "Wanna (วันนา)"
+  },
+  {
+    "bandName": "Menii Shop (เมนี่ ช็อป)"
+  },
+  {
+    "bandName": "Ace H&C Original (เอซี่ เอชแอนด์ซี ออริจินัล)"
+  },
+  {
+    "bandName": "Noyna Shop (น้อยหน่า ช็อป)"
+  },
+  {
+    "bandName": "Ponytail (โพนี่เทล)"
+  },
+  {
+    "bandName": "The Attic (ดิ แอททิค)"
+  },
+  {
+    "bandName": "17KM (17เคเอ็ม)"
+  },
+  {
+    "bandName": "Classywig (คลาสซี่วิค)"
+  },
+  {
+    "bandName": "Khanokkul (กนกกูล)"
+  },
+  {
+    "bandName": "Bojang Handmade (โบจัง แฮนด์เมด)"
+  },
+  {
+    "bandName": "Bojang (โบจัง)"
+  },
+  {
+    "bandName": "Nok Jewelry (นก จิวเวลรี่)"
+  },
+  {
+    "bandName": "Sirin Shop (สิริน ช็อป)"
+  },
+  {
+    "bandName": "Azu (เอซู)"
+  },
+  {
+    "bandName": "Alyssa and Friends (อลิซสาแอนด์เฟรนด์)"
+  },
+  {
+    "bandName": "Hugo Boss (ฮิวโก้ บอส)"
+  },
+  {
+    "bandName": "Waralee Shop (วราลี ช๊อป)"
+  },
+  {
+    "bandName": "Time Treasures (ไทมื ทีชชูเรส)"
+  },
+  {
+    "bandName": "JJT (เจเจที)"
+  },
+  {
+    "bandName": "Nicopy (นิโคปี้)"
+  },
+  {
+    "bandName": "Ganviga (แกนวิก้า)"
+  },
+  {
+    "bandName": "Witsanee Crochet (วิสนี โครเชต)"
+  },
+  {
+    "bandName": "Saga Fox Royal (ซีก้า ฟล็อกซ์ รอยัล)"
+  },
+  {
+    "bandName": "Allbe Jewelry (ออลบี จิวเวลรี)"
+  },
+  {
+    "bandName": "Vendome (เวนโดม)"
+  },
+  {
+    "bandName": "Palace (พาเลซ)"
+  },
+  {
+    "bandName": "Nok Air (นกแอร์)"
+  },
+  {
+    "bandName": "Mind Jewelry (มายด์ จิลเวอร์รี่)"
+  },
+  {
+    "bandName": "Arinrada (อรินรดา)"
+  },
+  {
+    "bandName": "Miss Jiw (มิสจิว)"
+  },
+  {
+    "bandName": "NK (เอ็นเค)"
+  },
+  {
+    "bandName": "Surething (ชัวร์ติ้งค์)"
+  },
+  {
+    "bandName": "Ellequeen (แอลควีน)"
+  },
+  {
+    "bandName": "Hiend (ไฮเอ็น)"
+  },
+  {
+    "bandName": "Moussy (มุสซี่)"
+  },
+  {
+    "bandName": "Grace (เกรซ)"
+  },
+  {
+    "bandName": "Taywin Original Style (เทวินทร์ ออริจินอลสไตล์)"
+  },
+  {
+    "bandName": "Baiboon Clothing (ใบบุญ โค้ทซิ่ง)"
+  },
+  {
+    "bandName": "Value Jewelry (แวลู จิวเวลรี่)"
+  },
+  {
+    "bandName": "Esta (เอสต้า)"
+  },
+  {
+    "bandName": "Soviet Pin (โซไวเอ็ท พิน)"
+  },
+  {
+    "bandName": "Nunnio Kid Bow (นันนิโอ โบว์)"
+  },
+  {
+    "bandName": "Bric (บริค)"
+  },
+  {
+    "bandName": "Nok Jewlery (นก จิลเวลรี่)"
+  },
+  {
+    "bandName": "Chang Thong Thai (ช้างทองไทย)"
+  },
+  {
+    "bandName": "UpLuck (อัพลักซ์)"
+  },
+  {
+    "bandName": "Seayou (ซียู)"
+  },
+  {
+    "bandName": "Ann Taylor (แอน เทรย์เลอร์)"
+  },
+  {
+    "bandName": "Hannah (ฮันน่าห์)"
+  },
+  {
+    "bandName": "Lane Bryant (ลาเน่ ไบแอนท์)"
+  },
+  {
+    "bandName": "Twenty One (ทเวนตี้ วัน)"
+  },
+  {
+    "bandName": "Sreepp (สลีฟ)"
+  },
+  {
+    "bandName": "CHANGSUEK PREMIUM (ช้างศึก พรีเมียม)"
+  },
+  {
+    "bandName": "Genuine Leather (จีเนียร์ ลีทเทอร์)"
+  },
+  {
+    "bandName": "De Luxulii (เดอ ลักซูลี่)"
+  },
+  {
+    "bandName": "Wondering Story (วันเดอร์ริง สตอรี่)"
+  },
+  {
+    "bandName": "AmourJewellers (อมอร์ จิลเวลเลอร์)"
+  },
+  {
+    "bandName": "Jirapa (จิราภา)"
+  },
+  {
+    "bandName": "Hyacinth (ดอกไฮยาซิน)"
+  },
+  {
+    "bandName": "Chaba (ชบา)"
+  },
+  {
+    "bandName": "Ausiris (ออสิริส)"
+  },
+  {
+    "bandName": "Yinchie (ยินชี่)"
+  },
+  {
+    "bandName": "Pandan Daimond (แพนเดน ไดมอน)"
+  },
+  {
+    "bandName": "Gypsy Flower Pearl (กิ๊ฟซี่ ฟาวเวอร์ เพียร์)"
+  },
+  {
+    "bandName": "Mikimoto (มิกิโมโตะ)"
+  },
+  {
+    "bandName": "Gemn Jewelry (เจม จิวเวลรี่)"
+  },
+  {
+    "bandName": "Omuda (โอมูดะ)"
+  },
+  {
+    "bandName": "1Jewelry (หนึ่งจิลเวลรี่)"
+  },
+  {
+    "bandName": "VIGANO (วิกาโน่)"
+  },
+  {
+    "bandName": "Katerstone (คาเตอร์สโตน)"
+  },
+  {
+    "bandName": "Jeweldays (จีเว็ลเดย์)"
+  },
+  {
+    "bandName": "Inov8 (อินโนเวท)"
+  },
+  {
+    "bandName": "Anshi Silver Jewelry (อันชิ ซิลเวอร์)"
+  },
+  {
+    "bandName": "Cloudy Scarf (คราวดี้ สคาร์ฟ)"
+  },
+  {
+    "bandName": "Laeta Jewelry (ลีต้า จิวเวลรี่)"
+  },
+  {
+    "bandName": "Marcs (มาร์ช)"
+  },
+  {
+    "bandName": "Whatadaisyday (วาตาเดซี่เดย์)"
+  },
+  {
+    "bandName": "Megumi (มีกุมิ)"
+  },
+  {
+    "bandName": "Sizter (ซิซเตอร์)"
+  },
+  {
+    "bandName": "Murano (มูราโน่)"
+  },
+  {
+    "bandName": "Zenith (เซนิธ)"
+  },
+  {
+    "bandName": "Carebears (แคร์เบียร์)"
+  },
+  {
+    "bandName": "Prapa Earring (ปาป้า เอียร์ริ่ง)"
+  },
+  {
+    "bandName": "Moldir (มอร์เดอร์)"
+  },
+  {
+    "bandName": "Tiny Earring (ไทนี่ เอียร์ริ่ง)"
+  },
+  {
+    "bandName": "Charlotte C (ชาร์ลอตเต้ ซี)"
+  },
+  {
+    "bandName": "Cressi (แคซซี่)"
+  },
+  {
+    "bandName": "Thai Jewelry (ไทยจิวเวลรี่)"
+  },
+  {
+    "bandName": "Sonne (ซอนเน่)"
+  },
+  {
+    "bandName": "Nann (แนน)"
+  },
+  {
+    "bandName": "LuksameeHandmade1973 (ลักษมีแฮนด์เมด1973)"
+  },
+  {
+    "bandName": "Bowtie Shop (โบว์ไท ช็อบ)"
+  },
+  {
+    "bandName": "Rattana Glass (รัตนากลาส)"
+  },
+  {
+    "bandName": "Pride Jewelry (ไพร์ด จิลเวลรี่)"
+  },
+  {
+    "bandName": "Chic Lander (ชิค แลนเดอร์)"
+  },
+  {
+    "bandName": "Szkinsle (เอสซีคินเซล)"
+  },
+  {
+    "bandName": "G.vincere (จีวินเซีย)"
+  },
+  {
+    "bandName": "Rungroj (รุ่งโรจน์)"
+  },
+  {
+    "bandName": "4C (โฟซี)"
+  },
+  {
+    "bandName": "Ownory (โอนโนรี่)"
+  },
+  {
+    "bandName": "Herschel Scope (เฮอร์เชล สคอป)"
+  },
+  {
+    "bandName": "Herschel (เฮอร์เชล)"
+  },
+  {
+    "bandName": "Winnie Accessories (วินนี่ แอคเซสซอรี่ส์)"
+  },
+  {
+    "bandName": "Namami Jewellery​ (นามามิ จิวเวลลี่)"
+  },
+  {
+    "bandName": "NamamiJewellery​ (นะมามิ จิลเวลรี่)"
+  },
+  {
+    "bandName": "Yuiizzz Handmade (ยุ้ย แฮนเมด)"
+  },
+  {
+    "bandName": "Daiso (ไดโซ)"
+  },
+  {
+    "bandName": "Satin (ซาติน)"
+  },
+  {
+    "bandName": "Two Man (ทู แมน)"
+  },
+  {
+    "bandName": "E&Y Shoo (อีแอนด์วายชู)"
+  },
+  {
+    "bandName": "Lee (ลี)"
+  },
+  {
+    "bandName": "Thanchanat (ธัญชนัท)"
+  },
+  {
+    "bandName": "Proppjew (พร็อพจิว)"
+  },
+  {
+    "bandName": "Pari Pari (พาริ พาริ)"
+  },
+  {
+    "bandName": "Singsangnapa (สิงแสงนภา)"
+  },
+  {
+    "bandName": "Nenee by Nok (นีนี บาย นก)"
+  },
+  {
+    "bandName": "Bella Fascini (เบลลา ฟาสซินี่)"
+  },
+  {
+    "bandName": "Me Eyeshop (มี อายช๊อป)"
+  },
+  {
+    "bandName": "Zvick Shop (ซีวิค ช็อบ)"
+  },
+  {
+    "bandName": "OOcouple (โอโอคูเปอร์)"
+  },
+  {
+    "bandName": "Bluelans (บลูเลนส์)"
+  },
+  {
+    "bandName": "Mia Collection (เมีย คอนเลคชั่น)"
+  },
+  {
+    "bandName": "Ninthicha Giftshop (นินทิชา กิ๊ฟช็อป)"
+  },
+  {
+    "bandName": "Jelly Bunny (เจลลี่ บันนี่)"
+  },
+  {
+    "bandName": "Wove (โวล์ฟ)"
+  },
+  {
+    "bandName": "Bora Bee (โบรา บี)"
+  },
+  {
+    "bandName": "BoraBee (บอราบี)"
+  },
+  {
+    "bandName": "Te Cha (เทชา)"
+  },
+  {
+    "bandName": "Chicbaby (ชิคเบบี้)"
+  },
+  {
+    "bandName": "Siwanat (ศิวนัท)"
+  },
+  {
+    "bandName": "Whitemoon (ไวท์ มูน)"
+  },
+  {
+    "bandName": "Nokkrajip Earring (นกกระจิบ เอียร์ริ่ง)"
+  },
+  {
+    "bandName": "SM (เอสเอ็ม)"
+  },
+  {
+    "bandName": "PG.Jewelry (พีจี จิวเวลรี่)"
+  },
+  {
+    "bandName": "SS.Sunkissed (เอสเอสซันคิสเซส)"
+  },
+  {
+    "bandName": "Memory Gem (เมมโมรี่ เจม)"
+  },
+  {
+    "bandName": "Khunnainoi (คุณนายน้อย)"
+  },
+  {
+    "bandName": "YG Entertainment (วายจี เอนเตอร์เทนเมนต์)"
+  },
+  {
+    "bandName": "One Stone (วัน สโตร์)"
+  },
+  {
+    "bandName": "Arora (อโรร่า)"
+  },
+  {
+    "bandName": "Punica (พูนิก้า)"
+  },
+  {
+    "bandName": "Wachira Gems & Jewelry (วชิราเจมส์แอนด์จิวเวลรี่)"
+  },
+  {
+    "bandName": "She Lucky (ชีลัคกี้)"
+  },
+  {
+    "bandName": "Kalenji (คาเรนจิ)"
+  },
+  {
+    "bandName": "Gcap Gold (จีแค็ป โกลว์)"
+  },
+  {
+    "bandName": "Pliant (แพรนท์)"
+  },
+  {
+    "bandName": "Hybrid Outfifters (ไฮบริด เอ๊าท์ฟิตเตอร์)"
+  },
+  {
+    "bandName": "LK (แอลเค)"
+  },
+  {
+    "bandName": "Phatnisa Jewelry (พัณณิสา จิลเวลลี่)"
+  },
+  {
+    "bandName": "King Officer (คิงอ๊อฟฟิเซอร์)"
+  },
+  {
+    "bandName": "Hybrid Outfitters (ไฮบริดเอ๊าท์ฟิตเตอร์)"
+  },
+  {
+    "bandName": "I​ Am​ Miw (ไอแอมมิว)"
+  },
+  {
+    "bandName": "Primark (พริมาร์ค)"
+  },
+  {
+    "bandName": "P&P (พีแอนด์พี)"
+  },
+  {
+    "bandName": "Zilvy (ซิลวี่)"
+  },
+  {
+    "bandName": "NA Design (เอ็นเอดีไซด์)"
+  },
+  {
+    "bandName": "Istubbrok (อีสทับบร็อค)"
+  },
+  {
+    "bandName": "Ananta (อนันทา)"
+  },
+  {
+    "bandName": "Lady Nifty Shop (เลดี้นิฟตี้ช็อป)"
+  },
+  {
+    "bandName": "Tiffany & Co (ทิฟฟานี่ แอนด์ โค)"
+  },
+  {
+    "bandName": "Sense of Gorgeous (เซนต์ออฟ กอร์จีนัส)"
+  },
+  {
+    "bandName": "Gorgeous (จอร์จีอัส)"
+  },
+  {
+    "bandName": "Straykids (สเตร์ยคิดส์)"
+  },
+  {
+    "bandName": "Tritium (ทริเทียม)"
+  },
+  {
+    "bandName": "Koon Suk Jewelry (คุณสุขจิวเวลรี่)"
+  },
+  {
+    "bandName": "Pclay (พีเคลย์)"
+  },
+  {
+    "bandName": "Cjcup (ซีเจคัพ)"
+  },
+  {
+    "bandName": "Ruiao (รุ้ยอ้าว)"
+  },
+  {
+    "bandName": "VanceFly (แวนซีฟราย)"
+  },
+  {
+    "bandName": "Prevz (พรีวซ์)"
+  },
+  {
+    "bandName": "Aki (อกิ)"
+  },
+  {
+    "bandName": "Plerntara (เฟอร์ทาร่า)"
+  },
+  {
+    "bandName": "Modern Diamond (โมเดิร์น ไดมอนด์)"
+  },
+  {
+    "bandName": "ShopGrab (ช็อปแกร๊บ)"
+  },
+  {
+    "bandName": "KanwaylaJewelry (กาลเวลาจิวเวลรี่)"
+  },
+  {
+    "bandName": "Bugbennygals (บัคเบนนี่เกิร์ล)"
+  },
+  {
+    "bandName": "Montefino (มอนเต้ฟิโน)"
+  },
+  {
+    "bandName": "Veapa (วีพา)"
+  },
+  {
+    "bandName": "Little Rabbit (ลิตเติ้ล แร็บบิท)"
+  },
+  {
+    "bandName": "Miko (มิโก๊ะ)"
+  },
+  {
+    "bandName": "Monthip (มนทิพย์)"
+  },
+  {
+    "bandName": "Kavu (คาวู)"
+  },
+  {
+    "bandName": "Rêver (รีเวอร์)"
+  },
+  {
+    "bandName": "SR Thailand (เอสอาร์ ไทยแลนด์)"
+  },
+  {
+    "bandName": "Ari (เอริ)"
+  },
+  {
+    "bandName": "Nusan (นูซัน)"
+  },
+  {
+    "bandName": "Hat Station (แฮท สเตชั่น)"
+  },
+  {
+    "bandName": "Annisa (แอนนิสา)"
+  },
+  {
+    "bandName": "Mary Poppins (แมรี่ ป๊อปปินส์)"
+  },
+  {
+    "bandName": "Longue Vue (ลองกูวู)"
+  },
+  {
+    "bandName": "God Cute Cap (ก๊อดคัสแค็ป)"
+  },
+  {
+    "bandName": "Musium Div (มิวเซียม ดิฟ)"
+  },
+  {
+    "bandName": "ST Dupont (เอสทีดูปองท์)"
+  },
+  {
+    "bandName": "Silk Silver (ซิลค์ซิลเวอร์)"
+  },
+  {
+    "bandName": "Aanajakphom (อาณาจักรผม)"
+  },
+  {
+    "bandName": "Andaman (อันดามัน)"
+  },
+  {
+    "bandName": "Marc Jewelry (มาร์ค จิวเวลรี่)"
+  },
+  {
+    "bandName": "Grilly (กริวรี่)"
+  },
+  {
+    "bandName": "Gold Necklace (โกลด์เนคเลค)"
+  },
+  {
+    "bandName": "Best One Jewel (เบสต์ วัน เจเวล)"
+  },
+  {
+    "bandName": "Lny​ (ลิน)"
+  },
+  {
+    "bandName": "Hug Uniform (ฮัก ยูนิฟอร์ม)"
+  },
+  {
+    "bandName": "TPC Gold (ทีพีซีโกลด์)"
+  },
+  {
+    "bandName": "Allesjewelry (อัลเลสจิวเวลรี่)"
+  },
+  {
+    "bandName": "Mystic Messenger (มิสติกส์ แมสเซ็นเจอร์)"
+  },
+  {
+    "bandName": "Satin Flower (ซาติน ฟราวเวอร์)"
+  },
+  {
+    "bandName": "Body Shop (บอดี้ช็อป)"
+  },
+  {
+    "bandName": "Golf (กอล์ฟ)"
+  },
+  {
+    "bandName": "Shiseido (ชิเซโด้)"
+  },
+  {
+    "bandName": "CC Double O (ซีซี ดับบลิว โอ)"
+  },
+  {
+    "bandName": "Srithongpearls (มุกศรีทอง)"
+  },
+  {
+    "bandName": "Jiaranai (เจียระนัย)"
+  },
+  {
+    "bandName": "TraSamor (ตราสมอ)"
+  },
+  {
+    "bandName": "Vanan (วนันท์)"
+  },
+  {
+    "bandName": "Bioworld (ไบโอเวิลด์)"
+  },
+  {
+    "bandName": "Lee Hwa Jewellery (ลีฮวา จิลเวลรี่)"
+  },
+  {
+    "bandName": "Biba (บีบ้า)"
+  },
+  {
+    "bandName": "Rompboy (รอมพ์บอย)"
+  },
+  {
+    "bandName": "Black Star (แบล็คสตาร์)"
+  },
+  {
+    "bandName": "CHARM (ชาร์ม)"
+  },
+  {
+    "bandName": "Keng Masster (เก่งมัสเตอร์)"
+  },
+  {
+    "bandName": "Deer U (เดียร์ ยู)"
+  },
+  {
+    "bandName": "Rarai Handmade (ราไร แอนด์เมค)"
+  },
+  {
+    "bandName": "Glam Accessories (แกลม แอคเซสซอรี่)"
+  },
+  {
+    "bandName": "Glam (แกลม)"
+  },
+  {
+    "bandName": "Tae Kia Seng Jewelry (เต เกีย เซ็ง จิลเวลรี่)"
+  },
+  {
+    "bandName": "Hang Man (เฮ็งแมน)"
+  },
+  {
+    "bandName": "Yiwufa (วายวูฟา)"
+  },
+  {
+    "bandName": "Javalin (จาวาริน)"
+  },
+  {
+    "bandName": "Izone (ไอโซเน่)"
+  },
+  {
+    "bandName": "Megastore (เมกะสโตร์)"
+  },
+  {
+    "bandName": "Apao (อาเป่า)"
+  },
+  {
+    "bandName": "Jin Gold (จินโกลด์)"
+  },
+  {
+    "bandName": "Lion Precious Ware (ไลออน พีเชียส แวร์)"
+  },
+  {
+    "bandName": "New York Mets (นิวยอร์กเม็ทส์)"
+  },
+  {
+    "bandName": "Trendy Diamond (เทรนดี้ ไดมอนด์)"
+  },
+  {
+    "bandName": "Eva (อีว่า)"
+  },
+  {
+    "bandName": "SS88Jewelry (เอสเอส88 จิวเวลรี่)"
+  },
+  {
+    "bandName": "LeBow (เรอโบว)"
+  },
+  {
+    "bandName": "Doctorearring (ด็อกเตอร์เอียริ่ง)"
+  },
+  {
+    "bandName": "Nightin Gale (ไนติงเกล)"
+  },
+  {
+    "bandName": "Bewi-G (บิววี่จี)"
+  },
+  {
+    "bandName": "Tap Out (แท็ป เอาท์)"
+  },
+  {
+    "bandName": "Show Gadget (โชว์ แก๊ดเก็ต)"
+  },
+  {
+    "bandName": "Natural Secret (เนเจอรัล ซีเคร็ต)"
+  },
+  {
+    "bandName": "Mitchell & Ness (มิสเชลแอนด์เนส)"
+  },
+  {
+    "bandName": "Baopon (เบาพล)"
+  },
+  {
+    "bandName": "Dwungtamon (ดวงกมล)"
+  },
+  {
+    "bandName": "Vora Mira (โวร่า มิร่า)"
+  },
+  {
+    "bandName": "Pim Mini Shop (พิม มินิ ช็อป)"
+  },
+  {
+    "bandName": "Meechok (มีโชค)"
+  },
+  {
+    "bandName": "John Deere (จอห์นเดีย)"
+  },
+  {
+    "bandName": "Julaluck’s (จุฬารักษ์)"
+  },
+  {
+    "bandName": "BoYo (โบโย่ว)"
+  },
+  {
+    "bandName": "PangZaki (แพงซากิ)"
+  },
+  {
+    "bandName": "Angelicas Handcraft (แอนเจลลิก้า แฮนด์คราฟ)"
+  },
+  {
+    "bandName": "Flowerytale (ฟราวเวอร์รี่เทล)"
+  },
+  {
+    "bandName": "Mercury (เมอคิวรี่)"
+  },
+  {
+    "bandName": "Karat (กะรัต)"
+  },
+  {
+    "bandName": "In The Mood Handcraft (อินเดอะมูสแฮนด์คราฟ)"
+  },
+  {
+    "bandName": "Balanciaga (บาเลนซิเอก้า)"
+  },
+  {
+    "bandName": "SuperPearls (ซูเปอร์แพร)"
+  },
+  {
+    "bandName": "Cindera (ชินเดอร่า)"
+  },
+  {
+    "bandName": "Bravebelt (บราวีเบ็ต)"
+  },
+  {
+    "bandName": "Momma (มัมม่า)"
+  },
+  {
+    "bandName": "Hasbro (แฮสโบร)"
+  },
+  {
+    "bandName": "AomShopHandmade (อ้อมช็อปแฮนเมด)"
+  },
+  {
+    "bandName": "Desing By Korea (ดีซิ่ง บาย โคเรีย)"
+  },
+  {
+    "bandName": "Shoopen (ชูเพน)"
+  },
+  {
+    "bandName": "Naomi (เนโอมี)"
+  },
+  {
+    "bandName": "Marni (มาร์นี่)"
+  },
+  {
+    "bandName": "Rhodochrosite (โรโดโครไซต์)"
+  },
+  {
+    "bandName": "Peaches (พีชเชสส์)"
+  },
+  {
+    "bandName": "Jewelrize (จิวเวลไรซ์)"
+  },
+  {
+    "bandName": "Girlista (เกิร์ลลิสต้า)"
+  },
+  {
+    "bandName": "56 Bridesmaid (56 ไบรด์เมด)"
+  },
+  {
+    "bandName": "Gemelis (เจมีลีส)"
+  },
+  {
+    "bandName": "Iamsorich (ไอแอมโซริช)"
+  },
+  {
+    "bandName": "IronClad (ไอรอนแคลด)"
+  },
+  {
+    "bandName": "Picasso (พีคัสโซ)"
+  },
+  {
+    "bandName": "Louis Morais (หลุยส์มอเรส์)"
+  },
+  {
+    "bandName": "Justin Davis (จัสตินเดวิส)"
+  },
+  {
+    "bandName": "All Chic Accessories (ออล ชิค แอคเชสซอรีส์)"
+  },
+  {
+    "bandName": "Monthiradiamond (มนทิราไดมอนด์)"
+  },
+  {
+    "bandName": "Naruto (นารูโตะ)"
+  },
+  {
+    "bandName": "Pooh Diamond (พูลไดมอนด์)"
+  },
+  {
+    "bandName": "View Flower (วิว ฟลาวเวอร์)"
+  },
+  {
+    "bandName": "Runway (รันเวย์)"
+  },
+  {
+    "bandName": "Kanna (คันนา)"
+  },
+  {
+    "bandName": "March Hope (มาร์ช โฮป)"
+  },
+  {
+    "bandName": "Gala (กะลา)"
+  },
+  {
+    "bandName": "Silver Stone (ซิลเวอร์สโตน)"
+  },
+  {
+    "bandName": "PPGEMSTONE (พีพีเจมสโตน)"
+  },
+  {
+    "bandName": "Centara (เซ็นทารา)"
+  },
+  {
+    "bandName": "PhrimPloi (พริ้มพลอย)"
+  },
+  {
+    "bandName": "Thanyananee Gems (ธัญญมณี เจมส์)"
+  },
+  {
+    "bandName": "Al-Faro (อัลฟาโร)"
+  },
+  {
+    "bandName": "Warner Bros (วอร์นเน่อ บรอส)"
+  },
+  {
+    "bandName": "Hello Madame99 (ฮัลโล่ มาดาม 99)"
+  },
+  {
+    "bandName": "NK Suit (เอ็นที สูท)"
+  },
+  {
+    "bandName": "Anenjery (อาเนนเจอรี่)"
+  },
+  {
+    "bandName": "XEDZ (เอ็กซ์อีดีซี)"
+  },
+  {
+    "bandName": "Beethomas Brand (บีโทมัสแบรนด์)"
+  },
+  {
+    "bandName": "Memory Leather (เมมโมรี่ เลทเธอร์)"
+  },
+  {
+    "bandName": "Duck Jolie (ดั๊กโจลี่)"
+  },
+  {
+    "bandName": "Wilab Brand (ไวแล็ป แบรนด์)"
+  },
+  {
+    "bandName": "Diamond (ไดมอน)"
+  },
+  {
+    "bandName": "5.11 (ไฟว์วันวัน)"
+  },
+  {
+    "bandName": "Shimada (ชิมาดา)"
+  },
+  {
+    "bandName": "Murnee Design (เมอร์นี ดีไซน์)"
+  },
+  {
+    "bandName": "Phiiyhaarphorn​ (พิญาภรณ์)"
+  },
+  {
+    "bandName": "LALITA.BKK (ลาลิตาบีเคเค)"
+  },
+  {
+    "bandName": "Bankuncream (บันคุนครีม)"
+  },
+  {
+    "bandName": "DG (ดีจี)"
+  },
+  {
+    "bandName": "Nina Ricci (นีนาริชชี่)"
+  },
+  {
+    "bandName": "The North Face (เดอะนอร์ธเฟส)"
+  },
+  {
+    "bandName": "Gemsaya (เกมไซย่า)"
+  },
+  {
+    "bandName": "Instan Dips (อินสตัน ดิพส์)"
+  },
+  {
+    "bandName": "T Shop Angel (ทีช๊อปแองเจิ้ล)"
+  },
+  {
+    "bandName": "Soufeel (โซลฟีล)"
+  },
+  {
+    "bandName": "Zamild (ซาไมล์)"
+  },
+  {
+    "bandName": "Chiccha (ชิกชา)"
+  },
+  {
+    "bandName": "Daks Golf (แด็กซ์กอล์ฟ)"
+  },
+  {
+    "bandName": "Feungthong Jewelry (เฟื่องทอง จิวเวลรี่)"
+  },
+  {
+    "bandName": "Rip Curl (ริปเคิร์ล)"
+  },
+  {
+    "bandName": "Gateway Crystals (เกตเวย์ คริสตัล)"
+  },
+  {
+    "bandName": "Bestcutie Shop (เบทส์คัทตี้ ช็อป)"
+  },
+  {
+    "bandName": "NOBUO NAKAMURA (โนบุโอะนากามูระ)"
+  },
+  {
+    "bandName": "Panacea (พานาเซีย)"
+  },
+  {
+    "bandName": "S Summer Salt (เอสซัมเมอร์ ซอลท์)"
+  },
+  {
+    "bandName": "De Preco (เดอพรีโค)"
+  },
+  {
+    "bandName": "Moncler (ม็องเคลอร์)"
+  },
+  {
+    "bandName": "DreamWorks (ดรีมเวิร์ค)"
+  },
+  {
+    "bandName": "Minime (มินิมี)"
+  },
+  {
+    "bandName": "Calinan (คัลลิแนน)"
+  },
+  {
+    "bandName": "Mercelo (เมอร์เซโล)"
+  },
+  {
+    "bandName": "Leila (ไลลา)"
+  },
+  {
+    "bandName": "BZ Diamond (บีซี ไดมอนด์)"
+  },
+  {
+    "bandName": "Rayabrand (รายาแบรนด์)"
+  },
+  {
+    "bandName": "Coowea (คูเว่)"
+  },
+  {
+    "bandName": "CZ Earring (ซีซีทเออริง)"
+  },
+  {
+    "bandName": "Florate (ฟลอเรท)"
+  },
+  {
+    "bandName": "Fishsheep (ฟิชซิป)"
+  },
+  {
+    "bandName": "JEROLLIN (เจโรลลิน)"
+  },
+  {
+    "bandName": "K2N (เค2เอ็น)"
+  },
+  {
+    "bandName": "JYP (เจวายพี)"
+  },
+  {
+    "bandName": "Saksit Lucky Stone (ศักดิ์สิทธิ์ ลัคกี้ สโตน)"
+  },
+  {
+    "bandName": "OBEY (โอเบย์)"
+  },
+  {
+    "bandName": "Rada (รดา)"
+  },
+  {
+    "bandName": "Percy (เพอร์ซี่)"
+  },
+  {
+    "bandName": "8 UN Power Gemstones (8ยูเอ็น พาวเวอร์เกมสโตน)"
+  },
+  {
+    "bandName": "N&N (เอ็นแอนด์เอ็น)"
+  },
+  {
+    "bandName": "JM Glove (เจเอ็ม โกลฟ)"
+  },
+  {
+    "bandName": "Silversay (ซิลเวอร์เซ)"
+  },
+  {
+    "bandName": "Loverstoney (เลิฟเวอร์สโตนนี่)"
+  },
+  {
+    "bandName": "Folli Follie (ฟอลลิ ฟอลลี่)"
+  },
+  {
+    "bandName": "Happypace WJ (แฮปปี้เพจ ดับบลิวเจ)"
+  },
+  {
+    "bandName": "Fasion Flower (แฟชั่น ฟลาวเวอร์)"
+  },
+  {
+    "bandName": "Bringit On Girls (บรินกิท ออน เกิร์ล)"
+  },
+  {
+    "bandName": "Mindsets Amulets (ไมด์เซท อมูเลท)"
+  },
+  {
+    "bandName": "Harley Davidson (ฮาร์ลีย์เดวิดสัน)"
+  },
+  {
+    "bandName": "Hope (โฮป)"
+  },
+  {
+    "bandName": "NYU (เอ็นวายยู)"
+  },
+  {
+    "bandName": "Oprah (โอปราห์)"
+  },
+  {
+    "bandName": "Raja Jewelers (ราจา จิเวลเลอร์)"
+  },
+  {
+    "bandName": "TOURNA (ทัวร์น่า)"
+  },
+  {
+    "bandName": "Tongpaijit (ทองไพจิตร)"
+  },
+  {
+    "bandName": "Pinnstory (พินสตอรี่)"
+  },
+  {
+    "bandName": "UYouSilver (ยูยูซิลเวอร์)"
+  },
+  {
+    "bandName": "Ler Amulets (เลออัมมูเลท)"
+  },
+  {
+    "bandName": "Taikuu (ไทคู)"
+  },
+  {
+    "bandName": "Swingster Made In Usa (สวิงสเตอร์ เมด อิน ยูเอสเอ)"
+  },
+  {
+    "bandName": "Little Princess (ลิตเติ้ล ปริ้นเซส)"
+  },
+  {
+    "bandName": "La Little Thing (ลา ลิตเติ้ล ติ้ง)"
+  },
+  {
+    "bandName": "Piti Amulet (ปิติ อามูเล็ต)"
+  },
+  {
+    "bandName": "TinnMitin (ติณณ์มิทิน)"
+  },
+  {
+    "bandName": "Atasay (อตาเซย์)"
+  },
+  {
+    "bandName": "Finale Hijab (ไฟนอล ฮีญาบ)"
+  },
+  {
+    "bandName": "Chokas (โชคาส)"
+  },
+  {
+    "bandName": "Argon PS (อาร์กอนพีเอส)"
+  },
+  {
+    "bandName": "Giussani (จุสซานิ)"
+  },
+  {
+    "bandName": "Nida Jewelry (นิดา จิวเวลรี่)"
+  },
+  {
+    "bandName": "P Mor (พีมอร์)"
+  },
+  {
+    "bandName": "Believe Amulet (บีลีฟ อมูเลท)"
+  },
+  {
+    "bandName": "Fendi (เฟนดิ)"
+  },
+  {
+    "bandName": "Lucky Stones (ลัคกี้ สโตน)"
+  },
+  {
+    "bandName": "Diamond Proud (ไดมอนด์ พราวด์)"
+  },
+  {
+    "bandName": "WCG (ดับบลิวซีจี)"
+  },
+  {
+    "bandName": "PortRain (พอร์ทเรน)"
+  },
+  {
+    "bandName": "Zign (ซายน์)"
+  },
+  {
+    "bandName": "Zing (ซิ่ง)"
+  },
+  {
+    "bandName": "Believe Mulet (บีลีฟ มูเล็ต)"
+  },
+  {
+    "bandName": "Jade Master (เจด มาสเตอร์)"
+  },
+  {
+    "bandName": "Albedo (อัลเบโด)"
+  },
+  {
+    "bandName": "Knight (ไนท์ส)"
+  },
+  {
+    "bandName": "Focus (โฟกัส)"
+  },
+  {
+    "bandName": "PB (พีบี)"
+  },
+  {
+    "bandName": "Pd. Jewelry (พีดีจิวเวอรี่)"
+  },
+  {
+    "bandName": "Xinshiqin (ซิงชิคิน)"
+  },
+  {
+    "bandName": "WEVENI (วีเวนิ)"
+  },
+  {
+    "bandName": "Vexxer (เว็กเซอร์)"
+  },
+  {
+    "bandName": "Kipling (คิปลิ้ง)"
+  },
+  {
+    "bandName": "B-LOW THE BELT (บีโลวเดอะเบลท์)"
+  },
+  {
+    "bandName": "Yamaha Mini Harmonica (ยามาฮ่ามินิฮาร์โมนิก้า)"
+  },
+  {
+    "bandName": "Cronos (โครโนส)"
+  },
+  {
+    "bandName": "Purepearls.Thailand (พัวร์เพิร์ลไทยแลนด์)"
+  },
+  {
+    "bandName": "Chuda Hairpiece (ชุดา แฮร์พีช)"
+  },
+  {
+    "bandName": "Pk2 (พีเค2)"
+  },
+  {
+    "bandName": "Rolex (โรเล็กซ์)"
+  },
+  {
+    "bandName": "Love Stone (เลิฟสโตน)"
+  },
+  {
+    "bandName": "Dolce&Gabbana (โดลเช่ แอนด์ กาบบานา)"
+  },
+  {
+    "bandName": "Hats On (แฮทออน)"
+  },
+  {
+    "bandName": "Pluviophile1990 (พลูวิโอไฟล์)"
+  },
+  {
+    "bandName": "Gold Ex (โกลด์เอ็กซ์)"
+  },
+  {
+    "bandName": "Hkj (เอชเคเจ)"
+  },
+  {
+    "bandName": "Baggiemuch (แบกจี้มัช)"
+  },
+  {
+    "bandName": "Accessolist (แอคเซสซอลิสท์)"
+  },
+  {
+    "bandName": "Fridaydapper (ฟรายเดย์แดปเปอร์)"
+  },
+  {
+    "bandName": "Get Lucky (เก็ทลัคกี้)"
+  },
+  {
+    "bandName": "Toms (ทอมส์)"
+  },
+  {
+    "bandName": "Sajolyn (ซาโจลิน)"
+  },
+  {
+    "bandName": "Huneybunch (ฮันนี่บลัช)"
+  },
+  {
+    "bandName": "GET LUCK (เก็ทลัค)"
+  },
+  {
+    "bandName": "Zadaso (ซาดาโซ)"
+  },
+  {
+    "bandName": "Baetember (เบเทมเบอร์)"
+  },
+  {
+    "bandName": "Giftmegift (กิฟท์มีกิฟท์)"
+  },
+  {
+    "bandName": "Panmaha (พ​รรณ์​มหา)"
+  },
+  {
+    "bandName": "Lamu (ลามู)"
+  },
+  {
+    "bandName": "Christian Louboutin (คริสเตียน ลูบูแตง)"
+  },
+  {
+    "bandName": "R.Athletic Jeans Co (อาร์ แอทเลติค ยีนส์ โค)"
+  },
+  {
+    "bandName": "Prerana (พรีราน่า)"
+  },
+  {
+    "bandName": "Aleenar.Official (อลีนาร์ ออฟฟิเชียล)"
+  },
+  {
+    "bandName": "1929th (1929ทีเอช)"
+  },
+  {
+    "bandName": "Smiggle (สมิกเกิล)"
+  },
+  {
+    "bandName": "AllZ (เอทูแซต)"
+  },
+  {
+    "bandName": "Montbell (มอนท์เบลล์)"
+  },
+  {
+    "bandName": "Mk Maskorea (เอ็มเค มาสโคเรีย)"
+  },
+  {
+    "bandName": "Jillstuart (จิวสจ๊อต)"
+  },
+  {
+    "bandName": "Pangjee (แป้งจี่)"
+  },
+  {
+    "bandName": "MK Maskorea 24K (เอ็มเคมาสโคเรีย 24เค)"
+  },
+  {
+    "bandName": "Ella Hair (เอลล่า แฮร์)"
+  },
+  {
+    "bandName": "Wannabe Stones (วันนาเบะ สโตน)"
+  },
+  {
+    "bandName": "Radiant (เรเดี่ยน)"
+  },
+  {
+    "bandName": "KT Gem (เคที เจม)"
+  },
+  {
+    "bandName": "Wangthongsoy (วังทองสร้อย)"
+  },
+  {
+    "bandName": "Juri-Jira Shop (จูริจิระช็อป)"
+  },
+  {
+    "bandName": "Animate (อะนิเมท)"
+  },
+  {
+    "bandName": "Daily like (เดลลี่ไลค์)"
+  },
+  {
+    "bandName": "Hairpiecekami (แฮร์พีชกามิค)"
+  },
+  {
+    "bandName": "Bkkhome (บีเคเคโฮม)"
+  },
+  {
+    "bandName": "Day Day Fun (เดย์เดย์ฟัน)"
+  },
+  {
+    "bandName": "G&J K.Gold (จีแอนด์เจ เคโกลด์)"
+  },
+  {
+    "bandName": "Bellroy (เบลล์รอย)"
+  },
+  {
+    "bandName": "SKT Jewelry (เอสเคที จิวเวลรี่)"
+  },
+  {
+    "bandName": "Elite Models (อีลิทโมเดลส์)"
+  },
+  {
+    "bandName": "Lakone (ลัควัน)"
+  },
+  {
+    "bandName": "All In Jewelry (ออล อิน จิวเวลรี่)"
+  },
+  {
+    "bandName": "Ingkying (อิ้งค์ยิ้ง)"
+  },
+  {
+    "bandName": "Dressbarn (เดรสบาร์น)"
+  },
+  {
+    "bandName": "Terra Nova (เทอราโนว่า)"
+  },
+  {
+    "bandName": "Chic Chic Shop (ชิคชิคช็อป)"
+  },
+  {
+    "bandName": "Jueri Jewelry (เจอริ จิวเวลรี่)"
+  },
+  {
+    "bandName": "Pornmanee (พรมณี)"
+  },
+  {
+    "bandName": "Holder (โฮลเดอร์)"
+  },
+  {
+    "bandName": "Labrador (ลาบราดอร์)"
+  },
+  {
+    "bandName": "Thaya (ธายา)"
+  },
+  {
+    "bandName": "Sirigold (ศิริโกลด์)"
+  },
+  {
+    "bandName": "T Rak Jewelry (ที่รัก จิวเวลรี่)"
+  },
+  {
+    "bandName": "I-Sara (ไอซาร่า)"
+  },
+  {
+    "bandName": "Geota.Official (จีโอต้าออฟฟิเชียล)"
+  },
+  {
+    "bandName": "Modern Jewel (โมเดิร์น จิวเวล)"
+  },
+  {
+    "bandName": "XtivePro (เอ็กซ์ทีฟโปร)"
+  },
+  {
+    "bandName": "TOO Jewelry & Things (ทูจิวเวลรี่แอนด์ธิงส์)"
+  },
+  {
+    "bandName": "SG (เอสจี)"
+  },
+  {
+    "bandName": "Mahanakon Jewelry (มหานคร จิวเวลรี่)"
+  },
+  {
+    "bandName": "Fenix (เฟนิกซ์)"
+  },
+  {
+    "bandName": "Wolf (วูลฟ์)"
+  },
+  {
+    "bandName": "Ventale Jewelry (เวนเทล จิวเวลรี่)"
+  },
+  {
+    "bandName": "Yves Saint Laurent (อีฟส์แซงต์โลรองต์)"
+  },
+  {
+    "bandName": "Modern-Jewel (โมเดิร์นเจวิล)"
+  },
+  {
+    "bandName": "Heartmade (เฮิร์ทเมด)"
+  },
+  {
+    "bandName": "HHSociety (เฮ้าโฮลโซไซตี้)"
+  },
+  {
+    "bandName": "Panlai (พันลาย)"
+  },
+  {
+    "bandName": "Femmesdress (เฟมเมสเดรส)"
+  },
+  {
+    "bandName": "Mantra amulets​ (มันตราอมูเลท)"
+  },
+  {
+    "bandName": "Zuwei Wu (ซูเว่ย วู)"
+  },
+  {
+    "bandName": "Tommy (ทอมมี่)"
+  },
+  {
+    "bandName": "Flowergift Shop (ฟลาวเวอร์กิ๊ฟช็อป)"
+  },
+  {
+    "bandName": "Amorini Gems (เอมมอรินี่ เจมส์)"
+  },
+  {
+    "bandName": "JuneJust Accessories (จูนจัส แอคเชสเซอรี)"
+  },
+  {
+    "bandName": "DSC (ดีเอสซี)"
+  },
+  {
+    "bandName": "Ploymitra (พลอยมิทรา)"
+  },
+  {
+    "bandName": "Twosis.kp (ทูซิสเคพี)"
+  },
+  {
+    "bandName": "BUD LIGHT (บัดไลท์)"
+  },
+  {
+    "bandName": "BOW ME AWAY (โบว์มีอเวย์)"
+  },
+  {
+    "bandName": "SCUNCI (สคุนชิ)"
+  },
+  {
+    "bandName": "Mc Jeans (แมค จีนส์)"
+  },
+  {
+    "bandName": "Uncommon (อันคอมมอน)"
+  },
+  {
+    "bandName": "Lowrys Farm (ลาวรีส์ ฟาร์ม)"
+  },
+  {
+    "bandName": "Avengers (อเวนเจอร์ส)"
+  },
+  {
+    "bandName": "Cool Yong (คูลยง)"
+  },
+  {
+    "bandName": "ELORD (อีลลอร์ด)"
+  },
+  {
+    "bandName": "El Amin Exclusive (แอล อามิน เอ็กซ์คลูทีฟ)"
+  },
+  {
+    "bandName": "Graciela Jewelry (กลาเซียลา จิวเวลรี่)"
+  },
+  {
+    "bandName": "Nuii Jewely (นุ้ย จิวเวลลี่)"
+  },
+  {
+    "bandName": "Bowller (โบวล์เลอร์)"
+  },
+  {
+    "bandName": "Primal Gold (พรีม่าโกลด์)"
+  },
+  {
+    "bandName": "Chloe (โคลเอ้)"
+  },
+  {
+    "bandName": "Nicecap (ไนซ์แค็ป)"
+  },
+  {
+    "bandName": "Wildblueyonder (ไวด์บลูยอนเดอร์)"
+  },
+  {
+    "bandName": "Wedding Me Studio (เวดดิ้งมีสตูดิโอ)"
+  },
+  {
+    "bandName": "Mattyworld (แมตตี้ เวิลด์)"
+  },
+  {
+    "bandName": "Bulan (บุหลัน)"
+  },
+  {
+    "bandName": "Pelgio (เพลจิโอ)"
+  },
+  {
+    "bandName": "91 Amulet (91อมูเลท)"
+  },
+  {
+    "bandName": "Mulberry (มัลเบอร์รี่)"
+  },
+  {
+    "bandName": "Vilissa (วิลิซซา)"
+  },
+  {
+    "bandName": "Pipitree (พิพิทรี)"
+  },
+  {
+    "bandName": "Robin Ruth Finland (โรบิน รูท ฟินแลนด์)"
+  },
+  {
+    "bandName": "Stradivarius (สตราดิวาริอุส)"
+  },
+  {
+    "bandName": "Preecha Gems (ปรีชา เจมส์)"
+  },
+  {
+    "bandName": "FUERZA (เฟอร์ซา)"
+  },
+  {
+    "bandName": "Lafuma (ลาฟูมา)"
+  },
+  {
+    "bandName": "Gap (แก๊ป)"
+  },
+  {
+    "bandName": "Hater (เฮเตอร์)"
+  },
+  {
+    "bandName": "Star Gems (สตาร์ เจมส์)"
+  },
+  {
+    "bandName": "Tango (แทงโก้)"
+  },
+  {
+    "bandName": "YPL (วายพีแอล)"
+  },
+  {
+    "bandName": "Swan Club (สวอนคลับ)"
+  },
+  {
+    "bandName": "Maechaem (แม่แจ่ม)"
+  },
+  {
+    "bandName": "So Proud Thailand (โซพราว ไทยแลนด์)"
+  },
+  {
+    "bandName": "Lantinstune (แลนตินจูน)"
+  },
+  {
+    "bandName": "Cherry Pick Boutique (เชอร์รี่ พิก บูติค)"
+  },
+  {
+    "bandName": "Pearl Barrettes (เพิร์ลบาร์เร็ตเท็ส)"
+  },
+  {
+    "bandName": "Stone By Siri (สโตนบาย สิริ)"
+  },
+  {
+    "bandName": "Void (วอยด์)"
+  },
+  {
+    "bandName": "Xiong Hang (ซองฮัง)"
+  },
+  {
+    "bandName": "Hype (ไฮป์)"
+  },
+  {
+    "bandName": "Mon Ha Su (ม่อนฮาซู)"
+  },
+  {
+    "bandName": "Silver Skull (ซิลเว่อร์ สเกา)"
+  },
+  {
+    "bandName": "Luang Pho Sothon (หลวงพ่อโสธร)"
+  },
+  {
+    "bandName": "KML (เคเอ็มแอล)"
+  },
+  {
+    "bandName": "Phya (พญา)"
+  },
+  {
+    "bandName": "Petchpantra Official (เพชรพันตรา)"
+  },
+  {
+    "bandName": "Yadaroom (ยาดารูม)"
+  },
+  {
+    "bandName": "Mam Jewelry House (แหม่ม จิวเวลรี่ เฮาส์)"
+  },
+  {
+    "bandName": "Solar Eclipse (โซล่า เอคลิปส์)"
+  },
+  {
+    "bandName": "Kuliza Jewelry (คูลิซ่า จิวเวลรี่)"
+  },
+  {
+    "bandName": "Chaba Accessories (ชบา แอคเซสเซอรี่)"
+  },
+  {
+    "bandName": "Bestgems1977 (เบสท์เจมส์1977)"
+  },
+  {
+    "bandName": "Vnjewelry (วีเอ็นจิวเวลรี่)"
+  },
+  {
+    "bandName": "VN Jewelry (วีเอ็น จิวเวลรี่)"
+  },
+  {
+    "bandName": "Manoko Jewelry (มาโนโกะ จิวเวลรี่)"
+  },
+  {
+    "bandName": "Chinaann (ไชน่า แอนน์)"
+  },
+  {
+    "bandName": "Christian​ Dior​ (คริสเตียน ดิออร์)"
+  },
+  {
+    "bandName": "Hobonita (โฮโบนิต้า)"
+  },
+  {
+    "bandName": "7-Eleven (เซเว่นอีเลฟเว่น)"
+  },
+  {
+    "bandName": "Fjällräven (ฟยัลราเว่น)"
+  },
+  {
+    "bandName": "Lanvin Paris (ลองแวง ปารีส)"
+  },
+  {
+    "bandName": "Evita Peroni (เอวิต้า เพโรนิ)"
+  },
+  {
+    "bandName": "Commond (คอมมอนด์)"
+  },
+  {
+    "bandName": "Rudolph Valentino (รูดอล์ฟ วาเลนตีโน)"
+  },
+  {
+    "bandName": "SILKROAD (ซิลค์โรด)"
+  },
+  {
+    "bandName": "Gold Jewelry (โกล์ด จิวเวลรี่)"
+  },
+  {
+    "bandName": "Onnuto (ออนนูโต้)"
+  },
+  {
+    "bandName": "Teenieweenie Bear (ทินนี่วินนี่แบร์)"
+  },
+  {
+    "bandName": "KFLK (เคเอฟแอลเค)"
+  },
+  {
+    "bandName": "Reebok (รีบอค​)"
+  },
+  {
+    "bandName": "Yellowoctopus (เยลโล่วออคโตพุส)"
+  },
+  {
+    "bandName": "Fubu (ฟูบุ)"
+  },
+  {
+    "bandName": "Noah (โนอาห์)"
+  },
+  {
+    "bandName": "Tandula (แทนดูล่า)"
+  },
+  {
+    "bandName": "Elaine Gleave (อีเลน เกลพ)"
+  },
+  {
+    "bandName": "Michael Hill (ไมเคิล ฮิล)"
+  },
+  {
+    "bandName": "Pinky &​Dianne (พิงค์กี้ดีนเน่)"
+  },
+  {
+    "bandName": "Garnier (การ์นิเย่)"
+  },
+  {
+    "bandName": "Cheezzii (ชีสซี่)"
+  },
+  {
+    "bandName": "Haweel (ฮาวิล)"
+  },
+  {
+    "bandName": "Xioami (เสี่ยวหมี่)"
+  },
+  {
+    "bandName": "My Glitz Jewels (มาย กลิตซ์ จิวเวลส์)"
+  },
+  {
+    "bandName": "Maytawee (เมธาวี)"
+  },
+  {
+    "bandName": "F.O.F (เอฟโอเอฟ)"
+  },
+  {
+    "bandName": "Titapa Jewelry (ทิตาภา จิวเวลรี่)"
+  },
+  {
+    "bandName": "4fashion (4แฟชั่น)"
+  },
+  {
+    "bandName": "Titapa (ฐิตาภา)"
+  },
+  {
+    "bandName": "Clesia (คลีเซีย)"
+  },
+  {
+    "bandName": "Phuket Pearl Gem (ภูเก็ต เพิร์ล เจม)"
+  },
+  {
+    "bandName": "Myglitzjewels (มายกลิซจีเวลส์)"
+  },
+  {
+    "bandName": "Chana Studio (ชนะ สตูดิโอ)"
+  },
+  {
+    "bandName": "Aiyara (ไอยรา)"
+  },
+  {
+    "bandName": "Silamuntra (ศิลามันครา)"
+  },
+  {
+    "bandName": "Chiba Mura (ชิบะมุระ)"
+  },
+  {
+    "bandName": "Nissin Cap (นิสซินแคป)"
+  },
+  {
+    "bandName": "Maneerin Jewelry (มณีรินทร์จิวเวลรี่)"
+  },
+  {
+    "bandName": "Neera (นีร่า)"
+  },
+  {
+    "bandName": "Jiayiqi (เจียยี่ชี)"
+  },
+  {
+    "bandName": "Era Little (เอร่า ลิตเติ้ล)"
+  },
+  {
+    "bandName": "Blossom (บลอสซั่ม)"
+  },
+  {
+    "bandName": "Lauren Cap (ลอเรนแค็ป)"
+  },
+  {
+    "bandName": "Eleshe (เอลชี)"
+  },
+  {
+    "bandName": "Misstar Dot (มิสสตาร์ ด็อท)"
+  },
+  {
+    "bandName": "Crystal Silver FLS (คริสตัล วิลเว่อร์เอฟแอลเอส)"
+  },
+  {
+    "bandName": "Hardy Emies (ฮาร์ดี้อีมี่ส์)"
+  },
+  {
+    "bandName": "Diamond Matters (ไดมอนด์ แมตเตอร์)"
+  },
+  {
+    "bandName": "Madeoffabric (เมดออฟแฟบริค)"
+  },
+  {
+    "bandName": "Jong Charoen Jewalry (ยงเจริญจิวเวลรี่)"
+  },
+  {
+    "bandName": "Glue.2630 (กลู2630)"
+  },
+  {
+    "bandName": "Tasicha (ทาสิชา)"
+  },
+  {
+    "bandName": "Bonnechance (บอนชานช์)"
+  },
+  {
+    "bandName": "Franks Chop (แฟรงค์ ช็อป)"
+  },
+  {
+    "bandName": "Spring And Summer (สปริง แอนด์ ซัมเมอร์)"
+  },
+  {
+    "bandName": "G-Gems Thailand (จีเจมส์ไทยแลนด์)"
+  },
+  {
+    "bandName": "Simplish (ซิมพลิช)"
+  },
+  {
+    "bandName": "Unbranded (อันแบรนด์)"
+  },
+  {
+    "bandName": "Soboy (โซบอย)"
+  },
+  {
+    "bandName": "Dalila (ดาลิลา)"
+  },
+  {
+    "bandName": "Jiwy Jewelry (จีวี่ จิวเวลรี่)"
+  },
+  {
+    "bandName": "OC Sports (โอซีสปอร์ต)"
+  },
+  {
+    "bandName": "Woo (วู)"
+  },
+  {
+    "bandName": "Petrichor (เพ็ททริคชอร)"
+  },
+  {
+    "bandName": "Realtree (เรียลทรี)"
+  },
+  {
+    "bandName": "Softness (ซอฟท์เนส)"
+  },
+  {
+    "bandName": "Happy Sock (แฮปปี้ซอค)"
+  },
+  {
+    "bandName": "Yourstylejewelry (ยัวร์สไตล์จิวเวลรี่)"
+  },
+  {
+    "bandName": "XQNI (เอ็กซ์คิวเอ็นไอ)"
+  },
+  {
+    "bandName": "Kamo (คาโมะ)"
+  },
+  {
+    "bandName": "Compressport (คอมเพลสปอร์ต)"
+  },
+  {
+    "bandName": "Fitletic (ฟิตเลติค)"
+  },
+  {
+    "bandName": "Injinji (อินจินจิ)"
+  },
+  {
+    "bandName": "Camelbak (คาเมลแบ็ค)"
+  },
+  {
+    "bandName": "Zoot (ซูท)"
+  },
+  {
+    "bandName": "Aropec (แอโรเปค)"
+  },
+  {
+    "bandName": "Kitsch (คิทช์)"
+  },
+  {
+    "bandName": "Stones Friends (สโตน เฟรนด์)"
+  },
+  {
+    "bandName": "JK Silver (เจเคซิลเวอร์)"
+  },
+  {
+    "bandName": "Arinrada Jewelry (อรินรดา จิวเวลรี่)"
+  },
+  {
+    "bandName": "Bbs (บีบีเอส)"
+  },
+  {
+    "bandName": "Stella (สเตลล่า)"
+  },
+  {
+    "bandName": "SM Town (เอสเอ็มทาวน์)"
+  },
+  {
+    "bandName": "KT Jewelry (เค ที จิวเวลรี่)"
+  },
+  {
+    "bandName": "Benz (เบนซ์)"
+  },
+  {
+    "bandName": "Like Jewelry (ไลค์ จิวเวลรี่)"
+  },
+  {
+    "bandName": "Koom Square (คมสแควร์)"
+  },
+  {
+    "bandName": "Carnelian (คาร์เนเลี่ยน)"
+  },
+  {
+    "bandName": "Gleam Style (กลีม สไตล์)"
+  },
+  {
+    "bandName": "Cala Wig (คาลา วิก)"
+  },
+  {
+    "bandName": "Roger (โรเจอร์)"
+  },
+  {
+    "bandName": "Gleam (เกลม)"
+  },
+  {
+    "bandName": "Authentic (ออเธนทิค)"
+  },
+  {
+    "bandName": "UmmyJewelry (อุมมีเจอเวลรี่)"
+  },
+  {
+    "bandName": "Patiharn (ปาฏิหาริย์)"
+  },
+  {
+    "bandName": "EAONE (อีเอวัน)"
+  },
+  {
+    "bandName": "HI-SO (ไฮโซ)"
+  },
+  {
+    "bandName": "Kul Jumpa (กุญจำปา)"
+  },
+  {
+    "bandName": "Energie (เอ็นเนอร์จี้)"
+  },
+  {
+    "bandName": "Ltumbe (แอลทัมบี)"
+  },
+  {
+    "bandName": "Wowcute (ว้าวคิวท์)"
+  },
+  {
+    "bandName": "Marine Serre (มารีน เซเร่)"
+  },
+  {
+    "bandName": "Hanae​ Mori (ฮานาเอะ โมริ)"
+  },
+  {
+    "bandName": "Rundown Youth (รันดาวน์ยูธ)"
+  },
+  {
+    "bandName": "Kwan Handmade Shop (ขวัญแฮนด์เมดช็อป)"
+  },
+  {
+    "bandName": "Your les Bijoux (ยัวร์ เลส บิจูซ์)"
+  },
+  {
+    "bandName": "NFL (เอ็นเอฟแอล)"
+  },
+  {
+    "bandName": "Logo​ Athletic (โลโก้แอธเลติก)"
+  },
+  {
+    "bandName": "Repipi Armario (เรพิพิ อาร์มมาริโอ้)"
+  },
+  {
+    "bandName": "Element (เอลเลเม้นท์)"
+  },
+  {
+    "bandName": "Midnight Amulet (มิดไนท์ อมูเลท)"
+  },
+  {
+    "bandName": "DAPPER (แดปเปอร์)"
+  },
+  {
+    "bandName": "ARMANI JEANS (อาร์มานิยีนส์)"
+  },
+  {
+    "bandName": "OTTO Farm (ออตโต้ฟาร์ม)"
+  },
+  {
+    "bandName": "Nepa (นีปา)"
+  },
+  {
+    "bandName": "Wildlife Store​ (ไวลด์ไลฟส์ สโตร์)"
+  },
+  {
+    "bandName": "Billion (บิลเลี่ยน)"
+  },
+  {
+    "bandName": "MachuSilver (มาชู ซิลเวอร์)"
+  },
+  {
+    "bandName": "Panthai Handmade (พันธุ์ไท แฮนเมด)"
+  },
+  {
+    "bandName": "Diamond CZ (ไดมอนด์ ซีซี)"
+  },
+  {
+    "bandName": "Khemkharm (คีมคราม)"
+  },
+  {
+    "bandName": "Glossyglam (กลอสซี่แกลม)"
+  },
+  {
+    "bandName": "Araya Amulets (อารยา อามูเล็ต)"
+  },
+  {
+    "bandName": "Proudprima (พราวพริมา)"
+  },
+  {
+    "bandName": "GENIUS (จีเนียส)"
+  },
+  {
+    "bandName": "Golden Horse (โกลเด้น ฮอร์ส)"
+  },
+  {
+    "bandName": "likitmontra (ลิขิตมนตรา)"
+  },
+  {
+    "bandName": "Aztique (แอสทีค)"
+  },
+  {
+    "bandName": "Laniyamontra (ลานีญามนตรา)"
+  },
+  {
+    "bandName": "Silversolidbkk (ซิลเวอร์โซลิดบีเคเค)"
+  },
+  {
+    "bandName": "Tattwo Teller (แทททู เทลเลอร์)"
+  },
+  {
+    "bandName": "Miki Hair (มิกิแฮร์)"
+  },
+  {
+    "bandName": "Silatorn Jewelry (ศิลาธร จิวเวลรี่)"
+  },
+  {
+    "bandName": "Mintra Gems (มินตราเจมส์)"
+  },
+  {
+    "bandName": "Tokidoki (โทคิโดคิ)"
+  },
+  {
+    "bandName": "Sanda (ซันดา)"
+  },
+  {
+    "bandName": "FLB (เอฟแอลบี)"
+  },
+  {
+    "bandName": "Fairy Queen Crystals (แฟรี่ควีนคริสตัล)"
+  },
+  {
+    "bandName": "Titania (ไททันย่า)"
+  },
+  {
+    "bandName": "GC Maa (จีซีม่า)"
+  },
+  {
+    "bandName": "Comma (คอมม่า)"
+  },
+  {
+    "bandName": "Kidcity (คิดส์ซิตี้)"
+  },
+  {
+    "bandName": "G.C.Maa (จีซีมา)"
+  },
+  {
+    "bandName": "Khongkwan Jewelry (ขวัญขวัญจิวเวลรี่)"
+  },
+  {
+    "bandName": "Nonbiri (นอนบิริ)"
+  },
+  {
+    "bandName": "MLB Korea (เอ็มแอลบี โคเรีย)"
+  },
+  {
+    "bandName": "Nakamee (นาคามี)"
+  },
+  {
+    "bandName": "Baram (บารัม)"
+  },
+  {
+    "bandName": "Clic Bijoux (คลิก บีจักซ์)"
+  },
+  {
+    "bandName": "Miss Mermaid (มิส เมอร์เมด)"
+  },
+  {
+    "bandName": "Tamthong Gems (แทมทอง เจมส์)"
+  },
+  {
+    "bandName": "Stardust Accessories (สแตนดาสท์ แอคเซสซอรี่)"
+  },
+  {
+    "bandName": "GQ (จี คิว)"
+  },
+  {
+    "bandName": "Blessing (เบลสซิ่ง)"
+  },
+  {
+    "bandName": "Diamond Maimoon Jewelry (ไดมอนด์ ใหม่มูน จิวเวลรี่)"
+  },
+  {
+    "bandName": "Cute Option Store (คิวบ์ ออฟชั่น สโตร์)"
+  },
+  {
+    "bandName": "Unkut (อันคัท)"
+  },
+  {
+    "bandName": "Messika (เมสซิก้า)"
+  },
+  {
+    "bandName": "Agusty (เอกัสตี้)"
+  },
+  {
+    "bandName": "Angygems (แองจี้เจมส์)"
+  },
+  {
+    "bandName": "Gemma Gems (แกมม่า เกมส์)"
+  },
+  {
+    "bandName": "Manita (มานิตา)"
+  },
+  {
+    "bandName": "D Four (ดีโฟร์)"
+  },
+  {
+    "bandName": "Mukie Shop (มุกี้ ช็อป)"
+  },
+  {
+    "bandName": "Pow (พาว)"
+  },
+  {
+    "bandName": "RB Jewelry (อาร์บี จิวเวลรี่)"
+  },
+  {
+    "bandName": "Lucky456 (ลัคกี้456)"
+  },
+  {
+    "bandName": "Sex Pistols (เซ็กพิศอลส์)"
+  },
+  {
+    "bandName": "Guns n Roses (กันส์เอ็นโรเซส)"
+  },
+  {
+    "bandName": "Parucrafts (พารุคราฟ)"
+  },
+  {
+    "bandName": "Marwell (มาร์เวล)"
+  },
+  {
+    "bandName": "Angelicgems (แองเจลิกเจมส์)"
+  },
+  {
+    "bandName": "Duohan (ดูโอฮาน)"
+  },
+  {
+    "bandName": "Charida (ชาริดา)"
+  },
+  {
+    "bandName": "Charida Accessories (ชาริดา แอสเซสซอรี่)"
+  },
+  {
+    "bandName": "Dollie Baddie (ดอลลี่ แบดดี้)"
+  },
+  {
+    "bandName": "Morning Star (มอร์นิ่งสตาร์)"
+  },
+  {
+    "bandName": "Viva Gems (วีว่าเจมส์)"
+  },
+  {
+    "bandName": "9isara (เก้าอิสระ)"
+  },
+  {
+    "bandName": "Twinkle Me (ทวิงเคิลมี)"
+  },
+  {
+    "bandName": "Chankeaw (จันทร์แก้ว)"
+  },
+  {
+    "bandName": "Dalao (ดาเหลา)"
+  },
+  {
+    "bandName": "GNOCE (จีนอซ)"
+  },
+  {
+    "bandName": "Mumana (มุมานะ)"
+  },
+  {
+    "bandName": "Nessa (เนสซ่า)"
+  },
+  {
+    "bandName": "Wink White (วิ้งค์ ไวท์)"
+  },
+  {
+    "bandName": "Friedmans Jewerlers (ฟรีดแมน จิวเวลเลอร์)"
+  },
+  {
+    "bandName": "Zealfly (ซีลฟลาย)"
+  },
+  {
+    "bandName": "Hat Store (แฮต สโตร์)"
+  },
+  {
+    "bandName": "Silvy Jewels (ซิลวี่ จิวเวลส์)"
+  },
+  {
+    "bandName": "ICN (ไอซีเอ็น)"
+  },
+  {
+    "bandName": "Barbapapa (บาร์บ้าปาป้า)"
+  },
+  {
+    "bandName": "Hana Jewelry (ฮานา จิวเวลรี่)"
+  },
+  {
+    "bandName": "Sabaidee (สบายดี)"
+  },
+  {
+    "bandName": "Charitis Official (ชาริติส ออฟฟิเชี่ยล)"
+  },
+  {
+    "bandName": "Cougar (คูการ์)"
+  },
+  {
+    "bandName": "Girl Number 18 (เกิล์รนัมเบอร์18)"
+  },
+  {
+    "bandName": "Somerset Design (ซัมเมอร์เซ็ท ดีไซน์)"
+  },
+  {
+    "bandName": "Pt Jewelry (พีทีจิวเวลรี่)"
+  },
+  {
+    "bandName": "Lerviria Jewellery (ลาร์วิเรียจิวเวลรี่)"
+  },
+  {
+    "bandName": "Karl Lagerfeld (คาร์ล ลาเกอร์เฟล)"
+  },
+  {
+    "bandName": "Somerset (ซัมเมอร์เซ็ท)"
+  },
+  {
+    "bandName": "Attha Jewelry (อัธฐา จิลเวลรี่)"
+  },
+  {
+    "bandName": "Maron (มารอน)"
+  },
+  {
+    "bandName": "The Diamond (เดอะ ไดมอนด์)"
+  },
+  {
+    "bandName": "Skechers (สเก็ตเชอร์)"
+  },
+  {
+    "bandName": "KT Gold (เคทีโกลด์)"
+  },
+  {
+    "bandName": "Nanagoodsshop (นานา กูดส์ ช็อป)"
+  },
+  {
+    "bandName": "Diamond2U & Jewelry (ไดมอนด์2ยูแอนด์จิวเวลรี่)"
+  },
+  {
+    "bandName": "E Jewelry (อี จิวเวลรี่)"
+  },
+  {
+    "bandName": "My Jewelry (มาย จิวเวลรี่)"
+  },
+  {
+    "bandName": "Wawa.Cutie (วาวาคิวตี้)"
+  },
+  {
+    "bandName": "825 Gold (825 โกลด์)"
+  },
+  {
+    "bandName": "Fia (เฟีย)"
+  },
+  {
+    "bandName": "Mara Bangkok (มาร่าแบงค์คอก)"
+  },
+  {
+    "bandName": "Sappy Me (ซัปปี้ มี)"
+  },
+  {
+    "bandName": "Alista Diamond (อลิสต้าไดมอนด์)"
+  },
+  {
+    "bandName": "Mirastone (มิร่าสโตน)"
+  },
+  {
+    "bandName": "Sattha Amulets (ศรัทธา อามูเล็ต)"
+  },
+  {
+    "bandName": "Agar Harvest (อาการ์ ฮาร์เวสต์)"
+  },
+  {
+    "bandName": "PCN Handmade (พีซีเอ็น แฮนด์ เมด)"
+  },
+  {
+    "bandName": "Little Bear (ลิตเติ้ล แบร์)"
+  },
+  {
+    "bandName": "Dalha (ดาหลา)"
+  },
+  {
+    "bandName": "Vallerret (วอลเลอร์เร็ท)"
+  },
+  {
+    "bandName": "Greg & Grace (เกร็กแอนด์เกรซ)"
+  },
+  {
+    "bandName": "Broadways Exclusive (บอร์ดเวย์ส เอ็กซ์คูลซีฟ)"
+  },
+  {
+    "bandName": "Muslimdress Shop (มุสลิมเดรส ช็อป)"
+  },
+  {
+    "bandName": "Natural Basic (เนเชอรัลเบสิค)"
+  },
+  {
+    "bandName": "Wintrycoat (วินทรี่โค้ท)"
+  },
+  {
+    "bandName": "Smile D (สมายดี)"
+  },
+  {
+    "bandName": "MGFlowershop (เอ็มจีเอฟฟลาวเว่อร์ช็อป)"
+  },
+  {
+    "bandName": "Kemkudpin (เข็มกลัดพิน)"
+  },
+  {
+    "bandName": "WP Shop (ดับบิวพีช็อป)"
+  },
+  {
+    "bandName": "Capsmith (แคปสมิท)"
+  },
+  {
+    "bandName": "Kceezshop (เคคีซช็อป)"
+  },
+  {
+    "bandName": "PRAKAIPETCH (ประกายเพชร)"
+  },
+  {
+    "bandName": "Everything (เอเวอรี่ติง)"
+  },
+  {
+    "bandName": "Rlex Jewel (อาร์เล็กซ์จิว)"
+  },
+  {
+    "bandName": "Bnm Jewelry (บีเอ็นเอ็ม จิวเวอร์รี่)"
+  },
+  {
+    "bandName": "Gaze On (ก๊าซออน)"
+  },
+  {
+    "bandName": "Summer Daisy (ซัมเมอร์ เดซี่)"
+  },
+  {
+    "bandName": "Seoul Style (โซล สไตล์)"
+  },
+  {
+    "bandName": "Mawmeaw (แมวเหมียว)"
+  },
+  {
+    "bandName": "Sita (สิตา)"
+  },
+  {
+    "bandName": "Ploysangwan Luckystone (พลอยแสงหวาน ลัคกี้สโตน)"
+  },
+  {
+    "bandName": "By Rich 8 (บายริชเอท)"
+  },
+  {
+    "bandName": "Supich (สุพิช)"
+  },
+  {
+    "bandName": "Somethingitem (ซัมติงไอเท็ม)"
+  },
+  {
+    "bandName": "Infinity (อินฟีนีตี้)"
+  },
+  {
+    "bandName": "Frung Fringthing (ฟรัง ฟริงติ้ง)"
+  },
+  {
+    "bandName": "Glamour.pl (แกลเมอร์)"
+  },
+  {
+    "bandName": "Jewelry By Natt (จิวเวลรี่ บาย แนท)"
+  },
+  {
+    "bandName": "Marvel Comics Cap (มาร์เวลคอมมิคส์แคป)"
+  },
+  {
+    "bandName": "Lookmeeartglass (ลูกหมีอาร์ทกลาส)"
+  },
+  {
+    "bandName": "The Blessing Jewelry (เดอะเบลสซิ่ง จิวเวลรี่)"
+  },
+  {
+    "bandName": "Maniac Rocailly (มานิแอค โรเคลี่)"
+  },
+  {
+    "bandName": "Vimonrat Gems (วิมลรัตน์ เจมส์)"
+  },
+  {
+    "bandName": "Ost (โอเอสที)"
+  },
+  {
+    "bandName": "Porsche (ปอร์เช่)"
+  },
+  {
+    "bandName": "Unknown (อันโนน)"
+  },
+  {
+    "bandName": "In Your Mind (อินยัวร์ มายด์)"
+  },
+  {
+    "bandName": "Aldo (อัลโด้)"
+  },
+  {
+    "bandName": "Giorgio Armani (จิออร์จิโอ อาร์มานี่)"
+  },
+  {
+    "bandName": "Pinklady Style (พิ้งค์ เลดี้ สไตล์)"
+  },
+  {
+    "bandName": "Hla (เอชแอลเอ)"
+  },
+  {
+    "bandName": "Dilavie Diamond (ดิลาวี้ ไดมอนด์)"
+  },
+  {
+    "bandName": "De Gems (เดอเจมส์)"
+  },
+  {
+    "bandName": "Blackpink (แบล็คพิ้งก์)"
+  },
+  {
+    "bandName": "Sattha Amulet (ศรัทธา อามูเลต)"
+  },
+  {
+    "bandName": "Pearry Vintage (แพร์รี่ วินเทจ)"
+  },
+  {
+    "bandName": "Nneoma (เอ็นนีโอมา)"
+  },
+  {
+    "bandName": "Hausofmaterial (เฮาออฟแมททีเรียล)"
+  },
+  {
+    "bandName": "Gibjung Hairclip (กิ๊บจังแฮร์คลิป)"
+  },
+  {
+    "bandName": "Le Coq Sportif (เลอ ค็อก สปอร์ทิฟ)"
+  },
+  {
+    "bandName": "JINA (จีน่า)"
+  },
+  {
+    "bandName": "Oracha (อรชา)"
+  },
+  {
+    "bandName": "Yamaha (ยามาฮ่า)"
+  },
+  {
+    "bandName": "Sp Jewelry (เอสพีจิวเวลรี่)"
+  },
+  {
+    "bandName": "No Brang (โนแบรง)"
+  },
+  {
+    "bandName": "Forest Activity (ฟอเรสต์ แอคทิวิตี้)"
+  },
+  {
+    "bandName": "Ms.Sissy Accessories (มิสซิสซี่แอสเซสซอรี่)"
+  },
+  {
+    "bandName": "Miki Diamond (มิกิ ไดมอนด์)"
+  },
+  {
+    "bandName": "Joemdi (โจเอมดิ)"
+  },
+  {
+    "bandName": "Charm24hr (ชาร์ม24เอชอาร์)"
+  },
+  {
+    "bandName": "Rawin Diamonds (รวินท์ ไดมอนด์)"
+  },
+  {
+    "bandName": "Princely (พรีนซ์ลี)"
+  },
+  {
+    "bandName": "Original Masters 1988 (ออริจินัล มาสเตอร์ 1988)"
+  },
+  {
+    "bandName": "Sarisa Handmade (สาริศาแฮนด์เมด)"
+  },
+  {
+    "bandName": "Vcorm (วีคอร์ม)"
+  },
+  {
+    "bandName": "Cherish (เชอร์ริช)"
+  },
+  {
+    "bandName": "Prete (พรีท)"
+  },
+  {
+    "bandName": "Aleeya Jewelry (อาลียาจิวเวลรี่)"
+  },
+  {
+    "bandName": "JKK (เจเคเค)"
+  },
+  {
+    "bandName": "Raya Amulets (รายาอามูเล็ต)"
+  },
+  {
+    "bandName": "Jewelyn (จิวเวลลิน)"
+  },
+  {
+    "bandName": "ThaiLittle (ไทยลิตเติ้ล)"
+  },
+  {
+    "bandName": "Hispie (ฮิสไพ)"
+  },
+  {
+    "bandName": "Bracelet Gem Store (เบรสลิท เจม สโตร)"
+  },
+  {
+    "bandName": "Lucky Jad (ลัคกี้เจด)"
+  },
+  {
+    "bandName": "Blahbellland (บลาห์เบลแลนด์)"
+  },
+  {
+    "bandName": "Rich Gold (ริชโกลด์)"
+  },
+  {
+    "bandName": "Saranghae (ซารางแฮ)"
+  },
+  {
+    "bandName": "M Diamond (เอ็ม ไดมอนด์)"
+  },
+  {
+    "bandName": "Got7 (ก็อตเซเว่น)"
+  },
+  {
+    "bandName": "The Best Diamond (เดอะ เบสท์ ไดมอนด์)"
+  },
+  {
+    "bandName": "XQ (เอ็กซ์คิว)"
+  },
+  {
+    "bandName": "Ziva Diva (ซีว่าดีว่า)"
+  },
+  {
+    "bandName": "Chaiyosley (ไชโยสเลย์)"
+  },
+  {
+    "bandName": "Kayasis Brands (กายสิทธิ์ แบรนด์)"
+  },
+  {
+    "bandName": "Viewwise (วิวไวซ์)"
+  },
+  {
+    "bandName": "Home Made (โฮมเมด)"
+  },
+  {
+    "bandName": "NY (นิวยอร์ค)"
+  },
+  {
+    "bandName": "Mohhomphrae (ม่อฮ่อมแพร่)"
+  },
+  {
+    "bandName": "Louis​ Vuitton (หลุยส์ วิตตอง)"
+  },
+  {
+    "bandName": "Too Much (ทูมัช)"
+  },
+  {
+    "bandName": "KobeniJewelry (โคเบนนี่จิวเวอร์รี่)"
+  },
+  {
+    "bandName": "Aviation Shop Thailand (เอเวียชั่นช็อปไทยแลนด์)"
+  },
+  {
+    "bandName": "LENDES (เลนเดส)"
+  },
+  {
+    "bandName": "CIPRAINI (ซิปรานิ)"
+  },
+  {
+    "bandName": "Milsa (มิลซ่า)"
+  },
+  {
+    "bandName": "Testify (เทสทิฟี)"
+  },
+  {
+    "bandName": "Miss Me (มิสมี)"
+  },
+  {
+    "bandName": "Thiradajewelrystone (ธีรดา จิวเวลรี สโตน)"
+  },
+  {
+    "bandName": "Zeeda Jewel (ซีดา จิวเวล)"
+  },
+  {
+    "bandName": "Handmade By Fang (แฮนด์เมดบายแฟง)"
+  },
+  {
+    "bandName": "Cheery (เชอร์รี่)"
+  },
+  {
+    "bandName": "Cala Wigs (คาล่าวิก)"
+  },
+  {
+    "bandName": "MLB (เอ็มแอลบี​)"
+  },
+  {
+    "bandName": "Levigarrett (ลาวี่การ์เร็ต)"
+  },
+  {
+    "bandName": "Beyond Charms (บียอนด์ชาร์ม)"
+  },
+  {
+    "bandName": "Pura Seta (พูร่า เซต้า)"
+  },
+  {
+    "bandName": "22 Baht Accessory (22 บาทแอสเซสซอไรส์)"
+  },
+  {
+    "bandName": "Jewelry House (จิวเวลรี่ เฮ้าส์)"
+  },
+  {
+    "bandName": "Nattapichai (นัททพิชัย)"
+  },
+  {
+    "bandName": "Mystonelucky (มายสโตนลัคกี้)"
+  },
+  {
+    "bandName": "Lovely Gems (เลิฟลี่เจมส์)"
+  },
+  {
+    "bandName": "Studio Accessories (สตูดิโอแอสเซสซอไรส์)"
+  },
+  {
+    "bandName": "GC (จีซี)"
+  },
+  {
+    "bandName": "V made (วี เมด)"
+  },
+  {
+    "bandName": "Rungsup Jewelry (รุ่งทรัพย์ จิวเวลรี)"
+  },
+  {
+    "bandName": "PINK PVSSY (พิงค์ พุซซี)"
+  },
+  {
+    "bandName": "Sekiguchi (เซคิกูชิ)"
+  },
+  {
+    "bandName": "Accessory Box (แอสเซสซอรี่ บ็อกซ์)"
+  },
+  {
+    "bandName": "Mavango Shop (มะแวงโก้ ช๊อป)"
+  },
+  {
+    "bandName": "Seonmul (ซอนมุล)"
+  },
+  {
+    "bandName": "Rovski Gems (รอฟสกี้ เจมส์)"
+  },
+  {
+    "bandName": "Radley London (เรสเลย์ ลอนดอน)"
+  },
+  {
+    "bandName": "Dailylike (เดลี่ไลค์)"
+  },
+  {
+    "bandName": "Warrix (วอริกซ์)"
+  },
+  {
+    "bandName": "Pe Sia (ปี่เซี๊ยะ)"
+  },
+  {
+    "bandName": "Weekday Made (วีคเดย์ เมด)"
+  },
+  {
+    "bandName": "DexShell (เด็กซ์เชลล์)"
+  },
+  {
+    "bandName": "Index Living Mall (อินเด็กซ์ลิฟวิ่งมอลล์)"
+  },
+  {
+    "bandName": "Giordano (จอรดาโน)"
+  },
+  {
+    "bandName": "Stussy (สตุซซี่)"
+  },
+  {
+    "bandName": "Beadedcool (เบียดเดดคูล)"
+  },
+  {
+    "bandName": "Msgemstone (เอ็มเอสเจมสโตน)"
+  },
+  {
+    "bandName": "Hairmissu (แฮร์มิสยู)"
+  },
+  {
+    "bandName": "Aommy Golds (ออมมี่โกลด์)"
+  },
+  {
+    "bandName": "Booboocollection Thailand (บูบูคอลเลคชั่น ไทยแลนด์)"
+  },
+  {
+    "bandName": "Joyería (จอเยอเรีย)"
+  },
+  {
+    "bandName": "Thainiyom (ไทยนิยม)"
+  },
+  {
+    "bandName": "Prima Art (พรีม่าอาร์ต)"
+  },
+  {
+    "bandName": "Anona (อะโนนา)"
+  },
+  {
+    "bandName": "JR Jewelry (เจอาร์ จิวเวลรี)"
+  },
+  {
+    "bandName": "Tanawatt2009 (ธนาวัฒน์2009)"
+  },
+  {
+    "bandName": "Hamonia (ฮาโมเนีย)"
+  },
+  {
+    "bandName": "Twin​s (ทวินส์)"
+  },
+  {
+    "bandName": "Sanee (สานี)"
+  },
+  {
+    "bandName": "Caspa (แคสปา)"
+  },
+  {
+    "bandName": "Trussarrdi (ทรัสซาดิ)"
+  },
+  {
+    "bandName": "Toso Step (โทโซสเต็ป)"
+  },
+  {
+    "bandName": "Ploysaran (พลอยสราญ)"
+  },
+  {
+    "bandName": "Din Din Clay Craft (ดินดิน เคลย์คราฟท์)"
+  },
+  {
+    "bandName": "Winghouse (วิงเฮาส์)"
+  },
+  {
+    "bandName": "Meher’s Jewelry (เมเฮอร์ จิวเวลรี)"
+  },
+  {
+    "bandName": "Sfare (เอสแฟร์)"
+  },
+  {
+    "bandName": "Baoshidi (บาวชิดิ)"
+  },
+  {
+    "bandName": "Dilavie (ดิลาวี)"
+  },
+  {
+    "bandName": "Gemsradee (เจมส์รดี)"
+  },
+  {
+    "bandName": "Singha (สิงห์)"
+  },
+  {
+    "bandName": "Hair Miss U (แฮร์ มิสยู)"
+  },
+  {
+    "bandName": "Kancha Handmade (กาญชาแฮนด์เมด)"
+  },
+  {
+    "bandName": "HSH (เอชเอสเอช)"
+  },
+  {
+    "bandName": "Visconti Italy (วิสคอนติอิตาลี)"
+  },
+  {
+    "bandName": "Peranya (พีรันยา)"
+  },
+  {
+    "bandName": "Indigoskin (อินดิโก้สกิน)"
+  },
+  {
+    "bandName": "Mixblink (มิกบลิงค์)"
+  },
+  {
+    "bandName": "Grab (แกรป)"
+  },
+  {
+    "bandName": "In Bottle (อินบอทเทิล)"
+  },
+  {
+    "bandName": "Aporn Jewellry (อาภรณ์ จิวเวอร์รี่)"
+  },
+  {
+    "bandName": "Ana Design (แอนนา ดีไซน์)"
+  },
+  {
+    "bandName": "Monsane Diamond (มอนแซนไดมอนด์)"
+  },
+  {
+    "bandName": "Spunkysoul (สปั้นกี้โซล)"
+  },
+  {
+    "bandName": "Stone Magic World (สโตน เมจิก เวิลด์)"
+  },
+  {
+    "bandName": "Simon miller (ไซม่อน มิลเล่อร์)"
+  },
+  {
+    "bandName": "A Kurtz (อเคิร์ทซ์)"
+  },
+  {
+    "bandName": "Old Navy (โอล์นาวี)"
+  },
+  {
+    "bandName": "Army (อาร์มี่)"
+  },
+  {
+    "bandName": "Palomino (พาลามิโน่)"
+  },
+  {
+    "bandName": "Jongruay Amulets (จงรวย อะมูเลท)"
+  },
+  {
+    "bandName": "Winterwinter Shop (วินเทอร์วินเทอร์ช็อป)"
+  },
+  {
+    "bandName": "Horikoshi Kohei (โคเฮย์ โฮริโคชิ)"
+  },
+  {
+    "bandName": "Jira Leather (จิราเลทเธอร์)"
+  },
+  {
+    "bandName": "Oshkosh (ออชคอช)"
+  },
+  {
+    "bandName": "Neeya Jewelry (นียา จิวเวลรี่)"
+  },
+  {
+    "bandName": "Blomdahl (บลอมดาห์)"
+  },
+  {
+    "bandName": "Bean​ Pole​ (บีนโพเอล)"
+  },
+  {
+    "bandName": "Quadric (ควอดดริค)"
+  },
+  {
+    "bandName": "Vijitt (วิจิตร)"
+  },
+  {
+    "bandName": "Bangkokhooker (บางกอกฮุกเกอร์)"
+  },
+  {
+    "bandName": "Von Dutch (วอนดัช)"
+  },
+  {
+    "bandName": "BGG Umbrella (บีจีจี อัมเบรล่า)"
+  },
+  {
+    "bandName": "Maycrystal (เมย์คริสตัล)"
+  },
+  {
+    "bandName": "Absolute Homme (แอ็บโซลูท ออม)"
+  },
+  {
+    "bandName": "Almukhtar Gems (อัลมุกทาร์ เจมส์)"
+  },
+  {
+    "bandName": "Sumali Collection (สุมาลี คอลเลคชั่น)"
+  },
+  {
+    "bandName": "True Spin (ทรูสปิน)"
+  },
+  {
+    "bandName": "Zace (เซส)"
+  },
+  {
+    "bandName": "Jamzashop (แจ่มซาช็อป)"
+  },
+  {
+    "bandName": "Autograph (ออโทกราฟ)"
+  },
+  {
+    "bandName": "Babylion (เบบี้ไลอ้อน)"
+  },
+  {
+    "bandName": "Hyperfox (ไฮเปอร์ฟ็อกซ์)"
+  },
+  {
+    "bandName": "Adair (อะเดียร์)"
+  },
+  {
+    "bandName": "SP Wristband (เอสพี ริสท์แบนด์)"
+  },
+  {
+    "bandName": "Jam Jewelry (แจม จิวเวลรี่)"
+  },
+  {
+    "bandName": "T Craft (ทีคราฟท์)"
+  },
+  {
+    "bandName": "Rattalism (รัตตลิซึม)"
+  },
+  {
+    "bandName": "Chalyn Gems (ชาลิน เจมส์)"
+  },
+  {
+    "bandName": "Gremory Jewels (เกรโมรี จิวเวลส์)"
+  },
+  {
+    "bandName": "Ingingshop2526​ (อินกิงช็อป2526)"
+  },
+  {
+    "bandName": "Whycheapstudio (วายชีพสตูดิโอ)"
+  },
+  {
+    "bandName": "Starrydao Accessories (สตาร์รี่ดาว แอคเซสเซอร์รี่)"
+  },
+  {
+    "bandName": "Weiss (เวสส์)"
+  },
+  {
+    "bandName": "All Kind Jewelry (อัลไคน์จิวเวลลี่)"
+  },
+  {
+    "bandName": "Kind Jewelry (คิส จิวเวอร์รี่)"
+  },
+  {
+    "bandName": "KK​ Brand (เคเคแบรนด์)"
+  },
+  {
+    "bandName": "Ohoumbrella (โอ้อัมเบรลล่า)"
+  },
+  {
+    "bandName": "Jam Jewelry (แจม จิวเวอรี่)"
+  },
+  {
+    "bandName": "Flowering design (ฟลาววิ้งค์ ดีไซน์)"
+  },
+  {
+    "bandName": "Sumikko gurashi (ซูมิโกะกูราชิ)"
+  },
+  {
+    "bandName": "Are Ear (อาร์เอียร์)"
+  },
+  {
+    "bandName": "Mabina Gioielli (มาบีน่าจีโอเอลลี่)"
+  },
+  {
+    "bandName": "Bridesmaid Closeup (บริดเมดโคลสอัพ)"
+  },
+  {
+    "bandName": "Bangrak Accessories (บางรักแอคเซสเซอรี่)"
+  },
+  {
+    "bandName": "Sarah Coventry (ซาร่าห์โคเวนทรี)"
+  },
+  {
+    "bandName": "Tem Love (เทม เลิฟ)"
+  },
+  {
+    "bandName": "J Shop (จีช็อป)"
+  },
+  {
+    "bandName": "SBS (เอสบีเอส)"
+  },
+  {
+    "bandName": "Junxin (จันซิน)"
+  },
+  {
+    "bandName": "Venus (วีนัส)"
+  },
+  {
+    "bandName": "Starbucks (สตาร์บัคส์)"
+  },
+  {
+    "bandName": "LOGIKKK (ลอจิคค์)"
+  },
+  {
+    "bandName": "Pronto (พรอนโต้)"
+  },
+  {
+    "bandName": "Ben​ Davis​ (เบนดาวิส)"
+  },
+  {
+    "bandName": "Folio (โฟลิโอ้)"
+  },
+  {
+    "bandName": "Sundayseoul (ซันเดย์โซล)"
+  },
+  {
+    "bandName": "Us And Them (อัส แอนด์ เธม)"
+  },
+  {
+    "bandName": "OHM (โอเอชเอ็ม)"
+  },
+  {
+    "bandName": "Jenny Lucky Stone (เจนนี่ ลักกี้ สโตน)"
+  },
+  {
+    "bandName": "GD Jewelry (จีดีจิวเวลรี่)"
+  },
+  {
+    "bandName": "Chaiwat Diamond (ชัยวัฒน์ไดมอนด์)"
+  },
+  {
+    "bandName": "Franco Ferrari (ฟรังโก้เฟอร์รารี่)"
+  },
+  {
+    "bandName": "Dynafit (ดายนาฟิต)"
+  },
+  {
+    "bandName": "X Jewellery (เอ็กซ์จิวเวลรี่)"
+  },
+  {
+    "bandName": "Sasha (ซาช่า)"
+  },
+  {
+    "bandName": "Dorothy Perkins (โดโรธี เพอร์กิ้นส์)"
+  },
+  {
+    "bandName": "X-Jewellery (เอ็กซ์ จิวเวลเลอรี)"
+  },
+  {
+    "bandName": "Ratia Jewelry (ราเทียร์ จิวเวอรี่)"
+  },
+  {
+    "bandName": "Mido (มิโด)"
+  },
+  {
+    "bandName": "Grace by Suphanan (เกรบบายซูพาน่า)"
+  },
+  {
+    "bandName": "Vicky Burmese Amber (วิกกี้ เบอเมส แอมเบอ)"
+  },
+  {
+    "bandName": "Hao mou (ห่าวเมา)"
+  },
+  {
+    "bandName": "Anurak Jaksanthai (อนุรักษ์ จักสานไทย)"
+  },
+  {
+    "bandName": "Xingfashion (ซิงแฟชั่น)"
+  },
+  {
+    "bandName": "Xing Fashion (ซิง แฟชั่น)"
+  },
+  {
+    "bandName": "Iseey Miyake (ลิซซี่ มิยาเกะ)"
+  },
+  {
+    "bandName": "Bacon Time (เบคอนไทม์)"
+  },
+  {
+    "bandName": "Anythingg TH (เอนี่ติง ทีเอช)"
+  },
+  {
+    "bandName": "HIM (เอชไอเอ็ม)"
+  },
+  {
+    "bandName": "Trendsmax (เทรนด์แม็กซ์)"
+  },
+  {
+    "bandName": "Amethyst (อเมทิสต์)"
+  },
+  {
+    "bandName": "Kuran (คุรัน)"
+  },
+  {
+    "bandName": "Happy Atomic (แฮปปี้อะตอมมิก)"
+  },
+  {
+    "bandName": "Rocking Ag (ร๊อกกิ้ง เอจี)"
+  },
+  {
+    "bandName": "Hollister (โฮลิสเตอร์)"
+  },
+  {
+    "bandName": "Sankin (ซันคิน)"
+  },
+  {
+    "bandName": "Flowrresin (ฟลาวเวอร์เรซิน)"
+  },
+  {
+    "bandName": "DAPP (ดีเอพีพี)"
+  },
+  {
+    "bandName": "Ake Nattee Gems (เอก ณัฐธีร์ เจมส์)"
+  },
+  {
+    "bandName": "Moonglow (มูนโกลว์)"
+  },
+  {
+    "bandName": "Kanni Studio (กันนิ สตูดิโอ)"
+  },
+  {
+    "bandName": "Star Jewelry (สตาร์จิวเวลรี่)"
+  },
+  {
+    "bandName": "Hippytree (ฮิปปี้ทรี)"
+  },
+  {
+    "bandName": "AIcommercial (อัลคอมเมอร์เชียล)"
+  },
+  {
+    "bandName": "JTC Diamond (เจทีซี ไดมอนด์)"
+  },
+  {
+    "bandName": "Sunday Afternoons (ซันเดย์ อาฟเตอร์นูน)"
+  },
+  {
+    "bandName": "Chomel (โชเมล)"
+  },
+  {
+    "bandName": "San Vitale (ซานไวเทล)"
+  },
+  {
+    "bandName": "Ice (ไอซ์)"
+  },
+  {
+    "bandName": "Lochmere (ลอชเมียร์)"
+  },
+  {
+    "bandName": "Divine (ดีวายน์)"
+  },
+  {
+    "bandName": "Eichon Fashionstudio (อิฉันแฟชั่นสตูดิโอ)"
+  },
+  {
+    "bandName": "Earrings Studio (เอียร์ริ่งสตูดิโอ)"
+  },
+  {
+    "bandName": "Ubisoft (ยูบิซอฟ์ท)"
+  },
+  {
+    "bandName": "Hat Styles (แฮท สไตล์)"
+  },
+  {
+    "bandName": "NP Aura Lucky (เอ็นพี ออร่า ลัคกี้)"
+  },
+  {
+    "bandName": "Barbow (บาร์โบว์)"
+  },
+  {
+    "bandName": "NP Jewelry (เอ็นพี จิวเวอรี่)"
+  },
+  {
+    "bandName": "Ruby Siam Gold (รูบี้ สยาม โกลด์)"
+  },
+  {
+    "bandName": "Dej (เดช)"
+  },
+  {
+    "bandName": "Mahamongkon (มหามงคล)"
+  },
+  {
+    "bandName": "Les Copains (เลสโคเพน)"
+  },
+  {
+    "bandName": "Somboon Gem&Jewelry (สมบูรณ์เจมแอนด์จิวเวลรี่)"
+  },
+  {
+    "bandName": "Wila (วิลา)"
+  },
+  {
+    "bandName": "Vittorio Cotta (วิทโทริโอ้คอทต้า)"
+  },
+  {
+    "bandName": "Vara Gems (วราเจมส์)"
+  },
+  {
+    "bandName": "Devagachanam (เดวาคชานัม)"
+  },
+  {
+    "bandName": "Madawaska (มาดากัสการ์)"
+  },
+  {
+    "bandName": "Madduck Jewels (แมดดั๊ก เจเวลส์)"
+  },
+  {
+    "bandName": "Columbia​ (โคลัมเบีย)"
+  },
+  {
+    "bandName": "K&N Gems (เคแอนด์เอ็น เจมส์)"
+  },
+  {
+    "bandName": "Belinda (บีลินดา)"
+  },
+  {
+    "bandName": "Oasismine (โอเอซิสไมน์)"
+  },
+  {
+    "bandName": "Les Nereides Paris (เลส์ เนเรอีเดส ปารีส)"
+  },
+  {
+    "bandName": "Premiumgold (พรีเมี่ยมโกลด์)"
+  },
+  {
+    "bandName": "Les Nereides (เลส์ เนเรอีเดส)"
+  },
+  {
+    "bandName": "Eyeshop Accessories (อายช็อปแอคเซสเซอรี่)"
+  },
+  {
+    "bandName": "Anomokay (อโนโมเคย์)"
+  },
+  {
+    "bandName": "Thita Craft (ทิตา คราฟท์)"
+  },
+  {
+    "bandName": "Siam Nine Jewelry (สยามไนน์จิวเวลรี่)"
+  },
+  {
+    "bandName": "Tanluck Gems (แทนลัค เจมส์)"
+  },
+  {
+    "bandName": "Ayasilver (เอยาซิลเวอร์)"
+  },
+  {
+    "bandName": "Jade Forever (เจด ฟอร์เอฟเวอร์)"
+  },
+  {
+    "bandName": "Janjie Gems (แจนจี้เจมส์)"
+  },
+  {
+    "bandName": "Shcollectionth (เอสเอชคอลเลคชั่นทีเอช)"
+  },
+  {
+    "bandName": "Sea2sun (ซีทูซัน)"
+  },
+  {
+    "bandName": "Akkara Baramee (อัครบารมี)"
+  },
+  {
+    "bandName": "Tanluckgems (แทนลัคเจมส์)"
+  },
+  {
+    "bandName": "Yiting (อีถิง)"
+  },
+  {
+    "bandName": "PP Diamond (พีพี ไดมอนด์)"
+  },
+  {
+    "bandName": "Gold Shop (โกลด์ ช็อป)"
+  },
+  {
+    "bandName": "Kinda.studioth (คินดาสตูดิโอทีเอช)"
+  },
+  {
+    "bandName": "ANPJewelry (เอแอนด์พี จิวเวลรี่)"
+  },
+  {
+    "bandName": "Amita Gemstone (อมิตา เจมสโตน)"
+  },
+  {
+    "bandName": "Kolon Sport (โคลอนสปอร์ต)"
+  },
+  {
+    "bandName": "Parin Gems (พาริน เจมส์)"
+  },
+  {
+    "bandName": "Phalang Hin (พลังหิน)"
+  },
+  {
+    "bandName": "Sosengheng (โซวเซ่งเฮง)"
+  },
+  {
+    "bandName": "Jon Richard (จอนริชาร์ด)"
+  },
+  {
+    "bandName": "Babychicken (เบบี้ชิคเก้น)"
+  },
+  {
+    "bandName": "Nattaya Gems (ณัฐธยาน์ เจมส์)"
+  },
+  {
+    "bandName": "Fabindia (ฟาบินเดีย)"
+  },
+  {
+    "bandName": "Zibo Jewelry (ซิโบ จิวเวลลี่)"
+  },
+  {
+    "bandName": "Js Jewelry (เจเอสจิวเวลรี่)"
+  },
+  {
+    "bandName": "Bubba Gump (บับบากัมพ์)"
+  },
+  {
+    "bandName": "Satellite (แซทเทลไลท์)"
+  },
+  {
+    "bandName": "Munla Amulet (มุนลาอามูเล็ต)"
+  },
+  {
+    "bandName": "Jewellista (จิวเวลลิสต้า)"
+  },
+  {
+    "bandName": "Vara (วรา)"
+  },
+  {
+    "bandName": "Unmelt (อันเมลท์)"
+  },
+  {
+    "bandName": "Memeikids Silver (เมเม่ยคิดส์ ซิลเวอร์)"
+  },
+  {
+    "bandName": "1989 Studio Accessories (1989 สตูดิโอ แอคเซสเซอรี่)"
+  },
+  {
+    "bandName": "J2k (เจทูเค)"
+  },
+  {
+    "bandName": "Gussilver (กัสซิลเวอร์)"
+  },
+  {
+    "bandName": "Little Fish Artwork (ลิตเติ้ลฟิชอาร์ทเวิร์ค)"
+  },
+  {
+    "bandName": "Sila Stone (ศิลาสโตน)"
+  },
+  {
+    "bandName": "Jeep Spirit (จีพสปิริท)"
+  },
+  {
+    "bandName": "Kanokrat Gems (กนกรัตน์เจม)"
+  },
+  {
+    "bandName": "Prim Minimal (พริมมินิมอล)"
+  },
+  {
+    "bandName": "Magideal (เมจิดีล)"
+  },
+  {
+    "bandName": "9tamm (ไนน์แทม)"
+  },
+  {
+    "bandName": "Blue Bobble (บลู บ๊อบเบิ้ล)"
+  },
+  {
+    "bandName": "Gymboree (จิมโบรี)"
+  },
+  {
+    "bandName": "Fashion Jewelry (แฟชั่น จิวเวลรี่)"
+  },
+  {
+    "bandName": "Crazy 8 (เครซี่ 8)"
+  },
+  {
+    "bandName": "Richarun (ริชารัน)"
+  },
+  {
+    "bandName": "Salasilver (สล่าเงิน)"
+  },
+  {
+    "bandName": "Caterpillar (แคทเธอร์พิลลาร์)"
+  },
+  {
+    "bandName": "Feiler (เฟยเลอร์)"
+  },
+  {
+    "bandName": "Kajub (กาจุ๊บ)"
+  },
+  {
+    "bandName": "Girltalk Accessories (เกิร์ลท้อคแอสเซสเซอรี่)"
+  },
+  {
+    "bandName": "Cinderella Hairpiece (ซินเดอร์เรลล่าแฮร์พีซ)"
+  },
+  {
+    "bandName": "New Fashion (นิวแฟชั่น)"
+  },
+  {
+    "bandName": "Sayoung (ซายัง)"
+  },
+  {
+    "bandName": "Faridat Gems (ฟาริแดท เจมส์)"
+  },
+  {
+    "bandName": "Moshi Moshi (โมชิโมชิ)"
+  },
+  {
+    "bandName": "De Silvery (เดอ ซิลเวอรี่)"
+  },
+  {
+    "bandName": "Milkjoy (มิลค์จอย)"
+  },
+  {
+    "bandName": "Victor Leather (วิคเตอร์เลทเธอร์)"
+  },
+  {
+    "bandName": "K Handmade (เค แฮนด์เมด)"
+  },
+  {
+    "bandName": "Aomthong (ออมทอง)"
+  },
+  {
+    "bandName": "Napakraft (นภาคราฟท์)"
+  },
+  {
+    "bandName": "Glee Accessories (จีแอสเซสเซอรี่)"
+  },
+  {
+    "bandName": "Leela Brand (ลีลาแบรนด์)"
+  },
+  {
+    "bandName": "Molly (มอลลี่)"
+  },
+  {
+    "bandName": "Chuchai (ชูชัย)"
+  },
+  {
+    "bandName": "Hatson (แฮทส์ออน)"
+  },
+  {
+    "bandName": "Rouge Jewelry (รูจ จิวเวลรี่)"
+  },
+  {
+    "bandName": "Harry Potter (แฮร์รี่พอตเตอร์)"
+  },
+  {
+    "bandName": "Cartelo (คาร์เทโล)"
+  },
+  {
+    "bandName": "Amore Jewelry (อะมอเร่ จิวเวอร์รี่)"
+  },
+  {
+    "bandName": "Nitchaz (ณิทชาซ์)"
+  },
+  {
+    "bandName": "Lada (ลดา)"
+  },
+  {
+    "bandName": "Tanya Accessories (ธัญญา แอคเซสซอรี่)"
+  },
+  {
+    "bandName": "Zoe Stone Therapy (โซสโตน เธอราพี)"
+  },
+  {
+    "bandName": "Cozy (โคซี่)"
+  },
+  {
+    "bandName": "Tokyo Fashion (โตเกียวแฟชั่น)"
+  },
+  {
+    "bandName": "Tellme Your Wish95 (เทลมี ยัวร์ วิช95)"
+  },
+  {
+    "bandName": "Mc Gregor (แมคเกรเกอร์)"
+  },
+  {
+    "bandName": "Paul Stuart (พอล สจ๊วต)"
+  },
+  {
+    "bandName": "47 Brand (47 แบรนด์)"
+  },
+  {
+    "bandName": "Similanka (ซิมิลันกา)"
+  },
+  {
+    "bandName": "F&T (เอฟแอนด์ที)"
+  },
+  {
+    "bandName": "Posie Flower (โพซี่ ฟลาวเวอร์)"
+  },
+  {
+    "bandName": "Zionward (ซีออนวาร์ด)"
+  },
+  {
+    "bandName": "Bamoer (แบเมอร์)"
+  },
+  {
+    "bandName": "Pearl Jewelry (เพิร์ล จิวเวลรี่)"
+  },
+  {
+    "bandName": "Gwyneth (กวิน-เนท)"
+  },
+  {
+    "bandName": "Robinwood (โรบินวู้ด)"
+  },
+  {
+    "bandName": "NM Silver 92.5 (เอ็นเอ็ม ซิลเวอร์ 92.5)"
+  },
+  {
+    "bandName": "Krittiya Jewelry (กฤติยา จิวเวลรี่)"
+  },
+  {
+    "bandName": "Tigernu (ไทเกอร์นู)"
+  },
+  {
+    "bandName": "Polaroid (โพลารอยด์)"
+  },
+  {
+    "bandName": "Locket In Love (ล๊อคเก็ต อิน เลิฟ)"
+  },
+  {
+    "bandName": "Meeder Handmade (มีเดียร์ แฮนด์ เมด)"
+  },
+  {
+    "bandName": "Peter (ปีเตอร์)"
+  },
+  {
+    "bandName": "Wonderlandshop (วันเดอร์แลนด์ช็อป)"
+  },
+  {
+    "bandName": "Brinqo (บลินโค้)"
+  },
+  {
+    "bandName": "Good Ruk (กู๊ดรัก)"
+  },
+  {
+    "bandName": "Amal Hijab (อามาลฮิญาบ)"
+  },
+  {
+    "bandName": "Kissmyjewel (คิสมายเจเวล)"
+  },
+  {
+    "bandName": "Hat Godown (โกดังหมวก)"
+  },
+  {
+    "bandName": "M&B (เอ็มแอนด์บี)"
+  },
+  {
+    "bandName": "Twenty6 Jewelry (ทเวนตี้จิวเวลรี่)"
+  },
+  {
+    "bandName": "Khun Hua Lor (คุณฮั้ว หล่อ)"
+  },
+  {
+    "bandName": "Little Shiny Things (ลิตเติ้ล ไชนี่ ติ้งส์)"
+  },
+  {
+    "bandName": "Iamleather (ไอแอมลีทเทอร์)"
+  },
+  {
+    "bandName": "krunim (ครูนิ่ม)"
+  },
+  {
+    "bandName": "Fatin (ฟาติน)"
+  },
+  {
+    "bandName": "DarakaDiamond (ดารากาไดมอนด์)"
+  },
+  {
+    "bandName": "Sugarme (ชูการ์มี)"
+  },
+  {
+    "bandName": "Nafys Jewelry (นฟิซ จิวเวลรี่)"
+  },
+  {
+    "bandName": "Holy Gold & Diamond (โฮลี่ โกลด์แอนด์ ไดมอนด์)"
+  },
+  {
+    "bandName": "J Estina (เจเอสติน่า)"
+  },
+  {
+    "bandName": "Veerayutgems (วีรยุทธอัญมณี)"
+  },
+  {
+    "bandName": "P&O Goldcloning (พีแอนด์โอโกลด์โคลนนิ่ง)"
+  },
+  {
+    "bandName": "M&N (เอ็มแอนด์เอ็น)"
+  },
+  {
+    "bandName": "Vavagems (วาวาเจมส์)"
+  },
+  {
+    "bandName": "Layta (เลย์ทา)"
+  },
+  {
+    "bandName": "The Recorder Factory (เดอะ เรคคอร์ดเดอร์ แฟคตอรี่)"
+  },
+  {
+    "bandName": "Rebel 8 (รีเบล8)"
+  },
+  {
+    "bandName": "Ninyamanee (นิลญมณี)"
+  },
+  {
+    "bandName": "Boston47 (บอสตัน47)"
+  },
+  {
+    "bandName": "Van Cleef and Arpels (แวน คลีฟ แอนด์ อาร์เปลส์)"
+  },
+  {
+    "bandName": "Metrocity (เมโทรซิตี้)"
+  },
+  {
+    "bandName": "Miss Lucky Stone (มิสลักกี้สโตน)"
+  },
+  {
+    "bandName": "Furla (ฟูร์ลา)"
+  },
+  {
+    "bandName": "P&O (พีแอนด์โอ)"
+  },
+  {
+    "bandName": "Diamondann (ไดมอนด์แอน)"
+  },
+  {
+    "bandName": "TF Boys (ทีเอฟบอยส์)"
+  },
+  {
+    "bandName": "Moditec (โมดิแทค)"
+  },
+  {
+    "bandName": "Salomon (โซโลมอน)"
+  },
+  {
+    "bandName": "Fpbrand (เอฟพีแบรนด์)"
+  },
+  {
+    "bandName": "Amourlett (อมูเลท)"
+  },
+  {
+    "bandName": "Pedro (พรีโด้​)"
+  },
+  {
+    "bandName": "Pashmina (พาสมิน่า)"
+  },
+  {
+    "bandName": "Andre Chenier (อันเดร เชเนียร์)"
+  },
+  {
+    "bandName": "MK Jew (เอ็มเคจิว)"
+  },
+  {
+    "bandName": "Merri (เมอรี่)"
+  },
+  {
+    "bandName": "Petchbangkok (เพชรบางกอก)"
+  },
+  {
+    "bandName": "Thong99 (ทอง99)"
+  },
+  {
+    "bandName": "Wet Seal (เว็ท ซีล)"
+  },
+  {
+    "bandName": "Rama Foundation (มูลนิธิรามาธิบดี)"
+  },
+  {
+    "bandName": "Pop & Pro (ป๊อบแอนด์โปร)"
+  },
+  {
+    "bandName": "YTGEMS (วายทีเจมส์​)"
+  },
+  {
+    "bandName": "Neriza Jewelry (เนริซ่าจิวเวลรี่)"
+  },
+  {
+    "bandName": "Kanelian (คาเนเลี่ยน)"
+  },
+  {
+    "bandName": "Thai Inthanil (ไทอินทนิล)"
+  },
+  {
+    "bandName": "Famous Star & Straps (เฟมัสสตาร์แอนด์สเตร็ป)"
+  },
+  {
+    "bandName": "Wiratkram (วิรัตน์ คราม)"
+  },
+  {
+    "bandName": "Flintstone (ฟลิ้นท์สโตน)"
+  },
+  {
+    "bandName": "Okey One Shop (โอเค วัน ช็อป)"
+  },
+  {
+    "bandName": "Seoul Earring (โซล เอียร์ริ่ง)"
+  },
+  {
+    "bandName": "Sara Jewelry (ซาร่า จิวเวลรี่)"
+  },
+  {
+    "bandName": "Magic Stone By Nicky (เมจิค สโตน บาย นิกกี้)"
+  },
+  {
+    "bandName": "Lucky Trendy (ลักกี้ เทรนดี้)"
+  },
+  {
+    "bandName": "Etude House (อีทูดี้เฮ้าส์)"
+  },
+  {
+    "bandName": "Dc Comics (ดีซีคอมิกส์)"
+  },
+  {
+    "bandName": "Kailas (ไกรลาศ)"
+  },
+  {
+    "bandName": "Oldblue Co (โอลด์บลู โค)"
+  },
+  {
+    "bandName": "Blacklimited (แบล็คลิมิเต็ด)"
+  },
+  {
+    "bandName": "ABC Jewel and Watch (เอบีซี จีเวล แอนด์ วอทซ์)"
+  },
+  {
+    "bandName": "Schatz (ชัทซี)"
+  },
+  {
+    "bandName": "Capcutto (แคปคัตโตะ)"
+  },
+  {
+    "bandName": "Jewelday (จิวเวลเดย์)"
+  },
+  {
+    "bandName": "Diamondmakesense (ไดมอนด์เมคเซนส์)"
+  },
+  {
+    "bandName": "Celeb Wigs (เซเลบวิกส์)"
+  },
+  {
+    "bandName": "Lucky99 (ลัคกี้99)"
+  },
+  {
+    "bandName": "St Sport Design (เอสทีสปอร์ตดีไซน์)"
+  },
+  {
+    "bandName": "N Sieraden (เอ็นซีราเด็น)"
+  },
+  {
+    "bandName": "A&A Jewelry (เอแอนด์เอ จิวเวลรี่)"
+  },
+  {
+    "bandName": "Mc Jewelry (เอ็มซีจิวเวลรี่)"
+  },
+  {
+    "bandName": "Orca (ออร์ก้า)"
+  },
+  {
+    "bandName": "Inntrara.house (อินทราราเฮาส์)"
+  },
+  {
+    "bandName": "Kanistha Amulets (ขนิษฐา อามูเล็ต)"
+  },
+  {
+    "bandName": "Rattana Jewelry (รัตนะ จิวเวลรี่)"
+  },
+  {
+    "bandName": "Lavina Hats (ลาวีน่า ฮัทส์)"
+  },
+  {
+    "bandName": "Magic Stone (เมจิก สโตน)"
+  },
+  {
+    "bandName": "Happy Wish (แฮปปี้ วิช)"
+  },
+  {
+    "bandName": "Laimizz (ไลมิซ)"
+  },
+  {
+    "bandName": "Puttha Amulets (พุทธา อมูเลท)"
+  },
+  {
+    "bandName": "Anti Social Social Club (แอนตี้โซเชียลคลับ)"
+  },
+  {
+    "bandName": "19 September Design (19 เซ็พเท็มเบอร์ ดีไซน์)"
+  },
+  {
+    "bandName": "Tanghu (ตั้งฮู)"
+  },
+  {
+    "bandName": "All U Can Buy (ออลล์ยูแคนบาย)"
+  },
+  {
+    "bandName": "SW Silvers (เอสดับบลิว ซิลเวอร์)"
+  },
+  {
+    "bandName": "Makenhappen (เมคเอ็นแฮพเพน)"
+  },
+  {
+    "bandName": "Replay (รีเพลย์)"
+  },
+  {
+    "bandName": "Miss Pretty (มิสพริตตี้)"
+  },
+  {
+    "bandName": "Wishyou (วิชยู)"
+  },
+  {
+    "bandName": "Emma&Chloe (เอมม่าแอนด์โคลอี้)"
+  },
+  {
+    "bandName": "Bostanten (บอสเทนเท็น)"
+  },
+  {
+    "bandName": "19september.design (19เซพเทมเบอร์ดีไซน์)"
+  },
+  {
+    "bandName": "Arty&Fern (อาร์ตี้แอนด์เฟิร์น)"
+  },
+  {
+    "bandName": "Narin (นาริน)"
+  },
+  {
+    "bandName": "Lee Diamond (ลีไดมอนด์)"
+  },
+  {
+    "bandName": "Sun Jewelry 96 (ซัน จิวเวลรี่96)"
+  },
+  {
+    "bandName": "Tamora (ทาโมร่า)"
+  },
+  {
+    "bandName": "Chamomile Ztyle (คาโมไมล์ ซไตล์)"
+  },
+  {
+    "bandName": "Pinkmomo (พิ้งค์โมโม)"
+  },
+  {
+    "bandName": "Tansin (แทน สิน)"
+  },
+  {
+    "bandName": "Salvatore Ferragamo (ซัลวาทอร์เร เฟอร์รากาโม)"
+  },
+  {
+    "bandName": "Oliver (โอลิเวอร์)"
+  },
+  {
+    "bandName": "Allin Jewelry (ออลลินจิวเวลรี่)"
+  },
+  {
+    "bandName": "Nepali Handmade (เนปาลิ แฮนด์เมด)"
+  },
+  {
+    "bandName": "Bucket Me (บัคเก็ต มี)"
+  },
+  {
+    "bandName": "TK Jewelry (ทีเคจิวเวลรี่)"
+  },
+  {
+    "bandName": "Viva​ Angels (วีว่า​ แองเจิ้ล​)"
+  },
+  {
+    "bandName": "Issaree Crystals (อิสรีย์คริสตัล)"
+  },
+  {
+    "bandName": "2bagtoyou (ทูแบ็คทูยู)"
+  },
+  {
+    "bandName": "Spicy999 (สไปซี่999)"
+  },
+  {
+    "bandName": "Godox (โกด็อกซ์)"
+  },
+  {
+    "bandName": "Ranong Pearl (มุกระนอง)"
+  },
+  {
+    "bandName": "By Supa (บายสุภา)"
+  },
+  {
+    "bandName": "Agold (อะโกลด์)"
+  },
+  {
+    "bandName": "Ava Shop (เอวา ช็อป)"
+  },
+  {
+    "bandName": "Spicy 999 (สไปร์ซซี่ 999)"
+  },
+  {
+    "bandName": "Vavia (วาเวีย)"
+  },
+  {
+    "bandName": "Gift Factory (กิ๊ฟท์ แฟคตอรี่)"
+  },
+  {
+    "bandName": "Wasana (วาสนา)"
+  },
+  {
+    "bandName": "Amateur Projekt (อเมเจอร์โปรเจคท์)"
+  },
+  {
+    "bandName": "Save My Bag (เซฟมายแบ็ก)"
+  },
+  {
+    "bandName": "Super Pearls (ซุปเปอร์ เพิร์ล)"
+  },
+  {
+    "bandName": "Georg Jensen (จอร์จ เจนเซน)"
+  },
+  {
+    "bandName": "GJS (จีเจเอส)"
+  },
+  {
+    "bandName": "Petchpairin Diamond (เพชรไพลินไดมอนด์)"
+  },
+  {
+    "bandName": "Warme Farben (วอร์ม ฟาเบน)"
+  },
+  {
+    "bandName": "MM Jewelry (เอ็มเอ็ม จิวเวลรี่)"
+  },
+  {
+    "bandName": "L.I.N Official (ลินออฟฟิเชี่ยล)"
+  },
+  {
+    "bandName": "Siam Jewels (สยามจีเวล​)"
+  },
+  {
+    "bandName": "Ruen Rachawadee (เรือนราชาวดี)"
+  },
+  {
+    "bandName": "Jade D (เจดดี)"
+  },
+  {
+    "bandName": "Brave Handmade (เบรฟ แฮนด์เมด)"
+  },
+  {
+    "bandName": "Jaygiftshop (เจกิ๊ฟช็อป)"
+  },
+  {
+    "bandName": "ATTRACTTO (แอทแทร็คโต้)"
+  },
+  {
+    "bandName": "Just a Dollar (จัสท์อะดอลลาร์)"
+  },
+  {
+    "bandName": "M Seoul Story (เอ็มโซลสตอรี่)"
+  },
+  {
+    "bandName": "NP Gem (เอ็นพี เจม)"
+  },
+  {
+    "bandName": "Jewelrypalace (จิวเวลรี่พาเลซ)"
+  },
+  {
+    "bandName": "Pawarit Handmade (ปวริศ แฮนด์เมด)"
+  },
+  {
+    "bandName": "ZY Story (ซีวาย สตอรี่)"
+  },
+  {
+    "bandName": "Lyn (ลีน)"
+  },
+  {
+    "bandName": "Matilda (มาทิลด้า)"
+  },
+  {
+    "bandName": "Alexander Mcqueen (อเล็กซานเดอร์ แม็กควีน)"
+  },
+  {
+    "bandName": "KPT Gold (เคพีที โกลด์)"
+  },
+  {
+    "bandName": "Kantajewelry (กันตาจิวเวอร์รี่)"
+  },
+  {
+    "bandName": "Sudd (ซัดด์)"
+  },
+  {
+    "bandName": "Sasicha Gems (ศศิชา เจมส์)"
+  },
+  {
+    "bandName": "Kaitin Jewelry (ไคทินจิวเวลรี่)"
+  },
+  {
+    "bandName": "Faiipinch Handmade (ฝ้ายพินช์แฮนด์เมด)"
+  },
+  {
+    "bandName": "Sue Sensi (ซูเซนซี)"
+  },
+  {
+    "bandName": "KPTGold (เคพีทีโกลด์)"
+  },
+  {
+    "bandName": "Naturehike (เนเจอร์ไฮค์)"
+  },
+  {
+    "bandName": "Yu Jewelry (ยูจิวเวลรี่)"
+  },
+  {
+    "bandName": "Kannar (กันนา)"
+  },
+  {
+    "bandName": "Rada Select (รดา ซีเล็คท์)"
+  },
+  {
+    "bandName": "Snidel (สนิเดล)"
+  },
+  {
+    "bandName": "Westend (เวสต์เอนด์)"
+  },
+  {
+    "bandName": "Triumph (ไทรอัมพ์)"
+  },
+  {
+    "bandName": "Econcare (อีคอนแคร์)"
+  },
+  {
+    "bandName": "Charter Club (ชาร์เตอร์ คลับ)"
+  },
+  {
+    "bandName": "Solene Claire (โซลีน แคลร์)"
+  },
+  {
+    "bandName": "Cobra (คอบบร้า)"
+  },
+  {
+    "bandName": "O Girl (โอ้เกิร์ล)"
+  },
+  {
+    "bandName": "Brash (แบรช)"
+  },
+  {
+    "bandName": "Dana Buchman (ดาน่าบุชแมน)"
+  },
+  {
+    "bandName": "Charlotte Daniel (ชาร์ล็อตดาเนียล)"
+  },
+  {
+    "bandName": "C&A (ซีแอนด์เอ)"
+  },
+  {
+    "bandName": "XOXO (เอ็กซ์โอเอ็กซ์โอ)"
+  },
+  {
+    "bandName": "Remax (รีแม็กซ์)"
+  },
+  {
+    "bandName": "Sesame Street (เซซามี สตรีท)"
+  },
+  {
+    "bandName": "Trusty (ทรัสตี้)"
+  },
+  {
+    "bandName": "Yanchung (หยานเฉิง)"
+  },
+  {
+    "bandName": "Chakraval (จักรวาล)"
+  },
+  {
+    "bandName": "Patpista (แพทพิสต้า)"
+  },
+  {
+    "bandName": "Harry Winston (แฮร์รี วินสตัน)"
+  },
+  {
+    "bandName": "Crowcinz (โครซินซ์)"
+  },
+  {
+    "bandName": "John Henry (จอห์นเฮนรี่)"
+  },
+  {
+    "bandName": "Patajewelcloning (ภตาอัญมณีโคลนนิ่ง)"
+  },
+  {
+    "bandName": "Bunga (บุหงา)"
+  },
+  {
+    "bandName": "CJ-CHUENJAI (ซีเจ-ชื่นใจ)"
+  },
+  {
+    "bandName": "Srinakhon2 (ศรีนคร2)"
+  },
+  {
+    "bandName": "Madame Jewelry (มาดาม จิวเวลรี่)"
+  },
+  {
+    "bandName": "Madame Hijab (มาดาม ไฮแจ๊บ)"
+  },
+  {
+    "bandName": "Secret Gems (ซีเคร็ตเจมส์)"
+  },
+  {
+    "bandName": "Enviszo (เอ็นวิซโซ่)"
+  },
+  {
+    "bandName": "Momentum (โมเมนตัม)"
+  },
+  {
+    "bandName": "Doi Silver (ดอยซิลเวอร์)"
+  },
+  {
+    "bandName": "Yenyen Giftshop (เยนเยน กิ๊ฟช็อป)"
+  },
+  {
+    "bandName": "Noisexxi (น้อยเซ็กซิ)"
+  },
+  {
+    "bandName": "TM Silver (ทีเอ็ม ซิลเวอร์)"
+  },
+  {
+    "bandName": "Critic (คริติค)"
+  },
+  {
+    "bandName": "Mahasetthee (มหาเศรษฐี)"
+  },
+  {
+    "bandName": "Hiyou Wigs (ไฮยู วิก)"
+  },
+  {
+    "bandName": "A&B Jewelry (เอแอนด์บี จิวเวลรี)"
+  },
+  {
+    "bandName": "PJ Jewelrythailand (พีเจ จิวเวลรีไทยแลนด์)"
+  },
+  {
+    "bandName": "Where (แวร์)"
+  },
+  {
+    "bandName": "Double T Jewelry (ดับเบิ้ลที จิวเวลรี่)"
+  },
+  {
+    "bandName": "J J (เจเจ)"
+  },
+  {
+    "bandName": "Bouti (โบวตี้)"
+  },
+  {
+    "bandName": "BSK (บีเอสเค)"
+  },
+  {
+    "bandName": "Striking.jew (สไตรกิ้งจิล)"
+  },
+  {
+    "bandName": "Errorland (แอร์เร่อแลนด์)"
+  },
+  {
+    "bandName": "Apieceofcake (อะพีซออฟเค้ก)"
+  },
+  {
+    "bandName": "KR Silver (เคอาร์ ซิลเวอร์)"
+  },
+  {
+    "bandName": "Angel Stone (แองเจิ้ล สโตน)"
+  },
+  {
+    "bandName": "5Avenue (ฟิฟธ์อเวนิว)"
+  },
+  {
+    "bandName": "Sylvia (ซิลเวีย)"
+  },
+  {
+    "bandName": "Signature Box (ซิกเนเจอร์บ็อก)"
+  },
+  {
+    "bandName": "Tiffanyshop (ทิฟฟานี่ช็อป)"
+  },
+  {
+    "bandName": "Atta (อัตตา)"
+  },
+  {
+    "bandName": "Muan Tua Leng (มั่วตั่วเหล็ง)"
+  },
+  {
+    "bandName": "CGM48 (ซีจีเอ็มโฟร์ตี้เอท)"
+  },
+  {
+    "bandName": "Jew.laya (จิวลายา)"
+  },
+  {
+    "bandName": "Spoonz (สปูน)"
+  },
+  {
+    "bandName": "Nocona (โนโคนา)"
+  },
+  {
+    "bandName": "Steve Madden (สตีฟ แมดเดน)"
+  },
+  {
+    "bandName": "Rori Jewelry (โรริจิวเวลรี่)"
+  },
+  {
+    "bandName": "Aquamarine (อความารีน)"
+  },
+  {
+    "bandName": "Tinada (ทินดา)"
+  },
+  {
+    "bandName": "POPSUP.J (ป็อปซุปเจ)"
+  },
+  {
+    "bandName": "TBE Products (ทีบีอี โปรดักส์)"
+  },
+  {
+    "bandName": "Queen of Chic (ควีนออฟชิค)"
+  },
+  {
+    "bandName": "Molastones (โมลาสโตน)"
+  },
+  {
+    "bandName": "Khutae Handmade (คู่แท้ แฮนด์เมด)"
+  },
+  {
+    "bandName": "Luka Lucky Stone (ลูก้า ลัคกี้ สโตน)"
+  },
+  {
+    "bandName": "Wrangler (แรงเลอร์)"
+  },
+  {
+    "bandName": "A Bathing Ape (อะ บาท ติ้ง เอป)"
+  },
+  {
+    "bandName": "Nfshop (เอ็นเอฟช็อป)"
+  },
+  {
+    "bandName": "Hurley (เฮอร์ลีย์)"
+  },
+  {
+    "bandName": "Longway (ลองเวย์)"
+  },
+  {
+    "bandName": "Petchphairin (เพชรไพริน)"
+  },
+  {
+    "bandName": "J.PRESS (เจเพรส)"
+  },
+  {
+    "bandName": "Janpen Jewelry Design (จันทร์เพ็ญจิวเวลรี่ดีไซน์)"
+  },
+  {
+    "bandName": "TD Jewelry (ทีดีจิวเวลรี่)"
+  },
+  {
+    "bandName": "Doha (โดฮา)"
+  },
+  {
+    "bandName": "Paragon Vision (พารากอนวิชั่น)"
+  },
+  {
+    "bandName": "Ryoko (เรียวโกะ)"
+  },
+  {
+    "bandName": "Tomuto Store (ทูมูโตะ สโตร์)"
+  },
+  {
+    "bandName": "Riqx (ริคิวเอ็กซ์)"
+  },
+  {
+    "bandName": "Coral (โครอล)"
+  },
+  {
+    "bandName": "Juicy Store (จูชี่ สโตร์)"
+  },
+  {
+    "bandName": "Bigyeaw (บิ๊กเหยี่ยว)"
+  },
+  {
+    "bandName": "Solongz (โซลองซ์)"
+  },
+  {
+    "bandName": "Anda Handmade (อันดา แฮนด์เมด)"
+  },
+  {
+    "bandName": "NIR Jewelry (เอ็นไออาร์ จิวเวลรี่)"
+  },
+  {
+    "bandName": "Prime (ไพร์ม)"
+  },
+  {
+    "bandName": "RiparoMotorsports (ริพาโร มอเตอร์สปอร์ต)"
+  },
+  {
+    "bandName": "Primms Bangkok (พริมส์ แบงค์คอก)"
+  },
+  {
+    "bandName": "Wansiri (วันศิริ)"
+  },
+  {
+    "bandName": "Burberry (เบอเบอรี่)"
+  },
+  {
+    "bandName": "Moowhanluksetthi (หมูหวานลูกเศรษฐี)"
+  },
+  {
+    "bandName": "Atp9 (เอทีพีไนน์)"
+  },
+  {
+    "bandName": "NanathongzN (นะหน้าทอง)"
+  },
+  {
+    "bandName": "KanlaKate (กานลาเกด)"
+  },
+  {
+    "bandName": "Emporio Armani (เอ็มโพริโอ อาร์มานี่)"
+  },
+  {
+    "bandName": "Arrow (แอร์โรว์)"
+  },
+  {
+    "bandName": "Every Shop (เอเวอรี่ ช็อป)"
+  },
+  {
+    "bandName": "Chanan (ชนันท์)"
+  },
+  {
+    "bandName": "Saga Furs (เซก้าเฟอร์)"
+  },
+  {
+    "bandName": "Chanan Leather (ชนันเลธเธอร์)"
+  },
+  {
+    "bandName": "FK Shop (เอฟเค ช็อป)"
+  },
+  {
+    "bandName": "I So Jewelry (ไอโซ จิวเวลรี่)"
+  },
+  {
+    "bandName": "Chalida Jewelry (ชาลิดา)"
+  },
+  {
+    "bandName": "Meena Gems (มีนาเจมส์)"
+  },
+  {
+    "bandName": "Goodday Handmade (กู๊ดเดย์ แฮนด์เมด)"
+  },
+  {
+    "bandName": "Marimong (มาริมง)"
+  },
+  {
+    "bandName": "Sawako (ซาวาโกะ)"
+  },
+  {
+    "bandName": "BH Plus (บีเอชพลัส)"
+  },
+  {
+    "bandName": "Gems Paradise (เจมส์ พาราไดซ์)"
+  },
+  {
+    "bandName": "Spicy Disc (สไปซีดิสก์)"
+  },
+  {
+    "bandName": "Jp Pearls (เจพีเพิร์ล)"
+  },
+  {
+    "bandName": "JS Fishing (เจเอสฟิชชิ่ง)"
+  },
+  {
+    "bandName": "Phailin Gold Shop (ห้างทองเพชรไพลิน)"
+  },
+  {
+    "bandName": "Risis (ไรซิส)"
+  },
+  {
+    "bandName": "Covington (โคฟวิงตัน)"
+  },
+  {
+    "bandName": "Hermes Paris (แอร์แม็ส ปารีส)"
+  },
+  {
+    "bandName": "Tasaki (ทาซากิ)"
+  },
+  {
+    "bandName": "Alohakiing (อโลฮาคิง)"
+  },
+  {
+    "bandName": "Morabito (โมราบิโต)"
+  },
+  {
+    "bandName": "Billie Eilish (บิลลี่ อีลิท)"
+  },
+  {
+    "bandName": "YLG Precious (วายเเอลจีพรีเชียส)"
+  },
+  {
+    "bandName": "Adornmore (อาดอร์นมอร์)"
+  },
+  {
+    "bandName": "Croat and Than (โครแอธ แอนด์ ธัญ)"
+  },
+  {
+    "bandName": "Bonnie bowie (บอนนี่ โบวี่)"
+  },
+  {
+    "bandName": "Mamamade (มามาเมด)"
+  },
+  {
+    "bandName": "Wariya Gems (วริยาเจ็ม)"
+  },
+  {
+    "bandName": "Asmama (เอสมาม่า)"
+  },
+  {
+    "bandName": "Mommoly (มัมโมรี่)"
+  },
+  {
+    "bandName": "Tony Hawk (โทนี ฮอว์ก)"
+  },
+  {
+    "bandName": "Meta Miracles (เมตตามิราเคิล)"
+  },
+  {
+    "bandName": "Litmus JNS (ลิตมัส เจเอ็นเอส)"
+  },
+  {
+    "bandName": "Asawann Jewelry (อัศวรรณ จิวเวลรี่)"
+  },
+  {
+    "bandName": "Paracord (พาราคอร์ด)"
+  },
+  {
+    "bandName": "Microink (ไมโครอิงค์)"
+  },
+  {
+    "bandName": "Svaha (สวาหะ)"
+  },
+  {
+    "bandName": "Bua Gems (บัวเจมส์)"
+  },
+  {
+    "bandName": "Daya Amulets (ไดยะ อมิวเลท)"
+  },
+  {
+    "bandName": "Madmatter (เมดแมทเทอร์)"
+  },
+  {
+    "bandName": "Bone Collection (โบน คอลเลคชั่น)"
+  },
+  {
+    "bandName": "Regent (รีเจ้น)"
+  },
+  {
+    "bandName": "Regent Diamond (รีเจ้นท์ ไดมอนด์)"
+  },
+  {
+    "bandName": "Infinity Love (อินฟินิตี้เลิฟ)"
+  },
+  {
+    "bandName": "Edelia (อีเดเลีย)"
+  },
+  {
+    "bandName": "Edelia (อิเดเลีย)"
+  },
+  {
+    "bandName": "Zazi (สสิ)"
+  },
+  {
+    "bandName": "J&Y (เจแอนด์วาย)"
+  },
+  {
+    "bandName": "Tu Pla Kad (ตู้ปลากัด)"
+  },
+  {
+    "bandName": "Dazzle (ดาซเซิล)"
+  },
+  {
+    "bandName": "Namecap (เนมแค็ป)"
+  },
+  {
+    "bandName": "Back Number (แบล็คนัมเบอร์)"
+  },
+  {
+    "bandName": "Power Puff Band (เพาเวอร์พัฟฟ์แบนด์)"
+  },
+  {
+    "bandName": "Yada Diamond (ญาดา ไดมอนด์)"
+  },
+  {
+    "bandName": "Sudtangjai (สุดตั้งใจ)"
+  },
+  {
+    "bandName": "925 Gems (925 เจมส์)"
+  },
+  {
+    "bandName": "Janjira Gems (จันทร์จิราเจมส์)"
+  },
+  {
+    "bandName": "Leabyl (ลีอาบิล)"
+  },
+  {
+    "bandName": "Silver Blue (ซิลเวอร์บลู)"
+  },
+  {
+    "bandName": "Irisy (ไอริซี่)"
+  },
+  {
+    "bandName": "Chiffonthings (ชิฟฟ่อนติ้ง)"
+  },
+  {
+    "bandName": "Snap On (สแนป ออน)"
+  },
+  {
+    "bandName": "Miri (มิริ)"
+  },
+  {
+    "bandName": "Aiko bracelet (ไอโกะบาคาเล็ต)"
+  },
+  {
+    "bandName": "Zeus (ซุส)"
+  },
+  {
+    "bandName": "Buaproducts (บัวโปรดักซ์)"
+  },
+  {
+    "bandName": "Stetson (สเตลสัน)"
+  },
+  {
+    "bandName": "Stetson (สเต็ตสัน)"
+  },
+  {
+    "bandName": "Mama Made (มาม่าเมด)"
+  },
+  {
+    "bandName": "Burin Burin (บุริน บุริน)"
+  },
+  {
+    "bandName": "Aris (อรีส)"
+  },
+  {
+    "bandName": "Zeronion (เซอร์ออนเนี่ยน)"
+  },
+  {
+    "bandName": "Indyartshop (อินดี้อาร์ช็อป)"
+  },
+  {
+    "bandName": "Mussee Handmade (มัทรีแฮนด์เมด)"
+  },
+  {
+    "bandName": "Zeus Hat (ซุสแฮท)"
+  },
+  {
+    "bandName": "Silver Warehouse 925 (ซิลเวอร์แวร์เฮ้าส์925)"
+  },
+  {
+    "bandName": "Hopper (ฮ็อปเปอร์)"
+  },
+  {
+    "bandName": "Hsiu (ชิ่ว)"
+  },
+  {
+    "bandName": "Lovelorn BKK (เลิฟลอร์น บีเคเค)"
+  },
+  {
+    "bandName": "Le Petit Pumm (เลอ เพลท พลัมม์)"
+  },
+  {
+    "bandName": "Royal Ivy Regatta (รอยัล ไอวี่ รีกัตตา)"
+  },
+  {
+    "bandName": "SiriphatJewelry (ศิรภัทรจิวเวลรี่)"
+  },
+  {
+    "bandName": "Sytic (ไซทิค)"
+  },
+  {
+    "bandName": "Everythinglooksocute (เอเวอรี่ติงโซคิวท์)"
+  },
+  {
+    "bandName": "Judith Leiber (จูดิธ เลเบอร์)"
+  },
+  {
+    "bandName": "Chopard (โชพาร์ด)"
+  },
+  {
+    "bandName": "Manee (มณี)"
+  },
+  {
+    "bandName": "Helikon-Tex (ฮีลิคอนเทค)"
+  },
+  {
+    "bandName": "Piya Thai Silk (ปิยะไหมไทย)"
+  },
+  {
+    "bandName": "Iscoming (อิสคัมมิ่ง)"
+  },
+  {
+    "bandName": "B&F Lucky Stone (บีแอนด์เอฟ ลัคกี้สโตน)"
+  },
+  {
+    "bandName": "Dark Stone (ดาร์กสโตร)"
+  },
+  {
+    "bandName": "Valenciaga (วาเลนซิเอก้า)"
+  },
+  {
+    "bandName": "Narakarn (นาราการน์)"
+  },
+  {
+    "bandName": "Pranky Play (เแพรงกี้ เพลย์)"
+  },
+  {
+    "bandName": "Duangkaew (ดวงแก้ว)"
+  },
+  {
+    "bandName": "Trinkets (ทริงเก็ตส์)"
+  },
+  {
+    "bandName": "Grandsilverjewelry (แกรนซิลเวอร์จิวรี่)"
+  },
+  {
+    "bandName": "Hye BKK (เฮย์ บีเคเค)"
+  },
+  {
+    "bandName": "Hye (เฮย์)"
+  },
+  {
+    "bandName": "NN (เอ็นเอ็น)"
+  },
+  {
+    "bandName": "Plantbewithyou (แพล็นท์บีวิทยู)"
+  },
+  {
+    "bandName": "Miu​ Miu (กาเบกาเบ)"
+  },
+  {
+    "bandName": "Watinee (วาทินี)"
+  },
+  {
+    "bandName": "La Dara (ลา ดาร่า)"
+  },
+  {
+    "bandName": "Asha​ (อาชา)"
+  },
+  {
+    "bandName": "Scrunchies Around (สครั้นชี่อราวด์)"
+  },
+  {
+    "bandName": "Teddy House (เท็ดดี้ เฮ้าส์)"
+  },
+  {
+    "bandName": "Butterontop (บัตเตอร์ออนท็อป)"
+  },
+  {
+    "bandName": "Tigerboy (ไทเกอร์บอย)"
+  },
+  {
+    "bandName": "Zoul Sister (โซล ซิสเตอร์)"
+  },
+  {
+    "bandName": "Vega (เวก้า)"
+  },
+  {
+    "bandName": "PCPY (พีซีพีวาย)"
+  },
+  {
+    "bandName": "Outfly (เอ้าท์ฟลาย)"
+  },
+  {
+    "bandName": "Jintana (จินตนา)"
+  },
+  {
+    "bandName": "Dailyme Jewelry (เดลี่มีจิวเวลรี่)"
+  },
+  {
+    "bandName": "Rosarsilver (โรซาซีล-เฝอะ)"
+  },
+  {
+    "bandName": "Rosar Silver (โรซาร์ซิลเว่อร์)"
+  },
+  {
+    "bandName": "Lovely Felt (เลิฟลี่เฟลท์)"
+  },
+  {
+    "bandName": "Diamond Swiss (ไดมอนสวิสซ์)"
+  },
+  {
+    "bandName": "Varicha Gems & Jewelry (วาริชาเกมส์แอนด์จิวเวอรี่)"
+  },
+  {
+    "bandName": "Nidgy (นิตกี้)"
+  },
+  {
+    "bandName": "Nutprima (ณัฐพริมา)"
+  },
+  {
+    "bandName": "Illution (อิลลูชั่น)"
+  },
+  {
+    "bandName": "Reeya (รีญา)"
+  },
+  {
+    "bandName": "Reeya Gems (รียา เจมส์)"
+  },
+  {
+    "bandName": "Bova Accessories (โบว่า แอคเซสเซอรี่)"
+  },
+  {
+    "bandName": "Earringpink (เอียริ่งพิ้งค์)"
+  },
+  {
+    "bandName": "No.Onepaul (โน วันพอล)"
+  },
+  {
+    "bandName": "KL (เคแอล)"
+  },
+  {
+    "bandName": "88JT Everything Shop (88 เจที เอเวอรี่ติง ช็อป)"
+  },
+  {
+    "bandName": "Ritti Brand (ริตติ แบรนด์)"
+  },
+  {
+    "bandName": "Nila Closet (นิลาโคลเซ็ท)"
+  },
+  {
+    "bandName": "Noonepaul (โนวันเพรียว)"
+  },
+  {
+    "bandName": "Cute Actually (คิวบ์ แอคชัวรี่)"
+  },
+  {
+    "bandName": "Artstory (อาร์ตสตอรี่)"
+  },
+  {
+    "bandName": "Lurs (ลัวส์)"
+  },
+  {
+    "bandName": "La Dara (ลา ดารา)"
+  },
+  {
+    "bandName": "Liz Claiborne (ลิซ ไคลบอร์น)"
+  },
+  {
+    "bandName": "Weeya Boutique (วียาบูติค)"
+  },
+  {
+    "bandName": "Sister Studio (ซิสเตอร์สตูดิโอ)"
+  },
+  {
+    "bandName": "Tada Real Leather (ธาดาเรียลเลเธอร์)"
+  },
+  {
+    "bandName": "Tada (ทาดา)"
+  },
+  {
+    "bandName": "Varicha Gems&Jewelry (วริชา เจมส์แอนด์จิวเวลรี่)"
+  },
+  {
+    "bandName": "Only (โอนลี)"
+  },
+  {
+    "bandName": "Face Shield (เฟสชิว)"
+  },
+  {
+    "bandName": "Cheq (เช็ค)"
+  },
+  {
+    "bandName": "Starwars (สตาร์วอร์)"
+  },
+  {
+    "bandName": "Missingpiece (มิสซิ่งพีช)"
+  },
+  {
+    "bandName": "Glittergoddess (กลิตเตอร์ก๊อดเดส)"
+  },
+  {
+    "bandName": "Pgems&jewelry (พี่เจมส์เเอนด์จิวเวลรี่)"
+  },
+  {
+    "bandName": "Loewe (โลวเว่)"
+  },
+  {
+    "bandName": "Geminai (เจมิไน)"
+  },
+  {
+    "bandName": "Aurora Italia (ออโรร่า อิตาเลีย)"
+  },
+  {
+    "bandName": "Pure BKK (เพียว บีเคเค)"
+  },
+  {
+    "bandName": "La Luna (ลาลูน่า)"
+  },
+  {
+    "bandName": "Emmitt Talisman (เอมมิท ทาลิสแมน)"
+  },
+  {
+    "bandName": "Ojipan (โอจิปัง)"
+  },
+  {
+    "bandName": "La Luna Accessories (ลาลูน่า แอคเซสซอรี่)"
+  },
+  {
+    "bandName": "Charm Amulet Premium (ชาร์ม อามูเล็ต พรีเมี่ยม)"
+  },
+  {
+    "bandName": "STK Gems (เอสทีเค เจมส์)"
+  },
+  {
+    "bandName": "Beast Kingdom (บีสท์ คิงดอม)"
+  },
+  {
+    "bandName": "The Zign (เดอะซายน์)"
+  },
+  {
+    "bandName": "Modu (โมดู)"
+  },
+  {
+    "bandName": "Dhevan Dara Gallery (เทวัญ ดารา แกลลอรี่)"
+  },
+  {
+    "bandName": "MY STEEL (เอ็มพลัสวาย สติล)"
+  },
+  {
+    "bandName": "Minimal (มินิมอล)"
+  },
+  {
+    "bandName": "Paresa (ภารีสา)"
+  },
+  {
+    "bandName": "Maneerat Jewelry (มณีรัตน์ จิวเวลรี่)"
+  },
+  {
+    "bandName": "Silver Jewekry 5 (ซิลเวอร์ จิวเวลรี่ 5)"
+  },
+  {
+    "bandName": "Etrendy (แอทเทรนดี้)"
+  },
+  {
+    "bandName": "Chang (ช้าง)"
+  },
+  {
+    "bandName": "Beachboycommu (บีชบอยคอมมู)"
+  },
+  {
+    "bandName": "Chheng Hak Jewelry (เชงฮัก จิวเวลรี่)"
+  },
+  {
+    "bandName": "Lynn (ลินน์)"
+  },
+  {
+    "bandName": "KKG Design (เคเคจี ดีไซน์)"
+  },
+  {
+    "bandName": "Too Tanx (ทู แทนซ์)"
+  },
+  {
+    "bandName": "Bambino Jewel (แบมบิโน่จิวเวล)"
+  },
+  {
+    "bandName": "Charissa (ชาริสสา)"
+  },
+  {
+    "bandName": "Srada Jewelry (สราด้า จิวเวลรี่)"
+  },
+  {
+    "bandName": "Siamgems (สยามเจมส์)"
+  },
+  {
+    "bandName": "Girly Sweety Bow (เกิร์ลลี่ สวีทตี้ โบว์)"
+  },
+  {
+    "bandName": "Monnie (มอนนี่)"
+  },
+  {
+    "bandName": "Nataya (นาตายา)"
+  },
+  {
+    "bandName": "Fan Favorite (แฟน เฟวริท)"
+  },
+  {
+    "bandName": "Enyyerrr (อินี่เยอะ)"
+  },
+  {
+    "bandName": "Salee (ซาลี)"
+  },
+  {
+    "bandName": "Miaoqin (ม่าวฉิน)"
+  },
+  {
+    "bandName": "Slip Silk (สลิปซิลค์)"
+  },
+  {
+    "bandName": "Slip (สลิป)"
+  },
+  {
+    "bandName": "Manshong (แมนซอง)"
+  },
+  {
+    "bandName": "Arrada Jewelry (อารลดา จิวเวลรี่)"
+  },
+  {
+    "bandName": "Life Blessing (พรชีวิต)"
+  },
+  {
+    "bandName": "ChunLeknamphi (ช่างชั้นบุญมีรักษ์)"
+  },
+  {
+    "bandName": "BuaThai (นวดไทย)"
+  },
+  {
+    "bandName": "Commerce (คอมเมิร์ช)"
+  },
+  {
+    "bandName": "Domo (โดโมะ)"
+  },
+  {
+    "bandName": "Baextiny (เบกซ์ไทนี่)"
+  },
+  {
+    "bandName": "Misty (มิสตี้)"
+  },
+  {
+    "bandName": "NatayaHats (นาตยาแฮท)"
+  },
+  {
+    "bandName": "Carrot Taniya (แครอทธนิย)"
+  },
+  {
+    "bandName": "TuangHong (ท่วงหงษ์)"
+  },
+  {
+    "bandName": "SinthawiThung Sao 1 (ศิลป์ทวีทุ่งเสา 1)"
+  },
+  {
+    "bandName": "BraveHandmade (เบรฟแฮนด์เมด)"
+  },
+  {
+    "bandName": "Kooky (คูกี้)"
+  },
+  {
+    "bandName": "WajanaTathagata (วจนตาถาคตา)"
+  },
+  {
+    "bandName": "511Tactical (511แทคติคอล)"
+  },
+  {
+    "bandName": "Mana Orchid (มานะ ออร์คิด)"
+  },
+  {
+    "bandName": "P Shiny Planet (พีชายนี่ พลาเน็ต)"
+  },
+  {
+    "bandName": "Yummy Felt (ยัมมี่ เฟลท์)"
+  },
+  {
+    "bandName": "Dor Chada (ดอชฎา)"
+  },
+  {
+    "bandName": "Carnifex (คาร์นิเฟ็ก​)"
+  },
+  {
+    "bandName": "Lulu Guinness (ลูลู่ กินเนส)"
+  },
+  {
+    "bandName": "PierreCardin (ปีแอร์การ์แดง)"
+  },
+  {
+    "bandName": "Srikhram brand (ศรีครามแบรนด์)"
+  },
+  {
+    "bandName": "Srikhram (ศรีคราม)"
+  },
+  {
+    "bandName": "Amtara (อัมตรา)"
+  },
+  {
+    "bandName": "The sis (เดอะซิส)"
+  },
+  {
+    "bandName": "Sompradthana amulet (สมปรารถนาอัมเลต)"
+  },
+  {
+    "bandName": "Thirty Gems (เทอร์ตี้เจมส์)"
+  },
+  {
+    "bandName": "ThongYaowaratBangkok (ทองเยาวราชกรุงเทพ)"
+  },
+  {
+    "bandName": "Porshz (ปอรซ์)"
+  },
+  {
+    "bandName": "Siri Amulets (ศิริ อมูเลท)"
+  },
+  {
+    "bandName": "Grumpy (กรัมปี้)"
+  },
+  {
+    "bandName": "Sewing P (เซวิ่งพี)"
+  },
+  {
+    "bandName": "K&B (เคแอนด์บี)"
+  },
+  {
+    "bandName": "VNOX (วีน็อกซ์)"
+  },
+  {
+    "bandName": "ShopToro (ช้อปธอร์)"
+  },
+  {
+    "bandName": "Wisdom Gold (วิสดอม โกลด์)"
+  },
+  {
+    "bandName": "Leounise (ลีโอยูนิส)"
+  },
+  {
+    "bandName": "Thada Gems & Jewelry (ธาดาจิวรี่)"
+  },
+  {
+    "bandName": "Siamjade (สยามหยก)"
+  },
+  {
+    "bandName": "Khumyokegems (คุ้มหยกเจมส์)"
+  },
+  {
+    "bandName": "Tharada (ธาราดา)"
+  },
+  {
+    "bandName": "Sembem (เซมเบม)"
+  },
+  {
+    "bandName": "Lambda Cap (แลมบ์ดาแค็บ)"
+  },
+  {
+    "bandName": "Jemony (เจโมนี่)"
+  },
+  {
+    "bandName": "Shasichons (ศศิชล)"
+  },
+  {
+    "bandName": "Shasichons Silver 925 (ชาสิชน ซิลเวอร์ 925)"
+  },
+  {
+    "bandName": "Bico Australia (ไบโคออสเตเลีย)"
+  },
+  {
+    "bandName": "Bico (ไบโค)"
+  },
+  {
+    "bandName": "Missberriez (มิซเบอร์รี่ซ์)"
+  },
+  {
+    "bandName": "Usup So (ยูซัปโซ)"
+  },
+  {
+    "bandName": "Udee (ยูดี)"
+  },
+  {
+    "bandName": "Gold Bynew (ร้านทองชุบ)"
+  },
+  {
+    "bandName": "GYP (จีวายพี)"
+  },
+  {
+    "bandName": "Pasano (พาซาโน่)"
+  },
+  {
+    "bandName": "Prada (พราด้า)"
+  },
+  {
+    "bandName": "Perspook (เพอร์สปุ๊ก)"
+  },
+  {
+    "bandName": "Happytime (แฮปปี้ไทม์)"
+  },
+  {
+    "bandName": "Aprill (เอพริล)"
+  },
+  {
+    "bandName": "Grab me now (แกร๊ป มี นาว)"
+  },
+  {
+    "bandName": "5Jewel (ไฟว์จิวเวล)"
+  },
+  {
+    "bandName": "Nida (นิดา)"
+  },
+  {
+    "bandName": "Leica (ไลก้า)"
+  },
+  {
+    "bandName": "YDP (วายดีพี)"
+  },
+  {
+    "bandName": "Blue Diamond (บลูไดมอนด์)"
+  },
+  {
+    "bandName": "Silvery by Ar-Kang (ซิลเวอรี่ บาย อาคัง)"
+  },
+  {
+    "bandName": "Silvery (ซิลเวอรี่)"
+  },
+  {
+    "bandName": "Silvery By Arkang (ซิลเวอร์รี่บายอาคาง)"
+  },
+  {
+    "bandName": "Pahkahmah Thailand (ปากกาม้า ไทยแลนด์)"
+  },
+  {
+    "bandName": "B Uniform (บียูนิฟอร์ม)"
+  },
+  {
+    "bandName": "Bff.Forever (บีเอฟเอฟ ฟอริเวอร์)"
+  },
+  {
+    "bandName": "Carol Dauplaise (แคโรล ดาเพลส)"
+  },
+  {
+    "bandName": "Nekomask (เนโกะมาส์ค)"
+  },
+  {
+    "bandName": "Suzuki (ซูซูกิ)"
+  },
+  {
+    "bandName": "Black Rabbit (แบล็ค แร็บบิท)"
+  },
+  {
+    "bandName": "Louis Will (หลุยส์วิลล์)"
+  },
+  {
+    "bandName": "Galma Jewelry (แกลม่า จิวเวลรี่)"
+  },
+  {
+    "bandName": "TMXK Angel (ทีเอ็มเอ็กซ์เค แองเจิล)"
+  },
+  {
+    "bandName": "Grabmenow (แกร็ปมีนอส)"
+  },
+  {
+    "bandName": "DSM Design (ดีเอสเอ็ม ดีไซน์)"
+  },
+  {
+    "bandName": "Chingy Bikini (ชิงกี้ บิกินี่)"
+  },
+  {
+    "bandName": "Buddhasiri (พุทธศิริ)"
+  },
+  {
+    "bandName": "Zin Jia Chiang (ซินเจี้ยเชียง)"
+  },
+  {
+    "bandName": "Jib Hui (จิบ​ ฮุย)"
+  },
+  {
+    "bandName": "Malik (มาลิก)"
+  },
+  {
+    "bandName": "Panaro (แพนดาโร่)"
+  },
+  {
+    "bandName": "FR2 (เอฟอาร์2)"
+  },
+  {
+    "bandName": "Louvre Diamants (ลวฟ ไดมันส์)"
+  },
+  {
+    "bandName": "Wisa (วิสา)"
+  },
+  {
+    "bandName": "One Piece (วันพีซ)"
+  },
+  {
+    "bandName": "Sandy Sujittra (แซนดี้ สุจิตรา)"
+  },
+  {
+    "bandName": "Loyfar (ลอยฟ้า)"
+  },
+  {
+    "bandName": "​ Michal​ Negrin​ (มิเชล เนกริน)"
+  },
+  {
+    "bandName": "Fulton (ฟูลตัน)"
+  },
+  {
+    "bandName": "Brandy Melville (แบรนด์ดี้ เมลวิลล์)"
+  },
+  {
+    "bandName": "Shovava (โชววาวา)"
+  },
+  {
+    "bandName": "UTD (ยูทีดี)"
+  },
+  {
+    "bandName": "Icon (ไอค่อน)"
+  },
+  {
+    "bandName": "Thana (ธนา)"
+  },
+  {
+    "bandName": "Contacts (คอนแทคซ์)"
+  },
+  {
+    "bandName": "Catier (คาเทียร์)"
+  },
+  {
+    "bandName": "Proxyology (พร็อกซี่ออรอจี้)"
+  },
+  {
+    "bandName": "Giggle Villa (จิกเกิล วิลล่า)"
+  },
+  {
+    "bandName": "Solove (โซเลิฟ)"
+  },
+  {
+    "bandName": "Jida Jewelry (จิดาจิวเวลรี่)"
+  },
+  {
+    "bandName": "MAVERICKSHOES (มาเวอริคชูส์)"
+  },
+  {
+    "bandName": "Glamorgem (แกลมเมอร์เจมส์)"
+  },
+  {
+    "bandName": "Amors (อมอร์)"
+  },
+  {
+    "bandName": "18 Story (เอกทีนสตอรี่)"
+  },
+  {
+    "bandName": "Bg (บีจี)"
+  },
+  {
+    "bandName": "Wongjuwel (วงจูเวล)"
+  },
+  {
+    "bandName": "Tactical (แท็คติคอล)"
+  },
+  {
+    "bandName": "Punya Batik (ปันหยาบาติก)"
+  },
+  {
+    "bandName": "Moop Design (มูป ดีไซน์)"
+  },
+  {
+    "bandName": "Brandy Melville (แบรนด์เมลวิล)"
+  },
+  {
+    "bandName": "Moop Design (มูปดีไซน์)"
+  },
+  {
+    "bandName": "Little me (ลิตเติ้ลมี)"
+  },
+  {
+    "bandName": "Genki Hat (เจนกิ แฮท)"
+  },
+  {
+    "bandName": "Kadokawa (คาโดกาวะ​)"
+  },
+  {
+    "bandName": "Slipsilk (สลิปซิง)"
+  },
+  {
+    "bandName": "Medee (มีดี)"
+  },
+  {
+    "bandName": "N&G Jewelry (เอ็นแอนด์จีจิวเวอรี่)"
+  },
+  {
+    "bandName": "Idinthai (ไอดินไทย)"
+  },
+  {
+    "bandName": "Adela (อดีล่า)"
+  },
+  {
+    "bandName": "P&B Silver (พีแอนด์บีซิเวอร์)"
+  },
+  {
+    "bandName": "Sribunglerd (ศรีบุ่งเลิศ)"
+  },
+  {
+    "bandName": "Sudes (ซูเดส)"
+  },
+  {
+    "bandName": "Carnival (คาร์นิวัล)"
+  },
+  {
+    "bandName": "BestValue (เบสท์แวลู่)"
+  },
+  {
+    "bandName": "Lawitwin Official (ลาวิทวิน ออฟฟิเชี่ยล)"
+  },
+  {
+    "bandName": "TNS (ทีเอ็นเอส)"
+  },
+  {
+    "bandName": "WisdomGold (วิสดอมโกลด์)"
+  },
+  {
+    "bandName": "EVANGELION STORE (เอวาเกเลียน สโตร์)"
+  },
+  {
+    "bandName": "Seiko (ไซโก้)"
+  },
+  {
+    "bandName": "Muko Dress (มูโกะ เดรส)"
+  },
+  {
+    "bandName": "Muko (มูโกะ)"
+  },
+  {
+    "bandName": "Zhouyang (โจวหยาง)"
+  },
+  {
+    "bandName": "H3 (เอช3)"
+  },
+  {
+    "bandName": "Lavan (ลาแวน)"
+  },
+  {
+    "bandName": "Bad Boy (แบดบอย)"
+  },
+  {
+    "bandName": "Malaysia (พลอยมาเลเซีย)"
+  },
+  {
+    "bandName": "Spicydisc (สไปร์ซซี่ ดิสก์)"
+  },
+  {
+    "bandName": "Beebiii Shop (บี บี ช็อป)"
+  },
+  {
+    "bandName": "Jewone (จิววัน)"
+  },
+  {
+    "bandName": "T-SHOP (ทีช็อป)"
+  },
+  {
+    "bandName": "Aries Murano (เอรี่ มูราโน่)"
+  },
+  {
+    "bandName": "Her Kloset (เฮอร์ โคลเซท)"
+  },
+  {
+    "bandName": "Narada (ณราดา)"
+  },
+  {
+    "bandName": "Lautiers (ลอเทียร์)"
+  },
+  {
+    "bandName": "Qualy Design (ควอลี่ ดีไซน์)"
+  },
+  {
+    "bandName": "Bali Goddess (บาหลี ก๊อดเดส)"
+  },
+  {
+    "bandName": "Waree Jewelry (วรี จิวเวลรี่)"
+  },
+  {
+    "bandName": "Bath & Body Works (บาธแอนด์บอดี้เวิร์ค)"
+  },
+  {
+    "bandName": "Mum.iloveyou (มัมไอเลิฟยู)"
+  },
+  {
+    "bandName": "SS Closet (เอสเอส โคลเซ็ท)"
+  },
+  {
+    "bandName": "DOM (ดีโอเอ็ม)"
+  },
+  {
+    "bandName": "5.11 Tatical (5.11แทคติคอล)"
+  },
+  {
+    "bandName": "Hecate (เฮเคท)"
+  },
+  {
+    "bandName": "Lory Jewelry (โลลี่เจลเวอรรี่)"
+  },
+  {
+    "bandName": "Amulet (อมุเลท)"
+  },
+  {
+    "bandName": "RingRIng (ริงริง)"
+  },
+  {
+    "bandName": "Miss TKshop (มิส ทีเคช็อป)"
+  },
+  {
+    "bandName": "Tonnamhandmade (ต้นน้ำแฮนด์เมด)"
+  },
+  {
+    "bandName": "Queeny (ควีนนี่)"
+  },
+  {
+    "bandName": "Armbander (อาร์มแบนเดอร์)"
+  },
+  {
+    "bandName": "We Wish Jewelry (วีวิชจิวเวลรี่)"
+  },
+  {
+    "bandName": "Fairy Jewelry (แฟรี่ จิวเวลรี่)"
+  },
+  {
+    "bandName": "Holy (โฮลี่)"
+  },
+  {
+    "bandName": "Dailymag (เดลี่แม็ก)"
+  },
+  {
+    "bandName": "chhenghak (เช็งแฮก)"
+  },
+  {
+    "bandName": "Japara (จาปารา)"
+  },
+  {
+    "bandName": "Nasillia (นาซิเลีย)"
+  },
+  {
+    "bandName": "Isabellas Gems (อิซาเบลลา เจมส์)"
+  },
+  {
+    "bandName": "FairyWing&Paygasus​ (แฟรี่วิงแอนเพกาซัส)"
+  },
+  {
+    "bandName": "Veva (วีว่า)"
+  },
+  {
+    "bandName": "BB Ring (บีบีริง)"
+  },
+  {
+    "bandName": "Charming Charlie (ชาร์มมิ่งชาลี)"
+  },
+  {
+    "bandName": "Numchoke 1997 (นำโชค1997)"
+  },
+  {
+    "bandName": "Baipai (ใบไผ่)"
+  },
+  {
+    "bandName": "Eurngluang jewelry (เอื้องหลวง จิวเวลรี่)"
+  },
+  {
+    "bandName": "PXXKK PXKK (พีเอ็กซ์เอ็กซ์เคเค พีเอ็กซ์เคเค)"
+  },
+  {
+    "bandName": "Bbag (บีแบ็ค)"
+  },
+  {
+    "bandName": "Butter Scotch Club (บัตเตอร์สก็อตคลับ)"
+  },
+  {
+    "bandName": "Moomthong (มุมทอง)"
+  },
+  {
+    "bandName": "Fairywing (แฟรี่วิง)"
+  },
+  {
+    "bandName": "Minipieces (มินิพีซ)"
+  },
+  {
+    "bandName": "Panta Jewelry (พันตา จิวเวอรี่)"
+  },
+  {
+    "bandName": "Risa Accessoriess (ลิซ่าแอ็คเซสซอรี่)"
+  },
+  {
+    "bandName": "Asyouwitch (แอสยูวิช)"
+  },
+  {
+    "bandName": "Nattaya jewelry (นาฏยาน์ จิวเวลรี่)"
+  },
+  {
+    "bandName": "Risa (ริซ่า)"
+  },
+  {
+    "bandName": "Risa Accessories (ริสาแอคเซสซอรี่)"
+  },
+  {
+    "bandName": "Bodycheer (บอดี้เชียร์)"
+  },
+  {
+    "bandName": "J Mask (เจมาส์ก)"
+  },
+  {
+    "bandName": "Janise (เจนิสซี่)"
+  },
+  {
+    "bandName": "SK Sokamo (เอสเคโซกาโม่)"
+  },
+  {
+    "bandName": "S Archon (เอสอาร์คอน)"
+  },
+  {
+    "bandName": "Jomlaser (จอมเลเซอร์)"
+  },
+  {
+    "bandName": "CC Bracelet (ซีซี บราซีเล็ท)"
+  },
+  {
+    "bandName": "Items store (ไอเทม สโตร์)"
+  },
+  {
+    "bandName": "Dollar boutique (ดอลลาร์ บูทิค)"
+  },
+  {
+    "bandName": "JD (เจดี)"
+  },
+  {
+    "bandName": "Vivien Westwood (วิเวียน เวสต์วูด)"
+  },
+  {
+    "bandName": "Choktawee (โชคทวี)"
+  },
+  {
+    "bandName": "Playeagle (เพลย์อีเกิ้ล)"
+  },
+  {
+    "bandName": "BJ (บีเจ)"
+  },
+  {
+    "bandName": "Pink Penny (พิงค์แพนตี้)"
+  },
+  {
+    "bandName": "Pingping (ปิงปิง)"
+  },
+  {
+    "bandName": "Pingpinggift (ปิงปิงกิฟท์)"
+  },
+  {
+    "bandName": "Jinjin Shop (จินจินช็อป)"
+  },
+  {
+    "bandName": "Kelly (เคลลี่)"
+  },
+  {
+    "bandName": "GC Jewels (จีซีจีเวล)"
+  },
+  {
+    "bandName": "Jo Malone (โจมาโลน)"
+  },
+  {
+    "bandName": "Winnie Jewelry (วินนี่ จิวเวลรี่)"
+  },
+  {
+    "bandName": "Bogie 1 (โบกี้วัน)"
+  },
+  {
+    "bandName": "Velvia Jewelry (เวลเวีย จิวเวลรี่)"
+  },
+  {
+    "bandName": "Fashion Accessories (แฟชั่น แอคเซสซอรี่)"
+  },
+  {
+    "bandName": "PASAUY (พาสวย)"
+  },
+  {
+    "bandName": "Momdough (มัมโด)"
+  },
+  {
+    "bandName": "Pasaya (พาซาย่า)"
+  },
+  {
+    "bandName": "Ohlalaiamsocute (โอ้ลาลาไอแอมโซคิ้วท์)"
+  },
+  {
+    "bandName": "Veva Jewelry (วีว่า จิวเวลรี่)"
+  },
+  {
+    "bandName": "Sajeelimsakulchai (ศจีลิม สกุลชัย)"
+  },
+  {
+    "bandName": "Royal Enfield (รอยัล เอ็นฟิลด์)"
+  },
+  {
+    "bandName": "NC Daimond (เอ็นซีไดมอนด์)"
+  },
+  {
+    "bandName": "Trailway (เทรลเวย์)"
+  },
+  {
+    "bandName": "Cottoncandy (คอตต้อนแซนดี้)"
+  },
+  {
+    "bandName": "Suree Gold (สุรีย์โกลด์)"
+  },
+  {
+    "bandName": "Lac (แลค)"
+  },
+  {
+    "bandName": "Sport Specialties (สปอร์ต สเปเชียลตี้)"
+  },
+  {
+    "bandName": "Kungern Sukhothai (กรุเงินสุโขทัย)"
+  },
+  {
+    "bandName": "Psis (พีซิส)"
+  },
+  {
+    "bandName": "Quinn (ควินน์)"
+  },
+  {
+    "bandName": "Freedom Jewellery (ฟรีดอม จิวเวลรี่)"
+  },
+  {
+    "bandName": "Naya (นายา)"
+  },
+  {
+    "bandName": "Naya99 (นายาไนน์ตี้ไนน์)"
+  },
+  {
+    "bandName": "Happy Jewelry (แฮปปี้ จิวเวอรี่)"
+  },
+  {
+    "bandName": "Girl Just Gorgeous (เกิร์ลจัสกอร์เจียส)"
+  },
+  {
+    "bandName": "Saza (ซาซ่า)"
+  },
+  {
+    "bandName": "Ecua Andino (เอกวาอันดิโน)"
+  },
+  {
+    "bandName": "Scitus (ซีตัส)"
+  },
+  {
+    "bandName": "Human Made (ฮิวแมนเมดด์)"
+  },
+  {
+    "bandName": "Thongyonsilver (ทองยนต์ซิลเวอร์)"
+  },
+  {
+    "bandName": "Tide (ไทดี้)"
+  },
+  {
+    "bandName": "Emptibead (เอ็มทิเบด)"
+  },
+  {
+    "bandName": "Lucky Gems (ลักกี้ เจมส์)"
+  },
+  {
+    "bandName": "Ply Heartmade (พีแอลวายฮาร์ทเมด)"
+  },
+  {
+    "bandName": "Tigermade Handmade (ไทเกอร์เมดแฮนด์เมด)"
+  },
+  {
+    "bandName": "Minimalist (มินิมอลลิสม์)"
+  },
+  {
+    "bandName": "Hit Point (ฮิตพอยท์)"
+  },
+  {
+    "bandName": "CIA (ซีไอเอ)"
+  },
+  {
+    "bandName": "Tile (เทล)"
+  },
+  {
+    "bandName": "Nammok (น้ำหมอก)"
+  },
+  {
+    "bandName": "Good Lak.K (กูดลัก)"
+  },
+  {
+    "bandName": "Nine Gems (ไนน์ เจส์)"
+  },
+  {
+    "bandName": "Niwelry (ไนเวลรี่)"
+  },
+  {
+    "bandName": "Handmadebymint (แฮนด์เมดบายมิ้นต์)"
+  },
+  {
+    "bandName": "Handmade (แฮนเมด)"
+  },
+  {
+    "bandName": "Jai Srila (ใจศริลา)"
+  },
+  {
+    "bandName": "Success Jewelry (ซัคเซสจิวเวลรี่)"
+  },
+  {
+    "bandName": "Success (ซัคเซส)"
+  },
+  {
+    "bandName": "Paul Lorna (พอลลอร์น่า)"
+  },
+  {
+    "bandName": "The Leather Plum (เดอะเลสเตอร์พลัม)"
+  },
+  {
+    "bandName": "BT21 (บีที21)"
+  },
+  {
+    "bandName": "Peaceminusone (พีซไมนัสวัน)"
+  },
+  {
+    "bandName": "Carawig (คาร่าวิก)"
+  },
+  {
+    "bandName": "​ Clipper (ซิปเปอ)"
+  },
+  {
+    "bandName": "Nipaporn (นิภาพร)"
+  },
+  {
+    "bandName": "Skagirl (สกาเกิร์ล)"
+  },
+  {
+    "bandName": "SALAFE (สาลาเฟ)"
+  },
+  {
+    "bandName": "Bella Jewelry (เบลล่า จิวเวอรี่)"
+  },
+  {
+    "bandName": "Tangerlepetit (แทนเกอร์เลอเปอร์ติ๊ด)"
+  },
+  {
+    "bandName": "Yupha Thaisilks (ยุพาไหมไทย)"
+  },
+  {
+    "bandName": "Niyom Jeans (นิยมยีนส์)"
+  },
+  {
+    "bandName": "Lamoonist (ละมุน)"
+  },
+  {
+    "bandName": "Monnie Jewelry (มันนี่จิวเวอรี่)"
+  },
+  {
+    "bandName": "A-Hi Faceshield (เอไฮเฟสชิลด์)"
+  },
+  {
+    "bandName": "GS ACC (จีเอส เอซีซี)"
+  },
+  {
+    "bandName": "Echoes Ethnic (อีโค่ เอธนิค)"
+  },
+  {
+    "bandName": "Shannta (ฌาณตา)"
+  },
+  {
+    "bandName": "EiffelShop (ไอเฟลช็อป)"
+  },
+  {
+    "bandName": "Blue seahorse (ม้าน้ำทะเลฟ้า)"
+  },
+  {
+    "bandName": "Koyo (โคโย)"
+  },
+  {
+    "bandName": "Preeya (ปรียา)"
+  },
+  {
+    "bandName": "Angelino Rufolo (แองเจลลิโน รูโฟโล)"
+  },
+  {
+    "bandName": "Ultimate Direction (อัลติเมทไดเร็คชั่น)"
+  },
+  {
+    "bandName": "Pasuta Diamond (พสุธาไดมอนด์)"
+  },
+  {
+    "bandName": "PS (พีเอส)"
+  },
+  {
+    "bandName": "Narat (ณรัตน์)"
+  },
+  {
+    "bandName": "Gancini (กานซีนี่)"
+  },
+  {
+    "bandName": "Wsix Makeuhappy (ดับบลิวซิกซ์ เมคยูแฮปปี้)"
+  },
+  {
+    "bandName": "Pakasia (ปักเอเชีย)"
+  },
+  {
+    "bandName": "Desi (เดสิ)"
+  },
+  {
+    "bandName": "Fah Style (ฟ้าสไตล์)"
+  },
+  {
+    "bandName": "Nanfa Wig (แนนฟาวิกส์)"
+  },
+  {
+    "bandName": "KK Jewelry (เคเคจิวเวลรี่)"
+  },
+  {
+    "bandName": "Latisha (ลาทิชา)"
+  },
+  {
+    "bandName": "CKK (ซีเคเค)"
+  },
+  {
+    "bandName": "Arrli (อาร์ลิ)"
+  },
+  {
+    "bandName": "1Degree (วันดีกรี)"
+  },
+  {
+    "bandName": "Little Farmsuk (ลิตเติ้ล ฟาร์มสุข)"
+  },
+  {
+    "bandName": "Muikids (มุยคิดส์)"
+  },
+  {
+    "bandName": "Aprillbrand (เอพริวแบนด์)"
+  },
+  {
+    "bandName": "Jewelry By Layna (จิวเวลรี่บายเลน่า)"
+  },
+  {
+    "bandName": "Jewelrylayna (จิวเวลรี่เลย์นา)"
+  },
+  {
+    "bandName": "Joyful Jewel (จอยฟูล จิวเวล)"
+  },
+  {
+    "bandName": "GM Gems (จีเอ็ม เจ็มส์)"
+  },
+  {
+    "bandName": "Xiermend (เซียเมน)"
+  },
+  {
+    "bandName": "PAUL LORNA (พอลล์ โลน่า)"
+  },
+  {
+    "bandName": "Sirin Gold (สิรินทร์ช่างทองเยาวราช)"
+  },
+  {
+    "bandName": "Tonruk Jewelry (ต้นรักษ์จิวเวอรี่)"
+  },
+  {
+    "bandName": "Vera (เวร่า)"
+  },
+  {
+    "bandName": "VeraJewelry (เวร่าจิวเวอรี่)"
+  },
+  {
+    "bandName": "GNGeneve (จีเอ็นจีเน่เว)"
+  },
+  {
+    "bandName": "Aileen (ไอลีน)"
+  },
+  {
+    "bandName": "T Cons (ที คอน)"
+  },
+  {
+    "bandName": "Smyth & Myne (สมิธแอนด์มายน์)"
+  },
+  {
+    "bandName": "Cleopatra (คลีโอพัตรา)"
+  },
+  {
+    "bandName": "Thongsook (ทองสุก)"
+  },
+  {
+    "bandName": "Gray and Gold (เกรย์แอนด์โกลด์)"
+  },
+  {
+    "bandName": "Bellissjewelry (เบลลิสจิวเวอรี่)"
+  },
+  {
+    "bandName": "Parinpipat (ปรินพิพัฒน์)"
+  },
+  {
+    "bandName": "Belliss Jewelry (เบลลิส จิวเวอรี่)"
+  },
+  {
+    "bandName": "Choo handmade (ชูแฮนเมด)"
+  },
+  {
+    "bandName": "THL (ทีเอชแอล)"
+  },
+  {
+    "bandName": "Tokyo Disney Resorts (โตเกียวดิสนีย์รีสอร์ท)"
+  },
+  {
+    "bandName": "Jolie (โจลี่)"
+  },
+  {
+    "bandName": "Smallroom (สมอลล์รูม)"
+  },
+  {
+    "bandName": "Reform (รีฟอร์ม)"
+  },
+  {
+    "bandName": "Pingan Gold (ผิงอัญโกลด์)"
+  },
+  {
+    "bandName": "Felicity (เฟลิซิตี้)"
+  },
+  {
+    "bandName": "Forever 21 (ฟอร์อีเวอทเวนตี้วัน)"
+  },
+  {
+    "bandName": "Nontawat (นนทวัฒน์)"
+  },
+  {
+    "bandName": "Akira (อากิระ)"
+  },
+  {
+    "bandName": "Anything else (เอนี่ติง เอ้ลส์)"
+  },
+  {
+    "bandName": "Pollyanna (พอลลี่แอนนา)"
+  },
+  {
+    "bandName": "Mishka (มิชก้า)"
+  },
+  {
+    "bandName": "Belle (เบลลี)"
+  },
+  {
+    "bandName": "Khunnai by Nicha (คุณนายบายนิชา)"
+  },
+  {
+    "bandName": "Thepnakorn Gold (ทองเทพนคร)"
+  },
+  {
+    "bandName": "Passionpleats (แพลซั่นเพลทส์)"
+  },
+  {
+    "bandName": "Hannah Global (ฮันนะ โกลบอล)"
+  },
+  {
+    "bandName": "Piti Stone (ปิติ สโตน)"
+  },
+  {
+    "bandName": "Jewels Felix (จิวเวลรี่เฟลิกซ์)"
+  },
+  {
+    "bandName": "Nariss Earrings (นาริส เอียริ่ง)"
+  },
+  {
+    "bandName": "Boy London (บอยลอนดอน)"
+  },
+  {
+    "bandName": "Giftland (กิ๊ฟแลนด์)"
+  },
+  {
+    "bandName": "Chan Ceuse (ฌองเซิร์ส)"
+  },
+  {
+    "bandName": "Taurus (ทอรัส)"
+  },
+  {
+    "bandName": "Graff (กราฟ)"
+  },
+  {
+    "bandName": "CoolManz (คลูแมนซ์)"
+  },
+  {
+    "bandName": "B-Bug (บีบั๊ก)"
+  },
+  {
+    "bandName": "Shine (ชายน์)"
+  },
+  {
+    "bandName": "My Mind (มายมายด์)"
+  },
+  {
+    "bandName": "Patriot (แพทริออท)"
+  },
+  {
+    "bandName": "Perployjewelry (เพอร์พลอยจิวเวลรี่)"
+  },
+  {
+    "bandName": "Blingbling Brand (บลิ้งค์บลิ้งค์แบรนด์)"
+  },
+  {
+    "bandName": "Pattaree (พัทรี)"
+  },
+  {
+    "bandName": "Gem (เจม)"
+  },
+  {
+    "bandName": "Beauty Bear (บิวตี้แบร์)"
+  },
+  {
+    "bandName": "WW gold jewelry (ห้างทองวงเวียนใหญ่)"
+  },
+  {
+    "bandName": "M+Y STEEL (เอ็มพลัสวาย สติล)"
+  },
+  {
+    "bandName": "Takoyaki Closet (ทาโกะยากิ โคลเซท)"
+  },
+  {
+    "bandName": "S Since1985 (เอสซินซ์1985)"
+  },
+  {
+    "bandName": "บริษัทศรีทองมี"
+  },
+  {
+    "bandName": "Fine-Weather"
+  },
+  {
+    "bandName": "ห้างทองสง่าสุวรรณ"
+  },
+  {
+    "bandName": "MT Jewelry  (มณีธารา)"
+  },
+  {
+    "bandName": "MTJewelry (มณีธารา)"
+  },
+  {
+    "bandName": "Mina Code (มีนา โค้ด)"
+  },
+  {
+    "bandName": "KK (เคเค)"
+  },
+  {
+    "bandName": "MLB (เอ็มแอลบี)​"
+  },
+  {
+    "bandName": "ห้างศรีทองมี"
+  },
+  {
+    "bandName": "MLB (เอ็มแอลบี)"
+  },
+  {
+    "bandName": "บริษัทศรีทองมีจำกัด (บริษัทศรีทองมีจำกัด)"
+  },
+  {
+    "bandName": "Tapping.studio (แท็ปปิ้งสตูดิโอ)"
+  },
+  {
+    "bandName": "6ixty8ight (ซิกตี้เอท)"
+  },
+  {
+    "bandName": "Zoe Scarf (โซอี้ สคราฟ)"
+  },
+  {
+    "bandName": "Clio Blue (คลีโอบลู)"
+  },
+  {
+    "bandName": "Fine Diamond (ไฟน์ ไดมอนด์)"
+  },
+  {
+    "bandName": "Famosa Andina (ฟาโมซ่าแอนดิน่า)"
+  },
+  {
+    "bandName": "Last Summer (ลาสต์ซัมเมอร์)"
+  },
+  {
+    "bandName": "Cheap Cheap (จิ๊บจิ๊บ)"
+  },
+  {
+    "bandName": "Tusbrand (ทียูทีเอสแบนด์)"
+  },
+  {
+    "bandName": "Clover Gems (โคลเวอร์เจมส์)"
+  },
+  {
+    "bandName": "SOiFASHION99 (โซไอแฟชั่นเก้าเก้า)"
+  },
+  {
+    "bandName": "NaGems"
+  },
+  {
+    "bandName": "NaGems (นาเจม)"
+  },
+  {
+    "bandName": "NaGems (นาเกมส์)"
+  },
+  {
+    "bandName": "OVS (โอวีเอส)"
+  },
+  {
+    "bandName": "จุฑาทิพย์ (จุฑาทิพย์)"
+  },
+  {
+    "bandName": "Living Dolls (ลิฟวิ่ง ดอลส์)"
+  },
+  {
+    "bandName": "Morningnighttt (มอร์นิ่งไนท์)"
+  },
+  {
+    "bandName": "Nisa Jewelry (นิสา จิวเวลรี่)"
+  },
+  {
+    "bandName": "Nisa Jewelry  (นิสาจิวเวอร์รี่)"
+  },
+  {
+    "bandName": "Nisa Jewelry (นิสาจิวเวลรี่)"
+  },
+  {
+    "bandName": "NooYoo (นูยู)​"
+  },
+  {
+    "bandName": "Koo’s (คูส)"
+  },
+  {
+    "bandName": "บ้านบัวทอง"
+  },
+  {
+    "bandName": "Number5luckystone (นัมเบอ5ลักกี้สโตร์)"
+  },
+  {
+    "bandName": "ULTNICE (ยูนิค)"
+  },
+  {
+    "bandName": "RE'SDIAMONDS (รีไดม่อนด์)"
+  },
+  {
+    "bandName": "Frcolor (เอฟอาร์คัลเลอร์)"
+  },
+  {
+    "bandName": "TOYMYTOY (ทอยมายทอย)"
+  },
+  {
+    "bandName": "Im-spire (แอมสไปร์ท)"
+  },
+  {
+    "bandName": "Laikou (ลากิโค)"
+  },
+  {
+    "bandName": "Sukniyom (สุขนิยม)"
+  },
+  {
+    "bandName": "Laikou (ลาอิโคว)"
+  },
+  {
+    "bandName": "Heng Jewelry (เฮงจิวเวอรี่)"
+  },
+  {
+    "bandName": "Siam Glitters 1957 (สยาม กิตเตอร์ 1957)"
+  },
+  {
+    "bandName": "12Victory (ทเวลฟ์วิคตอรี่)"
+  },
+  {
+    "bandName": "S'Fare (เอสแฟร์)"
+  },
+  {
+    "bandName": "Etrendy   (แอทเทรนดี้)"
+  },
+  {
+    "bandName": "QNW (คิวเอ็นดับบิว)"
+  },
+  {
+    "bandName": "QNW (คิวเอ็นดับบลิว)"
+  },
+  {
+    "bandName": "Fenical (เฟนิคอล)"
+  },
+  {
+    "bandName": "Choker90s (โช็คเกอร์90เอส)"
+  },
+  {
+    "bandName": "KACEE (เคซี)"
+  },
+  {
+    "bandName": "Character Me (ชาแร็คเตอร์มี)"
+  },
+  {
+    "bandName": "Hold'em (โฮลเด็ม)"
+  },
+  {
+    "bandName": "Glitchestore (กิตชี่สโตร์)"
+  },
+  {
+    "bandName": "Lucky Buddha Ring (ลัคกี้บุดดาริง)"
+  },
+  {
+    "bandName": "Lucky Buddha Ring"
+  },
+  {
+    "bandName": "Luckybuddharing (ลัคกี้บุดดาริง)"
+  },
+  {
+    "bandName": "Ari (อาริ)"
+  },
+  {
+    "bandName": "Spitfire (สปิตไฟร์)"
+  },
+  {
+    "bandName": "Sita Shop (สิตาช้อป)"
+  },
+  {
+    "bandName": "Naphat (นภัทร)"
+  },
+  {
+    "bandName": "Jewel_making_India"
+  },
+  {
+    "bandName": "ห้างเพชรทองรุ่งอัมพร"
+  },
+  {
+    "bandName": "ห้างเพชรทองรุ่งอัมพร ห้างเพชรทองรุ่งอัมพร)"
+  },
+  {
+    "bandName": "Apearlita (เอเพียร์ลิต้า)"
+  },
+  {
+    "bandName": "Apearlita (อะเพิร์ลลิตา)"
+  },
+  {
+    "bandName": "Sritrang (ศรีตรัง)"
+  },
+  {
+    "bandName": "Leetaifu (ลี่ไท่ฟู)"
+  },
+  {
+    "bandName": "Shein (ชีอิน)"
+  },
+  {
+    "bandName": "KozySnow  (โคซี่สโนว์)"
+  },
+  {
+    "bandName": "ชีอิน (ชีอิน)"
+  },
+  {
+    "bandName": "9-Tail Shop"
+  },
+  {
+    "bandName": "Kaza Brand (คาซ่า แบรนด์)"
+  },
+  {
+    "bandName": "9 Tail Shop (นาย เทล ช็อป)"
+  },
+  {
+    "bandName": "3 Tone (สามโทน)"
+  },
+  {
+    "bandName": "3 - Tone (ทรีโทน)"
+  },
+  {
+    "bandName": "3 - TONE"
+  },
+  {
+    "bandName": "PowerIonics (พาวเวอร์ไอโอนิคส์)"
+  },
+  {
+    "bandName": "Power Ionics (พาวเวอร์ไอโอนิคส์)"
+  },
+  {
+    "bandName": "Power Ionics (พาวเวอร์ ไอโอนิคส์)"
+  },
+  {
+    "bandName": "Power ionics (พาวเวอร์ไอโอนิก)"
+  },
+  {
+    "bandName": "Atlizsilk (แอทลิซ ซิลค์)"
+  },
+  {
+    "bandName": "VORON"
+  },
+  {
+    "bandName": "VORON (โวรอน)"
+  },
+  {
+    "bandName": "Tube Gallery (ทูปแกลเลอรี่)"
+  },
+  {
+    "bandName": "Bona (โบน่า)"
+  },
+  {
+    "bandName": "BONA Jewel"
+  },
+  {
+    "bandName": "Bona Jewel (โบน่าเจเวล)"
+  },
+  {
+    "bandName": "Bona (โบนา)"
+  },
+  {
+    "bandName": "BONA Jewel (โบนาจิวเวอรี่)"
+  },
+  {
+    "bandName": "ห้างทองบัวขาว (ห้างทองบัวขาว)"
+  },
+  {
+    "bandName": "Mazmoizelle"
+  },
+  {
+    "bandName": "Mazmoizelle (มาสมัวแซลล์)"
+  },
+  {
+    "bandName": "Mazmoizelle (Mazmoizelle)"
+  },
+  {
+    "bandName": "Motta (ม็อตต้า)"
+  },
+  {
+    "bandName": "MOTTA  (ม็อตต้า)"
+  },
+  {
+    "bandName": "บ้านชินพลอยแท้"
+  },
+  {
+    "bandName": "บ้านชินพลอยแท้ (บ้านชินพลอยแท้)"
+  },
+  {
+    "bandName": "Twotwice (ทูทไวส์)"
+  },
+  {
+    "bandName": "Alese (อะลิเซ่)"
+  },
+  {
+    "bandName": "Makoto (มาโกโตะ)"
+  },
+  {
+    "bandName": "Asha (แอสซ่า)"
+  },
+  {
+    "bandName": "ตุ้มเมืองตาก"
+  },
+  {
+    "bandName": "Miss Louis (มิสหลุยส์)"
+  },
+  {
+    "bandName": "Misslouis"
+  },
+  {
+    "bandName": "Misslouis (มิสหลุย)"
+  },
+  {
+    "bandName": "Seoulme Jewellery (โซลมี จีเวลเลอรี่)"
+  },
+  {
+    "bandName": "Seoulme.Jewellery (โซลมี่จิวเวอรี่)"
+  },
+  {
+    "bandName": "Ms.Lily's"
+  },
+  {
+    "bandName": "Magicstickerland (เมจิก สติ๊กเกอร์แลนด์)"
+  },
+  {
+    "bandName": "PJ (พีเจ)"
+  },
+  {
+    "bandName": "ปาสาทิโก (ปาสาทิโก)"
+  },
+  {
+    "bandName": "Princess Diamonds (ปริ้นเซส ไดมอนด์)"
+  },
+  {
+    "bandName": "Diamonds Princess (ปริ้นเซสไดมอนด์)"
+  },
+  {
+    "bandName": "Princess Diamonds (พริ้นเซส ไดม่อน)"
+  },
+  {
+    "bandName": "VAC (วีเอซี)"
+  },
+  {
+    "bandName": "Culture Mart (คัลเจอร์ มาร์ท)"
+  },
+  {
+    "bandName": "Sai-Sa-by"
+  },
+  {
+    "bandName": "Fitwhey (ฟิตเวย์)"
+  },
+  {
+    "bandName": "Jiraponn GEMS (จิราพรเจม)"
+  },
+  {
+    "bandName": "Jiraponn Gems"
+  },
+  {
+    "bandName": "Jiraponn GEMS (จิราพรเจมส์)"
+  },
+  {
+    "bandName": "Jiraponn GEMS (จิราพรจีอีเอ็มเอส)"
+  },
+  {
+    "bandName": "Article 22"
+  },
+  {
+    "bandName": "Article22 (อาร์ติเคิลทเวนตี้ทู)"
+  },
+  {
+    "bandName": "TeamWang"
+  },
+  {
+    "bandName": "Vgod (วีก็อด)"
+  },
+  {
+    "bandName": "Angel Blue (แองเจิ้ล บลู)"
+  },
+  {
+    "bandName": "Primadonna (พรี่ม่าดอนน่า)"
+  },
+  {
+    "bandName": "Primadonna (พรีม่าดอนน่า)"
+  },
+  {
+    "bandName": "Primadonna"
+  },
+  {
+    "bandName": "Primadonna (พริมาดอนน่า)"
+  },
+  {
+    "bandName": "PRimadonna (พรีมาดอนน่า)"
+  },
+  {
+    "bandName": "Amarini"
+  },
+  {
+    "bandName": "Stone For You (สโตนฟอร์ยู)"
+  },
+  {
+    "bandName": "Chankarat (จันท์กะรัต)"
+  },
+  {
+    "bandName": "CHANKARAT (ชานกะรัด)"
+  },
+  {
+    "bandName": "De Bangkok (ดีบางกอก)"
+  },
+  {
+    "bandName": "RAW"
+  },
+  {
+    "bandName": "Nani World (นานิเวิล)"
+  },
+  {
+    "bandName": "Avaco (อะว่าโค)"
+  },
+  {
+    "bandName": "Swd (เอสดับบลิวดี)"
+  },
+  {
+    "bandName": "Lunar (ลูน่า)"
+  },
+  {
+    "bandName": "Sekistudio (เซกิสตูดิโอ)"
+  },
+  {
+    "bandName": "จี้พญานาค นาคีมนตรา"
+  },
+  {
+    "bandName": "dr.awny (ดร.อาวนี่)"
+  },
+  {
+    "bandName": "dr.awny (ดีอาร์ดอทอวานี)"
+  },
+  {
+    "bandName": "DrAwny (ด็อกเตอร์อาวนี่)"
+  },
+  {
+    "bandName": "J2silverstone (เจ2ซิลเวอร์สโตร์)"
+  },
+  {
+    "bandName": "POSTCARDCUBE"
+  },
+  {
+    "bandName": "ZHOWCASE (โชว์เคส)"
+  },
+  {
+    "bandName": "Zhowcase (โซว์เคส)"
+  },
+  {
+    "bandName": "ZHOWCASE (โซแคส)"
+  },
+  {
+    "bandName": "ห้างทอง​มณี​ลักษณ์​"
+  },
+  {
+    "bandName": "ห้างทอง​มณี​ลักษณ์ (​ห้างทอง​มณี​ลักษณ์​)"
+  },
+  {
+    "bandName": "Called P"
+  },
+  {
+    "bandName": "Called P (คอเลทพี)"
+  },
+  {
+    "bandName": "TIGRADE"
+  },
+  {
+    "bandName": "Tigrade (ทิกเกรด)"
+  },
+  {
+    "bandName": "Tigrade (ไทเกรด)"
+  },
+  {
+    "bandName": "Shimano  (ชิมาโน่)"
+  },
+  {
+    "bandName": "Stradivarius (สตาร์ดิวารีอัส)"
+  },
+  {
+    "bandName": "ห้างทองดีดีรังสิต 5"
+  },
+  {
+    "bandName": "Charoensookgold (เจริญสุขเยาวราช)"
+  },
+  {
+    "bandName": "Jida (จิด้า)"
+  },
+  {
+    "bandName": "Bubblebeads (บับเบิ้ลบีดส์)"
+  },
+  {
+    "bandName": "Bubblebeads"
+  },
+  {
+    "bandName": "De hijab (เดอฮิญาบ)"
+  },
+  {
+    "bandName": "Jida (จิดา)"
+  },
+  {
+    "bandName": "Jidaa Jewelry (จิดา จิวเวอรี่)"
+  },
+  {
+    "bandName": "Born Boom (บอร์นบูม)"
+  },
+  {
+    "bandName": "Prologue"
+  },
+  {
+    "bandName": "Maneelucksamee  (มณีลักษมี)"
+  },
+  {
+    "bandName": "Yinyin  (ยินยิน)"
+  },
+  {
+    "bandName": "KirariDIY (คิราริ ดีไอวาย)"
+  },
+  {
+    "bandName": "Healifty (เฮลลิฟตี้)"
+  },
+  {
+    "bandName": "ROSENICE (โรสซินิ๊กซ์)"
+  },
+  {
+    "bandName": "UNOMOR (อันโนมอร์)"
+  },
+  {
+    "bandName": "La Luna Store (ลาลันนาสโตร)"
+  },
+  {
+    "bandName": "Rico  (ริโก้)"
+  },
+  {
+    "bandName": "YFS (วายเอฟเอส)"
+  },
+  {
+    "bandName": "Eart La Lune (เอิร์ทลาลูน)"
+  },
+  {
+    "bandName": "Beeset Brand (บีเซ็ตแบรนด์)"
+  },
+  {
+    "bandName": "BeeSet Brand (บีเซ็ท แบรนด์)"
+  },
+  {
+    "bandName": "BeeSet Brand (บีเซทแบรน)"
+  },
+  {
+    "bandName": "Tyakasha (ไทกาชา)"
+  },
+  {
+    "bandName": "Rip N Dip (ริปแอนดิป)"
+  },
+  {
+    "bandName": "Rip N Dip (ริปแอนด์ดิป)"
+  },
+  {
+    "bandName": "Air Walk (แอร์วอร์ค)"
+  },
+  {
+    "bandName": "TIGERADE (ไทเกอร์เอด)"
+  },
+  {
+    "bandName": "Q.quarterly (คิวควาเทอร์รี่)"
+  },
+  {
+    "bandName": "NUOLUX (นูโอลักซ์)"
+  },
+  {
+    "bandName": "Winomo (วิโนโม)"
+  },
+  {
+    "bandName": "ช่างเบสทำทองระยอง"
+  },
+  {
+    "bandName": "Novent (โนเวนท์)"
+  },
+  {
+    "bandName": "Novent Street Glamper (โนเวนท์ สตรีท แกลมเปอร์)"
+  },
+  {
+    "bandName": "APM Monaco (เอพีเอ็ม โมนาโค)"
+  },
+  {
+    "bandName": "DOHC (ด๊อช)"
+  },
+  {
+    "bandName": "Ouai (อูเวย)"
+  },
+  {
+    "bandName": "yanqueens (ยันควีน)"
+  },
+  {
+    "bandName": "Vorcool (โวคูล)"
+  },
+  {
+    "bandName": "Simpsons (ซิมสันส์)"
+  },
+  {
+    "bandName": "C&D (ซีแอนด์ดี)"
+  },
+  {
+    "bandName": "ณครเงิน (ณครเงิน)"
+  },
+  {
+    "bandName": "Under Armour (อันเดอร์อาร์เมอร์)​"
+  },
+  {
+    "bandName": "Line&Round (ไลน์แอนด์ราวด์)"
+  },
+  {
+    "bandName": "Edc (อีดีซี)"
+  },
+  {
+    "bandName": "Feather Apparel (เฟทเธอร์ แอพพาเรล)"
+  },
+  {
+    "bandName": "Phanchang  (ห้างทองพันชั่ง)"
+  },
+  {
+    "bandName": "BBNJUK (บีบีเอ็นจัค)"
+  },
+  {
+    "bandName": "Aliver9 (เอลิเวอร์ไนน์)"
+  },
+  {
+    "bandName": "Aliver 9 (อาลิเวอร์ 9)"
+  },
+  {
+    "bandName": "Mango (แมงโก้)"
+  },
+  {
+    "bandName": "SV Jewelry (เอสวี จิวเวลรี)"
+  },
+  {
+    "bandName": "Surfline (เซิร์ฟไลน์)"
+  },
+  {
+    "bandName": "KC Handmade (เคซีแอนด์เมด)"
+  },
+  {
+    "bandName": "X=ACT (แอ๊คแซค)"
+  },
+  {
+    "bandName": "Ueang (อี้หยาง)"
+  },
+  {
+    "bandName": "Ohm Iyara (โอมไอยรา)"
+  },
+  {
+    "bandName": "Cinelli (ชิเนลลี่)"
+  },
+  {
+    "bandName": "Ashoka (อโชก้า)"
+  },
+  {
+    "bandName": "Sissy Accessories (ซิสซี่แอคเซสเซอรี)"
+  },
+  {
+    "bandName": "Xinyi (ซินยี)"
+  },
+  {
+    "bandName": "Asimi (อาซิมิ)"
+  },
+  {
+    "bandName": "TSG Jewelry (ทีเอสจีจิวเวอรี่)"
+  },
+  {
+    "bandName": "TSG Jewelry (ทีเอสจี จิวเวลรี่)"
+  },
+  {
+    "bandName": "Hanamamoru (ฮานามาโมรุ)"
+  },
+  {
+    "bandName": "Prima (พรีม่า)"
+  },
+  {
+    "bandName": "Storiaandco (สโตรเรียแอนด์โค)"
+  },
+  {
+    "bandName": "Storia&Co (สตอเรียแอนด์โค)"
+  },
+  {
+    "bandName": "Hoyheng (หอยเฮง)"
+  },
+  {
+    "bandName": "Chatostudio (ชาโตะสตูดิโอ)"
+  },
+  {
+    "bandName": "Robin Ruth (โรบินรูท)"
+  },
+  {
+    "bandName": "ทัตเทพกำไลหิน"
+  },
+  {
+    "bandName": "ชาตะเนรมิต"
+  },
+  {
+    "bandName": "City Color (ซิตี้ คัลเลอร์)"
+  },
+  {
+    "bandName": "Mini Glam (มินิแกลม)"
+  },
+  {
+    "bandName": "Mini Glam (มินิ แกลม)"
+  },
+  {
+    "bandName": "TT.Stone.Girl (ทีทีสโตนเกิร์ล)"
+  },
+  {
+    "bandName": "888Jadeite (888จาร์เดียนซ์)"
+  },
+  {
+    "bandName": "888 Jadeite (888 เจไดต์)"
+  },
+  {
+    "bandName": "TTQ Thontonq (ทีทีคิว ต้นทอง)"
+  },
+  {
+    "bandName": "TC Gold (ทีซี โกลด์)"
+  },
+  {
+    "bandName": "Evita Peroni (เอวิต้าเพอโรนิ)"
+  },
+  {
+    "bandName": "ห้างทอง สินไทย (ห้างทอง สินไทย)"
+  },
+  {
+    "bandName": "ห้างทองรวมสินไทย ขอนแก่น"
+  },
+  {
+    "bandName": "ห้างทองรวมสินไทยขอนแก่น"
+  },
+  {
+    "bandName": "ตาพรานบุญ วัดยางใหญ่"
+  },
+  {
+    "bandName": "Takeo Kikuchi (ทาเคโอะ คิคุจิ)"
+  },
+  {
+    "bandName": "De lann (เดอแลนน์)"
+  },
+  {
+    "bandName": "De Lann (เดอ ลาน)"
+  },
+  {
+    "bandName": "Benny Gold (เบนนี่โกลด์)"
+  },
+  {
+    "bandName": "Jim Thompson (จิม ทอมป์สัน)"
+  },
+  {
+    "bandName": "TBS Gold (ทีบีเอส โกลด์)"
+  },
+  {
+    "bandName": "Jap Fac (แจ๊ปแฟค)"
+  },
+  {
+    "bandName": "Riski Boutique (ริสกี้บูติค)"
+  },
+  {
+    "bandName": "Leela Gold (ลีลาโกลด์)"
+  },
+  {
+    "bandName": "Sabona (ซาโบน่า)"
+  },
+  {
+    "bandName": "Wisdom Gold (วิสดอมโกลด์)"
+  },
+  {
+    "bandName": "Ben Davis (เบนดาวิส)"
+  },
+  {
+    "bandName": "Thira Jewelry (ฑิราจิวเวลรี่)"
+  },
+  {
+    "bandName": "PAULVICE (พอลไวซ์)"
+  },
+  {
+    "bandName": "Taktai (ทักทาย)"
+  },
+  {
+    "bandName": "De Lann (เดอลานน์)"
+  },
+  {
+    "bandName": "งาสุวรรณ (งาสุวรรณ)"
+  },
+  {
+    "bandName": "Crazy Streetwear (เคซี่ สตีสแวร์)"
+  },
+  {
+    "bandName": "Nansi (แนนสิ)"
+  },
+  {
+    "bandName": "Barbour (บาร์บรู)"
+  },
+  {
+    "bandName": "Gray Marble (เกรย์มาร์เบิล)"
+  },
+  {
+    "bandName": "Leela (ลีลา)"
+  },
+  {
+    "bandName": "วดีภัณฑ์ (วดีภัณฑ์)"
+  },
+  {
+    "bandName": "Beatty Boo (บิวตี้ บู)"
+  },
+  {
+    "bandName": "Ferrari (เฟอรารี่)"
+  },
+  {
+    "bandName": "Inkbox (อิ้งบ๊อค)"
+  },
+  {
+    "bandName": "PCPY Jewelry (พีซีพีวาย จิวเวลรี่)"
+  },
+  {
+    "bandName": "Camel (คาเมล)"
+  },
+  {
+    "bandName": "UltImax (ยูสเทส)"
+  },
+  {
+    "bandName": "ULTIMAX (อัลติแมกซ์)"
+  },
+  {
+    "bandName": "ห้างทองคุณฮั้ว หล่อ"
+  },
+  {
+    "bandName": "Gemila (เจมิลา)"
+  },
+  {
+    "bandName": "ห้างทองคุณฮั้วหล่อ (ห้างทองคุณฮั้วหล่อ)"
+  },
+  {
+    "bandName": "Rauco House (รอโค เฮ้าส์)"
+  },
+  {
+    "bandName": "Luziano (ลูเซียโน)"
+  },
+  {
+    "bandName": "Luziano Jewelry (ลูเซียโน่ จิวเวลรี่)"
+  },
+  {
+    "bandName": "Ann Chan Jewelry (แอนชานจิวเวอร์รี่)"
+  },
+  {
+    "bandName": "Wednesday Wish (เวดเดย์วิช)"
+  },
+  {
+    "bandName": "ห้างทองเตียฮั้วเฮง (ห้างทองเตียฮั้วเฮง)"
+  },
+  {
+    "bandName": "Alice on Wednesday (อลิซออนเวนซ์เดย์)"
+  },
+  {
+    "bandName": "๋Jewel Queen (จิวเวลควีน)"
+  },
+  {
+    "bandName": "Number8 (นัมเบอร์8)"
+  },
+  {
+    "bandName": "Suvani (ซูวานี)"
+  },
+  {
+    "bandName": "C2 By Chuchai (ซีทู บาย ชูชัย)"
+  },
+  {
+    "bandName": "The Pure Diamond (เดอะ เพียว ไดมอนด์)"
+  },
+  {
+    "bandName": "LYD (ลีวายดี)"
+  },
+  {
+    "bandName": "Djewel (ดีเจเวล)"
+  },
+  {
+    "bandName": "Olivia Burton (โอลิเวีย เบอร์ตัน)"
+  },
+  {
+    "bandName": "Handmade by Beach (แฮนด์เมด บาย บีช)"
+  },
+  {
+    "bandName": "Valentino (วาเลนติโน่)"
+  },
+  {
+    "bandName": "Seek x Superbad (ซีคแอนด์ซุปเปอร์แบด)"
+  },
+  {
+    "bandName": "Kailas (ไคลาส)"
+  },
+  {
+    "bandName": "49AV Junko Shimada (49เอวี จุนโกะ ชิมาดะ)"
+  },
+  {
+    "bandName": "Tips Gallery  (ทิพส์ แกลอรี่)"
+  },
+  {
+    "bandName": "Delsol (เดลโซล)"
+  },
+  {
+    "bandName": "Something Like That (ซัมติงไลค์แด่ด)"
+  },
+  {
+    "bandName": "Maron (มาร็อง)"
+  },
+  {
+    "bandName": "Maron Jewelry (มารอน จิวเวลรี่)"
+  },
+  {
+    "bandName": "Anythingg_th (เอนี่ติง ทีเอช)"
+  },
+  {
+    "bandName": "ห้างทองรัตนไชยเยาวราช (ห้างทองรัตนไชยเยาวราช)"
+  },
+  {
+    "bandName": "The A-list  (เดอะเอลิสท์)"
+  },
+  {
+    "bandName": "NY Yankees (นิวยอร์ก แยงกีส์)"
+  },
+  {
+    "bandName": "K Swiss (เค สวิส)"
+  },
+  {
+    "bandName": "TBS Gold (ห้างทองบริสุทธิ์)"
+  },
+  {
+    "bandName": "Thongphumthan (ทองภูมิฐาน)"
+  },
+  {
+    "bandName": "ตราลูกศร (ตราลูกศร)"
+  },
+  {
+    "bandName": "Somemer Over (ซัมเมอร์ โอเวอร์)"
+  },
+  {
+    "bandName": "JHL (เจเอชแอล)"
+  },
+  {
+    "bandName": "Sila mongkond (ศิลามงคล)"
+  },
+  {
+    "bandName": "Taera Jewelry (แทร่า จิวเวลรี่)"
+  },
+  {
+    "bandName": "PP (พีพี)"
+  },
+  {
+    "bandName": "Olrew (โอลริว)"
+  },
+  {
+    "bandName": "Dani (ดานิ)"
+  },
+  {
+    "bandName": "Uncle Cane (อังเคิล เคน)"
+  },
+  {
+    "bandName": "JB (เจบี)"
+  },
+  {
+    "bandName": "ECO (อีโค่)"
+  },
+  {
+    "bandName": "Top Diamond (ท็อปไดมอนด์)"
+  },
+  {
+    "bandName": "Kr Silver (เคอาร์ซิลเวอร์)"
+  },
+  {
+    "bandName": "Ngen Nan (เงินน่าน)"
+  },
+  {
+    "bandName": "Getnature (เกตเนเชอร์)"
+  },
+  {
+    "bandName": "Mlarry Official (มาลาร์รีออฟฟิเชียส)"
+  },
+  {
+    "bandName": "Silver Jewelry 5 (ซิลเวอร์ จิวเวลรี่ 5)"
+  },
+  {
+    "bandName": "Hanae Mori (ฮานาเอะ โมริ)"
+  },
+  {
+    "bandName": "SKD Jewelry (เอสเคดี จิวเวลรี่)"
+  },
+  {
+    "bandName": "Reclusive (รีคลูซีฟ)"
+  },
+  {
+    "bandName": "Smell Lemongrass (สเมล เลมอนกราส)"
+  },
+  {
+    "bandName": "Ula Rika (อูลา ริก้า)"
+  },
+  {
+    "bandName": "D Jewelry (ดีจิวเวลรี่)"
+  },
+  {
+    "bandName": "Kate Spade (เคท สเปด)"
+  },
+  {
+    "bandName": "Trucker (ทรัคเคอร์)"
+  },
+  {
+    "bandName": "Suparno Jewelry (สุภาโน่ จิวเวลรี่)"
+  },
+  {
+    "bandName": "Nataya Hat (นัทยา แฮท)"
+  },
+  {
+    "bandName": "Martinpolo (มาตินโปโล)"
+  },
+  {
+    "bandName": "Athica (อธิกา)"
+  },
+  {
+    "bandName": "Martin Polo (มาร์ติน โปโล)"
+  },
+  {
+    "bandName": "Martinpolo (มาร์ตินโปโล)"
+  },
+  {
+    "bandName": "Martin Polo (มาร์ตินโปโล)"
+  },
+  {
+    "bandName": "Houston (ฮิวสตัน)"
+  },
+  {
+    "bandName": "Lola Rose (โลล่าโรส)"
+  },
+  {
+    "bandName": "Neat (นีท)"
+  },
+  {
+    "bandName": "Getnature (เกทเนเจอร์)"
+  },
+  {
+    "bandName": "Jitta Fam (จิตตา ฟาม)"
+  },
+  {
+    "bandName": "Ranpetchkunfhan (ร้านเพชรคุณฝัน)"
+  },
+  {
+    "bandName": "Jitta Fam (จิตราเฟม)"
+  },
+  {
+    "bandName": "Jitta Fam (จิตตะแฟม)"
+  },
+  {
+    "bandName": "K Swiss​ (เคสวิส)"
+  },
+  {
+    "bandName": "Sheheit Studios (ชีฮีอิทสตูดิโอ)"
+  },
+  {
+    "bandName": "The Nine Diamond 888 (เดอะไนน์ไดมอนด์888)"
+  },
+  {
+    "bandName": "หลวงพ่อรวย วัดตะโก (หลวงพ่อรวย วัดตะโก)"
+  },
+  {
+    "bandName": "Designs ​of Nature (ดีซายน์ ออฟ เนเจอร์)"
+  },
+  {
+    "bandName": "ห้างทองทศพล (ห้างทองทศพล)"
+  },
+  {
+    "bandName": "TC Gold (ทีซีโกลด์)"
+  },
+  {
+    "bandName": "TAKASHI TOKYO (ทาเคชิโตเกียว)"
+  },
+  {
+    "bandName": "Gather Up (เกเธอร์อัพ)"
+  },
+  {
+    "bandName": "Blackdog BKK (แบล็คด็อก บีเคเค)"
+  },
+  {
+    "bandName": "Blackdog Bkk (แบล็คด็อกบีเคเค)"
+  },
+  {
+    "bandName": "SP Gold (เอสพีโกลด์)"
+  },
+  {
+    "bandName": "Kony (โคนี่)"
+  },
+  {
+    "bandName": "Gerty (เจอร์ตี้)"
+  },
+  {
+    "bandName": "ห้างทองไท้เฮงล้ง (ห้างทองไท้เฮงล้ง)"
+  },
+  {
+    "bandName": "Getnature (เก็ทเนเจอร์)"
+  },
+  {
+    "bandName": "TSC Stone  (ทีเอสซี สโตน)"
+  },
+  {
+    "bandName": "Nangkram (นางคราม)"
+  },
+  {
+    "bandName": "Crayon Brand (คายอนแบรนด์)"
+  },
+  {
+    "bandName": "Princess Diamonds (ปริ๊นเซส ไดมอนด์)"
+  },
+  {
+    "bandName": "Tales Of Andaman (เทลส์ออฟอันดามัน)"
+  },
+  {
+    "bandName": "Lofficiel (ลอฟฟีเซียล)"
+  },
+  {
+    "bandName": "Postcard Cube (โปสการ์ด คิ้วบ์)"
+  },
+  {
+    "bandName": "CSG Jew (ซีเอสจี จิว)"
+  },
+  {
+    "bandName": "Gewelbie (เจเวลบี)"
+  },
+  {
+    "bandName": "Olevs (โอเลฟ)"
+  },
+  {
+    "bandName": "Aseve (แอสอีฟ)"
+  },
+  {
+    "bandName": "Sobasiz (โซบาซิส)"
+  },
+  {
+    "bandName": "Aevari (เอวารี่)"
+  },
+  {
+    "bandName": "Yong Hong Lee (ห้างทองย่งเฮงหลี)"
+  },
+  {
+    "bandName": "Olevs (โอเลฟส์)"
+  },
+  {
+    "bandName": "Oleve (โอริส)"
+  },
+  {
+    "bandName": "Honey Jewelry (ฮันนี่ จิวเวลรี่)"
+  },
+  {
+    "bandName": "Nitan (นิทาน)"
+  },
+  {
+    "bandName": "Penniejewelry (เพ็ญนีจิวรี่)"
+  },
+  {
+    "bandName": "Chankrapor (จันทร์กระพ้อ)"
+  },
+  {
+    "bandName": "My Precious (มายพรีเชียส)"
+  },
+  {
+    "bandName": "My Precious (มาย พรรฌอัซ)"
+  },
+  {
+    "bandName": "Delsol (เดลโซ)"
+  },
+  {
+    "bandName": "Midhand (มิดแฮนด์)"
+  },
+  {
+    "bandName": "Midland (มิดแลนด์)"
+  },
+  {
+    "bandName": "GSP (จีเอสพี)"
+  },
+  {
+    "bandName": "Rubber Killer (รับเบอร์คิลเลอร์)"
+  },
+  {
+    "bandName": "Condor (คอนดอร์)"
+  },
+  {
+    "bandName": "Getnature (เก็ตเนเจอร์)"
+  },
+  {
+    "bandName": "The Diamond  (เดอะไดมอนด์)"
+  },
+  {
+    "bandName": "Ngoentra (เงินตรา)"
+  },
+  {
+    "bandName": "Gallup (แกลลอป)"
+  },
+  {
+    "bandName": "Tiffany & Co. (ทิฟฟานี่ แอนด์ โค.)"
+  },
+  {
+    "bandName": "Linny.Store (ลินนี่สโตร์)"
+  },
+  {
+    "bandName": "January (แจนยูอารี่)"
+  },
+  {
+    "bandName": "Juti Jewelry (จุติจิวเวอร์รี่)"
+  },
+  {
+    "bandName": "Flow (โฟล์ว)"
+  },
+  {
+    "bandName": "Gedbi Store (เจดบี้สโตร)"
+  },
+  {
+    "bandName": "Phakhaoma By Chameen (ผ้าขาวม้าบายชามีน)"
+  },
+  {
+    "bandName": "Amarin (อัมรินทร์)"
+  },
+  {
+    "bandName": "Takashi Tokyo (ทาเคชิ โตเกียว)"
+  },
+  {
+    "bandName": "Amarin (อมาริน)"
+  },
+  {
+    "bandName": "Juti Jewelry (จุติ จิวเวลรี่)"
+  },
+  {
+    "bandName": "The Great (เดอะเกรท)"
+  },
+  {
+    "bandName": "บ้านช้างทอง (บ้านช้างทอง)"
+  },
+  {
+    "bandName": "Hiend 1  (ไฮเอ็น 1)"
+  },
+  {
+    "bandName": "LV (แอลวี)"
+  },
+  {
+    "bandName": "Jaclyn Smith (แจ็คลิน สมิธ)"
+  },
+  {
+    "bandName": "Zumba Wear (ซุมบ้าแวร์)"
+  },
+  {
+    "bandName": "Vivala Gems (วิวาล่าเจ็มส์)"
+  },
+  {
+    "bandName": "Geminine (เจมิไนน์)"
+  },
+  {
+    "bandName": "Lalyn (ลลิล)"
+  },
+  {
+    "bandName": "Carrots (แครอท)"
+  },
+  {
+    "bandName": "Ferris  Wheel (เฟอร์ริสวีล)"
+  },
+  {
+    "bandName": "Hanlongjade (ฮันหลงเจด)"
+  },
+  {
+    "bandName": "Burnir (เบอร์เนอร์)"
+  },
+  {
+    "bandName": "Scala (สกาล่า)"
+  },
+  {
+    "bandName": "Tamas Jewelry (ทามาส จิววลี่)"
+  },
+  {
+    "bandName": "The Crystal Gallery (เดอะคริสตัลแกลอรี่)"
+  },
+  {
+    "bandName": "The Crystal Gallery (เดอะคริสตัลแกลลอรี่)"
+  },
+  {
+    "bandName": "Tumboon (ธรรมบุญ)"
+  },
+  {
+    "bandName": "LCFC Official (แอลซีเอฟซีออฟฟิเซียล)"
+  },
+  {
+    "bandName": "1996 Studio (1996 สโตส์ดิโอ)"
+  },
+  {
+    "bandName": "Lixada (ลิกซ์ด้า)"
+  },
+  {
+    "bandName": "Khongkwan by Aurora  (ของขวัญบายออโรร่า)"
+  },
+  {
+    "bandName": "Lykke Round (ลุกกะราว)"
+  },
+  {
+    "bandName": "Luxury Elegant (ลักเซอรี่เอลลิแกนท์)"
+  },
+  {
+    "bandName": "Mizumi (มิซูมิ)"
+  },
+  {
+    "bandName": "Chunou (ชูโน)"
+  },
+  {
+    "bandName": "Dive Inspire (ไดฟ์อินสปาย)"
+  },
+  {
+    "bandName": "Oceanarium  (โอเชี่ยนนาเรียม)"
+  },
+  {
+    "bandName": "Morch (มอร์ช)"
+  },
+  {
+    "bandName": "Maneenat (มณีนาถ)"
+  },
+  {
+    "bandName": "Body Glove (บอดี้โกลฟ)"
+  },
+  {
+    "bandName": "Sharon (ชารอน)"
+  },
+  {
+    "bandName": "Madalien  Paige (มาดาลีนเพจ)"
+  },
+  {
+    "bandName": "Wink (วิ้งค์)"
+  },
+  {
+    "bandName": "Pandasew (แพนด้าซิว)"
+  },
+  {
+    "bandName": "RC Gold (อาร์ซีโกลด์)"
+  },
+  {
+    "bandName": "NY (เอ็นวาย)​"
+  },
+  {
+    "bandName": "Dog Art (ด็อกอาร์ต)"
+  },
+  {
+    "bandName": "V.A.C. (วี.เอ.ซี.)"
+  },
+  {
+    "bandName": "V.A.C (วีเอซี)"
+  },
+  {
+    "bandName": "Sunrain (ซันเรน)"
+  },
+  {
+    "bandName": "Silverwill (ซิลเวอร์วิลล์)"
+  },
+  {
+    "bandName": "Chamomile Ztyle (ชาโมนายล์ สไตล์)"
+  },
+  {
+    "bandName": "Juthathepgems (จุฑาเทพเจมส์)"
+  },
+  {
+    "bandName": "Juthathep (จุฑาเทพ)"
+  },
+  {
+    "bandName": "ห้างทองแม่บาง (ห้างทองแม่บาง)"
+  },
+  {
+    "bandName": "Jifanpaul (ยีฟองปอ)"
+  },
+  {
+    "bandName": "American Eagle (อเมริกัน อีเกิ้ล)"
+  },
+  {
+    "bandName": "Siam Gold Gallery (สยามโกลด์แกลอรี่)"
+  },
+  {
+    "bandName": "Asunshy (อาซันชี่)"
+  },
+  {
+    "bandName": "Lalala Accessories (ลัลลาล่า เอ็ดเเซกเซอร์รี่)"
+  },
+  {
+    "bandName": "Aerie (แอร์รี่)"
+  },
+  {
+    "bandName": "Siam Gold (สยามโกลด์)"
+  },
+  {
+    "bandName": "SNP Gold (เอสเอ็นพี โกลด์)"
+  },
+  {
+    "bandName": "Snp Gold (เอสเอ็นพีโกลด์)"
+  },
+  {
+    "bandName": "Affacessories (แอฟแฟคเซสเซอรี่)"
+  },
+  {
+    "bandName": "บ้านหินนางฟ้า (บ้านหินนางฟ้า)"
+  },
+  {
+    "bandName": "Equinox (อิควิน๊อกซ์)"
+  },
+  {
+    "bandName": "สุขวิสัย (สุขวิสัย)"
+  },
+  {
+    "bandName": "Kun Ribbons (คุณริบบอนส์)"
+  },
+  {
+    "bandName": "Daniel Alberini (แดนเนียลอัลเบอรินิ)"
+  },
+  {
+    "bandName": "Local Alot (โลโค อล็อท)"
+  },
+  {
+    "bandName": "Local Alot (โลเคิล อลอท)"
+  },
+  {
+    "bandName": "Bouti (โบติ)"
+  },
+  {
+    "bandName": "Kramy (ครามมี่)"
+  },
+  {
+    "bandName": "Mmlg (เอ็มเอ็มแอลจี)"
+  },
+  {
+    "bandName": "Espada (เอสพาด้า)"
+  },
+  {
+    "bandName": "Hong Jewelry (หงส์ จิวเวลรี่)"
+  },
+  {
+    "bandName": "Mercedes Benz (เมอร์เซเดส เบนซ์)"
+  },
+  {
+    "bandName": "Mahanakhon (มหานคร)"
+  },
+  {
+    "bandName": "Bouti Thailand (โบวติไทยแลนด์)"
+  },
+  {
+    "bandName": "Tenshi No Tamago (เทนชิ โนะ ทามาโกะ)"
+  },
+  {
+    "bandName": "Vinji (วินจิ)"
+  },
+  {
+    "bandName": "Muve (มูฟ)"
+  },
+  {
+    "bandName": "Tiamo (เทียโม)"
+  },
+  {
+    "bandName": "Shred Gold (เชรด โกลด์)"
+  },
+  {
+    "bandName": "7th Block Street (เซเว่นบล็อคสตรีท)"
+  },
+  {
+    "bandName": "Balenciaga (บาเลนเซียก้า)"
+  },
+  {
+    "bandName": "BaIenciaga (บาเลนเชียก้า)"
+  },
+  {
+    "bandName": "Sublime (ซับไลม์)"
+  },
+  {
+    "bandName": "Sublime Bangkok (ซับไลม์บางกอก)"
+  },
+  {
+    "bandName": "Beautywish (บิวตี้วิช)"
+  },
+  {
+    "bandName": "Malyn (มาลิน)"
+  },
+  {
+    "bandName": "Bundan (บันแดน)"
+  },
+  {
+    "bandName": "Iwinter (ไอวินเทอร์)"
+  },
+  {
+    "bandName": "Hazard (เเฮซเซิร์ด)"
+  },
+  {
+    "bandName": "Sofearose (โซฟีโรส)"
+  },
+  {
+    "bandName": "Deus Ex Machine (เดอส์ เอ็ก เมชายน์)"
+  },
+  {
+    "bandName": "Deus Ex Machina (ดิวส์ เอ็กซ์ แมชชิน่า)"
+  },
+  {
+    "bandName": "ไอ้ไข่วัดเจดีย์ (ไอ้ไข่วัดเจดีย์)"
+  },
+  {
+    "bandName": "Sanrio  (ซานริโอ้)"
+  },
+  {
+    "bandName": "DZ Jewel (ดีแซด จิวเวลรี่)"
+  },
+  {
+    "bandName": "Moodymine (มูดี้มายด์)"
+  },
+  {
+    "bandName": "Sense Diamonds (เซนส์ไดมอนด์)"
+  },
+  {
+    "bandName": "Viva Loco (วีว่า โลโค)"
+  },
+  {
+    "bandName": "New Era (นิว อีรา)"
+  },
+  {
+    "bandName": "Gemkh (เจมเคเอช)"
+  },
+  {
+    "bandName": "Dino Bassi (ไดโน บาสสิ)"
+  },
+  {
+    "bandName": "Dino Bassi (ไดโน่ บาสซี่)"
+  },
+  {
+    "bandName": "Rabeingbonsai (ระเบียงบอนไซ)"
+  },
+  {
+    "bandName": "Glamorousky (แกลเมอร์อุสกี้)"
+  },
+  {
+    "bandName": "Glamorousky (แกลมเมอรัสกาย)"
+  },
+  {
+    "bandName": "8 Seconds (เอ้ก เซ็กขั้น)"
+  },
+  {
+    "bandName": "Glamorousky (แกลมมอรัสกี้)"
+  },
+  {
+    "bandName": "Adelphia (อะเดลเฟีย)"
+  },
+  {
+    "bandName": "YT Gems (วายทีเจมส์)​"
+  },
+  {
+    "bandName": "Pmor Jewelry (พีมอร์ จิวเวลรี่)"
+  },
+  {
+    "bandName": "M.Ma (เอ็มม่า)"
+  },
+  {
+    "bandName": "Nifichu (นิฟิชู)"
+  },
+  {
+    "bandName": "Matara (มธรา)"
+  },
+  {
+    "bandName": "Tenshi No Tamago (เท็นชิ โน ทามาโกะ)"
+  },
+  {
+    "bandName": "RandR (อาร์แอนด์อาร์)"
+  },
+  {
+    "bandName": "Alisa Silver (อลิสา ซิลเวอร์)"
+  },
+  {
+    "bandName": "Master Glove (มาสเตอร์โกลฟ)"
+  },
+  {
+    "bandName": "Tiffany and Co (ทิฟฟานี่แอนด์โค)"
+  },
+  {
+    "bandName": "Tiffany&Co (ทิฟฟานี่แอนด์โค)"
+  },
+  {
+    "bandName": "Sweepy (สวีปปี้)"
+  },
+  {
+    "bandName": "Maduso (มาดูโซ่)"
+  },
+  {
+    "bandName": "Dusadee Jewelry (ดุษฎี จิวเวลรี่)"
+  },
+  {
+    "bandName": "Buathai (บัวไทย)"
+  },
+  {
+    "bandName": "Lof Fi Ciel  (ลอฟฟิเชียล)"
+  },
+  {
+    "bandName": "Engine Stone (เอนจิน สโตน)"
+  },
+  {
+    "bandName": "Pily By Little P (พีลี่ บาย ลิตเติลพี)"
+  },
+  {
+    "bandName": "A Maze (เอเมส)"
+  },
+  {
+    "bandName": "Toyo (โตโย)"
+  },
+  {
+    "bandName": "ห้างทองเยาวราชแม่สุ (ห้างทองเยาวราชแม่สุ)"
+  },
+  {
+    "bandName": "SS TOP (เอสเอสท็อป)"
+  },
+  {
+    "bandName": "ห้างทองถาวรรุ่งเรือง (ห้างทองถาวรรุ่งเรือง)"
+  },
+  {
+    "bandName": "Charm Gems (ชาร์ม เจมส์)"
+  },
+  {
+    "bandName": "Tamas Jewelry (ทามาสจิวเวลรี่)"
+  },
+  {
+    "bandName": "ฺBillion Diamond (บิลเลี่ยนไดมอนด์)"
+  },
+  {
+    "bandName": "Little Stones (ลิตเติ้ลสโตนส์)"
+  },
+  {
+    "bandName": "Onitsuka Tiger (โอนิซึกะ ไทเกอร์)"
+  },
+  {
+    "bandName": "Zign Jewelry (ซายน์ จิวเวลรี่)"
+  },
+  {
+    "bandName": "Beyond Closet (บียอนด์ โคลเซ็ท)"
+  },
+  {
+    "bandName": "Nova (โนว่า)"
+  },
+  {
+    "bandName": "Sovats (โซแวทส์)"
+  },
+  {
+    "bandName": "Sovats (โซวัต)"
+  },
+  {
+    "bandName": "Pombi (ปอมบิ)"
+  },
+  {
+    "bandName": "Pombi (พอมบี้)"
+  },
+  {
+    "bandName": "Pombi (พอมบิ)"
+  },
+  {
+    "bandName": "Alhumaira (อัลฮูไมร่า)"
+  },
+  {
+    "bandName": "อัมพร ลายไทย (อัมพร ลายไทย)"
+  },
+  {
+    "bandName": "Angel Pearl (แองเจิ้ล เพิร์ล)"
+  },
+  {
+    "bandName": "ห้างทองหวังอยากมี (ห้างทองหวังอยากมี)"
+  },
+  {
+    "bandName": "Fridgem (ฟริดเจม)"
+  },
+  {
+    "bandName": "Muse (มูส)"
+  },
+  {
+    "bandName": "Muse (มิ้วส์)"
+  },
+  {
+    "bandName": "Ferera (เฟอเรร่า)"
+  },
+  {
+    "bandName": "Villa Jewelry (วิลล่าจิวเวลรี่)"
+  },
+  {
+    "bandName": "Villa (วิลล่า)"
+  },
+  {
+    "bandName": "Villajewelry (วิลล่าจิวเวลรี่)"
+  },
+  {
+    "bandName": "Free Fire (ฟรีฟาย)"
+  },
+  {
+    "bandName": "Konggu (คองกู)"
+  },
+  {
+    "bandName": "Fear Of God (เฟียร์ออฟก็อด)"
+  },
+  {
+    "bandName": "UE Jewelry (ยูอี เจเวลรี)"
+  },
+  {
+    "bandName": "Cadeaux (เคดุกซ์)"
+  },
+  {
+    "bandName": "ร้านทองมงคล จิวเวลรี่ (ร้านทองมงคล จิวเวลรี่)"
+  },
+  {
+    "bandName": "Damiani (ดามิอานี)"
+  },
+  {
+    "bandName": "Mukie Shop (มุกี้ ช้อป)"
+  },
+  {
+    "bandName": "Smith & Sons (สมิธแอนด์ซัน)"
+  },
+  {
+    "bandName": "Colantotte (โคลันต๊อดเต้)"
+  },
+  {
+    "bandName": "Kumokodo (คูโม่โคโด)"
+  },
+  {
+    "bandName": "Theninediamond888 (เดอะไนน์ไดมอนด์)"
+  },
+  {
+    "bandName": "ห้างทองหนึ่งทองดี (ห้างทองหนึ่งทองดี)"
+  },
+  {
+    "bandName": "Carat (กะรัต)"
+  },
+  {
+    "bandName": "Tiffany&Co (ทิฟฟานี่ แอนด์ โค)"
+  },
+  {
+    "bandName": "Doonall (ดูนออล)"
+  },
+  {
+    "bandName": "Charl (ชาร์ล)"
+  },
+  {
+    "bandName": "Louis Vuitton (หลุยส์ วิตตอง)"
+  },
+  {
+    "bandName": "Vijittras Jewellery (วิจิตรา จิวเวอรี่)"
+  },
+  {
+    "bandName": "ห้างเพชรทองอัมรินทร์ (ห้างเพชรทองอัมรินทร์)"
+  },
+  {
+    "bandName": "Krazy Think (เครซี่ ติ้งค์)"
+  },
+  {
+    "bandName": "Urban Gypsy (เออร์เบิน ยิปซี)"
+  },
+  {
+    "bandName": "Ggotda (จีกอดด้า)"
+  },
+  {
+    "bandName": "H&M (เอชแอนด์เอ็ม)"
+  },
+  {
+    "bandName": "สว่างพร (สว่างพร)"
+  },
+  {
+    "bandName": "ห้างเพชรทองสว่างพร (ห้างเพชรทองสว่างพร)"
+  },
+  {
+    "bandName": "Palm Angels (ปาล์ม แองเจิ้ล)"
+  },
+  {
+    "bandName": "Versace (เวอร์ซาเช)"
+  },
+  {
+    "bandName": "Bulgari (บุลการี)"
+  },
+  {
+    "bandName": "Yves Saint Laurent (แซงต์โลรองต์ปารีส)"
+  },
+  {
+    "bandName": "Honylala (โฮนี่ลาลา)"
+  },
+  {
+    "bandName": "Pandora (แพนดอร่า)"
+  },
+  {
+    "bandName": "Boonruksa (บุญรักษา)"
+  },
+  {
+    "bandName": "Gucci (กุชชี)"
+  },
+  {
+    "bandName": "Psycho Bunny (ฟิโซ บันนี่)"
+  },
+  {
+    "bandName": "Browny (บราวนี่)"
+  },
+  {
+    "bandName": "Myke (มายเคีย)"
+  },
+  {
+    "bandName": "De Beers (เดอ เบียร์ส)"
+  },
+  {
+    "bandName": "Vonru (วอนรู)"
+  },
+  {
+    "bandName": "ห้างทองศรีโต๊ะกัง (ห้างทองศรีโต๊ะกัง)"
+  },
+  {
+    "bandName": "Last Kings (ลาสท์ คิง)"
+  },
+  {
+    "bandName": "French Connection (เฟรนช์ คอนเนกชัน)"
+  },
+  {
+    "bandName": "Upper Playground (อัพเพอร์ เพลย์กราวด์)"
+  },
+  {
+    "bandName": "French Connection (เฟรนช์ คอนเนคชั่น)"
+  },
+  {
+    "bandName": "กุมารทองวัดสายไหม (กุมารทองวัดสายไหม)"
+  },
+  {
+    "bandName": "Capcom (แคปคอม)"
+  },
+  {
+    "bandName": "Jan & May Jewelry (แจนแอนด์เมย์จิวเวลรี่)"
+  },
+  {
+    "bandName": "Bien Vetu (เบียน เวทู)"
+  },
+  {
+    "bandName": "Medy Mer Handmade (เมดี้เมอร์ แฮนด์เมด)"
+  },
+  {
+    "bandName": "Monchampas (มนต์จำปา)"
+  },
+  {
+    "bandName": "RP Gold (ห้างทองรัตนไพศาล)"
+  },
+  {
+    "bandName": "Crystal Mine Gems (คริสตัสมายด์เจมส์)"
+  },
+  {
+    "bandName": "Doitung (ดอยตุง)"
+  },
+  {
+    "bandName": "Arayasantisan (อารยาแซนทิแซน)"
+  },
+  {
+    "bandName": "Xiaobo ACC (เสี่ยวโบ เอซีซี)"
+  },
+  {
+    "bandName": "ห้างทองอมรพรรณ (ห้างทองอมรพรรณ)"
+  },
+  {
+    "bandName": "Jrp Gold (ห้างทองจิรพร)"
+  },
+  {
+    "bandName": "JRP Gold (เจอาร์พีโกลด์)"
+  },
+  {
+    "bandName": "Titty&Co (ทิฟฟี่แอนด์โค)"
+  },
+  {
+    "bandName": "Suttikarngems (สุทธิกานต์ เจมส์)"
+  },
+  {
+    "bandName": "ห้างทองจงเฮง (ห้างทองจงเฮง)"
+  },
+  {
+    "bandName": "Diamond World (ไดมอนด์เวิลด์)"
+  },
+  {
+    "bandName": "Pica Lela (พีค่า เลลา)"
+  },
+  {
+    "bandName": "มนต์จำปา (มนต์จำปา)"
+  },
+  {
+    "bandName": "ห้างทองจงเฮงเยาวราช (ห้างทองจงเฮงเยาวราช)"
+  },
+  {
+    "bandName": "Rosen marry (โรเซนแมร์รี่)"
+  },
+  {
+    "bandName": "Rosen marry (โรเซน แมร์รี่)"
+  },
+  {
+    "bandName": "Rainbo  (เรนโบว์)"
+  },
+  {
+    "bandName": "TST (ทีเอสที)"
+  },
+  {
+    "bandName": "Hermes (แอร์แม็ส)"
+  },
+  {
+    "bandName": "Van Cleef & Arpels (แวน คลีฟ แอนด์ อาร์เปลส์)"
+  },
+  {
+    "bandName": "Miu Miu (มิวมิว)"
+  },
+  {
+    "bandName": "Dior (ดีออร์)"
+  },
+  {
+    "bandName": "Isuzu (อีซูซุ)"
+  },
+  {
+    "bandName": "Amornphangold (อมรพรรณโกลด์)"
+  },
+  {
+    "bandName": "Agatha (อกาธา)"
+  },
+  {
+    "bandName": "Versace (เวอร์ซาเซ่)"
+  },
+  {
+    "bandName": "Yingcharoen (ยิ่งเจริญ)"
+  },
+  {
+    "bandName": "ห้างทองยิ่งเจริญลพบุรี (ห้างทองยิ่งเจริญลพบุรี)"
+  },
+  {
+    "bandName": "Oldman​ (โอลแมน)"
+  },
+  {
+    "bandName": "Phusanai (ภูสะไน)"
+  },
+  {
+    "bandName": "No 13 Studio (โนเธอร์ทีน สตูดิโอ)"
+  },
+  {
+    "bandName": "My Pastel By Praew (มายพาสเทล บายแพรว)"
+  },
+  {
+    "bandName": "My Pastel By Praew (มาย พาสเทล บาย แพรว)"
+  },
+  {
+    "bandName": "Phuket Pearl (ภูเก็ต เพิร์ล)"
+  },
+  {
+    "bandName": "Monnie Jewelry (มนนี่ จิวเวอร์รี่)"
+  },
+  {
+    "bandName": "Newbierichykool (นิวบี้ริชชี่คูล)"
+  },
+  {
+    "bandName": "Ochoholic (โอโชโฮลิค)"
+  },
+  {
+    "bandName": "Bon Tie (บอนไท)"
+  },
+  {
+    "bandName": "Zlivy (ซิลวี่)"
+  },
+  {
+    "bandName": "N9Silver House (เอ็นนายซิเวอร์ เฮ้า)"
+  },
+  {
+    "bandName": "ห้างทองประไพพรรณ (ห้างทองประไพพรรณ)"
+  },
+  {
+    "bandName": "Paphaiphan Jewellery (ร้านทองประไพพรรณ)"
+  },
+  {
+    "bandName": "Latch Apparel (แลทช์ แอพพาเรล)"
+  },
+  {
+    "bandName": "Zane (เซน)"
+  },
+  {
+    "bandName": "By Warasilver (บาย วาราซิลเวอร์)"
+  },
+  {
+    "bandName": "ห้างทองเอกชัยกรุ๊ป (ห้างทองเอกชัยกรุ๊ป)"
+  },
+  {
+    "bandName": "Qeelin (ชีลิน)"
+  },
+  {
+    "bandName": "Feiyana (เฟยญาน่า)"
+  },
+  {
+    "bandName": "Peony (พีโอนี่)"
+  },
+  {
+    "bandName": "Oscoonan (ออสคูแนน)"
+  },
+  {
+    "bandName": "Jaar & Jeenny (จาร์ แอนด์ จีนนี่)"
+  },
+  {
+    "bandName": "Centenary Diamond (เซนทานารี ไดมอนด์)"
+  },
+  {
+    "bandName": "Centenary Diamond (เซนทานารีไดมอนด์)"
+  },
+  {
+    "bandName": "Centenary Diamond (เซ็คเคอร์รี่ใดบอน)"
+  },
+  {
+    "bandName": "ห้างทองยั่งฮับเต็ง (ห้างทองยั่งฮับเต็ง)"
+  },
+  {
+    "bandName": "Sati (สติ)"
+  },
+  {
+    "bandName": "Armani Jeans (อาร์มานี่ยีนส์)"
+  },
+  {
+    "bandName": "Mazda (มาสด้า)"
+  },
+  {
+    "bandName": "ห้างทองหงส์มังกร (ห้างทองหงส์มังกร)"
+  },
+  {
+    "bandName": "Cool Planet (คูล แพลนเน็ต)"
+  },
+  {
+    "bandName": "Perridot (เพอริดอท)"
+  },
+  {
+    "bandName": "Maesomboon (แม่สมบูรณ์)"
+  },
+  {
+    "bandName": "ห้างทองแม่มบูรณ์ (ห้างทองแม่มบูรณ์)"
+  },
+  {
+    "bandName": "Thaithings (ไทยติงส์)"
+  },
+  {
+    "bandName": "Chan Shine Studio (จันท์ ชายน์ สตูดิโอ)"
+  },
+  {
+    "bandName": "Mayry Earrings (แมรี่ เอียร์ริ่ง)"
+  },
+  {
+    "bandName": "Amarin Gems (อัมรินทร์ เจ็มส์)"
+  },
+  {
+    "bandName": "Areeya Gold (อารียา โกลด์)"
+  },
+  {
+    "bandName": "Timm Thailand (ทิมม์ ไทยแลนด์)"
+  },
+  {
+    "bandName": "Jewel Ao (จิเวล โอ)"
+  },
+  {
+    "bandName": "Kodak (โกดัก)"
+  },
+  {
+    "bandName": "DC Shoes (ดีซี ชูส์)"
+  },
+  {
+    "bandName": "Oscoonan (ออสคูนัน)"
+  },
+  {
+    "bandName": "Gails Jewelry (เกลส์ จีเวลรี่)"
+  },
+  {
+    "bandName": "Gailsjewelry (เกลจิวเวอรี่)"
+  },
+  {
+    "bandName": "Luigi Batani (ลุยกิ บาทานิ)"
+  },
+  {
+    "bandName": "Phanchan (ปั่นจั่น)"
+  },
+  {
+    "bandName": "Ploysakda (พลอยศักดา)"
+  },
+  {
+    "bandName": "VIII IX X  (แปดเก้าสิบ)"
+  },
+  {
+    "bandName": "Sett Gems (เซ็ท เจมส์)"
+  },
+  {
+    "bandName": "Bunny Carry (บันนี้ แคร์รี่)"
+  },
+  {
+    "bandName": "Bunny Carry (บันนี่ แคร์รี่)"
+  },
+  {
+    "bandName": "Filson (ฟิลสัน)"
+  },
+  {
+    "bandName": "Sokamo (โซกาโม่)"
+  },
+  {
+    "bandName": "SK Sokamo (เอสเค โซกาโม่)"
+  },
+  {
+    "bandName": "ห้างทองยิ่งเจริญ (ห้างทองยิ่งเจริญ)"
+  },
+  {
+    "bandName": "Lucky Miracle (ลัคกี้ มิราเคิ้ล)"
+  },
+  {
+    "bandName": "Wang Keaw Jewelry (วังแก้วจิวเวลรี่)"
+  },
+  {
+    "bandName": "Spicy (สไปซี่)"
+  },
+  {
+    "bandName": "Headsweats (เฮดสเวตส์)"
+  },
+  {
+    "bandName": "เบญญาภา (เบญญาภา)"
+  },
+  {
+    "bandName": "CDzigh (ซีดีไซ)"
+  },
+  {
+    "bandName": "Emerica (เอเมอริก้า)"
+  },
+  {
+    "bandName": "ฐิติทอง (ฐิติทอง)"
+  },
+  {
+    "bandName": "Middle M Jewelry (มิดเดิลเอ็มจิวเวลรี่)"
+  },
+  {
+    "bandName": "Amigo (อามิโก)"
+  },
+  {
+    "bandName": "M24 (เอ็ม24)"
+  },
+  {
+    "bandName": "Zak Tool (แซ็คทูล)"
+  },
+  {
+    "bandName": "Min (มิน)"
+  },
+  {
+    "bandName": "Min-Ism (มิสซึ่ม)"
+  },
+  {
+    "bandName": "Liqui Moly (ลิควิโมลี่)"
+  },
+  {
+    "bandName": "MinnC Selection (มินซี เซเล็คชั่น)"
+  },
+  {
+    "bandName": "Adora (อโดร่า)"
+  },
+  {
+    "bandName": "Street Fight (สตรีท ไฟท์)"
+  },
+  {
+    "bandName": "Lord Jacob (ลอร์ด จาค็อบ)"
+  },
+  {
+    "bandName": "Lord Jacob (ลอร์ดจาค็อบ)"
+  },
+  {
+    "bandName": "Royal Crown (รอยัล คราวน์)"
+  }
+]

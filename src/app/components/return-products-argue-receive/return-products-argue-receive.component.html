@@ -1,0 +1,278 @@
+
+<p class="mb-0 font-weight-bold">โปรดแนบข้อมูลการโต้แย้งทั้งหมดที่คุณมีเพื่อส่งข้อมูลให้กับทาง A Bid More เป็นผู้ตัดสิน</p>
+<p class="mb-0">• โดยทาง A Bid More จะตัดสินจากข้อมูลของผู้ซื้อและผู้ขายเพื่อหาข้อสรุป</p>
+<p class="mb-0">• คำตัดสินของ A Bid More ถือเป็นคำตัดสินสูงสุด</p>
+
+<div class="container-bg-color mt-2">
+  <p class="mb-0 font-weight-bold">แนบรูปหรือวิดีโอเพิ่มเติม (สูงสุด 5 ภาพ)</p>
+  <!-- ------------------------------------ -->
+  <div class="row">
+    <div class="col-6 col-md-6 col-lg-2 mt-4 text-center" [class.disabled]="imgDisabled1">
+      <!-- IMG -->
+      <div style="background-color: #FFF; border: 0.2px solid #585858;">
+        <img src="{{ imgURL1 }}" class="img-fluid">
+      </div>
+      <!-- Button -->
+      <div class="row mt-2 m-0">
+        <div class="col-2 p-0">
+          <p class="mb-0" style="cursor: pointer;" (click)="deleteProductImg1()">ลบ</p>
+        </div>
+        <div class="col-8 p-0">
+          รูปภาพ 1
+        </div>
+        <div class="col-2 p-0">
+          <p class="mb-0" style="cursor: pointer;" data-toggle="modal" data-target="#ModalAddImg1">เพิ่ม</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-6 col-md-6 col-lg-2 mt-4 text-center" [class.disabled]="imgDisabled2">
+      <!-- IMG -->
+      <div style="background-color: #FFF; border: 0.2px solid #585858;">
+        <img src="{{ imgURL2 }}" class="img-fluid">
+      </div>
+      <!-- Button -->
+      <div class="row mt-2 m-0">
+        <div class="col-2 p-0">
+          <p class="mb-0" style="cursor: pointer;" (click)="deleteProductImg2()">ลบ</p>
+        </div>
+        <div class="col-8 p-0">
+          รูปภาพ 2
+        </div>
+        <div class="col-2 p-0">
+          <p class="mb-0" style="cursor: pointer;" data-toggle="modal" data-target="#ModalAddImg2">เพิ่ม</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-6 col-md-6 col-lg-2 mt-4 text-center" [class.disabled]="imgDisabled3">
+      <!-- IMG -->
+      <div style="background-color: #FFF; border: 0.2px solid #585858;">
+        <img src="{{ imgURL3 }}" class="img-fluid">
+      </div>
+      <!-- Button -->
+      <div class="row mt-2 m-0">
+        <div class="col-2 p-0">
+          <p class="mb-0" style="cursor: pointer;" (click)="deleteProductImg3()">ลบ</p>
+        </div>
+        <div class="col-8 p-0">
+          รูปภาพ 3
+        </div>
+        <div class="col-2 p-0">
+          <p class="mb-0" style="cursor: pointer;" data-toggle="modal" data-target="#ModalAddImg3">เพิ่ม</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-6 col-md-6 col-lg-2 mt-4 text-center" [class.disabled]="imgDisabled4">
+      <!-- IMG -->
+      <div style="background-color: #FFF; border: 0.2px solid #585858;">
+        <img src="{{ imgURL4 }}" class="img-fluid">
+      </div>
+      <!-- Button -->
+      <div class="row mt-2 m-0">
+        <div class="col-2 p-0">
+          <p class="mb-0" style="cursor: pointer;" (click)="deleteProductImg4()">ลบ</p>
+        </div>
+        <div class="col-8 p-0">
+          รูปภาพ 4
+        </div>
+        <div class="col-2 p-0">
+          <p class="mb-0" style="cursor: pointer;" data-toggle="modal" data-target="#ModalAddImg4">เพิ่ม</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-6 col-md-6 col-lg-2 mt-4 text-center" [class.disabled]="imgDisabled5">
+      <!-- IMG -->
+      <div style="background-color: #FFF; border: 0.2px solid #585858;">
+        <img src="{{ imgURL5 }}" class="img-fluid">
+      </div>
+      <!-- Button -->
+      <div class="row mt-2 m-0">
+        <div class="col-2 p-0">
+          <p class="mb-0" style="cursor: pointer;" (click)="deleteProductImg5()">ลบ</p>
+        </div>
+        <div class="col-8 p-0">
+          รูปภาพ 5
+        </div>
+        <div class="col-2 p-0">
+          <p class="mb-0" style="cursor: pointer;" data-toggle="modal" data-target="#ModalAddImg5">เพิ่ม</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- ------------------------------------ -->
+</div>
+
+<div class="container-bg-color mt-2">
+  <div class="input-style">
+    <p class="mb-0 text-input">คำอธิบายเพิ่มเติมเพื่ออธิบายการโต้แย้งสินค้าส่งกลับไม่ถูกต้อง*</p>
+    <textarea class="form-control border-0 p-0 text-placeholder" maxlength="100"
+      style="box-shadow: none; background-color: #F2F6FA;" #argueInput_
+      placeholder="กรุณาเพิ่มคำอธิบาย"></textarea>
+  </div>
+</div>
+
+<!-- SUBMIT BUTTON -->
+<div class="text-center mb-2">
+  <button data-toggle="modal" data-target="#ModalPopupSubmit" data-backdrop="static" data-keyboard="false" 
+   type="button" class="btn mt-2 text-center btn-submit" (click)="submit(argueInput_.value)">บันทึกข้อมูลสำหรับการโต้แย้งสินค้าส่งกลับไม่ถูกต้อง
+  </button>
+</div>
+
+<!-- MODAL POPUP SUBMIT -->
+<div class="modal fade" id="ModalPopupSubmit" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+      <p class="mb-0 text-center">{{ textError }}</p>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal" (click)="argueInput(argueInput_.value)">ตกลง</button>
+        </div>
+        <div class="mt-2">
+          <a data-dismiss="modal" aria-label="Close" style="cursor: pointer;">
+            <p class="text-center mb-0">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END MODAL POPUP SUBMIT -->
+
+
+<!-- MODAL POPUP IMG 1 -->
+<div class="modal fade" id="ModalAddImg1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <label class="btn btn-up"> อัพรูปภาพเพิ่มเติม 1 (png,jpg)
+        <input type="file" accept="image/png, image/jpeg" style="display: none;" (change)="fileChangeEvent($event)">
+      </label>
+      <image-cropper [imageChangedEvent]="imageChangedEvent" [maintainAspectRatio]="true" [aspectRatio]="1 / 1"
+        [resizeToWidth]="1000" format="png" (imageCropped)="imageCropped($event)">
+      </image-cropper>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;" data-dismiss="modal"
+            (click)="setProductImg1()">ตกลง</button>
+        </div>
+        <div class="mt-2">
+          <a data-dismiss="modal" aria-label="Close" style="cursor: pointer;">
+            <p class="text-center mb-0">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END MODAL POPUP IMG 1 -->
+
+<!-- MODAL POPUP IMG 2 -->
+<div class="modal fade" id="ModalAddImg2" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <label class="btn btn-up"> อัพรูปภาพเพิ่มเติม 2 (png,jpg)
+        <input type="file" accept="image/png, image/jpeg" style="display: none;" (change)="fileChangeEvent($event)">
+      </label>
+      <image-cropper [imageChangedEvent]="imageChangedEvent" [maintainAspectRatio]="true" [aspectRatio]="1 / 1"
+        [resizeToWidth]="1000" format="png" (imageCropped)="imageCropped($event)">
+      </image-cropper>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;" data-dismiss="modal"
+            (click)="setProductImg2()">ตกลง</button>
+        </div>
+        <div class="mt-2">
+          <a data-dismiss="modal" aria-label="Close" style="cursor: pointer;">
+            <p class="text-center mb-0">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END MODAL POPUP IMG 2 -->
+
+<!-- MODAL POPUP IMG 3 -->
+<div class="modal fade" id="ModalAddImg3" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <label class="btn btn-up"> อัพรูปภาพเพิ่มเติม 3 (png,jpg)
+        <input type="file" accept="image/png, image/jpeg" style="display: none;" (change)="fileChangeEvent($event)">
+      </label>
+      <image-cropper [imageChangedEvent]="imageChangedEvent" [maintainAspectRatio]="true" [aspectRatio]="1 / 1"
+        [resizeToWidth]="1000" format="png" (imageCropped)="imageCropped($event)">
+      </image-cropper>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;" data-dismiss="modal"
+            (click)="setProductImg3()">ตกลง</button>
+        </div>
+        <div class="mt-2">
+          <a data-dismiss="modal" aria-label="Close" style="cursor: pointer;">
+            <p class="text-center mb-0">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END MODAL POPUP IMG 3 -->
+
+<!-- MODAL POPUP IMG 4 -->
+<div class="modal fade" id="ModalAddImg4" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <label class="btn btn-up"> อัพรูปภาพเพิ่มเติม 4 (png,jpg)
+        <input type="file" accept="image/png, image/jpeg" style="display: none;" (change)="fileChangeEvent($event)">
+      </label>
+      <image-cropper [imageChangedEvent]="imageChangedEvent" [maintainAspectRatio]="true" [aspectRatio]="1 / 1"
+        [resizeToWidth]="1000" format="png" (imageCropped)="imageCropped($event)">
+      </image-cropper>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;" data-dismiss="modal"
+            (click)="setProductImg4()">ตกลง</button>
+        </div>
+        <div class="mt-2">
+          <a data-dismiss="modal" aria-label="Close" style="cursor: pointer;">
+            <p class="text-center mb-0">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END MODAL POPUP IMG 4 -->
+
+<!-- MODAL POPUP IMG 5 -->
+<div class="modal fade" id="ModalAddImg5" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <label class="btn btn-up"> อัพรูปภาพเพิ่มเติม 5 (png,jpg)
+        <input type="file" accept="image/png, image/jpeg" style="display: none;" (change)="fileChangeEvent($event)">
+      </label>
+      <image-cropper [imageChangedEvent]="imageChangedEvent" [maintainAspectRatio]="true" [aspectRatio]="1 / 1"
+        [resizeToWidth]="1000" format="png" (imageCropped)="imageCropped($event)">
+      </image-cropper>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;" data-dismiss="modal"
+            (click)="setProductImg5()">ตกลง</button>
+        </div>
+        <div class="mt-2">
+          <a data-dismiss="modal" aria-label="Close" style="cursor: pointer;">
+            <p class="text-center mb-0">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END MODAL POPUP IMG 5 -->

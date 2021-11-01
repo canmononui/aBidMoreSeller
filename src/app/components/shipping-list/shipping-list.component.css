@@ -1,0 +1,71 @@
+.m-row-card-product {
+  margin-left: -4px; 
+  margin-right: -4px;
+}
+
+.p-col-card-product {
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+.card-border-3 {
+  border: 3px solid #E7EDF4; 
+  border-radius: 15px;
+}
+
+.posi-card {
+  position: relative;
+}
+
+.product-img-card {
+  width: 100%; 
+  border-radius: 13px 13px 0px 0px;
+}
+
+.card-body-padding {
+  padding: 20px;
+}
+/* End Card Product */
+
+.disabled {
+  pointer-events: none;
+  opacity: 0.4;
+}
+
+@media only screen and (max-width: 768px) {
+
+
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media only screen and (max-width: 480px) {
+  .text-placeholder {
+    font-size: 0.7rem;
+  }
+
+  .card-border-3 {
+    border: 1.5px solid #E7EDF4;
+    border-radius: 15px;
+  }
+
+  .card-body-padding {
+    padding: 10px;
+  }
+
+  .card-title {
+    font-size: 1rem;
+    margin-bottom: 5px;
+  }
+
+  .card-text {
+    font-size: .8rem;
+    margin-bottom: 5px;
+  }
+  /* End Card Product */
+
+  .card-padding-sm {
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+
+}

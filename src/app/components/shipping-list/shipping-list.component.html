@@ -1,0 +1,66 @@
+<div *ngIf="showContent">
+  <div class="card-padding-sm">
+    <!-- PRODUCT LIST -->
+    <div class="row m-row-card-product">
+      <div *ngFor="let data of productDataFromFirebase" (click)="productDetail(data.key)" style="cursor: pointer;"
+        class="col-6 col-sm-3 col-md-6 col-lg-3 col-xl-3 mt-2 p-col-card-product">
+        <div class="card-border-3 bg-white">
+          <div class="posi-card">
+            <img src="{{ data.value.imgProduct[0].imgUrl }}" class="product-img-card">
+          </div>
+          <div class="card-body-padding">
+              <!-- PRODUCT NAME & DES -->
+              <h5 class="card-title mb-0">{{ data.value.productName | slice:0:18 }}</h5>
+              <p class="mb-0 text-placeholder text-gray">ชื่อสินค้า</p>
+              <!-- <p class="card-text text-placeholder">สร้าง : {{ data.value.createAt.seconds*1000 | date: 'd/M/yyyy' }}</p> -->
+              <!-- PRODUCT KEY -->
+              <p class="mt-2 mb-0 text-placeholder">{{ data.value.orderNo }}</p>
+              <p class="mb-0 text-placeholder">รหัสคำสั่งซื้อ</p>
+              <!-- DELIVERY TRACKING NUMBER -->
+              <p class="mt-2 mb-0 text-placeholder">{{ data.value.startShippingAt.seconds*1000 | date: 'd/M/yyyy' }}</p>
+              <p class="mb-0 text-placeholder">วันที่ส่งสินค้า</p>
+              <!-- DELIVERY TRACKING NUMBER -->
+              <p class="mt-2 mb-0 text-placeholder">{{ data.value.delivery.trackingNumber }}</p>
+              <p class="mb-0 text-placeholder">รหัสติดตามสินค้า</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- END PRODUCT LIST -->
+  </div>
+  <!-- ROW CARD PRODUCT -->
+
+  <!-- BACKWARD - FORWARD -->
+  <!-- <div class="row mt-3 mb-3 card-padding-sm">
+    <div class="col">
+      <a class="text-dark" style="text-decoration: none; cursor: pointer;" (click)="previous()"
+        [class.disabled]="pageNumber == 1">
+        <i class="fa fa-angle-left font-weight-bold" aria-hidden="true"></i>
+        ก่อนหน้า
+      </a>
+    </div>
+    <div class="col text-center">
+      <p class="mb-0">หน้า {{ pageNumber }}</p>
+    </div>
+    <div class="col text-right">
+      <a class="text-dark" style="text-decoration: none; cursor: pointer;" (click)="next()"
+        [class.disabled]="productDataFromFirebase.length != 8">
+        ถัดไป
+        <i class="fa fa-angle-right font-weight-bold" aria-hidden="true"></i>
+      </a>
+    </div>
+  </div> -->
+  <!-- END BACKWARD - FORWARD-->
+</div>
+
+<!-- SHOW TEXT NO DATA -->
+<div *ngIf="showTextNoData">
+  <div style="height: 80vh;">
+    <div class="container h-100 d-flex justify-content-center">
+      <div class="my-auto text-center">
+        <p class="mb-0 text-danger">ไม่มีสินค้าที่อยู่ระหว่างส่ง</p>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END SHOW TEXT NO DATA -->

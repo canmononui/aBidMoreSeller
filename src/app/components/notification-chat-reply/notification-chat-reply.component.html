@@ -1,0 +1,59 @@
+<div class="container">
+  <div class="card card-radius">
+    <!-- CHAT DISPLAY NAME -->
+    <!-- <div class="pt-3 pb-3 card-tab-radius">
+      <p class="text-white text-center mb-0">{{ displayName }}</p>
+    </div> -->
+    <div class="card-tab card-tab-radius">
+      <div class="row">
+        <div (click)="gotoChatList()" class="col-auto pr-0 text-white align-self-center" style="cursor: pointer;">
+          <i class="fa fa-angle-left fa-lg" aria-hidden="true"></i> ย้อนกลับ
+        </div>
+        <div class="col pl-0 align-self-center text-center">
+          <p class="mb-0" style="margin-left: -15px;">
+            <img class="img-fluid rounded-circle" style="width: 35px;" src="{{ profileChat }}">
+            <a class="text-white ml-2 mb-0">{{ displayName }}</a>
+          </p>
+        </div>
+      </div>
+    </div>
+    <!-- CARD BODY -->
+    <div class="card-body pb-for-footer scrollable-message" #mesDes>
+      <div *ngIf="showNoMes" class="text-center" style="padding-top: 48px; padding-bottom: 48px;">
+        <p class="text-white mb-0" style="font-size: .8rem;">เริ่มต้นสนทนาง่าย ๆ เพียงเพิ่มข้อความและกด <a
+            style="color: #F26262;">ส่ง</a></p>
+      </div>
+      <!-- FOR LOOP CHAT MESSAGE LEFT & RIGHT -->
+      <div *ngFor="let mes of messagesList">
+        <p class="mt-2" [class.float-right]="mes.value.uid == auth.currentUserId"
+          [class.msg-right]="mes.value.uid == auth.currentUserId"
+          [class.float-left]="mes.value.uid != auth.currentUserId"
+          [class.msg-left]="mes.value.uid != auth.currentUserId">{{ mes.value.text }}</p>
+        <p class="mb-0 text-date" [class.float-right]="mes.value.uid == auth.currentUserId"
+          [class.text-right]="mes.value.uid == auth.currentUserId"
+          [class.float-left]="mes.value.uid != auth.currentUserId"
+          [class.text-left]="mes.value.uid != auth.currentUserId">{{ mes.value.createAt.seconds*1000 | date: 'd/M/yyyy'
+          }} {{ mes.value.createAt.seconds*1000 | date: "HH:mm:ss" }}</p>
+      </div>
+    </div>
+    <!-- END CARD BODY -->
+
+    <div class="card-footer">
+      <div class="row">
+        <div class="col">
+          <!-- MESSAGE INPUT -->
+          <input #messageInput [(ngModel)]="messageInputValue" maxlength="200"
+            (keyup.enter)="sendMessage(messageInput.value)" class="search-input w-100" type="text"
+            placeholder="ข้อความ">
+        </div>
+        <div class="col-auto pl-0 align-self-center">
+          <!-- <p class="mb-0" style="color: #F26262; cursor: pointer;" (click)="sendMessage(messageInput.value)">ส่ง</p> -->
+          <button type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            (click)="sendMessage(messageInput.value)">ส่ง</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- END CONTAINER -->

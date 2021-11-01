@@ -1,0 +1,4448 @@
+[
+  {
+    "bandName": "No Brand (ไม่มียี่ห้อ)"
+  },
+  {
+    "bandName": "Fred Perry (เฟรดเพอร์รี่)"
+  },
+  {
+    "bandName": "Greyhound (เกรฮาวด์)"
+  },
+  {
+    "bandName": "Topman (ท๊อปแมน)"
+  },
+  {
+    "bandName": "UNIQLO (ยูนิโคล่)"
+  },
+  {
+    "bandName": "ZARA (ซาร่า)"
+  },
+  {
+    "bandName": "Abercrombie & Fitch (อะเบอครอมบีแอนด์ฟิตต์)"
+  },
+  {
+    "bandName": "Adidas (อาดิดาส)"
+  },
+  {
+    "bandName": "AIIZ (อทูแซด)"
+  },
+  {
+    "bandName": "Alumnus (อลัมนัส)"
+  },
+  {
+    "bandName": "American Eagle (อเมริกาอีเกิ้ล)"
+  },
+  {
+    "bandName": "Arrow (อลอฟ)"
+  },
+  {
+    "bandName": "Beverly Hills Polo Club (เบเวอร์ลีฮิลส์โปโลคลับ)"
+  },
+  {
+    "bandName": "Bossini (บอสชินี่)"
+  },
+  {
+    "bandName": "British India (บริติชอินเดียน)"
+  },
+  {
+    "bandName": "Burberry (เบอร์เบอรี่)"
+  },
+  {
+    "bandName": "C&D (ซีแอนด์ดี)"
+  },
+  {
+    "bandName": "Calvin Klein (คาลวิน ไคลน์)"
+  },
+  {
+    "bandName": "CC-OO (ซีซีดับเบิ้ลโอ)"
+  },
+  {
+    "bandName": "CHAPS (แชปส์)"
+  },
+  {
+    "bandName": "CHEQ (เช็ค)"
+  },
+  {
+    "bandName": "Converse (คอนเวิร์ส)"
+  },
+  {
+    "bandName": "Crocodile (คร็อกโคไดล์)"
+  },
+  {
+    "bandName": "DA+PP (ดีเอพีพี)"
+  },
+  {
+    "bandName": "Daks (แด็กซ์)"
+  },
+  {
+    "bandName": "DC (ดีีซี)"
+  },
+  {
+    "bandName": "Defry 01 (ดีฟรายโอวัน)"
+  },
+  {
+    "bandName": "Diesel (ดีเซล)"
+  },
+  {
+    "bandName": "DKNY (ดีเคเอ็นวาย)"
+  },
+  {
+    "bandName": "Era-won (เอราวอน)"
+  },
+  {
+    "bandName": "ESPRIT (เอสพรี)"
+  },
+  {
+    "bandName": "EVISU (อีวิสุ)"
+  },
+  {
+    "bandName": "G2000 (จีทูเทาว์ซัน)"
+  },
+  {
+    "bandName": "GAP (แก๊ป)"
+  },
+  {
+    "bandName": "GAS (แก๊็ส)"
+  },
+  {
+    "bandName": "Geox (เจอ็อกซ์)"
+  },
+  {
+    "bandName": "Giordano (จอรดาโน)"
+  },
+  {
+    "bandName": "GQ (จีคิว)"
+  },
+  {
+    "bandName": "G-Star RAW (จีสตาร์แรพ)"
+  },
+  {
+    "bandName": "GUESS (เกสส์)"
+  },
+  {
+    "bandName": "Guy Laroche (กีลาโรซ)"
+  },
+  {
+    "bandName": "H&M (เอชแอนด์เอ็ม)"
+  },
+  {
+    "bandName": "Hybrid Outfitters (ไฮบริดเอ๊าท์ฟิตเตอส์)"
+  },
+  {
+    "bandName": "JASPAL (ยัสปาล)"
+  },
+  {
+    "bandName": "John Henry (จอนห์นี่ แฮร์รี่)"
+  },
+  {
+    "bandName": "Khaki Bros (คาคิบรอส)"
+  },
+  {
+    "bandName": "Kufkolar (คุฟคอร่า)"
+  },
+  {
+    "bandName": "Lacoste (ลาคอสต์)"
+  },
+  {
+    "bandName": "Lee (ลี)"
+  },
+  {
+    "bandName": "Levis (ลีวายส์)"
+  },
+  {
+    "bandName": "MANGO (MNG)"
+  },
+  {
+    "bandName": "Mc Jeans (แม็คยีนส์)"
+  },
+  {
+    "bandName": "MORGAN Homme (มอร์แกนฮอมมี่)"
+  },
+  {
+    "bandName": "MUJI (มูจิ)"
+  },
+  {
+    "bandName": "Nautica (นันธิกา)"
+  },
+  {
+    "bandName": "Nike (ไนกี้)"
+  },
+  {
+    "bandName": "Paul Frank (พอลแฟรงค์)"
+  },
+  {
+    "bandName": "PLAY Comme des Garçons (เพลย์คอมมี่เดสกาคอน)"
+  },
+  {
+    "bandName": "Playboy (เพล์ยบอย)"
+  },
+  {
+    "bandName": "Playhound (เพล์ยฮาวนด์)"
+  },
+  {
+    "bandName": "Pull & Bear (ฟูลแอนด์แบร์)"
+  },
+  {
+    "bandName": "Quiksilver (ควิกซิลเวอร์)"
+  },
+  {
+    "bandName": "Rip Curl (ริบเคิร์ล)"
+  },
+  {
+    "bandName": "Superdry (ซูเปอร์ดราย)"
+  },
+  {
+    "bandName": "The Buccaneer (เดอะบัคคาเนีย)"
+  },
+  {
+    "bandName": "Timberland (ทิมเบอร์แลนด์)"
+  },
+  {
+    "bandName": "Tommy Hilfiger (ทอมมีฮิลฟิเกอร์)"
+  },
+  {
+    "bandName": "Under Armour (อันเดอร์อาร์เมอร์)"
+  },
+  {
+    "bandName": "Benetton (เบเนตอง)"
+  },
+  {
+    "bandName": "Volcom (วอร์คอม)"
+  },
+  {
+    "bandName": "Von Dutch (วอนดัช)"
+  },
+  {
+    "bandName": "Wrangler (แรงเลอร์)"
+  },
+  {
+    "bandName": "XACT (แอ๊คแซค)"
+  },
+  {
+    "bandName": "XXI FOREVER (เอ็กซ์เอ็กซ์ไอฟอร์เอเวอร์)"
+  },
+  {
+    "bandName": "Pineapple Connection (พายแอปเปิ้ลคอนเนคชั่น)"
+  },
+  {
+    "bandName": "Bon Homme (บันฮานา)"
+  },
+  {
+    "bandName": "WEST WIN (เวสต์วิน)"
+  },
+  {
+    "bandName": "Bon Homme Island (บอนโฮมมีไอส์แลนด์)"
+  },
+  {
+    "bandName": "Cherokee (เชโรกี)"
+  },
+  {
+    "bandName": "7th Street (เซเว่น สตรีท)"
+  },
+  {
+    "bandName": "Carnivalbkk (คาร์นิเวลบีเคเค)"
+  },
+  {
+    "bandName": "THE ROOMS (เดอะรูม)"
+  },
+  {
+    "bandName": "Fadhion (แฟชั่น)"
+  },
+  {
+    "bandName": "Rain Maker (เรน เมคเกอร์)"
+  },
+  {
+    "bandName": "Polo ralph lauren (โปโลราล์ฟลอเรน)"
+  },
+  {
+    "bandName": "Mark Kevin (มาร์คเควิน)"
+  },
+  {
+    "bandName": "Ocean pacific (โอเชี่ยนแปรซิฟิก)"
+  },
+  {
+    "bandName": "Boca classics (บอคาร์ คลาสสิค)"
+  },
+  {
+    "bandName": "Shirtoria (เชิ้ตโทเรีย)"
+  },
+  {
+    "bandName": "CEDAR WOOD (เคดรีมวูท)"
+  },
+  {
+    "bandName": "COLINS (คอลริน)"
+  },
+  {
+    "bandName": "Angelo Litrico (แอนเจลโอลิตริโค่)"
+  },
+  {
+    "bandName": "Blueberries (บลูเบอรี่)"
+  },
+  {
+    "bandName": "B-Story (บีสตอรี่)"
+  },
+  {
+    "bandName": "Paul Smith (พอลสมิธ)"
+  },
+  {
+    "bandName": "Aveda (อเวด้า)"
+  },
+  {
+    "bandName": "Acmie Original (แอคมี่ ออริจินอล)"
+  },
+  {
+    "bandName": "Royal Ivy Regatta (รอยัลไอวี่รีกัตต้า)"
+  },
+  {
+    "bandName": "Statements (สเตรท เม้นท์)"
+  },
+  {
+    "bandName": "Topvalu (ทอลเบรูท)"
+  },
+  {
+    "bandName": "Guccii (กุชชี)"
+  },
+  {
+    "bandName": "JAGUAR (จากั้ว)"
+  },
+  {
+    "bandName": "Am.art (แอมอาท)"
+  },
+  {
+    "bandName": "Called P (คอลพี)"
+  },
+  {
+    "bandName": "F&F (เอฟแอนด์เอฟ)"
+  },
+  {
+    "bandName": "Bulltus Brand (บลูตัสแบรนด์)"
+  },
+  {
+    "bandName": "Lastshirt (ลาสเชิ้ต)"
+  },
+  {
+    "bandName": "Warunya Cotton (วรัญญาคัตตอน)"
+  },
+  {
+    "bandName": "FQ&L (เอฟคิวแอนแอล)"
+  },
+  {
+    "bandName": "Authentic (อัทเท็นติก)"
+  },
+  {
+    "bandName": "Banana Republic (บานาน่ารีพับลิค)"
+  },
+  {
+    "bandName": "A.V.V HOMME (เอวีวีโฮมมี่)"
+  },
+  {
+    "bandName": "CARVEN (คาร์เวน)"
+  },
+  {
+    "bandName": "IZOD (ไอโซด์)"
+  },
+  {
+    "bandName": "Bergandy (เบอแกนดี้)"
+  },
+  {
+    "bandName": "Valentino rudy (วาเลนติโน่ รูดี้)"
+  },
+  {
+    "bandName": "Renoma (เรโนม่า)"
+  },
+  {
+    "bandName": "MARLOND (มาร์โลนด์)"
+  },
+  {
+    "bandName": "Stafford (สตาฟฟอร์ด)"
+  },
+  {
+    "bandName": "Wentworth (เว็นวอร์ส)"
+  },
+  {
+    "bandName": "LUCASINI (ลูคัสซินิ)"
+  },
+  {
+    "bandName": "ROUTE66 (รูท66)"
+  },
+  {
+    "bandName": "Takeshi (ทาเคชิ)"
+  },
+  {
+    "bandName": "Biglover (บิ๊กเลิฟ)"
+  },
+  {
+    "bandName": "Oldnavy (โอนเนวี่)"
+  },
+  {
+    "bandName": "VANHEUSEN (แวนฮิวเซน)"
+  },
+  {
+    "bandName": "BSC COOL (บีเอสซี คูล)"
+  },
+  {
+    "bandName": "Columbia (คอลัมเบีย)"
+  },
+  {
+    "bandName": "21 MEN (ทเวนตี้วันเม็น)"
+  },
+  {
+    "bandName": "JUN SHAO (จันทร์เจ้า)"
+  },
+  {
+    "bandName": "Nylaus Clothing (ไนลัสโคลธธิ้ง)"
+  },
+  {
+    "bandName": "Crescendo (เครสเซนโด้)"
+  },
+  {
+    "bandName": "Workshopman (เวิร์คช็อปแมน)"
+  },
+  {
+    "bandName": "Indigoskin (อินดิโกสกิน)"
+  },
+  {
+    "bandName": "Contemp (คอนเท็ม)"
+  },
+  {
+    "bandName": "Number One (นัมเบอวัน)"
+  },
+  {
+    "bandName": "Barrel (บาเรล)"
+  },
+  {
+    "bandName": "Say Play (เซย์เพลย์)"
+  },
+  {
+    "bandName": "Chay aoun (เชอ้วน)"
+  },
+  {
+    "bandName": "LANVIN PARIS (ลองแวง ปารีส)"
+  },
+  {
+    "bandName": "Billabong (บิลลาบอง)"
+  },
+  {
+    "bandName": "So-Mu-Ji-To (โซโมจิโต้)"
+  },
+  {
+    "bandName": "CaribbeanJoe (คาริบบีนโจ)"
+  },
+  {
+    "bandName": "Muramasa (มูลามาสา)"
+  },
+  {
+    "bandName": "Akeera (อากีร่า)"
+  },
+  {
+    "bandName": "Capture (แค๊ปเจอร์)"
+  },
+  {
+    "bandName": "Coollision (คูลลิชั่น)"
+  },
+  {
+    "bandName": "Only the best (ออนลี่ เดอะเบส)"
+  },
+  {
+    "bandName": "Two Palms (ทูปาล์ม)"
+  },
+  {
+    "bandName": "MOMOTARO (โมโมตาโร่)"
+  },
+  {
+    "bandName": "BSC (บีเอสซี)"
+  },
+  {
+    "bandName": "The Plus Club (เดอะพลัสคลับ)"
+  },
+  {
+    "bandName": "MOSSIMO (มอสซิโม่)"
+  },
+  {
+    "bandName": "Hydrologyshirt (ไฮโดรโลจี้เชิ้ต)"
+  },
+  {
+    "bandName": "HAWK (ฮาวค์)"
+  },
+  {
+    "bandName": "Point Zero (พ้อย ซีโร่)"
+  },
+  {
+    "bandName": "Weatherproof (เวทเทอร์พรูบ)"
+  },
+  {
+    "bandName": "RPZN (อาร์พีแซ็ทเอ็น)"
+  },
+  {
+    "bandName": "Hollister (ฮอริสเตอร์)"
+  },
+  {
+    "bandName": "Jeep (จีป)"
+  },
+  {
+    "bandName": "Hass (แฮ็ส)"
+  },
+  {
+    "bandName": "Rage blue (เรส บลู)"
+  },
+  {
+    "bandName": "POLHAN (โพแฮม)"
+  },
+  {
+    "bandName": "DNICON (ดีนีคอน)"
+  },
+  {
+    "bandName": "HAZZYS (แฮสซี่)"
+  },
+  {
+    "bandName": "MISSONI (มิสโซนิ)"
+  },
+  {
+    "bandName": "MODUS VIVENDI (โมดัส วิเวนดิ)"
+  },
+  {
+    "bandName": "VSM (วีเอสเอ็ม)"
+  },
+  {
+    "bandName": "Eddie Bauer (เอ็ดดี้ บาวเออร์)"
+  },
+  {
+    "bandName": "Issara (อิสระ)"
+  },
+  {
+    "bandName": "Dickies (ดิคกี้)"
+  },
+  {
+    "bandName": "Sarid brand (ซาริด แบรนด์)"
+  },
+  {
+    "bandName": "Enfant (เอนฟา)"
+  },
+  {
+    "bandName": "Qcloth (คิวโค้ช)"
+  },
+  {
+    "bandName": "Awake (อเวค)"
+  },
+  {
+    "bandName": "SVEN (สเวน)"
+  },
+  {
+    "bandName": "Chamnii (ชามนิน์)"
+  },
+  {
+    "bandName": "HERE (เฮีย)"
+  },
+  {
+    "bandName": "Rudedog (รูทด๊อก)"
+  },
+  {
+    "bandName": "Polo (โปโล)"
+  },
+  {
+    "bandName": "T-shop (ทีช็อป)"
+  },
+  {
+    "bandName": "SUPREME (ซูเปอร์มี)"
+  },
+  {
+    "bandName": "Glovehouse (โกลฟเฮ้าส์)"
+  },
+  {
+    "bandName": "Bady Wave (เบดี้เวฟ)"
+  },
+  {
+    "bandName": "Woof (วูฟ)"
+  },
+  {
+    "bandName": "Temmakoji (เทมมะโกจิ)"
+  },
+  {
+    "bandName": "FZ Forza (เอฟแซ็ท ฟอร์ซ่า)"
+  },
+  {
+    "bandName": "Bigboss (บิ๊กบอส)"
+  },
+  {
+    "bandName": "LEWIS (ลีวิส)"
+  },
+  {
+    "bandName": "Reef (ลีฟ)"
+  },
+  {
+    "bandName": "Gildan (จิลดาน)"
+  },
+  {
+    "bandName": "The north face (เดอะ นอร์ทเฟค)"
+  },
+  {
+    "bandName": "Anti social social (เเอนไทโซเซิลโซเซิล)"
+  },
+  {
+    "bandName": "HARA (ฮาร่า)"
+  },
+  {
+    "bandName": "LAYLOW (เลโรว์)"
+  },
+  {
+    "bandName": "Batik Keris (บาติกเคอริส)"
+  },
+  {
+    "bandName": "GIVENCHY (จีวองชี)"
+  },
+  {
+    "bandName": "AVAIL (อะเวล)"
+  },
+  {
+    "bandName": "Agnes (แอกเนส)"
+  },
+  {
+    "bandName": "Merano (มีราโน่)"
+  },
+  {
+    "bandName": "Natural. Issue (เนเทอร์รอล อีสซุ)"
+  },
+  {
+    "bandName": "Tommy Bahama (ทอมมี่บาฮามิ)"
+  },
+  {
+    "bandName": "Pineapple (พาบแอปเปิ้ล)"
+  },
+  {
+    "bandName": "Chill2work (ชิลล์ทูเวิค)"
+  },
+  {
+    "bandName": "Teenie weenie (ทรีนี่วินเนอร์)"
+  },
+  {
+    "bandName": "Hawaiin shirt (ฮาวายเชิ้ต)"
+  },
+  {
+    "bandName": "Sisterp (ซิสเตอร์พี่)"
+  },
+  {
+    "bandName": "Doshirt (ดาร์ทเชิ้ต)"
+  },
+  {
+    "bandName": "KRUFF (ครัฟฟ์)"
+  },
+  {
+    "bandName": "Boundaries (บอนด์ดาริส)"
+  },
+  {
+    "bandName": "Maximum (แม็กซ์ซิมัม)"
+  },
+  {
+    "bandName": "Halftones (เฮล์ฟโทเนส)"
+  },
+  {
+    "bandName": "Ikka Japan (เอคกะ เจแปน)"
+  },
+  {
+    "bandName": "Tom Short (ทอม ช็อร์ต)"
+  },
+  {
+    "bandName": "Wood Houser (วู้ด เฮ้าเซอร์)"
+  },
+  {
+    "bandName": "Alain Delon (อเลน เดอลอน)"
+  },
+  {
+    "bandName": "BOY LONDON (บอย ลอนดอน)"
+  },
+  {
+    "bandName": "KENZO (เคนโซ)"
+  },
+  {
+    "bandName": "Minimalpolo (มินิมอลโปโล)"
+  },
+  {
+    "bandName": "Nanapa (นานะพา)"
+  },
+  {
+    "bandName": "TED COMPANY (เท็ดคอมปานี)"
+  },
+  {
+    "bandName": "Hush Puppies (ฮัสช์ พัพพิ)"
+  },
+  {
+    "bandName": "Marcs Oxford Shirt (มาร์คอ็อคฟอร์ดเชิ้ต)"
+  },
+  {
+    "bandName": "Greek light (กรีกไลท์)"
+  },
+  {
+    "bandName": "K9 (เคไนน์)"
+  },
+  {
+    "bandName": "Gmmaterial (จีเอ็มแมททีเรียล)"
+  },
+  {
+    "bandName": "Smileyhound (สไมลี่ฮาวด์)"
+  },
+  {
+    "bandName": "Pnaran (พนารัน)"
+  },
+  {
+    "bandName": "Lazar (เลเซอร์)"
+  },
+  {
+    "bandName": "Maypole (เมย์โพล)"
+  },
+  {
+    "bandName": "Brooks Brothers (บุ้ค บราเทอร์)"
+  },
+  {
+    "bandName": "Campione (แคมปิโอนี่)"
+  },
+  {
+    "bandName": "Numrare (น้ำแร่)"
+  },
+  {
+    "bandName": "SHITT SHIRT (ชิทเชิ้ต)"
+  },
+  {
+    "bandName": "GO BAREFOOT (โก แบร์ฟุต)"
+  },
+  {
+    "bandName": "PARADISEFOUND (พาราไดซ์ฟราวด์)"
+  },
+  {
+    "bandName": "Lookbooklookbook (ลุคบุ๊คลุคบุ๊ค)"
+  },
+  {
+    "bandName": "Dapper​ (แดปเปอร์)"
+  },
+  {
+    "bandName": "TROPHY CLOTHING (โทรพี่ โคลติ้ง)"
+  },
+  {
+    "bandName": "MAKANA LEI (มาคานาเลอิ)"
+  },
+  {
+    "bandName": "KICKERS (คิกเกอร์)"
+  },
+  {
+    "bandName": "MARK RAYSTEN (มาร์คเรย์สเต็น)"
+  },
+  {
+    "bandName": "Inspire thai (อินสปายไท)"
+  },
+  {
+    "bandName": "Oxford (อ๊อกฟอร์ด)"
+  },
+  {
+    "bandName": "Modern Simplicity (โมเดิร์น ซิมพลิซิตี้)"
+  },
+  {
+    "bandName": "DOCKERS (ดอคเกอร์ส)"
+  },
+  {
+    "bandName": "Esmeralda (เอสเมเรลด้า)"
+  },
+  {
+    "bandName": "Heybig (เฮย์บิ๊ก)"
+  },
+  {
+    "bandName": "Pipue Pique jeans (พิพิว พิก ยีนส์)"
+  },
+  {
+    "bandName": "L.L.Bean (แอลแอลบีน)"
+  },
+  {
+    "bandName": "Ray Spooner (เรย์ สพูเนอร์)"
+  },
+  {
+    "bandName": "Hawaii Aloha (ฮาวาอี้ อโลฮ่า)"
+  },
+  {
+    "bandName": "City Cats (ซิตี้ แค็ทส์)"
+  },
+  {
+    "bandName": "Ocean Current (โอเชี่ยน เคอร์เรนท์)"
+  },
+  {
+    "bandName": "TueBaoShirt (ทูเบาเชิ้ต)"
+  },
+  {
+    "bandName": "Kevin (เควิน)"
+  },
+  {
+    "bandName": "Edition (อีดิชั่น)"
+  },
+  {
+    "bandName": "Waft X Weft (วาฟ์เอ็กเวทซ์)"
+  },
+  {
+    "bandName": "CHATRI (ชาตรี)"
+  },
+  {
+    "bandName": "KAHALA (คาฮาร่า)"
+  },
+  {
+    "bandName": "WAIMEA CASUALS (ไวเม่ แคสชัลส์)"
+  },
+  {
+    "bandName": "KALAHEO (คาลาฮีโอ)"
+  },
+  {
+    "bandName": "OASIS (โอเอซิส)"
+  },
+  {
+    "bandName": "GASOHOL (แก๊สโซฮอล)"
+  },
+  {
+    "bandName": "TWENTY SEVEN (ทเว้นตี้ เซเว้น)"
+  },
+  {
+    "bandName": "Alfred dunner (อัลเฟรดดันเนอร์)"
+  },
+  {
+    "bandName": "BJ Jeans (บี เจ ยีนส์)"
+  },
+  {
+    "bandName": "Quattro (ควอทโต้)"
+  },
+  {
+    "bandName": "GRAY AREA (เกรย์แอเรีย)"
+  },
+  {
+    "bandName": "8DG (8ดีจี)"
+  },
+  {
+    "bandName": "Bestshirt (เบสท์เชิ้ต)"
+  },
+  {
+    "bandName": "Iceberg (ไอซ์เบิร์ก)"
+  },
+  {
+    "bandName": "Woosh (วูสช์)"
+  },
+  {
+    "bandName": "Armani exchange (อาร์แมนนิ เอ็กซ์เช้ง)"
+  },
+  {
+    "bandName": "Energie (เอ็นนาจี้)"
+  },
+  {
+    "bandName": "John tailor (จอร์น เทเลอร์)"
+  },
+  {
+    "bandName": "Vans (แวนส์)"
+  },
+  {
+    "bandName": "Insight (อินไซด์)"
+  },
+  {
+    "bandName": "Roots (รูทส์)"
+  },
+  {
+    "bandName": "Pringle (พริงเกิ้ล)"
+  },
+  {
+    "bandName": "Mambo (แมมโบ)"
+  },
+  {
+    "bandName": "Be Bear (บีแบร์)"
+  },
+  {
+    "bandName": "Mark and Spencer (มาร์ค แอนด์ สเปนเซอร์)"
+  },
+  {
+    "bandName": "Marcjacobs (มาร์คจาคอปส์)"
+  },
+  {
+    "bandName": "All saints (ออลเซนท์)"
+  },
+  {
+    "bandName": "Body Glove (บอดี้โกลฟ)"
+  },
+  {
+    "bandName": "Dalton Street (ดาลตันสตรีท)"
+  },
+  {
+    "bandName": "SPALDING (สะพาร์ลดิ้ง)"
+  },
+  {
+    "bandName": "TOP HOUSE (ท็อป เฮ้าส์)"
+  },
+  {
+    "bandName": "Metoos (มีทอส)"
+  },
+  {
+    "bandName": "Casualist (แคนชวลลิสต์)"
+  },
+  {
+    "bandName": "Moveland (มูฟแลนด์)"
+  },
+  {
+    "bandName": "Surfline (เซิร์ฟไลน์)"
+  },
+  {
+    "bandName": "Sevendays Sunday (เซเว่นเดย์ ซันเดย์)"
+  },
+  {
+    "bandName": "Coolkidz (คูลคิดส์)"
+  },
+  {
+    "bandName": "Geoffrey beene (เจฟฟรีย์ บีน)"
+  },
+  {
+    "bandName": "QISHA (ควิช่า)"
+  },
+  {
+    "bandName": "Famock (ฟาม็อก)"
+  },
+  {
+    "bandName": "Roushatte (ราวชัทท์)"
+  },
+  {
+    "bandName": "Barcedos (บาร์เซดอส)"
+  },
+  {
+    "bandName": "Gingko (กิงโกะ)"
+  },
+  {
+    "bandName": "Ampai dressshop (อำไพ เดรสช็อป)"
+  },
+  {
+    "bandName": "Creation cube (ครีเอชั่น คิวบ์)"
+  },
+  {
+    "bandName": "Twentyone men (ทเว้นตี้วัน เมน)"
+  },
+  {
+    "bandName": "SOLITUDE (โซลิทู)"
+  },
+  {
+    "bandName": "Closshi (คลอสชิ)"
+  },
+  {
+    "bandName": "Coreuomo (โคเรโอโม่)"
+  },
+  {
+    "bandName": "BLUE SHARK (บลู ชาร์ค)"
+  },
+  {
+    "bandName": "OGGI (อ๊อก กิ)"
+  },
+  {
+    "bandName": "Cotton on (คอตตอนออน)"
+  },
+  {
+    "bandName": "Sean john (ฌอน จอห์น)"
+  },
+  {
+    "bandName": "Browny (บราวนี่)"
+  },
+  {
+    "bandName": "Massimo Dutti (มาสสิโม่ดูตติ)"
+  },
+  {
+    "bandName": "BeachBull (บีชบลู)"
+  },
+  {
+    "bandName": "Harley Davidson (ฮาร์เล่ย์เดวิดสัน)"
+  },
+  {
+    "bandName": "Lauren (ลอเรน)"
+  },
+  {
+    "bandName": "GRAYSCALE (เกรย์สเกล)"
+  },
+  {
+    "bandName": "Jack A Dandy (แจ็คอะแด๊ดดี้)"
+  },
+  {
+    "bandName": "FOX (ฟ็อกซ์)"
+  },
+  {
+    "bandName": "John langford (จอห์นแลงจ์ฟอร์ด)"
+  },
+  {
+    "bandName": "Pacific union (แปซิฟิคยูเนี่ยน)"
+  },
+  {
+    "bandName": "Setshirt (เซ็ทเชิ้ต)"
+  },
+  {
+    "bandName": "BonneChance (บอน ชานซ์)"
+  },
+  {
+    "bandName": "Enne (เอนเน่)"
+  },
+  {
+    "bandName": "BOYD (บอยด์)"
+  },
+  {
+    "bandName": "Sarid (สาริด)"
+  },
+  {
+    "bandName": "Stussy (สตัสซี่)"
+  },
+  {
+    "bandName": "KIMOCAT (คิโม่แคท)"
+  },
+  {
+    "bandName": "Carhartt (คาร์ฮาร์ท)"
+  },
+  {
+    "bandName": "FILA (ฟิลา)"
+  },
+  {
+    "bandName": "Louis féraud (หลุยส์เฟโรด์)"
+  },
+  {
+    "bandName": "Global Work (โกลเบิลเวิร์ค)"
+  },
+  {
+    "bandName": "JmcPolo (เจเอ็มซีโปโล)"
+  },
+  {
+    "bandName": "GU (จียู)"
+  },
+  {
+    "bandName": "Candy Fantasy (แคนดี้ แฟนตาซี)"
+  },
+  {
+    "bandName": "Bear Republic (แบร์ รีบลัพบลิค)"
+  },
+  {
+    "bandName": "Imprints (แอมเพรนท์)"
+  },
+  {
+    "bandName": "Jamaica Jaxx (จาไมก้า แจ็กซ์)"
+  },
+  {
+    "bandName": "Knightsbridge (ไนท์บริดจ์)"
+  },
+  {
+    "bandName": "GET ALONG (เก็ต อะลอง)"
+  },
+  {
+    "bandName": "Volume (วอลลุ่ม)"
+  },
+  {
+    "bandName": "Snoopy (สนูปปี้)"
+  },
+  {
+    "bandName": "TK japan (ทีเคเจแปน)"
+  },
+  {
+    "bandName": "S’Fare (เอส แฟร์)"
+  },
+  {
+    "bandName": "Oneoneseven (วันวันเซเว่น)"
+  },
+  {
+    "bandName": "Berrer (แบร์เรอร์)"
+  },
+  {
+    "bandName": "UrbanStudio (เออแบนสตูดิโอ)"
+  },
+  {
+    "bandName": "Menualbook (เมนัลบุ๊ค)"
+  },
+  {
+    "bandName": "I.S. sunao kuwahara (ไอเอส ซูนาโอ้ คุวาฮาร่า)"
+  },
+  {
+    "bandName": "SISI JOMO (ซิซิ โจโม)"
+  },
+  {
+    "bandName": "Green white (กรีน ไวท์)"
+  },
+  {
+    "bandName": "Hermes (แอร์เมส)"
+  },
+  {
+    "bandName": "Red Kap (เรดแคป)"
+  },
+  {
+    "bandName": "WHAT UP (วอท อัพ)"
+  },
+  {
+    "bandName": "Pierre Cardin (ปิแอร์ การ์เเดง)"
+  },
+  {
+    "bandName": "Manchester (แมนเชสเตอร์)"
+  },
+  {
+    "bandName": "Billys (บิลลี่ส์)"
+  },
+  {
+    "bandName": "TWENTY SECOND (ทเวนตี้เซคเคินด์)"
+  },
+  {
+    "bandName": "Manlio nouvo (แมนลิโอ้ นูโอโว้)"
+  },
+  {
+    "bandName": "Beauty & Youth (บิวตี้ แอนด์ ยู)"
+  },
+  {
+    "bandName": "4X4 MAN (4X4แมน)"
+  },
+  {
+    "bandName": "Issue (อีสชู่)"
+  },
+  {
+    "bandName": "No Excess (โน แอ๊กซ์เซส)"
+  },
+  {
+    "bandName": "Azul by Moussy (อาซู บาย มูสซี่)"
+  },
+  {
+    "bandName": "CK (ซีเค)"
+  },
+  {
+    "bandName": "Bosbutter (บอสบัตเตอร์)"
+  },
+  {
+    "bandName": "Oli Cake (ออย เค้ก)"
+  },
+  {
+    "bandName": "Zunshou (ซันเชา)"
+  },
+  {
+    "bandName": "DGK (ดีจีเค)"
+  },
+  {
+    "bandName": "Baleno (บาเลนโน)"
+  },
+  {
+    "bandName": "Moodum (มูดัม)"
+  },
+  {
+    "bandName": "Paper Bag (เปปเปอร์แบ็ค)"
+  },
+  {
+    "bandName": "THOM BROWNE (ทอมบราวน์)"
+  },
+  {
+    "bandName": "Füsun Karaer (ฟูซัน คาเรล)"
+  },
+  {
+    "bandName": "BRIXTON (บริกซ์ตัน)"
+  },
+  {
+    "bandName": "TBY JEANS (ทีบีวายยีนส์)"
+  },
+  {
+    "bandName": "Oncetimeshops (วันไทม์ช็อป)"
+  },
+  {
+    "bandName": "SPAO (เอสพีเอโอ)"
+  },
+  {
+    "bandName": "Reward (รีวอร์ด)"
+  },
+  {
+    "bandName": "Blacklimited (แบล็ค ลิมิเต็ด)"
+  },
+  {
+    "bandName": "Cove (โคฟ)"
+  },
+  {
+    "bandName": "MapleClub (เมเปิ้ลคลับ)"
+  },
+  {
+    "bandName": "Slippin and Slidin (สลิปปิน แอนด์ สไลดิน)"
+  },
+  {
+    "bandName": "The Scotch House (เดอะ สก็อต เฮาส์)"
+  },
+  {
+    "bandName": "Aeropostale (แอโรโพสทอล)"
+  },
+  {
+    "bandName": "UNIVERSAL OVERALL (ยูนิเวอร์แซลโอเวอร์อลล์)"
+  },
+  {
+    "bandName": "MNG (เอ็มเอ็นจี)"
+  },
+  {
+    "bandName": "Rompboy (รอมป์บอย)"
+  },
+  {
+    "bandName": "NYMPH (นิมฟ์)"
+  },
+  {
+    "bandName": "A bathing ape (อะเบทติ้ง เอป)"
+  },
+  {
+    "bandName": "Woof republic (วูฟ รีพับบลิค)"
+  },
+  {
+    "bandName": "MICHAEL AUSTIN (ไมเคิ้น ออสติน)"
+  },
+  {
+    "bandName": "Nicha (นิชา)"
+  },
+  {
+    "bandName": "Mitsumine (มิตซูมิน)"
+  },
+  {
+    "bandName": "Meticulouss (เมธิคิวลัส)"
+  },
+  {
+    "bandName": "Native Magic (เนทีฟ เมจิค)"
+  },
+  {
+    "bandName": "Simon Kidman (ซิมอน คิดแมน)"
+  },
+  {
+    "bandName": "Chemise (เชอมิส)"
+  },
+  {
+    "bandName": "Oxford Shirt (อ็อกซ์ฟอร์ด เชิ๊ต)"
+  },
+  {
+    "bandName": "Bovy (โบวี)"
+  },
+  {
+    "bandName": "PAZZO (พาสโซ)"
+  },
+  {
+    "bandName": "SINGHA LIFE (สิงห์ ไลฟ์)"
+  },
+  {
+    "bandName": "Zoo York (ซู-ยอร์ค)"
+  },
+  {
+    "bandName": "Anti Label Jeans (แอนตี้ เลเบิล ยีนส์)"
+  },
+  {
+    "bandName": "Holdem Denim (โฮลเอ้มเดนิม)"
+  },
+  {
+    "bandName": "Lee Cooper (ลี คูปเปอร์)"
+  },
+  {
+    "bandName": "BenSherman (เบนเชอร์แมน)"
+  },
+  {
+    "bandName": "AllZ (เอทูแซท)"
+  },
+  {
+    "bandName": "G-style (จีสไตล์)"
+  },
+  {
+    "bandName": "Palin (ภาริน)"
+  },
+  {
+    "bandName": "Brick house (บริคเฮ้าส์)"
+  },
+  {
+    "bandName": "Noton (ดนตั้น)"
+  },
+  {
+    "bandName": "PAUL MARC (พอลมาร์ค)"
+  },
+  {
+    "bandName": "Princeshop (ปลิ้นช็อป)"
+  },
+  {
+    "bandName": "STEAL AWAY (สตีลอะเวย์)"
+  },
+  {
+    "bandName": "ESPADA (เอสปาด้า)"
+  },
+  {
+    "bandName": "Polo British Country (โปโลบริททิชคันทรี่)"
+  },
+  {
+    "bandName": "Sugus (ซูกัส)"
+  },
+  {
+    "bandName": "GETAWAY (เกทาเวย์)"
+  },
+  {
+    "bandName": "MooDum (หมูดำ)"
+  },
+  {
+    "bandName": "City gear (ซิตี้แกร์)"
+  },
+  {
+    "bandName": "Obey (โอเบย์)"
+  },
+  {
+    "bandName": "Christian Dior (คริสเตียนดิออร์)"
+  },
+  {
+    "bandName": "TRIUMPH (ไทร์อัมพ์)"
+  },
+  {
+    "bandName": "Hugo Boss (ฮิวโก้บอส)"
+  },
+  {
+    "bandName": "LANTONA (แลนโทน่า)"
+  },
+  {
+    "bandName": "Basi & Play (บาซิแอนด์เพลย์)"
+  },
+  {
+    "bandName": "Oakley (โอ๊คเลย์)"
+  },
+  {
+    "bandName": "SMITR (สมิธ)"
+  },
+  {
+    "bandName": "Mise au green (มิโอกรีน)"
+  },
+  {
+    "bandName": "Jack Carroll (แจ็คคาร์รัอล)"
+  },
+  {
+    "bandName": "Skechers (สเกตเชอร์)"
+  },
+  {
+    "bandName": "opal (โอปอล)"
+  },
+  {
+    "bandName": "Air walk (แอร์วอร์ค)"
+  },
+  {
+    "bandName": "Pancollection (แพนคอลเลคชั่น)"
+  },
+  {
+    "bandName": "VISADA (วิสาดา)"
+  },
+  {
+    "bandName": "PANA (พานา)"
+  },
+  {
+    "bandName": "BROTHERHOOD (บราเธอร์ฮู้ด)"
+  },
+  {
+    "bandName": "Shirts​ ​on​ street​ (เชิ้ตออนสตรีท)"
+  },
+  {
+    "bandName": "HAMAYASS (ฮามายาส)"
+  },
+  {
+    "bandName": "FM (เอฟเอ็ม)"
+  },
+  {
+    "bandName": "Maple Brand (เมเปิ้ล แบรนด์)"
+  },
+  {
+    "bandName": "Highbury (ไฮบิวรี่)"
+  },
+  {
+    "bandName": "Replay (รีเพลย์)"
+  },
+  {
+    "bandName": "Cooke Street (คุกสตรีท)"
+  },
+  {
+    "bandName": "Q Design And Play (คิว ดีไซน์ แอนด์ เพลย์)"
+  },
+  {
+    "bandName": "LTD (แอลทีดี)"
+  },
+  {
+    "bandName": "Pazada (พาซาด้า)"
+  },
+  {
+    "bandName": "Favant (ฟาแวงก์)"
+  },
+  {
+    "bandName": "NIX (เอ็นไอเอ๊กซ์)"
+  },
+  {
+    "bandName": "Argosy (อาร์กอสซี่)"
+  },
+  {
+    "bandName": "CPS CHAPS (ซีพีเอส แช็ปส์)"
+  },
+  {
+    "bandName": "Burberrys (เบอเบอรี่ส์)"
+  },
+  {
+    "bandName": "BigC (บิ๊กซ๊)"
+  },
+  {
+    "bandName": "Brick Lane (บริค เลน)"
+  },
+  {
+    "bandName": "Nobody jeans (โนบอดี้ยีนส์)"
+  },
+  {
+    "bandName": "PRIMO LINEA (พรีโม่ ลินเนีย)"
+  },
+  {
+    "bandName": "Segovian (เซโกเวียน)"
+  },
+  {
+    "bandName": "Pidoza (พิโดซ่า)"
+  },
+  {
+    "bandName": "Ikaf (ไอกาฟ)"
+  },
+  {
+    "bandName": "U2 (ยู2)"
+  },
+  {
+    "bandName": "Gentleman (เจนเทวแมน)"
+  },
+  {
+    "bandName": "Tori (โทริ)"
+  },
+  {
+    "bandName": "Marino Bay (มารินโอ เบย์)"
+  },
+  {
+    "bandName": "Ninetynine (ไนล์ตี้ไนล์)"
+  },
+  {
+    "bandName": "Christian Aujard (คริสเตียน ออจาร์ด)"
+  },
+  {
+    "bandName": "Yous Me (ยูมี)"
+  },
+  {
+    "bandName": "Whitby (วิทบี้)"
+  },
+  {
+    "bandName": "Tempo Primo (เทมโบ พริโม)"
+  },
+  {
+    "bandName": "Bogie1 (โบกี้วัน)"
+  },
+  {
+    "bandName": "Bangkoksuits (บางกอกสูท)"
+  },
+  {
+    "bandName": "Aernan (เออร์นัน)"
+  },
+  {
+    "bandName": "Sugar Cane (ชูการ์ เคน)"
+  },
+  {
+    "bandName": "Icon (ไอค่อน)"
+  },
+  {
+    "bandName": "IBenis Brand (ไอบีนิส แบรนด์)"
+  },
+  {
+    "bandName": "Mountain Hardwear (เม้าเท็น ฮาร์ดแวร์)"
+  },
+  {
+    "bandName": "Double B Place (ดับเบิ้ลบีเพลส)"
+  },
+  {
+    "bandName": "Olymp (โอลิมป์)"
+  },
+  {
+    "bandName": "Off White (ออฟ ไวท์)"
+  },
+  {
+    "bandName": "Monotone (โมโนโทน)"
+  },
+  {
+    "bandName": "Collections (คอนเลคชั่น)"
+  },
+  {
+    "bandName": "Fiber Heat (ไฟเบอร์ ฮีท)"
+  },
+  {
+    "bandName": "Twinshirt (ทวินเชิ๊ต)"
+  },
+  {
+    "bandName": "Be top (บี ท็อป)"
+  },
+  {
+    "bandName": "Chamois Cloth (ชามอย โค๊ท)"
+  },
+  {
+    "bandName": "ELLE HOMME (เอลโฮม)"
+  },
+  {
+    "bandName": "Rinkanda (รินกานดา)"
+  },
+  {
+    "bandName": "Simple Dimple (ซิมเปิ้ล ดิมเปิ้ล)"
+  },
+  {
+    "bandName": "Field & Stream (ฟิลด์ แอนด์ สตรีม)"
+  },
+  {
+    "bandName": "Urban Pipeline (เออร์บัน ไปป์ไลน์)"
+  },
+  {
+    "bandName": "St Johns Bay (เซนต์จอห์น เบย์)"
+  },
+  {
+    "bandName": "Beretta (เบเรตต้า)"
+  },
+  {
+    "bandName": "Winnie Fashion (วินนี่ แฟชั่น)"
+  },
+  {
+    "bandName": "Prada (พราดา)"
+  },
+  {
+    "bandName": "Pink Boutique (พิ้งค์ บูติค)"
+  },
+  {
+    "bandName": "Lonmmy (ลอนม์มี่)"
+  },
+  {
+    "bandName": "GLLC (จีแอลแอลซี)"
+  },
+  {
+    "bandName": "Yyes Saint Lauren (ยิปแซง ลอแรง)"
+  },
+  {
+    "bandName": "NK Suit (เอ็นเค สูท)"
+  },
+  {
+    "bandName": "Man Thai (แมนไทย)"
+  },
+  {
+    "bandName": "Arrow University (แอโรว์ ยูนิเวอซิตี้)"
+  },
+  {
+    "bandName": "Fashion Design (แฟชั่น ดีไซน์)"
+  },
+  {
+    "bandName": "Manao (มะนาว)"
+  },
+  {
+    "bandName": "Youmi (ยูมิ)"
+  },
+  {
+    "bandName": "Up on (อัพ ออน)"
+  },
+  {
+    "bandName": "INF (ไอเอ็นเอฟ)"
+  },
+  {
+    "bandName": "Asriyani (แอสริยานิ)"
+  },
+  {
+    "bandName": "White Horse Western (ไวท์ฮอร์สเวสเทิร์น)"
+  },
+  {
+    "bandName": "Devilshi (เดวิลชิ)"
+  },
+  {
+    "bandName": "D4 (ดีโฟร์)"
+  },
+  {
+    "bandName": "Hestur (เอสเตอร์)"
+  },
+  {
+    "bandName": "Huck (ฮัค)"
+  },
+  {
+    "bandName": "Nomjitt (น้อมจิตต์)"
+  },
+  {
+    "bandName": "GM (จีเอ็ม)"
+  },
+  {
+    "bandName": "Heartman (ฮาร์ทแมน)"
+  },
+  {
+    "bandName": "Overall (โอเวอร์รอล)"
+  },
+  {
+    "bandName": "Crux (ครักซ์)"
+  },
+  {
+    "bandName": "JimThompson (จิม ทอมป์สัน)"
+  },
+  {
+    "bandName": "Charova (ชาโรว่า)"
+  },
+  {
+    "bandName": "Ezra (เอซรา)"
+  },
+  {
+    "bandName": "Arroway (แอร์โรเวย์)"
+  },
+  {
+    "bandName": "Not Bad (นอทแบด)"
+  },
+  {
+    "bandName": "Flannel (แฟลนเนล)"
+  },
+  {
+    "bandName": "Yembony (เยมโบนี่)"
+  },
+  {
+    "bandName": "DAVIE JONES (เดวีย์ โจนส์)"
+  },
+  {
+    "bandName": "Disney Store (ดิสนีย์สโตร์)"
+  },
+  {
+    "bandName": "Knight of Round Table (ไนท์ออฟราวด์เทเบิ้ล)"
+  },
+  {
+    "bandName": "Haggar (แฮกการ์)"
+  },
+  {
+    "bandName": "Iryine Park (ไอรีน ปาร์ค)"
+  },
+  {
+    "bandName": "Big Ball (บิ๊ก บอล)"
+  },
+  {
+    "bandName": "Otarie Homme (โอตาริ โฮมมี่)"
+  },
+  {
+    "bandName": "Monsieur Nicole (มอนซีเออร์ นิโคล)"
+  },
+  {
+    "bandName": "Golden Bear (โกลเด้นแบร์)"
+  },
+  {
+    "bandName": "Mozart Men (โมซาร์ทเมน)"
+  },
+  {
+    "bandName": "Back Number (แบค นัมเบอร์)"
+  },
+  {
+    "bandName": "TD-Man Style (ทีดี แมน สไตล์)"
+  },
+  {
+    "bandName": "Monnuae (มอนนูเอ้)"
+  },
+  {
+    "bandName": "Balenciaga (บาเลนซิเอก้า)"
+  },
+  {
+    "bandName": "Trasamor (เท่เสมอ)"
+  },
+  {
+    "bandName": "Heartmade Frame (ฮาร์ตเมดเฟรม)"
+  },
+  {
+    "bandName": "Honey (ฮันนี่)"
+  },
+  {
+    "bandName": "NC Shirt​ (เอ็นซี เซิ้ต)"
+  },
+  {
+    "bandName": "Oshkosh (ออชคอช)"
+  },
+  {
+    "bandName": "Mardman (มาร์ดแมน)"
+  },
+  {
+    "bandName": "Cherchons (เชอร์ชนส์)"
+  },
+  {
+    "bandName": "Wraparound (แว๊ปอลาวน์)"
+  },
+  {
+    "bandName": "Valentino Uomo (วาเลนติโน่ ยูโม่)"
+  },
+  {
+    "bandName": "Coatover (โค๊ทโอเวอร์)"
+  },
+  {
+    "bandName": "Grangesta (แกรนด์เจสตา)"
+  },
+  {
+    "bandName": "Pink London (พิ้งค์ ลอนดอน)"
+  },
+  {
+    "bandName": "Rich Brand42 (ริช แบรนด์ 42)"
+  },
+  {
+    "bandName": "Tip Top Tailors (ทิปท๊อปไทเลอร์)"
+  },
+  {
+    "bandName": "Daniel Hechter (ดาเนียล เฮชเตอร์)"
+  },
+  {
+    "bandName": "Marks And Spencer (มาร์คแอนด์สเปนเซอร์)"
+  },
+  {
+    "bandName": "Austini (ออสทินี่)"
+  },
+  {
+    "bandName": "Tori Richard (โทริ ริชาร์ด)"
+  },
+  {
+    "bandName": "Kys (คีส์)"
+  },
+  {
+    "bandName": "Bowling (โบลิ่ง)"
+  },
+  {
+    "bandName": "Gazine (กาไซน์)"
+  },
+  {
+    "bandName": "OP Sport (โอพี สปอร์ต)"
+  },
+  {
+    "bandName": "EightyEight (เอทตี้เอท)"
+  },
+  {
+    "bandName": "Island Republic (ไอส์แลนด์รีพับลิค)"
+  },
+  {
+    "bandName": "Paradise Motion (พาราไดซ์ โมชั่น)"
+  },
+  {
+    "bandName": "Big Dogs (บิ๊กด๊อกส์)"
+  },
+  {
+    "bandName": "Hard Wood (ฮาร์ด วู๊ด)"
+  },
+  {
+    "bandName": "Active Wear (แอคทีบ แวร์)"
+  },
+  {
+    "bandName": "Triple P (ทริเปิ้ล พี)"
+  },
+  {
+    "bandName": "TAWADA (เทวดา)"
+  },
+  {
+    "bandName": "Roper (โรเปอร์)"
+  },
+  {
+    "bandName": "Redhead (เรดเฮด)"
+  },
+  {
+    "bandName": "Sony (โซนี่)"
+  },
+  {
+    "bandName": "Srita Clothes (ศรีต้า โค้ท)"
+  },
+  {
+    "bandName": "Banana (บานาน่า)"
+  },
+  {
+    "bandName": "Greg Norman (เกร็ก นอร์มัน)"
+  },
+  {
+    "bandName": "Native Hawaiian (เนทีฟ ฮาวายเอี้ยน)"
+  },
+  {
+    "bandName": "4 September (โฟร์เซปเท็ม)"
+  },
+  {
+    "bandName": "Zein (ซีน)"
+  },
+  {
+    "bandName": "Bobdong Hawaii Shirt (บ๊อบดง ฮาวาย เชิร์ต)"
+  },
+  {
+    "bandName": "Sanremo (แซนรีโม)"
+  },
+  {
+    "bandName": "Portrait (พอร์เทรท)"
+  },
+  {
+    "bandName": "Alpha Beta (อัลฟ่าเบต้า)"
+  },
+  {
+    "bandName": "Kopbla (ค๊อพบร้า)"
+  },
+  {
+    "bandName": "Rattanapon (รัตนาภรณ์)"
+  },
+  {
+    "bandName": "Flyasset (ไฟร์แอดเซ็ต)"
+  },
+  {
+    "bandName": "Woolrich (วูลริช)"
+  },
+  {
+    "bandName": "Cathy Daniels (เคธี่แดเนียลส์)"
+  },
+  {
+    "bandName": "Maria Gabrielle (มาเรีย กาบริเอล)"
+  },
+  {
+    "bandName": "Bigfather (บิกฟาเตอร์)"
+  },
+  {
+    "bandName": "JAX JOEY (แจ็กซ์ โจอี้)"
+  },
+  {
+    "bandName": "ESP (อีเอสพี)"
+  },
+  {
+    "bandName": "Inherit (อินเฮอริท)"
+  },
+  {
+    "bandName": "Wall Tees (วอลล์ทีส)"
+  },
+  {
+    "bandName": "Reyn Spooner (เรน สปูนเนอร์)"
+  },
+  {
+    "bandName": "Paisley (เพรสลีย์)"
+  },
+  {
+    "bandName": "PORTLAND (พอร์ตแลนด์)"
+  },
+  {
+    "bandName": "Bishop ST (บิชอปเซนต์)"
+  },
+  {
+    "bandName": "Jaxjoey (แจ็กซ์โจอี้)"
+  },
+  {
+    "bandName": "Mayya Shop (เมย่า ช็อป)"
+  },
+  {
+    "bandName": "VintageHawaiiboz (วินเทจฮาวายบอซ)"
+  },
+  {
+    "bandName": "Petit Chien (เพ็ท ทิเชียน)"
+  },
+  {
+    "bandName": "Acme De La Vie (แอคมีเดอลาวี่)"
+  },
+  {
+    "bandName": "Billy  original (บิลลี่ออริจินอล)"
+  },
+  {
+    "bandName": "March Brand (มาร์ช แบรนด์)"
+  },
+  {
+    "bandName": "Champions (แชมเปี้ยน)"
+  },
+  {
+    "bandName": "Penshoppe (เพ็ญชอปปี้)"
+  },
+  {
+    "bandName": "Brokkes.store (บรูกส์สโตร)"
+  },
+  {
+    "bandName": "Glam Div Studio (แกลม ดีไอวี สตูดิโอ)"
+  },
+  {
+    "bandName": "Pun-Wear (ปันแวร์)"
+  },
+  {
+    "bandName": "Nics (นิกส์)"
+  },
+  {
+    "bandName": "K.shirtitem (เคเชิร์ทไอเทม)"
+  },
+  {
+    "bandName": "Hobbs Creek (ฮ๊อบส์ ครีก)"
+  },
+  {
+    "bandName": "Methini (เมธินี)"
+  },
+  {
+    "bandName": "Pomelos (โปเมโล่ส์)"
+  },
+  {
+    "bandName": "Royal Creations (รอยัล เครสชัน)"
+  },
+  {
+    "bandName": "Rai Nani (ไรนานิ)"
+  },
+  {
+    "bandName": "Mikihouse (มิกิเฮาส์)"
+  },
+  {
+    "bandName": "Saddlebred (ซัดเดิ้ลเบรด)"
+  },
+  {
+    "bandName": "Kunlek (คุณเล็ก)"
+  },
+  {
+    "bandName": "J.Crew (เจ.ครูว์)"
+  },
+  {
+    "bandName": "Alie (อาลี)"
+  },
+  {
+    "bandName": "Womwam Official (วอมแวม ออฟฟิเชียล)"
+  },
+  {
+    "bandName": "F&M Collection (เอฟแอนด์เอ็มคอลเลคชั่น)"
+  },
+  {
+    "bandName": "Geeko (จีโก้)"
+  },
+  {
+    "bandName": "Laisin (ไลซิน)"
+  },
+  {
+    "bandName": "Chicos Design (ชิกคอส ดีไซน์)"
+  },
+  {
+    "bandName": "Browning (บราวนิง)"
+  },
+  {
+    "bandName": "On Board (ออนบอร์ด)"
+  },
+  {
+    "bandName": "Paul Fredrick (พอลเฟอร์ริค)"
+  },
+  {
+    "bandName": "Panama Jack (พานามา แจ็ค)"
+  },
+  {
+    "bandName": "High Spirit (ไฮท์ สปิริท)"
+  },
+  {
+    "bandName": "Armani Jeans (อาร์มานี่ จีนส์)"
+  },
+  {
+    "bandName": "Aigle (เอเกิล)"
+  },
+  {
+    "bandName": "Tmbrand (ทีเอ็มแบรนด์)"
+  },
+  {
+    "bandName": "Friday People (ฟรายเดย์ พีเพิล)"
+  },
+  {
+    "bandName": "Grace (เกรซ)"
+  },
+  {
+    "bandName": "Nizhesi (นิเซซิ)"
+  },
+  {
+    "bandName": "Foxtrot (ฟ็อกซ์ทร็อต)"
+  },
+  {
+    "bandName": "Eternal Kula (เอเทอร์นัล คูล่า)"
+  },
+  {
+    "bandName": "Lucky Store Japan (ลัคกี้ สโตร เจแปน)"
+  },
+  {
+    "bandName": "Warrix (วาริกซ์)"
+  },
+  {
+    "bandName": "Lucky Store (ลัคกี้ สโตร)"
+  },
+  {
+    "bandName": "Witford (วิทฟอร์ด)"
+  },
+  {
+    "bandName": "Oniwa Soto (โอนิว่า โซโต้)"
+  },
+  {
+    "bandName": "Takeo Kikuchi (ทาเคโอะ คิคุจิ)"
+  },
+  {
+    "bandName": "Campia Moda (แคมเปียโมดา)"
+  },
+  {
+    "bandName": "Juniinlove (จูนนิอินเลิฟ)"
+  },
+  {
+    "bandName": "Wildblueyonder (ไวลด์บลูยอนเดอร์)"
+  },
+  {
+    "bandName": "K&N (เคแอนด์เอ็น)"
+  },
+  {
+    "bandName": "Adam&Eve (อดัมแอนด์อีฟ)"
+  },
+  {
+    "bandName": "Nice (ไนซ์)"
+  },
+  {
+    "bandName": "Sissy (ซิสซี่)"
+  },
+  {
+    "bandName": "Head Porter Plus (เฮด พอร์ตเตอร์ พลัส)"
+  },
+  {
+    "bandName": "Patagonia (ปาตาโกเนีย)"
+  },
+  {
+    "bandName": "Michiko London (มิชิโกะ ลอนดอน)"
+  },
+  {
+    "bandName": "South Breeze (เซาวท์บรีซ)"
+  },
+  {
+    "bandName": "South Pole (เซาท์โพล)"
+  },
+  {
+    "bandName": "Baffy (เบฟฟี่)"
+  },
+  {
+    "bandName": "Int Course (ไอเอ็นทีคอร์ส)"
+  },
+  {
+    "bandName": "Buffalo Bobs (บัฟฟาโล่บ็อบส์)"
+  },
+  {
+    "bandName": "Crazy Horse (เครซี่ฮอร์ส)"
+  },
+  {
+    "bandName": "Lands End (แลนด์เอนด์)"
+  },
+  {
+    "bandName": "Cotton Reel (คอตตอนรีล)"
+  },
+  {
+    "bandName": "COVINGTON (โควิงตัน)"
+  },
+  {
+    "bandName": "Caribbean Blues (คาริบเบียนบลูส์)"
+  },
+  {
+    "bandName": "Malihini Hawaiian (มาลิฮินี ฮาวายเอี้ยน)"
+  },
+  {
+    "bandName": "MALIHINI HAWAII (มาลิฮินีฮาวาย)"
+  },
+  {
+    "bandName": "Roundtree & Yorke (ราวด์ทรี แอนด์ ยอร์ก)"
+  },
+  {
+    "bandName": "Fjällraven (ฟยัลราเว่น)"
+  },
+  {
+    "bandName": "Bonskip (บอนสคริป)"
+  },
+  {
+    "bandName": "Waugh First (วอชเฟิร์ส)"
+  },
+  {
+    "bandName": "Star Wars (สตาร์ วอร์ส)"
+  },
+  {
+    "bandName": "K&T.Affluent (เคแอนด์ทีแอฟฟลุท)"
+  },
+  {
+    "bandName": "Shine.Shirt (ชายน์เชิ๊ต)"
+  },
+  {
+    "bandName": "Louis Vuitton (หลุยส์ วิตตอง)"
+  },
+  {
+    "bandName": "Beams (บีมส์)"
+  },
+  {
+    "bandName": "96Studio (96สตูดิโอ)"
+  },
+  {
+    "bandName": "F4 (เอฟ-โฟร์)"
+  },
+  {
+    "bandName": "Spirit-One (สปิริต-วัน)"
+  },
+  {
+    "bandName": "Affliga (แอฟฟิลก้า)"
+  },
+  {
+    "bandName": "AFF Liga (เอเอฟเอฟ ลีก้า)"
+  },
+  {
+    "bandName": "White Label (ไวท์ เลเบิล)"
+  },
+  {
+    "bandName": "Hawaii By Pojjananukrom (ฮาวาย บาย พจนานุกรม)"
+  },
+  {
+    "bandName": "Playford (เพลย์ฟอร์ด)"
+  },
+  {
+    "bandName": "Fratello (เฟรเทลโล)"
+  },
+  {
+    "bandName": "I m Lucky Clothing (ไอแอม ลักกี้ โคลติ้ง)"
+  },
+  {
+    "bandName": "Luigi Batani (ลุยจิบาทานี่)"
+  },
+  {
+    "bandName": "Paco Rabanne (ปาโก ราบานน์)"
+  },
+  {
+    "bandName": "Default (ดีฟอลท์)"
+  },
+  {
+    "bandName": "Keawfa (แก้วฟ้า)"
+  },
+  {
+    "bandName": "AKANEs (อากาเนะ)"
+  },
+  {
+    "bandName": "THXQ (ทีเอชเอ็กซ์คิว)"
+  },
+  {
+    "bandName": "Him.Guy (ฮิมเกย์)"
+  },
+  {
+    "bandName": "S-white​ (เอสไวท์)"
+  },
+  {
+    "bandName": "Dadeeshop (ดาดีช๊อป)"
+  },
+  {
+    "bandName": "Gloria Lance (กลอเรีย แลนซ์)"
+  },
+  {
+    "bandName": "Axcess (เอ็กซ์เซส)"
+  },
+  {
+    "bandName": "Somjit (สมจิต)"
+  },
+  {
+    "bandName": "Fruit Of The Loom (ฟรุ๊ต ออฟ เดอะ ลูม)"
+  },
+  {
+    "bandName": "Buriramunited (บุรีรัมย์ยูไนเต็ด)"
+  },
+  {
+    "bandName": "Wy Bangkok (ดับเบิ้ลยูวายแบงคอก)"
+  },
+  {
+    "bandName": "Inflation (อินเฟสชั่น)"
+  },
+  {
+    "bandName": "Hurley (เฮอร์เลย์)"
+  },
+  {
+    "bandName": "PanHard (แพนฮาร์ด)"
+  },
+  {
+    "bandName": "Pegasus (เพกาซัส)"
+  },
+  {
+    "bandName": "Robert Stock (โรเบิร์ต สต็อค)"
+  },
+  {
+    "bandName": "Gecko (เกคโค่)"
+  },
+  {
+    "bandName": "Armystudio (อาร์มี่สตูดิโอ)"
+  },
+  {
+    "bandName": "Crestz Clothing (เครทซ์โค้ทติ้ง)"
+  },
+  {
+    "bandName": "Aheartone (อะฮาร์ทโทน)"
+  },
+  {
+    "bandName": "Design United (ดีไซน์ ยูไนเต็ด)"
+  },
+  {
+    "bandName": "Custom Suits (คัสตอม สูท)"
+  },
+  {
+    "bandName": "Jabba Two (แจ๊บบ้าทู)"
+  },
+  {
+    "bandName": "Vetements (วีทเมนท์)"
+  },
+  {
+    "bandName": "Hom (หอม)"
+  },
+  {
+    "bandName": "Doodeeshirt (ดูดีเซิ้ต)"
+  },
+  {
+    "bandName": "Addict.item (เอดดิกไอเท็ม)"
+  },
+  {
+    "bandName": "Capcom (แคปคอม)"
+  },
+  {
+    "bandName": "Pitak (พิทักษ์)"
+  },
+  {
+    "bandName": "Salt and Valley (ซอลท์แอนด์วอลเลย์)"
+  },
+  {
+    "bandName": "Seed (ซี๊ด)"
+  },
+  {
+    "bandName": "Zippo (ซิปโป้)"
+  },
+  {
+    "bandName": "American Blue (อเมริกันบลู)"
+  },
+  {
+    "bandName": "7 Diamonds (เซเว่น ไดมอนด์)"
+  },
+  {
+    "bandName": "Reunion Menswear (รียูเนี่ยน เมนส์แวร์)"
+  },
+  {
+    "bandName": "Reunion (รียูเนี่ยน)"
+  },
+  {
+    "bandName": "VERDO (เวอร์ดู)"
+  },
+  {
+    "bandName": "Denim 73 (เดนิม 73)"
+  },
+  {
+    "bandName": "Khodlhor (โคตรหล่อ)"
+  },
+  {
+    "bandName": "Gasoline (แก๊สโซลีน)"
+  },
+  {
+    "bandName": "Cube (คิวบ์)"
+  },
+  {
+    "bandName": "The One Concept (เดอะ วัน คอนเซป)"
+  },
+  {
+    "bandName": "Dry Non Iron Shirt (ไดร์นอน ไอรอน เซิ้ต)"
+  },
+  {
+    "bandName": "Yishion (อิชิออน)"
+  },
+  {
+    "bandName": "Voruju (วอรูจู)"
+  },
+  {
+    "bandName": "Khunkris.styler (ครุ่นคริสสไตล์เลอร์)"
+  },
+  {
+    "bandName": "Russ-K (รัสเค)"
+  },
+  {
+    "bandName": "Tough (ทอช)"
+  },
+  {
+    "bandName": "Memo Collections (เมมโม่ คอลเลคชั่น)"
+  },
+  {
+    "bandName": "Scoop Club (สกู๊ปคลับ)"
+  },
+  {
+    "bandName": "On-Street (ออนสตรีท)"
+  },
+  {
+    "bandName": "ADAN (เอดีเอเอ็น)"
+  },
+  {
+    "bandName": "WD & Juno (ดับบลิวดีแอนด์จูโน)"
+  },
+  {
+    "bandName": "Fukuya (ฟูคุญ่า)"
+  },
+  {
+    "bandName": "His Selector (ฮิสซีเล็กเตอร์)"
+  },
+  {
+    "bandName": "D.B.Jeans (ดีบียีนส์)"
+  },
+  {
+    "bandName": "G Rageblue (จีเรกจ์บลู)"
+  },
+  {
+    "bandName": "TK Mixpice (ทีเค มิกซ์พิค)"
+  },
+  {
+    "bandName": "Kent (เคนท์)"
+  },
+  {
+    "bandName": "Nicola Valentino (นิโคล่าวาเลนติโน่)"
+  },
+  {
+    "bandName": "Bizart (บิซาร์ต)"
+  },
+  {
+    "bandName": "Mc (แมค)"
+  },
+  {
+    "bandName": "Double Focus (ดับเบิ้ล โฟกัส)"
+  },
+  {
+    "bandName": "Max Homme (แม็ก ฮอม)"
+  },
+  {
+    "bandName": "LMC (แอลเอ็มซี)"
+  },
+  {
+    "bandName": "Asics (เอสิคส์)"
+  },
+  {
+    "bandName": "G Land Extreme (จีแลนด์ เอ็กซ์ตรีม)"
+  },
+  {
+    "bandName": "Clothing (โคลทติ้ง)"
+  },
+  {
+    "bandName": "Zaac (แซค)"
+  },
+  {
+    "bandName": "Goodday (กู้ดเดย์)"
+  },
+  {
+    "bandName": "Simply Charming (ซิมพลาย ชาร์มมิ่ง)"
+  },
+  {
+    "bandName": "Goyard (โกยาร์ด)"
+  },
+  {
+    "bandName": "Sur Club (เซอร์คลับ)"
+  },
+  {
+    "bandName": "Newchic (นิวชิค)"
+  },
+  {
+    "bandName": "Windup Dolls (ไวด์อัพดอลส์)"
+  },
+  {
+    "bandName": "Mafia (มาเฟีย)"
+  },
+  {
+    "bandName": "Atc (เอทีซี)"
+  },
+  {
+    "bandName": "Guloveshirt (กูเลิฟเชิร์ต)"
+  },
+  {
+    "bandName": "Kathie Lee Collection (เคธี่ลีคอลเลคชั่น)"
+  },
+  {
+    "bandName": "Hooked (ฮุก)"
+  },
+  {
+    "bandName": "Windupdolls (วินด์อัพดอลล์)"
+  },
+  {
+    "bandName": "David Jaylor (เดวิดเจย์ลอร์)"
+  },
+  {
+    "bandName": "Denver Hayes (เดนเวอร์ ฮาเยส)"
+  },
+  {
+    "bandName": "KACHARI (กาชาริ)"
+  },
+  {
+    "bandName": "Pataloha (พาตาโลฮ่า)"
+  },
+  {
+    "bandName": "Off Road (ออฟโรด)"
+  },
+  {
+    "bandName": "ZK Shop Wardrobe (ซีเคช็อปวอร์บโรบ)"
+  },
+  {
+    "bandName": "Fineclothshirt (ไฟน์โคลธเชิ้ต)"
+  },
+  {
+    "bandName": "Zurrreal (เซอรเรียล)"
+  },
+  {
+    "bandName": "Diamond head (ไดมอนด์เฮด)"
+  },
+  {
+    "bandName": "Regal Friend (รีกัล เฟรนด์)"
+  },
+  {
+    "bandName": "Pronto (พรอนโต้)"
+  },
+  {
+    "bandName": "Gap Kids (แก็บคิดส์)"
+  },
+  {
+    "bandName": "Palette (พาเลท)"
+  },
+  {
+    "bandName": "Rizhon (ริซอน)"
+  },
+  {
+    "bandName": "FREQ WEAR (ฟรีแวร์)"
+  },
+  {
+    "bandName": "Red Clasper (เรด คลาสเปอร์)"
+  },
+  {
+    "bandName": "Celio (เซลิโอ)"
+  },
+  {
+    "bandName": "Maison Kitsune (ไมสัน คิตสึเนะ)"
+  },
+  {
+    "bandName": "Scrum 03 (สครัม03)"
+  },
+  {
+    "bandName": "Kpop Star Oppa style (เคป๊อป สตาร์ โอปป้า สไตล์)"
+  },
+  {
+    "bandName": "Hola Hawaii (โฮลา ฮาวาย)"
+  },
+  {
+    "bandName": "Manfair (แมนแฟร์)"
+  },
+  {
+    "bandName": "Mainichi (ไมนิจิ)"
+  },
+  {
+    "bandName": "MB Clothing (เอ็มบีโคลทติ้ง)"
+  },
+  {
+    "bandName": "Failanna (ฝ้ายล้านนา)"
+  },
+  {
+    "bandName": "Arizona (อาริโซน่า)"
+  },
+  {
+    "bandName": "Chamniii (แชมนิ)"
+  },
+  {
+    "bandName": "Manit (มานิตย์)"
+  },
+  {
+    "bandName": "A&R (เอแอนด์อาร์)"
+  },
+  {
+    "bandName": "Hofstore (ฮอฟสโตร์)"
+  },
+  {
+    "bandName": "Cabbeen (แคบบีน)"
+  },
+  {
+    "bandName": "M.Zakee (เอ็มซากี)"
+  },
+  {
+    "bandName": "Concept (คอนเช็ป)"
+  },
+  {
+    "bandName": "MC Sport (เอ็มซี สปอร์ต)"
+  },
+  {
+    "bandName": "TNP Thanapand (ฐานะภัณฑ์)"
+  },
+  {
+    "bandName": "Up Q (อัพคิว)"
+  },
+  {
+    "bandName": "Creation Hawaii (ครีเอชั่นฮาวาย)"
+  },
+  {
+    "bandName": "Islandshore (ไอแลนด์ชอร์)"
+  },
+  {
+    "bandName": "Montage (มองทาจ)"
+  },
+  {
+    "bandName": "Bill Blass (บิลล์แบลส)"
+  },
+  {
+    "bandName": "PINK PVSSY (พิงค์ พุซซี)"
+  },
+  {
+    "bandName": "Margaritaville (มาการิต้าวิลล์)"
+  },
+  {
+    "bandName": "Purin (ภูริน)"
+  },
+  {
+    "bandName": "Le Beau (เลอบัว)"
+  },
+  {
+    "bandName": "Jones New York (โจนส์นิวยอร์ค)"
+  },
+  {
+    "bandName": "Jean Rive (ยีน รีฟ)"
+  },
+  {
+    "bandName": "Shirtfolding (เชิ้ตโฟลดิ้ง)"
+  },
+  {
+    "bandName": "Burton (เบอร์ตัน)"
+  },
+  {
+    "bandName": "Bornfly (บอร์นฟลาย)"
+  },
+  {
+    "bandName": "PJC (พีเจซี)"
+  },
+  {
+    "bandName": "K&B (เคแอนด์บี)"
+  },
+  {
+    "bandName": "Jagermeister (เยเกอร์ไมสเตอร์)"
+  },
+  {
+    "bandName": "Eden Park Team (อีเดนพาร์คทีม)"
+  },
+  {
+    "bandName": "Boss Lifestyle (บอส ไลฟ์สไตล์)"
+  },
+  {
+    "bandName": "Bugleboy (บูเกิ้ลบอย)"
+  },
+  {
+    "bandName": "Marvel (มาร์เวล)"
+  },
+  {
+    "bandName": "Buzz Rickson (บัซริคสัน)"
+  },
+  {
+    "bandName": "Styley Jeans (สไตเลย์ยีนส์)"
+  },
+  {
+    "bandName": "Hamburger Studio (แฮมเบอร์เกอร์ สตูดิโอ)"
+  },
+  {
+    "bandName": "Only Brand (โอนลี่แบรนด์)"
+  },
+  {
+    "bandName": "Tommy (ทอมมี)"
+  },
+  {
+    "bandName": "Volume X (วอลลุ่มเอ็กซ์)"
+  },
+  {
+    "bandName": "EDC (อีดีซี)"
+  },
+  {
+    "bandName": "Psycho Bunny (ไซโค บันนี่)"
+  },
+  {
+    "bandName": "Awesome (ออซัม)"
+  },
+  {
+    "bandName": "S A C Bangkok (เอสเอซีแบงคอก)"
+  },
+  {
+    "bandName": "Commontage (คอมมอนเทจ)"
+  },
+  {
+    "bandName": "Intermezzo (อินเตอร์ เมซโซ)"
+  },
+  {
+    "bandName": "Valente Polo Club (วาเลนเต้ โปโล คลับ)"
+  },
+  {
+    "bandName": "Emilio Valentino (เอมิลิโอวาเลนติโน่)"
+  },
+  {
+    "bandName": "Hazard (เเฮซเซิร์ด)"
+  },
+  {
+    "bandName": "Austin Reed (ออสติน รี้ด)"
+  },
+  {
+    "bandName": "Lovelivelife (เลิฟไลฟ์ไลฟ์)"
+  },
+  {
+    "bandName": "Moschino (มอสคิโน)"
+  },
+  {
+    "bandName": "Great Gatsby (เกรทแก๊สบี้)"
+  },
+  {
+    "bandName": "Amy (เอมี่)"
+  },
+  {
+    "bandName": "Topnotch (ท็อปนอทช)"
+  },
+  {
+    "bandName": "Marrow​ Club (มาโลคลับ)"
+  },
+  {
+    "bandName": "Dandy Cosmo (แดนดี้ คอสโม่)"
+  },
+  {
+    "bandName": "Scotch& (สก๊อตแอนด์โซดา)"
+  },
+  {
+    "bandName": "blue blue (บลู บลู)"
+  },
+  {
+    "bandName": "Uomo collezioni (ยูโอโม่โคเลซิโอนิ)"
+  },
+  {
+    "bandName": "Messori (เมสโซริ)"
+  },
+  {
+    "bandName": "Insanebrand (อินแซนแบรนด์)"
+  },
+  {
+    "bandName": "Insane Brand (อินเสน แบรนด์)"
+  },
+  {
+    "bandName": "French Connection (เฟรนช์ คอนเลคชั่น)"
+  },
+  {
+    "bandName": "Club​ Monaco (คลับ โมนาโก)"
+  },
+  {
+    "bandName": "Milano Bay (มิลาโน เบย์)"
+  },
+  {
+    "bandName": "Alligator (แอลลิเกเตอร์)"
+  },
+  {
+    "bandName": "Ken Uniform (เคน ยูนิฟอร์ม)"
+  },
+  {
+    "bandName": "Pal zileri (พัลซิลารี่)"
+  },
+  {
+    "bandName": "Ben Sherman (เบน เชอร์แมน)"
+  },
+  {
+    "bandName": "Erika (เอริก้า)"
+  },
+  {
+    "bandName": "Enro Traditions (เอนโร เทรดิชั่น)"
+  },
+  {
+    "bandName": "Versace (เวอซาเช่)"
+  },
+  {
+    "bandName": "Coolplusmen (คูลพลัสเมน)"
+  },
+  {
+    "bandName": "Aquascutum (อควาสคิวตัม)"
+  },
+  {
+    "bandName": "DELON (เดอลอง)"
+  },
+  {
+    "bandName": "Rodeo​ Crowns (โรดิโอคราวน์)"
+  },
+  {
+    "bandName": "Semantic​ Design (เซแมนติคดีไซน์)"
+  },
+  {
+    "bandName": "Blue Cross (บลูครอส)"
+  },
+  {
+    "bandName": "Mens​ Bigi (เมน บิกิ)"
+  },
+  {
+    "bandName": "T&C Surf Designs (ทีแอนด์ซี ซัวฟ์ ดีไซน์)"
+  },
+  {
+    "bandName": "PPFM (พีพีเอฟเอ็ม)"
+  },
+  {
+    "bandName": "Maikaew (ไหมแก้ว)"
+  },
+  {
+    "bandName": "Phatural (ฟาทูรอล)"
+  },
+  {
+    "bandName": "CRAFT​ WORK (คราฟท์เวิร์ค)"
+  },
+  {
+    "bandName": "Cosby (คอสบี้)"
+  },
+  {
+    "bandName": "Mens Club Jeans (เมนคลับยีนส์)"
+  },
+  {
+    "bandName": "Thai Basik (ไฑ บาติก)"
+  },
+  {
+    "bandName": "RJ Clothings (อาร์เจ โคลติ้ง)"
+  },
+  {
+    "bandName": "SheIn (ชีอิน)"
+  },
+  {
+    "bandName": "Bluecorner (บลูคอร์เนอร์)"
+  },
+  {
+    "bandName": "Marquis (มาร์ควิส)"
+  },
+  {
+    "bandName": "Hahar (ฮาฮาร์)"
+  },
+  {
+    "bandName": "Cleveland (คลีฟแลนด์)"
+  },
+  {
+    "bandName": "The May Club (เดอะเมย์คลับ)"
+  },
+  {
+    "bandName": "Bizone (บิโซน)"
+  },
+  {
+    "bandName": "Cotton Club (คอตตอน คลับ)"
+  },
+  {
+    "bandName": "Great American Body (เกรท อเมริกัน บอดี้)"
+  },
+  {
+    "bandName": "Boul De Basque (โบล เดอ บาสคิว)"
+  },
+  {
+    "bandName": "Smart (สมาร์ท)"
+  },
+  {
+    "bandName": "Twentysecond (ทเวนตี้เซคเคิล)"
+  },
+  {
+    "bandName": "Big Save (บิ๊ก เซฟ)"
+  },
+  {
+    "bandName": "Chanaphat (ชนาภัทร)"
+  },
+  {
+    "bandName": "Six P.M. (ซิก พี.เอ็ม)"
+  },
+  {
+    "bandName": "Work​ Threextou​ (เวิร์ค ทรีทู)"
+  },
+  {
+    "bandName": "Tulsa Time (ทัลซ่า ไทม์)"
+  },
+  {
+    "bandName": "Espera (เอสเปร่า)"
+  },
+  {
+    "bandName": "Ration Laveur (เรชั่นลาเวียร์)"
+  },
+  {
+    "bandName": "Comme Ca Lsm (คอมมี คา อิสซึม)"
+  },
+  {
+    "bandName": "RUSH HOUR (รัช-อาวเวอร์)"
+  },
+  {
+    "bandName": "Coen Daily Clothing (เฉียนเดลี่โคทติ้ง)"
+  },
+  {
+    "bandName": "Rugged (ลักเกจ)"
+  },
+  {
+    "bandName": "MNO.9 (เอ็มเอ็นโอไนน์)"
+  },
+  {
+    "bandName": "Keeler Bay (คีเลอร์เบย์)"
+  },
+  {
+    "bandName": "Gotcha (ก๊อตช่า)"
+  },
+  {
+    "bandName": "Boston traders (บอสตันเทรดเดอร์)"
+  },
+  {
+    "bandName": "The White Night (เดอะไวท์ไนท์)"
+  },
+  {
+    "bandName": "Ted Baker (เท็ด เบเกอร์)"
+  },
+  {
+    "bandName": "Sasch (ซาซส์)"
+  },
+  {
+    "bandName": "Warp (วาร์ป)"
+  },
+  {
+    "bandName": "Lawyer (ลอว์เยอร์)"
+  },
+  {
+    "bandName": "Tonaor (ต้นอ้อ)"
+  },
+  {
+    "bandName": "Mc Gregor (แมคเกรเกอร์)"
+  },
+  {
+    "bandName": "Combicare (คอมบิแคร์)"
+  },
+  {
+    "bandName": "Liberty London (ไลเบอตี้ลอนดอน)"
+  },
+  {
+    "bandName": "Animal House By Greyhound (เอนิมอลเฮาส์บายเกรฮาวด์)"
+  },
+  {
+    "bandName": "SBS (เอสบีเอส)"
+  },
+  {
+    "bandName": "Cullinan (คัลลิแนน)"
+  },
+  {
+    "bandName": "COS (ซีโอเอส)"
+  },
+  {
+    "bandName": "A.P.C (เอพีซี)"
+  },
+  {
+    "bandName": "Platinum Shop (แพลทตินั่มช๊อป)"
+  },
+  {
+    "bandName": "Unionmade77 (ยูเนี่ยนเมด77)"
+  },
+  {
+    "bandName": "CEO Brand (ซีอีโอ แบรนด์)"
+  },
+  {
+    "bandName": "Oasismine (โอเอซิสมายน์)"
+  },
+  {
+    "bandName": "Le Coq Sportif (เลอ ค็อก สปอร์ทิฟ)"
+  },
+  {
+    "bandName": "Sven Shop (เซเว่น ช็อป)"
+  },
+  {
+    "bandName": "Dunhill (ดันฮิลล์)"
+  },
+  {
+    "bandName": "Empolham (เอ็มโพลัม)"
+  },
+  {
+    "bandName": "Urthe (ยูอาร์เดอะ)"
+  },
+  {
+    "bandName": "Homeboy (โฮมบอย)"
+  },
+  {
+    "bandName": "KYS (เควายเอส)"
+  },
+  {
+    "bandName": "Gallop (แกลลอป)"
+  },
+  {
+    "bandName": "Dosmart (ดอสมาร์ท)"
+  },
+  {
+    "bandName": "Travel Smith (ทราเวลสมิท)"
+  },
+  {
+    "bandName": "Itokin Minna (อิโทคิน มินน่า)"
+  },
+  {
+    "bandName": "The Common Muse (เดอะ คอมมอน มิวส์)"
+  },
+  {
+    "bandName": "Kool Mix (คูลมิกซ์)"
+  },
+  {
+    "bandName": "Alex (อเล็กซ์)"
+  },
+  {
+    "bandName": "Georges Rech (จอร์ดจสเรช)"
+  },
+  {
+    "bandName": "Emporio Armani (เอ็มโพริโอ อาร์มานี่)"
+  },
+  {
+    "bandName": "Brioni (บริโอนี)"
+  },
+  {
+    "bandName": "Worthington (วอร์ทิงตัน)"
+  },
+  {
+    "bandName": "Peter (ปีเตอร์)"
+  },
+  {
+    "bandName": "Blue Street (บลู สตรีท)"
+  },
+  {
+    "bandName": "SP Shop (เอสพี ช็อป)"
+  },
+  {
+    "bandName": "Freude (ฟร็อยท์)"
+  },
+  {
+    "bandName": "Hemp Stories (เฮมป์ สตอรี่)"
+  },
+  {
+    "bandName": "Charisma (คาริสม่า)"
+  },
+  {
+    "bandName": "Snap Jeans (สแนปยีนส์)"
+  },
+  {
+    "bandName": "Ugiz (ยูจิส)"
+  },
+  {
+    "bandName": "Eszada (เอสซาด้า)"
+  },
+  {
+    "bandName": "Switch Man (สวิชท์แมน)"
+  },
+  {
+    "bandName": "Jack & Jill (แจ็ค แอนด์ จิลล์)"
+  },
+  {
+    "bandName": "Heidis Secret (ไฮดิส ซีเคร็ท)"
+  },
+  {
+    "bandName": "HD Playground (เอชดี เพลย์กราวด์)"
+  },
+  {
+    "bandName": "Mixy (ไมซี่)"
+  },
+  {
+    "bandName": "PTT (พีทีที)"
+  },
+  {
+    "bandName": "YPY (วายพีวาย)"
+  },
+  {
+    "bandName": "MLB (เอ็มแอลบี)"
+  },
+  {
+    "bandName": "Structure (สตรัคเจอร์)"
+  },
+  {
+    "bandName": "SNAPS (สแน็ปซ์)"
+  },
+  {
+    "bandName": "Parkland (พาร์คแลนด์)"
+  },
+  {
+    "bandName": "GQSize (จีคิวไซส์)"
+  },
+  {
+    "bandName": "Que (คิว)"
+  },
+  {
+    "bandName": "Tim & Co (ทิมแอนด์โค)"
+  },
+  {
+    "bandName": "Winsent Shop (วินเซ็นท์ช็อป)"
+  },
+  {
+    "bandName": "Altbeny (ออลเบนี่)"
+  },
+  {
+    "bandName": "Thomas Taylor (โทมัส เทย์เลอร์)"
+  },
+  {
+    "bandName": "BHPC (บีเอชพีซี)"
+  },
+  {
+    "bandName": "Huak Brand (ฮวกแบรนด์)"
+  },
+  {
+    "bandName": "Picha Shop (พิชฌาช็อป)"
+  },
+  {
+    "bandName": "Coca Cola (โคคาโคล่า)"
+  },
+  {
+    "bandName": "Mmcoolshop (เอ็มเอ็มคูลช็อป)"
+  },
+  {
+    "bandName": "Topten (ท็อปเทน)"
+  },
+  {
+    "bandName": "Haas (แฮส)"
+  },
+  {
+    "bandName": "Nipon (นิพนธ์)"
+  },
+  {
+    "bandName": "Hoka One One (โฮก้า วัน วัน)"
+  },
+  {
+    "bandName": "Anata MeKin (อนาตะมีคิน)"
+  },
+  {
+    "bandName": "Ralph​ Lauren​ (ราล์ฟ ลอเรน)"
+  },
+  {
+    "bandName": "Sompanshop (ส้มแป้นช็อป)"
+  },
+  {
+    "bandName": "LM Menswear (แอลเอ็ม แมนส์เแวร์)"
+  },
+  {
+    "bandName": "Phung-To (พุงโต)"
+  },
+  {
+    "bandName": "Beanpole (บีนโพล)"
+  },
+  {
+    "bandName": "Guide Series (ไกด์ ซีรี่ย์)"
+  },
+  {
+    "bandName": "Phashii (ฟาชิ)"
+  },
+  {
+    "bandName": "Edwin (เอ็ดวิน)"
+  },
+  {
+    "bandName": "Bigman Collection (บิ๊กแมน คอลเลคชั่น)"
+  },
+  {
+    "bandName": "Goodfellow &Co (กู๊ดเฟลโล่แอนด์โค)"
+  },
+  {
+    "bandName": "Kennington (เคนนิงตัน)"
+  },
+  {
+    "bandName": "Jos A Bank (จอสเอแบงก์)"
+  },
+  {
+    "bandName": "Protocol (โปรโตคอล)"
+  },
+  {
+    "bandName": "Yamaha (ยามาฮ่า)"
+  },
+  {
+    "bandName": "Dolce & Gabbana (โดลเช่ แอนด์ กาบบานา)"
+  },
+  {
+    "bandName": "Saenzabye (แสนสบาย)"
+  },
+  {
+    "bandName": "Hmam Design (เอชแมมดีไซน์)"
+  },
+  {
+    "bandName": "Noonice (นู๋ไนซ์)"
+  },
+  {
+    "bandName": "US Expedition (ยูเอส เอ็กพิดิชั่น)"
+  },
+  {
+    "bandName": "Earth Yield (เอิร์ธยีลด์)"
+  },
+  {
+    "bandName": "J.Jill (เจจิลล์)"
+  },
+  {
+    "bandName": "The Freckled Market (เดอะเฟล็ดเคล็ดมาร์เก็ต)"
+  },
+  {
+    "bandName": "TSB (ทีเอสบี)"
+  },
+  {
+    "bandName": "Toys McCoy (ทอยส์ แมคคอย)"
+  },
+  {
+    "bandName": "Nascar (นาสคาร์)"
+  },
+  {
+    "bandName": "Mini Me (มินิมี)"
+  },
+  {
+    "bandName": "Stride (สไตรด์)"
+  },
+  {
+    "bandName": "Brusel (บรัสเซลส์)"
+  },
+  {
+    "bandName": "Panngam (พรรณงาม)"
+  },
+  {
+    "bandName": "Natha.official (ณัฐถาออฟฟิเชี่ยล)"
+  },
+  {
+    "bandName": "ROFFLE (รอฟเฟอร์)"
+  },
+  {
+    "bandName": "Nok shirt (นกเชิ้ต)"
+  },
+  {
+    "bandName": "Y-Land (วายแลนด์)"
+  },
+  {
+    "bandName": "OVS (โอวีเอส)"
+  },
+  {
+    "bandName": "Jockey Underwear (จ็อคกี้ อันเดอร์แวร์)"
+  },
+  {
+    "bandName": "K Shirtitem (เค เซิ้ตไอเท็ม)"
+  },
+  {
+    "bandName": "Mysteryshop (มายสเตรี่ช็อป)"
+  },
+  {
+    "bandName": "CL (ซีแอล)"
+  },
+  {
+    "bandName": "Palm​ Wave (ปาล์มเวฟ)"
+  },
+  {
+    "bandName": "I Miller (มิเลอร์)"
+  },
+  {
+    "bandName": "R&Y (อาร์ แอนด์วาย)"
+  },
+  {
+    "bandName": "Arkis (อาร์คิส)"
+  },
+  {
+    "bandName": "Hilo Hattie (ไฮโลแฮตตี้)"
+  },
+  {
+    "bandName": "Batik​ Bay (บาติก เบย์)"
+  },
+  {
+    "bandName": "Aloha​ Republic (อโลฮารีพับบลิค)"
+  },
+  {
+    "bandName": "Sfare (เอสแฟร์)"
+  },
+  {
+    "bandName": "Bank&Boss (แบงค์แอนด์บอส)"
+  },
+  {
+    "bandName": "Helios (ฮีเลียส)"
+  },
+  {
+    "bandName": "The Flat Head (เดอะ แฟลต เฮด)"
+  },
+  {
+    "bandName": "Redskin​ (เร็ดสกิน)"
+  },
+  {
+    "bandName": "GORGEOUS​ (กรอเจียส์)"
+  },
+  {
+    "bandName": "JAP Collection (แจ็บส์ คอลเลคชัน)"
+  },
+  {
+    "bandName": "FSBN (เอฟเอสบีเอ็น)"
+  },
+  {
+    "bandName": "34 Seconds (34 เซคเคิน)"
+  },
+  {
+    "bandName": "Sag Harbor (แซกฮาร์เบอร์)"
+  },
+  {
+    "bandName": "White Stag (ไวท์สแต็ก)"
+  },
+  {
+    "bandName": "Baby Banana (เบบี้บานาน่า)"
+  },
+  {
+    "bandName": "Dejtosapak (เดชทศพักตร์)"
+  },
+  {
+    "bandName": "Grand Sport (แกรนด์สปอร์ต)"
+  },
+  {
+    "bandName": "AJ Club (เอเจ คลับ)"
+  },
+  {
+    "bandName": "Thruxton (ธรัสตัน)"
+  },
+  {
+    "bandName": "OMKE (โอเอ็มเคอี)"
+  },
+  {
+    "bandName": "Camp (แคมป์)"
+  },
+  {
+    "bandName": "Croft & Barrow (ครอฟต์ & บาร์โร)"
+  },
+  {
+    "bandName": "Bigyeaw (บิ๊กเหยี่ยว)"
+  },
+  {
+    "bandName": "Tamabrand​ (ทามะแบรนด์)"
+  },
+  {
+    "bandName": "Wacko Maria (แว็กโก้มาเรีย)"
+  },
+  {
+    "bandName": "Paolo Pescara (เปาโลเพสคาร่า)"
+  },
+  {
+    "bandName": "Valentino (วาเลนติโน่)"
+  },
+  {
+    "bandName": "Amani (อามานิ)"
+  },
+  {
+    "bandName": "FG (เอฟจี)"
+  },
+  {
+    "bandName": "Asos (เอซอส)"
+  },
+  {
+    "bandName": "Bonheur (บอนเนอร์)"
+  },
+  {
+    "bandName": "Basic Editions (เบสิค เอดิชั่น)"
+  },
+  {
+    "bandName": "Gant (แกนท์)"
+  },
+  {
+    "bandName": "Birman (เบอร์แมน)"
+  },
+  {
+    "bandName": "Alanstuart (อลันสจ๊วต)"
+  },
+  {
+    "bandName": "Flat2112 (แฟรท2112)"
+  },
+  {
+    "bandName": "Flat shop (ฟราท ช๊อป)"
+  },
+  {
+    "bandName": "Jaritthai (จริตไทย)"
+  },
+  {
+    "bandName": "EXPRESS (เอ๊กซ์เพรส)"
+  },
+  {
+    "bandName": "Victorious Homme (วิคทอเรียส โฮมมี่)"
+  },
+  {
+    "bandName": "Itch (อิช)"
+  },
+  {
+    "bandName": "Roundtree&Yorke (ราวด์ทรีแอนด์ยอร์คกี้)"
+  },
+  {
+    "bandName": "DEPPER (เดปเปอร์)"
+  },
+  {
+    "bandName": "Msetstyle (เอมเซ็ทสไตล์)"
+  },
+  {
+    "bandName": "Wingrate (วินเกรท)"
+  },
+  {
+    "bandName": "Maurices (มอริส)"
+  },
+  {
+    "bandName": "Coach (โคช)"
+  },
+  {
+    "bandName": "Kirkland​ (เคิร์กแลนด์)"
+  },
+  {
+    "bandName": "Lowes (โลเวส)"
+  },
+  {
+    "bandName": "Spicy Disc (สไปร์ซซี่ ดิสก์)"
+  },
+  {
+    "bandName": "Notations (โนเทชั่น)"
+  },
+  {
+    "bandName": "Natural Reflections (เนเชอรัล รีเฟล็กชั่น)"
+  },
+  {
+    "bandName": "Whan Huen Fai (แหวนเฮือนฝ้าย)"
+  },
+  {
+    "bandName": "Be fresh (บีเฟรช)"
+  },
+  {
+    "bandName": "Design Works (ดีไซน์เวิก)"
+  },
+  {
+    "bandName": "A-DL (เอดีแอล)"
+  },
+  {
+    "bandName": "Riscatto (ริสแคทโต้)"
+  },
+  {
+    "bandName": "H Bar C Ranchwear (เอชบาร์ซี แรนช์แวร์)"
+  },
+  {
+    "bandName": "Fiberops (ไฟเบอรอปส์)"
+  },
+  {
+    "bandName": "DieSelCo (ดีเซลโค)"
+  },
+  {
+    "bandName": "Rechao (รีเชา)"
+  },
+  {
+    "bandName": "J Riggings (เจริกกิ้งส์)"
+  },
+  {
+    "bandName": "Feitong (เฟตอง)"
+  },
+  {
+    "bandName": "Richiee Rich (ริชชี่ริช)"
+  },
+  {
+    "bandName": "Richy Rich (ริชี่ริซ)"
+  },
+  {
+    "bandName": "Orcan (ออร์แกน)"
+  },
+  {
+    "bandName": "Second (เซคเคิน)"
+  },
+  {
+    "bandName": "D A R K (ดาร์ค)"
+  },
+  {
+    "bandName": "Mr Junko (มิสเตอร์จุนโกะ)"
+  },
+  {
+    "bandName": "MR.JUNKO (นายจุนโกะ)"
+  },
+  {
+    "bandName": "Choego (โชว์โก)"
+  },
+  {
+    "bandName": "Allibas (อัลลิบาส)"
+  },
+  {
+    "bandName": "Glove House (โกลฟเฮาส์)"
+  },
+  {
+    "bandName": "Seize (ซีท)"
+  },
+  {
+    "bandName": "Nine West (ไนน์ เวสท์)"
+  },
+  {
+    "bandName": "Dadong (ดาดอง)"
+  },
+  {
+    "bandName": "Thawans (ถวัลย์)"
+  },
+  {
+    "bandName": "Warp Street (วาร์ป สตรีท)"
+  },
+  {
+    "bandName": "WarpStreet (แร็พสตรีท)"
+  },
+  {
+    "bandName": "MK Style (เอ็มเค สไตล์)"
+  },
+  {
+    "bandName": "Maximus Roma (แม็กซิมัส โรมา)"
+  },
+  {
+    "bandName": "JK Phoenix Shirts (เจเคฟินิกซ์เชิ้ต)"
+  },
+  {
+    "bandName": "Haversack (แฮฟเวอร์เเซ็ค)"
+  },
+  {
+    "bandName": "Kenneth Cole Reaction (เคนเนธ โคล รีแอ๊คชั่น)"
+  },
+  {
+    "bandName": "HOLIN (โฮลิน)"
+  },
+  {
+    "bandName": "Uniqueform (ยูนิคฟอร์ม)"
+  },
+  {
+    "bandName": "Marow Club (มาโรว์ คลับ)"
+  },
+  {
+    "bandName": "Mudd (มัดด์)"
+  },
+  {
+    "bandName": "Primark (ไพร์มาร์ค)"
+  },
+  {
+    "bandName": "Namsamai (นำสมัย)"
+  },
+  {
+    "bandName": "Peter Kelly (ปีเตอร์ เคลลี)"
+  },
+  {
+    "bandName": "One Piece (วันพีช)"
+  },
+  {
+    "bandName": "Keven (เคเว่น)"
+  },
+  {
+    "bandName": "Coleman (โคลแมน)"
+  },
+  {
+    "bandName": "Fender (เฟนเดอร์)"
+  },
+  {
+    "bandName": "Suika (ซุยกะ)"
+  },
+  {
+    "bandName": "Socolow (โซโคโลว์)"
+  },
+  {
+    "bandName": "Goonoo (กูร์นูร์)"
+  },
+  {
+    "bandName": "Louis Semillon (หลุยส์ เซมิลเลียน)"
+  },
+  {
+    "bandName": "Hof (ฮอฟ)"
+  },
+  {
+    "bandName": "Guccigu (กุดชี)"
+  },
+  {
+    "bandName": "Xside (เอ็กไซด์)"
+  },
+  {
+    "bandName": "Bamboo Cay (แบมบู เค)"
+  },
+  {
+    "bandName": "Dark (ดาร์ก)"
+  },
+  {
+    "bandName": "Alfani (อัลฟานี)"
+  },
+  {
+    "bandName": "Pianista Da G (ปิแอนนิสต้า ดา จี)"
+  },
+  {
+    "bandName": "HUM (ฮัม)"
+  },
+  {
+    "bandName": "Once31 (วันส์เทอร์ตี้ทรี)"
+  },
+  {
+    "bandName": "GOT7 Shirt (ก็อทเซเว่น เชิ้ต)"
+  },
+  {
+    "bandName": "Vessel Brand (เวทแซสแบรนด์)"
+  },
+  {
+    "bandName": "Winchester (วินชีสเตอ)"
+  },
+  {
+    "bandName": "Chubbers (ชอปเบอส)"
+  },
+  {
+    "bandName": "Paolo Gucci (ออมอก ซี่)"
+  },
+  {
+    "bandName": "Bar lll (บาร์ ที)"
+  },
+  {
+    "bandName": "Suit DD (สูทดีดี)"
+  },
+  {
+    "bandName": "Dex (เด็กซ์)"
+  },
+  {
+    "bandName": "Rock Jeans (ร็อคยีนส์)"
+  },
+  {
+    "bandName": "Set Up (เซ็ตอัพ)"
+  },
+  {
+    "bandName": "Pomelo (โพเมโล่)"
+  },
+  {
+    "bandName": "Key West Fashions (คีย์เวสแฟชั่น)"
+  },
+  {
+    "bandName": "Amplify (แอมพลิฟาย)"
+  },
+  {
+    "bandName": "Campuscrew (แคมพลัสคริว)"
+  },
+  {
+    "bandName": "Chanavin (ชนาวิน)"
+  },
+  {
+    "bandName": "KK Collection (เคเค คอลเลคชั่น)"
+  },
+  {
+    "bandName": "Onyva (องนีวา)"
+  },
+  {
+    "bandName": "Rubie (รูบิ้)"
+  },
+  {
+    "bandName": "Skelly (สเกลลี่)"
+  },
+  {
+    "bandName": "Piger Works (ไพเกอร์ เวิร์ค)"
+  },
+  {
+    "bandName": "Hanauma Bay (ฮานอม่า เบย์)"
+  },
+  {
+    "bandName": "Jambangee Jeans (จัมบันจี ยีนส์)"
+  },
+  {
+    "bandName": "Michel Klein (มิเชล ไคลน์)"
+  },
+  {
+    "bandName": "Ssap (เอสเอสเอพี)"
+  },
+  {
+    "bandName": "Working Uniform (เวิร์คกิ้ง ยูนิฟอร์ม)"
+  },
+  {
+    "bandName": "Mmc Marvel (เอ็มเอ็มซีมาร์เวล)"
+  },
+  {
+    "bandName": "Rosso (รอซโซ่)"
+  },
+  {
+    "bandName": "Reform (รีฟอร์ม)"
+  },
+  {
+    "bandName": "Cintas (ซินตัส)"
+  },
+  {
+    "bandName": "Wearguard (แวการ์ด)"
+  },
+  {
+    "bandName": "Reform Suit (รีฟอร์ม สูท)"
+  },
+  {
+    "bandName": "Crook&​Castles (ครูกแอนด์คาสเทิล)"
+  },
+  {
+    "bandName": "Honda (ฮอนด้า)"
+  },
+  {
+    "bandName": "Roselani (โรสลานิ)"
+  },
+  {
+    "bandName": "Jacsh (แจช)"
+  },
+  {
+    "bandName": "Smano (สมาโน)"
+  },
+  {
+    "bandName": "Dream Apparel (ดรีม แอพพาเรล)"
+  },
+  {
+    "bandName": "WestCoast​Choppet​ (เวสต์โคสต์​)"
+  },
+  {
+    "bandName": "Jimthomson (จิมทอมสัน)"
+  },
+  {
+    "bandName": "Polo Sport (โปโลสปอร์ต)"
+  },
+  {
+    "bandName": "Leoz (ลีออซ)"
+  },
+  {
+    "bandName": "Woofrepublic (วูฟรีพับบลิค)"
+  },
+  {
+    "bandName": "Kaepa (แกรป้า)"
+  },
+  {
+    "bandName": "Kaepa U S A (แคปายูเอสเอ)"
+  },
+  {
+    "bandName": "Amouage (อมอร์เจส)"
+  },
+  {
+    "bandName": "The Cracker (เดอะแครกเกอร์)"
+  },
+  {
+    "bandName": "Somjai (สมใจ)"
+  },
+  {
+    "bandName": "D Lab (ดีแลบ)"
+  },
+  {
+    "bandName": "Kamakura (คามะคุร่า)"
+  },
+  {
+    "bandName": "Karmakula (กามากุลา)"
+  },
+  {
+    "bandName": "Timebell (ไทม์เบลล์)"
+  },
+  {
+    "bandName": "Specialized (สเปเชียลไลซ์)"
+  },
+  {
+    "bandName": "Life Project (ไลฟ์ โปรเจกต์)"
+  },
+  {
+    "bandName": "Austinclothing (ออสติน)"
+  },
+  {
+    "bandName": "BAIJIAOMEI (ร้อยเจียวเหมย)"
+  },
+  {
+    "bandName": "Midoli (มิโดลี่)"
+  },
+  {
+    "bandName": "charlie (คราลิท)"
+  },
+  {
+    "bandName": "Tube Gallery (ทูบว์ แกลเลอรี่)"
+  },
+  {
+    "bandName": "Kenshiro (เคนชิโร่)"
+  },
+  {
+    "bandName": "Chiliwear (ชิลลี่แวร์)"
+  },
+  {
+    "bandName": "Maple Club (เมเปิ้ล คลับ)"
+  },
+  {
+    "bandName": "Dressuary (เดรสชัวรี่)"
+  },
+  {
+    "bandName": "Charles Jourdan (ชาร์ล จอร์แดน)"
+  },
+  {
+    "bandName": "Marchs (มาร์ช)"
+  },
+  {
+    "bandName": "Marchs Men (มาร์ชเมน)"
+  },
+  {
+    "bandName": "Old Mill (โอลด์มิลล์)"
+  },
+  {
+    "bandName": "B Garment (บีการ์เม้นท์)"
+  },
+  {
+    "bandName": "EmSlack (อีเอ็มสเเลก)"
+  },
+  {
+    "bandName": "Toolsshop (ทูลช็อป)"
+  },
+  {
+    "bandName": "Ruthless Studio (รัทเลส สตูดิโอ)"
+  },
+  {
+    "bandName": "Arrow (แอร์โร่ว์)"
+  },
+  {
+    "bandName": "Panit My Love (เพ้นท์ มาย เลิฟ)"
+  },
+  {
+    "bandName": "Blue Lanna (บลูแลนนา)"
+  },
+  {
+    "bandName": "Windwear (ไวน์แวร์)"
+  },
+  {
+    "bandName": "Harrods (แฮร์รอดส์)"
+  },
+  {
+    "bandName": "Buason.pafai  (บัวซอน ผ้าฝ้าย)"
+  },
+  {
+    "bandName": "BuasonPafai (บัวซอนผ้าฝ้าย)"
+  },
+  {
+    "bandName": "RAP (อาร์เอพี)"
+  },
+  {
+    "bandName": "A Ri (อริ)"
+  },
+  {
+    "bandName": "ARi the fashion (อารีเดอะแฟชั่น)"
+  },
+  {
+    "bandName": "ฺBovy (โบวี่)"
+  },
+  {
+    "bandName": "Rap Is Now (แร็ปอีสนาว)"
+  },
+  {
+    "bandName": "Eingpam (เอียงพัม)"
+  },
+  {
+    "bandName": "TOPSHOP (ท็อปช็อป)"
+  },
+  {
+    "bandName": "Suit Select  (สูทซีเล็ค)"
+  },
+  {
+    "bandName": "Forever 21 (ฟอร์เอเวอร์21)"
+  },
+  {
+    "bandName": "Cottontraders (คอตตอนเทรดส์)"
+  },
+  {
+    "bandName": "COTTON TRADERS"
+  },
+  {
+    "bandName": "Cotton Traders (คอนตอนเทรเดอร์)"
+  },
+  {
+    "bandName": "Roomry N (รูมรี่เอ็น)"
+  },
+  {
+    "bandName": "GYB (ซีวายบี)"
+  },
+  {
+    "bandName": "cunbin (คุนบิน)"
+  },
+  {
+    "bandName": "Cunbin (คุณบิน)"
+  },
+  {
+    "bandName": "SU Closet (สุโครสเซท)"
+  },
+  {
+    "bandName": "Shirt Refinery"
+  },
+  {
+    "bandName": "Tubegallery (ทูปแกลเลอรี่)"
+  },
+  {
+    "bandName": "Tubegallery (ทูบว์แกลเลอรี่)"
+  },
+  {
+    "bandName": "X Act (เอ็กแซกท์)"
+  },
+  {
+    "bandName": "Musfit (มัสฟิต)"
+  },
+  {
+    "bandName": "Musfit"
+  },
+  {
+    "bandName": "Kozy Snow (โคซี่สโนว์)"
+  },
+  {
+    "bandName": "KozySnow  (โคซี่สโนว์)"
+  },
+  {
+    "bandName": "ILYC.store - I Love Your Clothes"
+  },
+  {
+    "bandName": "ILYCstore (ไอแอลวายซีสโตร์)"
+  },
+  {
+    "bandName": "Byford (บายฟอร์ด)"
+  },
+  {
+    "bandName": "Heaha (เ+ฮอา)"
+  },
+  {
+    "bandName": "Heaha"
+  },
+  {
+    "bandName": "Heaha (เฮฮา)"
+  },
+  {
+    "bandName": "Raoul (ลาอุย)"
+  },
+  {
+    "bandName": "Unyong official (อันยองอฟฟิคอล)"
+  },
+  {
+    "bandName": "Tube Gallery (ทูปแกลเลอรี่)"
+  },
+  {
+    "bandName": "Tubegallery (ทูปอกลเลอรี่)"
+  },
+  {
+    "bandName": "Wam (แวม)"
+  },
+  {
+    "bandName": "Wam (วาม)"
+  },
+  {
+    "bandName": "WAM (วัม)"
+  },
+  {
+    "bandName": "Kearney House (เคลียร์นี่เฮ้าส์)"
+  },
+  {
+    "bandName": "Kearney House (เคียร์นี่เฮ้าส์)"
+  },
+  {
+    "bandName": "Caribbean (คาลิบเบียน)"
+  },
+  {
+    "bandName": "Amolpa (อะมลพา)"
+  },
+  {
+    "bandName": "Amolpa (อมอลป้า)"
+  },
+  {
+    "bandName": "Tasso Elba (ทาสโซเอลบา)"
+  },
+  {
+    "bandName": "ES Meralda (อีเอสเมอรัลด้า)"
+  },
+  {
+    "bandName": "Evangelion store (อีวานเกเลียน สโตร์)"
+  },
+  {
+    "bandName": "MMC Marvel (เอ็มเอ็มซี มาเวล)"
+  },
+  {
+    "bandName": "Topcoat (ท็อปโค้ท)"
+  },
+  {
+    "bandName": "On Top (ออนท๊อป)"
+  },
+  {
+    "bandName": "ตราสมอ (ตราสมอ)"
+  },
+  {
+    "bandName": "Bill Blass (บิล บลาส)"
+  },
+  {
+    "bandName": "Kiss (คีส)"
+  },
+  {
+    "bandName": "Superdry (ซุปเปอร์ดราย)"
+  },
+  {
+    "bandName": "Cotton Failanna (คัตตอนแฟลันนา)"
+  },
+  {
+    "bandName": "Tom Tailor (ทอม เทเลอร์)"
+  },
+  {
+    "bandName": "Rock Express (ร็อค เอ็กซ์เพลส)"
+  },
+  {
+    "bandName": "Elle Homme (เอลเล่ โฮมมี่)"
+  },
+  {
+    "bandName": "Elle Homme (แอลอ็อม)"
+  },
+  {
+    "bandName": "Gibson (กิปสัน)"
+  },
+  {
+    "bandName": "T&L (ทีแอนด์แอล)"
+  },
+  {
+    "bandName": "Bovy Jeans (โบวี่ ยีนส์)"
+  },
+  {
+    "bandName": "SunSun Homemade  (ซันซันโฮมเมด)"
+  },
+  {
+    "bandName": "Defrost (ดีฟอร์ส)"
+  },
+  {
+    "bandName": "Wees (วีส์)"
+  },
+  {
+    "bandName": "Cps Chaps (ซีพีเอส แชปส์)"
+  },
+  {
+    "bandName": "Pierre Cardin (ปิแอร์ การ์แดง)"
+  },
+  {
+    "bandName": "Pierre​ Cardin​ (ปิแอร์ การ์แดง)"
+  },
+  {
+    "bandName": "Piere​ Cardin​ (ปิแอร์ การ์แตง)"
+  },
+  {
+    "bandName": "Pierre Cardin (ปิแอร์การ์แดง)"
+  },
+  {
+    "bandName": "Mix On (มิกซ์ ออน)"
+  },
+  {
+    "bandName": "Mix On  (มิกซ์ ออน)"
+  },
+  {
+    "bandName": "Set (เชิ้ต)"
+  },
+  {
+    "bandName": "Jackeroo (แจ๊คเกอรู)"
+  },
+  {
+    "bandName": "Chanin Arporn (ชนินทร์อาภรณ์)"
+  },
+  {
+    "bandName": "S’JOHN’S BAY (เอสจอร์นบาย)"
+  },
+  {
+    "bandName": "Suit Select (สูทซีเล็ค)"
+  },
+  {
+    "bandName": "Suit Select (สูท ซีเล็ค)"
+  },
+  {
+    "bandName": "UKCOCO (ยูเคโคโค่)"
+  },
+  {
+    "bandName": "Polo Adventure Club (โปโลแอดเวนเจอร์คลับ)"
+  },
+  {
+    "bandName": "Atmos (แอทโมส)"
+  },
+  {
+    "bandName": "Madani (มาดานิ)"
+  },
+  {
+    "bandName": "Gxxh (จีเอ็กเอ็กเอช)"
+  },
+  {
+    "bandName": "Simple&Raw (ซิมเปิลแอนด์รอว์)"
+  },
+  {
+    "bandName": "USA (ยูเอสเอ)"
+  },
+  {
+    "bandName": "Supercomics (ซุปเปอร์คอมมิกซ์)"
+  },
+  {
+    "bandName": "Musculo (มัสคูโล่)"
+  },
+  {
+    "bandName": "Forclaz (ฟอร์แคลส)"
+  },
+  {
+    "bandName": "Comme Des Garcons (กอม เดอ กาซอง)"
+  },
+  {
+    "bandName": "Simple&Raw (ซิมเปิลแอนด์รอล์ว )"
+  },
+  {
+    "bandName": "Humble Wasa (ฮัมเบอร์วาซา)"
+  },
+  {
+    "bandName": "MFE (เอ็มเอฟอี)"
+  },
+  {
+    "bandName": "Reserved (รีเซิร์ฟว)"
+  },
+  {
+    "bandName": "Choego By Pk (โชว์โก บาย พีเค)"
+  },
+  {
+    "bandName": "Blue Lanna (บลูล้านนา)"
+  },
+  {
+    "bandName": "Ehtimam​ (เอทิมาม)"
+  },
+  {
+    "bandName": "Janda Shop (จันทร์ดา ช็อป)"
+  },
+  {
+    "bandName": "Mitr (มิตร)"
+  },
+  {
+    "bandName": "Hakao1985 (ฮาเก๋า1985)"
+  },
+  {
+    "bandName": "Jacks (แจ็ค)"
+  },
+  {
+    "bandName": "Thanapand (ฐานะภัณฑ์)"
+  },
+  {
+    "bandName": "TU (ทียู)"
+  },
+  {
+    "bandName": "Inbox Streetwear (อินบ๊อกซ์สตรีทแวร์)"
+  },
+  {
+    "bandName": "Merriment (เมอร์ริเม้นท์)"
+  },
+  {
+    "bandName": "Suika (แตงโม)"
+  },
+  {
+    "bandName": "Kiiy Mate (ไคเมท)"
+  },
+  {
+    "bandName": "Tycoon (ไทคูน)"
+  },
+  {
+    "bandName": "Thunder-Chi (ธันเดอร์-ชิ)"
+  },
+  {
+    "bandName": "Better Surf (บัตเอร์เซิฟ)"
+  },
+  {
+    "bandName": "Better (บัตเตอร์)"
+  },
+  {
+    "bandName": "Think Pink (ธิงค์ พิงค์)"
+  },
+  {
+    "bandName": "Kidstore (คิดสโตร์)"
+  },
+  {
+    "bandName": "Nou Nou (โนโน)"
+  },
+  {
+    "bandName": "Zumba Wear (ซุมบ้าแวร์)"
+  },
+  {
+    "bandName": "Santa Barbara (ซานตา บาร์บาร่า)"
+  },
+  {
+    "bandName": "Santa Barbara (ซานตาบาร์บาร่า)"
+  },
+  {
+    "bandName": "Kiabi  (เคียบิ)"
+  },
+  {
+    "bandName": "Kiabi (เกียบิ)"
+  },
+  {
+    "bandName": "Domon Uomo (โดมอนอูโอโม่)"
+  },
+  {
+    "bandName": "Santa barbara (ซานตา บาร์บาร่า โปโลฯ)"
+  },
+  {
+    "bandName": "ST Johns Bay (เซนต์จอห์นเบย์)"
+  },
+  {
+    "bandName": "Yak (ยักษ์)"
+  },
+  {
+    "bandName": "Swan (สวอน)"
+  },
+  {
+    "bandName": "LCFC (แอลซีเอฟซี)"
+  },
+  {
+    "bandName": "Queensway (ควีนเวย์)"
+  },
+  {
+    "bandName": "Queensway (ควีนส์เวย์)"
+  },
+  {
+    "bandName": "Outlook Center (เอาท์ลุค เซ็นเตอร์)"
+  },
+  {
+    "bandName": "Boycott (บอยคอต)"
+  },
+  {
+    "bandName": "Up2mestyle (อัพทูมีสไตล์)"
+  },
+  {
+    "bandName": "Brent Wood (เบรนท์วู้ด)"
+  },
+  {
+    "bandName": "IKE Barnaby (ไอเคอีบาร์นาบี้)"
+  },
+  {
+    "bandName": "Histrex (ฮีสเทร็กซ์)"
+  },
+  {
+    "bandName": "Mitzahai (มิตรสหาย)"
+  },
+  {
+    "bandName": "Shanghai Tang (เซี่ยงไฮ้ ถัง)"
+  },
+  {
+    "bandName": "Yuedpao (ยืดเปล่า)"
+  },
+  {
+    "bandName": "Pphumi Playground (พีพูมิ เพลย์กราวด์)"
+  },
+  {
+    "bandName": "ตรานิวมอส (ตรานิวมอส)"
+  },
+  {
+    "bandName": "Indy Blue (อินดี้ บูล)"
+  },
+  {
+    "bandName": "Indy Blue (อินดี้บลู)"
+  },
+  {
+    "bandName": "Chu-Shuu Man (ชู-ชูแมน)"
+  },
+  {
+    "bandName": "Chu Shuu man (ชูชูแมน)"
+  },
+  {
+    "bandName": "Black Timber (แบล็คทิมเบอร์)"
+  },
+  {
+    "bandName": "Proms (พร้อมส์)"
+  },
+  {
+    "bandName": "Vilebrequin (วิลล์เบรอร์กัง)"
+  },
+  {
+    "bandName": "Cucci (กุชชี่)"
+  },
+  {
+    "bandName": "Lady Bovy (เลดี้โบวี่)"
+  },
+  {
+    "bandName": "Stone Mesa (สโตนเมซ่า)"
+  },
+  {
+    "bandName": "Camel (คาเมล)"
+  },
+  {
+    "bandName": "Nicehop (ไนซ์ฮอพ)"
+  },
+  {
+    "bandName": "Kito (กีโต้)"
+  },
+  {
+    "bandName": "Easy Pieces (อีซี่ พีชเชส)"
+  },
+  {
+    "bandName": "Louis Clerk (ลุยส์ เคิร์ค)"
+  },
+  {
+    "bandName": "Vabeu (วาบิว)"
+  },
+  {
+    "bandName": "Spezzato Mackenzie (สเปซซาโตแม็คเคนซี)"
+  },
+  {
+    "bandName": "Spezzato Mackenzie (สเปซซาโต้ แม็กเคนซี่)"
+  },
+  {
+    "bandName": "Zado (ซาโด)"
+  },
+  {
+    "bandName": "Manee Noy (มะนีนอย)"
+  },
+  {
+    "bandName": "Linen Blend (ลีนอินเบลนด์)"
+  },
+  {
+    "bandName": "Hollister (ฮอลิสเตอร์)"
+  },
+  {
+    "bandName": "Li2Wear (ลิทูแวร์)"
+  },
+  {
+    "bandName": "Li 2 Wear (ลิทูแวร์)"
+  },
+  {
+    "bandName": "Korakoch (กรกช)"
+  },
+  {
+    "bandName": "Walt Disney's (วอลต์ ดิสนีย์)"
+  },
+  {
+    "bandName": "Hentsch man (เฮนช์แมน)"
+  },
+  {
+    "bandName": "Wanlada (วันลดา)"
+  },
+  {
+    "bandName": "Lalalist (ลาลาลิสต์)"
+  },
+  {
+    "bandName": "Pezy Squad (พีซี่ สควอด)"
+  },
+  {
+    "bandName": "Pezy Squad (พีซี่สควอด)"
+  },
+  {
+    "bandName": "VAC (วีเอซี)"
+  },
+  {
+    "bandName": "Jack&Jones (แจ๊คแอนด์โจนส์)"
+  },
+  {
+    "bandName": "STK (เอสทีเค)"
+  },
+  {
+    "bandName": "Leecano (ลีคาโน่)"
+  },
+  {
+    "bandName": "Havana Jack s Cafe (ฮาวาน่า แจ็ค คาเฟ่)"
+  },
+  {
+    "bandName": "Jack & Jones (แจ็ค แอนด์ โจน)"
+  },
+  {
+    "bandName": "Emilio Valentino (เอมิลิโอ วาเลนติโน่)"
+  },
+  {
+    "bandName": "Hom (ฮอม)"
+  },
+  {
+    "bandName": "Sanctuary (แซงซัวรี่)"
+  },
+  {
+    "bandName": "Heller and Co (เฮลเลอร์แอนด์โค)"
+  },
+  {
+    "bandName": "Heller&Co (เฮลเลอร์แอนด์โค)"
+  },
+  {
+    "bandName": "Ingear (อินเกียร์)"
+  },
+  {
+    "bandName": "Doku (โดกุ)"
+  },
+  {
+    "bandName": "Dextreme (เดกซ์ตรีม)"
+  },
+  {
+    "bandName": "Thammarat (ธรรมรัตน์)"
+  },
+  {
+    "bandName": "Friday 27 (ฟรายเดย์ 27)"
+  },
+  {
+    "bandName": "Super Scott (ซุปเปอร์สก็อต)"
+  },
+  {
+    "bandName": "Surly (เซอร์ลี่)"
+  },
+  {
+    "bandName": "Super Scott (ซูเปอร์ สก๊อต)"
+  },
+  {
+    "bandName": "Super Scott (ซุปเปอร์สก๊อต)"
+  },
+  {
+    "bandName": "Surly Saturday (เซอลี่ แซตเทอเดย์)"
+  },
+  {
+    "bandName": "Giordano (จิออดาโน)"
+  },
+  {
+    "bandName": "Mustang (มัสแตงค์)"
+  },
+  {
+    "bandName": "No Boundaries (โน บอนเดอริส)"
+  },
+  {
+    "bandName": "Jams World (แจมส์เวิลด์)"
+  },
+  {
+    "bandName": "Jams World (เจมส์เวิลด์)"
+  },
+  {
+    "bandName": "Jams World (แยมโลก)"
+  },
+  {
+    "bandName": "Evergreen (เอเวอร์กรีน)"
+  },
+  {
+    "bandName": "Innoweartion (อินโนแวร์ชั่น)"
+  },
+  {
+    "bandName": "Bluegold (บลูโกลด์)"
+  },
+  {
+    "bandName": "Cowboys (คาวบอยส์)"
+  },
+  {
+    "bandName": "American Rag (อเมริกัน แรค)"
+  },
+  {
+    "bandName": "Composer (คอมโพสเซอร์)"
+  },
+  {
+    "bandName": "Harry Wilson (แฮร์รี่ วิลสัน)"
+  },
+  {
+    "bandName": "Cote Opera (โคเต้ โอเปร่า)"
+  },
+  {
+    "bandName": "Lantona (ลาโตน่า)"
+  },
+  {
+    "bandName": "Heroin Brand (เฮโรอีนแบรนด์)"
+  },
+  {
+    "bandName": "Waikiki (ไวกิกิ)"
+  },
+  {
+    "bandName": "Waikiki Creations (ไวกีกีครีเอชั่น)"
+  },
+  {
+    "bandName": "Luau (ลวน)"
+  },
+  {
+    "bandName": "Tbc (ทีบีซี)"
+  },
+  {
+    "bandName": "Sail boat (เรือใบ)"
+  },
+  {
+    "bandName": "Junred (จุนเรด)"
+  },
+  {
+    "bandName": "Natural (เนเชอรัล อิสชู)"
+  },
+  {
+    "bandName": "Merch (เมิช)"
+  },
+  {
+    "bandName": "Fendi (เฟนดิ)"
+  },
+  {
+    "bandName": "Inflation (อินเฟลชั่น)"
+  },
+  {
+    "bandName": "Inflation (อินฟลาชั่น)"
+  },
+  {
+    "bandName": "Super Star (ซูเปอร์สตาร์)"
+  },
+  {
+    "bandName": "Super Star (ซูเปอร์ สตาร์)"
+  },
+  {
+    "bandName": "Morgan (มอร์แกน)"
+  },
+  {
+    "bandName": "Consensus (คันเซนซัส)"
+  },
+  {
+    "bandName": "Sideout (ไซด์เอ๊าท์)"
+  },
+  {
+    "bandName": "Esdy (อีซี่)"
+  },
+  {
+    "bandName": "Steve & Barry s (สตีฟแอนด์แบรี่)"
+  },
+  {
+    "bandName": "Surfline Hawaii (เซิร์ฟไลน์ ฮาวาย)"
+  },
+  {
+    "bandName": "Paradise Collection (พาราไดซ์ คอลเลคชั่น)"
+  },
+  {
+    "bandName": "Hana Bay (ฮาน่าเบย์)"
+  },
+  {
+    "bandName": "Groovy Bay (กรูฟวี่เบย์)"
+  },
+  {
+    "bandName": "Natural Issue (เนเทอร์รอล อีสซุ)"
+  },
+  {
+    "bandName": "Jasso Ella Island (แจสโซเอลล่าไอแลนด์)"
+  },
+  {
+    "bandName": "Nautica (นอติก้า)"
+  },
+  {
+    "bandName": "Banana Cabana (บานาน่า คาบาน่า)"
+  },
+  {
+    "bandName": "Chereskin (เชอสกิน)"
+  },
+  {
+    "bandName": "A[X]IST (เอเซิด)"
+  },
+  {
+    "bandName": "St'John Bay (เซนต์จอห์นเบย์)"
+  },
+  {
+    "bandName": "Van Heusen (แวนฮิวเซน)"
+  },
+  {
+    "bandName": "Toscano (ทอสคาโน)"
+  },
+  {
+    "bandName": "26red (ทเวนตี้ซิกเรด)"
+  },
+  {
+    "bandName": "Penguin (เพนกวิ้น)"
+  },
+  {
+    "bandName": "Steve & Barry's (สตีฟแอนด์แบร์รี่ส์)"
+  },
+  {
+    "bandName": "Travelsmith (ทราเวลสมิธ)"
+  },
+  {
+    "bandName": "St.John Bay (เซนต์จอห์นเบย์)"
+  },
+  {
+    "bandName": "Sostanza (โซสแตนซ่า)"
+  },
+  {
+    "bandName": "Bimini Bay (บิมินิเบย์)"
+  },
+  {
+    "bandName": "GPS (จีพีเอส)"
+  },
+  {
+    "bandName": "Slate Stone (สเลต สโตน)"
+  },
+  {
+    "bandName": "Turnbury (เทิร์นเบอรี่)"
+  },
+  {
+    "bandName": "BB Classics (บีบี คลาสสิกส์)"
+  },
+  {
+    "bandName": "G P S (จี พี เอส)"
+  },
+  {
+    "bandName": "Sheratan (เชอราตัน)"
+  },
+  {
+    "bandName": "GMMTV (จีเอ็มเอ็มทีวี)"
+  },
+  {
+    "bandName": "Cottage (คอทเทจ)"
+  },
+  {
+    "bandName": "Gureto (กุเรโตะ)"
+  },
+  {
+    "bandName": "Pijika (พิจิกา)"
+  },
+  {
+    "bandName": "Kailas (ไคลาส)"
+  },
+  {
+    "bandName": "Mc David (แม็ค เดวิด)"
+  },
+  {
+    "bandName": "Montbell (มอนต์เบลล์)"
+  },
+  {
+    "bandName": "Frank (แฟรงค์)"
+  },
+  {
+    "bandName": "Keoni of Hawaii (คีโอนี อ๊อฟ ฮาวาย)"
+  },
+  {
+    "bandName": "Younique (ยูนิค)"
+  },
+  {
+    "bandName": "Nineteenninetyfive (ไนน์ทีนไนน์ตี้ไฟฟ์)"
+  },
+  {
+    "bandName": "Annie (แอนนี่)"
+  },
+  {
+    "bandName": "Rudedog (รูดด็อก)"
+  },
+  {
+    "bandName": "Percept (เพอร์เซ็ป)"
+  },
+  {
+    "bandName": "Chaikun (ใช่คุณ)"
+  },
+  {
+    "bandName": "Sbay Style (สบาย สไตล์)"
+  },
+  {
+    "bandName": "The One Concept (เดอะวันคอนเซปต์)"
+  },
+  {
+    "bandName": "Tuning (ทูนนิ่ง)"
+  },
+  {
+    "bandName": "Arrow Lite (แอร์โรว์ ไลท์)"
+  },
+  {
+    "bandName": "Percept (เพอร์เซปต์)"
+  },
+  {
+    "bandName": "Moshi Family (โมชิ แฟมิลี่)"
+  },
+  {
+    "bandName": "Balmain (บอลเมน)"
+  },
+  {
+    "bandName": "Hang Ten (แฮงเทน)"
+  },
+  {
+    "bandName": "Hangten (แฮงค์เท็น)"
+  },
+  {
+    "bandName": "Boyis (บอยอิส)"
+  },
+  {
+    "bandName": "Jabang Mode (จาแบง โมด)"
+  },
+  {
+    "bandName": "K Winner (เค วินเนอร์)"
+  }
+]

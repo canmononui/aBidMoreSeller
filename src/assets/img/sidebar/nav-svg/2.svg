@@ -1,0 +1,19 @@
+<svg id="row_3" data-name="row 3" xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3f4245;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Rounded_Rectangle_1_copy_2" data-name="Rounded Rectangle 1 copy 2" class="cls-1" d="M760,732H968.074a30,30,0,0,1,30,30V970.074a30,30,0,0,1-30,30H760a30,30,0,0,1-30-30V762A30,30,0,0,1,760,732Z"/>
+  <path id="Rounded_Rectangle_1_copy" data-name="Rounded Rectangle 1 copy" class="cls-1" d="M395,732H603.074a30,30,0,0,1,30,30V970.074a30,30,0,0,1-30,30H395a30,30,0,0,1-30-30V762A30,30,0,0,1,395,732Z"/>
+  <path id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-1" d="M30,732H238.074a30,30,0,0,1,30,30V970.074a30,30,0,0,1-30,30H30a30,30,0,0,1-30-30V762A30,30,0,0,1,30,732Z"/>
+  <path id="Rounded_Rectangle_1_copy_2-2" data-name="Rounded Rectangle 1 copy 2" class="cls-1" d="M760,366H968.074a30,30,0,0,1,30,30V604.074a30,30,0,0,1-30,30H760a30,30,0,0,1-30-30V396A30,30,0,0,1,760,366Z"/>
+  <path id="Rounded_Rectangle_1_copy-2" data-name="Rounded Rectangle 1 copy" class="cls-1" d="M395,366H603.074a30,30,0,0,1,30,30V604.074a30,30,0,0,1-30,30H395a30,30,0,0,1-30-30V396A30,30,0,0,1,395,366Z"/>
+  <path id="Rounded_Rectangle_1-2" data-name="Rounded Rectangle 1" class="cls-1" d="M30,366H238.074a30,30,0,0,1,30,30V604.074a30,30,0,0,1-30,30H30a30,30,0,0,1-30-30V396A30,30,0,0,1,30,366Z"/>
+  <path id="Rounded_Rectangle_1_copy_2-3" data-name="Rounded Rectangle 1 copy 2" class="cls-1" d="M760,0H968.074a30,30,0,0,1,30,30V238.074a30,30,0,0,1-30,30H760a30,30,0,0,1-30-30V30A30,30,0,0,1,760,0Z"/>
+  <path id="Rounded_Rectangle_1_copy-3" data-name="Rounded Rectangle 1 copy" class="cls-1" d="M395,0H603.074a30,30,0,0,1,30,30V238.074a30,30,0,0,1-30,30H395a30,30,0,0,1-30-30V30A30,30,0,0,1,395,0Z"/>
+  <path id="Rounded_Rectangle_1-3" data-name="Rounded Rectangle 1" class="cls-1" d="M30,0H238.074a30,30,0,0,1,30,30V238.074a30,30,0,0,1-30,30H30a30,30,0,0,1-30-30V30A30,30,0,0,1,30,0Z"/>
+</svg>

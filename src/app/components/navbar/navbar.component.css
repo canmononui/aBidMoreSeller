@@ -1,0 +1,74 @@
+/* Sidebar */
+.btn-sidebar {
+  padding: 1px 6px;
+  color: #373A3C;
+  display: none;
+}
+/* End Sidebar */
+
+.dropdown-menu-text {
+  color: #343a40;
+  text-decoration: none;
+}
+
+.btn-circle.btn-xl {
+  width: 70px;
+  height: 70px;
+  padding: 10px 16px;
+  border-radius: 35px;
+  font-size: 24px;
+  line-height: 1.33;
+}
+
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  padding: 7px 0px;
+  border-radius: 15px;
+  text-align: center;
+  font-size: 12px;
+  line-height: 1.42857;
+}
+
+.dropdown-item:active {
+  color: #FFF; 
+  background-color: #FE5721;
+}
+
+.router {
+  cursor: pointer; 
+  outline: 0;
+}
+
+.disabled {
+  pointer-events: none;
+  opacity: 0.4;
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media only screen and (max-width: 768px) {
+ /* Sidebar */
+.btn-sidebar {
+  display: inline;
+}
+/* End Sidebar */
+
+.icon-nav {
+  padding-left: 0px;
+}
+}
+/* Medium devices (tablets, 768px and up) */
+
+/* Small devices (landscape phones, 576px and up) */
+@media only screen and (max-width: 576px) {
+/* Sidebar */
+.btn-sidebar {
+  display: inline;
+}
+/* End Sidebar */
+
+.icon-nav {
+  padding-left: 0px;
+}
+}
+/* Small devices (landscape phones, 576px and up) */

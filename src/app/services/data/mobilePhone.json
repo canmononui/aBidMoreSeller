@@ -1,0 +1,4292 @@
+[
+  {
+    "bandName": "No Brand (ไม่มียี่ห้อ)"
+  },
+  {
+    "bandName": "Hoco (โฮโค่)"
+  },
+  {
+    "bandName": "TrueMove (ทรูมูฟ)"
+  },
+  {
+    "bandName": "Glink (จีลิ้งค์)"
+  },
+  {
+    "bandName": "Remax (รีแม็กซ์)"
+  },
+  {
+    "bandName": "IDragon (ไอดรากอน)"
+  },
+  {
+    "bandName": "DreamGrip (ดรีมกริป)"
+  },
+  {
+    "bandName": "HP (เอชพี)"
+  },
+  {
+    "bandName": "PZX (พีซีเอ็กซ์)"
+  },
+  {
+    "bandName": "Pushingbest (พุชชิ่งเบสท์)"
+  },
+  {
+    "bandName": "JBL (เจบีแอล)"
+  },
+  {
+    "bandName": "MiPow (มายพาวด์)"
+  },
+  {
+    "bandName": "Cable Bite (เคเบิ้ลไบท์)"
+  },
+  {
+    "bandName": "Aukey (ออคีย์)"
+  },
+  {
+    "bandName": "KINGONE (คิงวัน)"
+  },
+  {
+    "bandName": "Apple (แอปเปิ้ล)"
+  },
+  {
+    "bandName": "Huawei (หัวเหว่ย)"
+  },
+  {
+    "bandName": "Usams (ยูแซม)"
+  },
+  {
+    "bandName": "Best Core (เบสท์คอร์)"
+  },
+  {
+    "bandName": "JOYROOM (จอยรูม)"
+  },
+  {
+    "bandName": "Fineline (ไฟน์ไลน์)"
+  },
+  {
+    "bandName": "Boya (โบยา)"
+  },
+  {
+    "bandName": "Maoxin (เหมาซิน)"
+  },
+  {
+    "bandName": "Earldom (เอิร์ลดอม)"
+  },
+  {
+    "bandName": "Jmax (เจแม็กซ์)"
+  },
+  {
+    "bandName": "WK DESIGN (ดับบิวเค ดีไซจน์)"
+  },
+  {
+    "bandName": "Belkin (เบลกิน)"
+  },
+  {
+    "bandName": "GameSir (เกมส์เซอร์)"
+  },
+  {
+    "bandName": "Anycast (อนีย์ แคสท์)"
+  },
+  {
+    "bandName": "Kakudos (คาคุโดส)"
+  },
+  {
+    "bandName": "Ldnio (แอลดีนิโอ้)"
+  },
+  {
+    "bandName": "Xiaomi (เสี่ยวมี่)"
+  },
+  {
+    "bandName": "Vivo (วีโว่)"
+  },
+  {
+    "bandName": "Doss (ด็อซ)"
+  },
+  {
+    "bandName": "Rosekey (โรสคีย์)"
+  },
+  {
+    "bandName": "Bluedio (บลูดิโอ)"
+  },
+  {
+    "bandName": "Nubwo (นับโว)"
+  },
+  {
+    "bandName": "IDrive (ไอไดรว์)"
+  },
+  {
+    "bandName": "Meking (มีกิงจ์)"
+  },
+  {
+    "bandName": "Rizz (ริซ)"
+  },
+  {
+    "bandName": "Oppo (ออปโป้)"
+  },
+  {
+    "bandName": "Awei (เอเว่ย)"
+  },
+  {
+    "bandName": "Magic Finder (เมจิกฟินเดอร์)"
+  },
+  {
+    "bandName": "Azus (เอซุส)"
+  },
+  {
+    "bandName": "Accetel (แอคซีเทล)"
+  },
+  {
+    "bandName": "Fuji (ฟูจิ)"
+  },
+  {
+    "bandName": "Oker (โอเกอร์)"
+  },
+  {
+    "bandName": "Paperang (เปเปอร์แรงส์)"
+  },
+  {
+    "bandName": "Q PREMIUM QUALITY (คิว พรีเมียม ควอลิที)"
+  },
+  {
+    "bandName": "KKBSTR (เคเคบีเอสทีอาร์)"
+  },
+  {
+    "bandName": "Writertoy (ไรท์เตอร์ทอย)"
+  },
+  {
+    "bandName": "PQI (พีคิวไอ)"
+  },
+  {
+    "bandName": "Enyx (อีนิกซ์)"
+  },
+  {
+    "bandName": "ELOOP (อีลูป)"
+  },
+  {
+    "bandName": "Car G7 (คาร์จีเซเว่น)"
+  },
+  {
+    "bandName": "Dtac (ดีแทค)"
+  },
+  {
+    "bandName": "MONARCH (โมนาร์ช)"
+  },
+  {
+    "bandName": "Pony light (โพนี่ ไลกท์)"
+  },
+  {
+    "bandName": "Folding Keyboard (โฟดิง คีย์บอร์ด)"
+  },
+  {
+    "bandName": "AKG (เอเคจี)"
+  },
+  {
+    "bandName": "SENDEM (เซนเดม)"
+  },
+  {
+    "bandName": "Sailormoon (เซเลอร์มูน)"
+  },
+  {
+    "bandName": "MHL (เอ็มเอชแอล)"
+  },
+  {
+    "bandName": "Samsung (ซัมซุง)"
+  },
+  {
+    "bandName": "Haixu (ไฮซู)"
+  },
+  {
+    "bandName": "Mcdodo (แม็คโดโด้)"
+  },
+  {
+    "bandName": "Sandisk (แซนดิสก์)"
+  },
+  {
+    "bandName": "AmanGo (เอแมงโก้)"
+  },
+  {
+    "bandName": "SAMDI (แซมดิ)"
+  },
+  {
+    "bandName": "Fixate Gel (ฟิกเอทเจล)"
+  },
+  {
+    "bandName": "COMMY (คอมมี่)"
+  },
+  {
+    "bandName": "MITZ (มิทซ์)"
+  },
+  {
+    "bandName": "Olesson (โอเลสซัน)"
+  },
+  {
+    "bandName": "Iphone (ไอโฟน)"
+  },
+  {
+    "bandName": "Rixing (ริกซิ่ง)"
+  },
+  {
+    "bandName": "Foxconn (ฟอกซ์คอนน์)"
+  },
+  {
+    "bandName": "Jabra (จาบรา)"
+  },
+  {
+    "bandName": "DooLike (ดูไลค์)"
+  },
+  {
+    "bandName": "Vr box (วีอาร์บ็อกซ์)"
+  },
+  {
+    "bandName": "Ingress (อินเกรซ)"
+  },
+  {
+    "bandName": "Adonit (อาโดนี)"
+  },
+  {
+    "bandName": "Wireless Car Kit (ไวเรสคาร์คิท)"
+  },
+  {
+    "bandName": "MP3 (เอ็มพี3)"
+  },
+  {
+    "bandName": "Pisen (พิลเซ่น)"
+  },
+  {
+    "bandName": "Capdase (แคปเดส)"
+  },
+  {
+    "bandName": "e-blue (อี-บลู)"
+  },
+  {
+    "bandName": "T&G (ทีแอนด์จี)"
+  },
+  {
+    "bandName": "Boocon (บูคอน)"
+  },
+  {
+    "bandName": "Liteon (ไลติออน)"
+  },
+  {
+    "bandName": "IPEGA (ไอพีก้า)"
+  },
+  {
+    "bandName": "Yongnuo (ยองนูโอ้)"
+  },
+  {
+    "bandName": "Nillkin (นิลล์กิน)"
+  },
+  {
+    "bandName": "Miuline (มุยลีน)"
+  },
+  {
+    "bandName": "Choco (ช็อคโก้)"
+  },
+  {
+    "bandName": "Suntory (ซันโทรี่)"
+  },
+  {
+    "bandName": "Doogee (ดูจี้)"
+  },
+  {
+    "bandName": "OUKU (โอยูเคยู)"
+  },
+  {
+    "bandName": "EmaxIT (อีแม็กซ์ไอที)"
+  },
+  {
+    "bandName": "TRN (ทีอาร์เอ็น)"
+  },
+  {
+    "bandName": "Repo (รีโป้)"
+  },
+  {
+    "bandName": "Lumira (ลูมิรา)"
+  },
+  {
+    "bandName": "Vention (เวนชั่น)"
+  },
+  {
+    "bandName": "Memobird (มีโม่เบิร์ด)"
+  },
+  {
+    "bandName": "Anker (เเอนเกอร์)"
+  },
+  {
+    "bandName": "Dpower (ดีเพาเวอร์)"
+  },
+  {
+    "bandName": "SIM MYBYCAT (ซิมมายบายแคท)"
+  },
+  {
+    "bandName": "ROMOSS (โรมอส)"
+  },
+  {
+    "bandName": "Jimmee (จิมมี่)"
+  },
+  {
+    "bandName": "Saitake (ไซด์ทาเก)"
+  },
+  {
+    "bandName": "Ring (ริ้ง)"
+  },
+  {
+    "bandName": "Profit (โปรฟิต)"
+  },
+  {
+    "bandName": "Totu Design (โตตู ดีไซน์)"
+  },
+  {
+    "bandName": "Nokia (โนเกีย)"
+  },
+  {
+    "bandName": "Momax (โมแม็กซ์)"
+  },
+  {
+    "bandName": "UPaitou (ยูไพเตา)"
+  },
+  {
+    "bandName": "SONY (โซนี่)"
+  },
+  {
+    "bandName": "Oneplus (วันพลัส)"
+  },
+  {
+    "bandName": "Speed Charger Zone (สปีด ชาร์จเจอร์ โซน)"
+  },
+  {
+    "bandName": "Ginmic (จินมิค)"
+  },
+  {
+    "bandName": "ICROWN (ไอคราว์น)"
+  },
+  {
+    "bandName": "WSKEN (เวสเกน)"
+  },
+  {
+    "bandName": "GARAS (การ์ราซ)"
+  },
+  {
+    "bandName": "Go shot F2 (โก ช็อต เอฟทู)"
+  },
+  {
+    "bandName": "FONENG (โฟนอิง)"
+  },
+  {
+    "bandName": "Wecast (วีแคสท์)"
+  },
+  {
+    "bandName": "Airoc (ไอร็อค)"
+  },
+  {
+    "bandName": "Divoom (ดีวูม)"
+  },
+  {
+    "bandName": "Wireless speaker (ไวเลส สปีคเกอร์)"
+  },
+  {
+    "bandName": "gizmo (กิสโม่)"
+  },
+  {
+    "bandName": "Lazy Neck Universal (เลซี่ เน็กซ์ ยูนิเวอร์เซล)"
+  },
+  {
+    "bandName": "TRUE (ทรู)"
+  },
+  {
+    "bandName": "Orico (โอริโค)"
+  },
+  {
+    "bandName": "VENUGA (เวนูก้า)"
+  },
+  {
+    "bandName": "Astell&Kern (เอสเทลแอนด์เคิร์น)"
+  },
+  {
+    "bandName": "Music D.J (มิวสิคดีเจ)"
+  },
+  {
+    "bandName": "HOPESTAR (โฮปสตาร์)"
+  },
+  {
+    "bandName": "IVON (ไอวอน)"
+  },
+  {
+    "bandName": "WK ADAPTER BITCOIN (ดับบิวเค อเเดปเตอร์ บิทคอน)"
+  },
+  {
+    "bandName": "Soundgear (ซาวด์เกียร์)"
+  },
+  {
+    "bandName": "Tigra Sport (ทีก้าสปอร์ต)"
+  },
+  {
+    "bandName": "UNITEK (ยูนิเทค)"
+  },
+  {
+    "bandName": "HANASHI (ฮานาชิ)"
+  },
+  {
+    "bandName": "Nut Find 3 (นัทไฟนด์ทรี)"
+  },
+  {
+    "bandName": "Kington (คิงตัน)"
+  },
+  {
+    "bandName": "Tronsmart (ทรอนสมาร์ท)"
+  },
+  {
+    "bandName": "Wealth (เวลท์)"
+  },
+  {
+    "bandName": "Puridea i6 Dual (พูริเดีย ไอซิกซ์ ดูล)"
+  },
+  {
+    "bandName": "Techfon (เทชโฟน)"
+  },
+  {
+    "bandName": "EASYWAY (อีซี่ เวย์)"
+  },
+  {
+    "bandName": "AVANTREE (แอฟเวนตรี)"
+  },
+  {
+    "bandName": "WIWU (ดับบิวไอดับบิวยู)"
+  },
+  {
+    "bandName": "Zhiyun (ซิยูน)"
+  },
+  {
+    "bandName": "ONE PLUS 3 (วันพลัส 3)"
+  },
+  {
+    "bandName": "NEXTBIT (เน็กซ์บิท)"
+  },
+  {
+    "bandName": "W king (วี คิงก์)"
+  },
+  {
+    "bandName": "FLOVEME (โฟลเลิฟมี)"
+  },
+  {
+    "bandName": "EWA (อีว่า)"
+  },
+  {
+    "bandName": "Yoobao (ยูบาว)"
+  },
+  {
+    "bandName": "Fluffy (ฟลูฟาย)"
+  },
+  {
+    "bandName": "BEOPLAY (บีโอเพลย)"
+  },
+  {
+    "bandName": "MELON (เมล่อน)"
+  },
+  {
+    "bandName": "RAVPower (ราฟพาวเวอร์)"
+  },
+  {
+    "bandName": "TWZ (ทีดับบลิวแซด)"
+  },
+  {
+    "bandName": "MINI WIRELESS (มินิ ไวเลส)"
+  },
+  {
+    "bandName": "AIS (เอไอเอส)"
+  },
+  {
+    "bandName": "ONTEN (ออนเท็น)"
+  },
+  {
+    "bandName": "Dual Lens (ดู เลนส์)"
+  },
+  {
+    "bandName": "Dope (ดอป์)"
+  },
+  {
+    "bandName": "APACER (อาเพเซอร์)"
+  },
+  {
+    "bandName": "Miniso (มินิโซ)"
+  },
+  {
+    "bandName": "Primaxx (พริแม็กซ์)"
+  },
+  {
+    "bandName": "Hero (ฮีโร่)"
+  },
+  {
+    "bandName": "Snoopy (สนูปปี้)"
+  },
+  {
+    "bandName": "XO (เอ็กโอ)"
+  },
+  {
+    "bandName": "QIHANG (ควิฮาง)"
+  },
+  {
+    "bandName": "Sardine (ซาดินี่)"
+  },
+  {
+    "bandName": "PZOZ (พีซอส)"
+  },
+  {
+    "bandName": "POWERSHIELD (เพาเวอร์ชิลด์)"
+  },
+  {
+    "bandName": "Raxfly (แร็กซ์ฟลาย)"
+  },
+  {
+    "bandName": "Meizu (เหม่ยซู)"
+  },
+  {
+    "bandName": "Sunorm (ซูนอร์ม)"
+  },
+  {
+    "bandName": "Yarkonia (ยาร์โคเนีย)"
+  },
+  {
+    "bandName": "Aconatic (อโคนาติกซ์)"
+  },
+  {
+    "bandName": "St-supply (เอสที ซับพลาย)"
+  },
+  {
+    "bandName": "Elago (เอลลาโก้)"
+  },
+  {
+    "bandName": "Senmaxu (เซนเม็กซ์ซู)"
+  },
+  {
+    "bandName": "YUNTFNG (ยันท์ฟจ)"
+  },
+  {
+    "bandName": "Yiliwit (ยิลิวิท)"
+  },
+  {
+    "bandName": "Tolifo (โทลิโฟ)"
+  },
+  {
+    "bandName": "LUMI (ลูมิ)"
+  },
+  {
+    "bandName": "SanDlsk (แซนดิสค์)"
+  },
+  {
+    "bandName": "Homlly (โฮมลี่)"
+  },
+  {
+    "bandName": "Feiyu (เฟยยู)"
+  },
+  {
+    "bandName": "RONIN (โรนิน)"
+  },
+  {
+    "bandName": "Kingston (คิงส์ตัน)"
+  },
+  {
+    "bandName": "OTG Smart (โอทีจี สมาร์ท)"
+  },
+  {
+    "bandName": "Ok stand (โอเค แสตนด์)"
+  },
+  {
+    "bandName": "90 PAI (นายตี้ ไป่)"
+  },
+  {
+    "bandName": "Microflash (ไมรโครฟลาส)"
+  },
+  {
+    "bandName": "NK DESIGN (เอ็นเค ดีไซจน์)"
+  },
+  {
+    "bandName": "INVERTER (อินเวอร์เตอร์)"
+  },
+  {
+    "bandName": "Lava (ลาวา)"
+  },
+  {
+    "bandName": "Wiko (วีโก้)"
+  },
+  {
+    "bandName": "NanoHold (นาโนโฮลด์)"
+  },
+  {
+    "bandName": "GOPAI (โกไป่)"
+  },
+  {
+    "bandName": "Energizer (อีเนอร์ไจเซอร์)"
+  },
+  {
+    "bandName": "Cable Accessary (เคเบิลอะแซ็คเซอร์รี่)"
+  },
+  {
+    "bandName": "Samya (ซัมย่า)"
+  },
+  {
+    "bandName": "Chipolo (ชิโปโล)"
+  },
+  {
+    "bandName": "NFC (เอ็นเอฟซี)"
+  },
+  {
+    "bandName": "Gangxun (แก็งซัน)"
+  },
+  {
+    "bandName": "Google play (กูเกิ้ลเพลย์)"
+  },
+  {
+    "bandName": "Promate (โปรเมท)"
+  },
+  {
+    "bandName": "Nobi (โนบิ)"
+  },
+  {
+    "bandName": "Joystick (จอยสติ๊ก)"
+  },
+  {
+    "bandName": "ROCK (ร็อค)"
+  },
+  {
+    "bandName": "Xtreme Mac (เอ็กซ์ตรีม แม็กซ์)"
+  },
+  {
+    "bandName": "Panasonic (พานาโซนิค)"
+  },
+  {
+    "bandName": "Zero9 (ซีโร่ไนน์)"
+  },
+  {
+    "bandName": "Future (ฟิวเจอร์)"
+  },
+  {
+    "bandName": "Quick Charge (ควิก ชาร์จ)"
+  },
+  {
+    "bandName": "Puridea (พูริเดีย)"
+  },
+  {
+    "bandName": "Zenflash (เซ็นแฟรช)"
+  },
+  {
+    "bandName": "SUNSKY (ซันสกี้)"
+  },
+  {
+    "bandName": "Dapad (ดาแพด)"
+  },
+  {
+    "bandName": "Funpica (ฟันปิก้า)"
+  },
+  {
+    "bandName": "SMC (เอสเอ็มซี)"
+  },
+  {
+    "bandName": "Topfree (ท็อปฟรี่)"
+  },
+  {
+    "bandName": "Sunca (ซันคา)"
+  },
+  {
+    "bandName": "LVEIO (เลวิโอ)"
+  },
+  {
+    "bandName": "RODE (โรด)"
+  },
+  {
+    "bandName": "Lenmar (เลนมาร์)"
+  },
+  {
+    "bandName": "Leeplus (ลีพลัส)"
+  },
+  {
+    "bandName": "ZISHAN (ซิชาน)"
+  },
+  {
+    "bandName": "Meago (มีโก้)"
+  },
+  {
+    "bandName": "Asaki (อาซากิ)"
+  },
+  {
+    "bandName": "IRig (ไอริก)"
+  },
+  {
+    "bandName": "Telecorsa (เทเลโครซ่า)"
+  },
+  {
+    "bandName": "Robotsky (โรบอตสกาย)"
+  },
+  {
+    "bandName": "UMIDIGI (ดูมิดิจิ)"
+  },
+  {
+    "bandName": "Huldra (ฮุลดร้า)"
+  },
+  {
+    "bandName": "NOOSY (นูซี่)"
+  },
+  {
+    "bandName": "Lenovo (เลนโนโว)"
+  },
+  {
+    "bandName": "R11 (อาร์11)"
+  },
+  {
+    "bandName": "X-Doria (เอ็กซ์ดอร์เรีย)"
+  },
+  {
+    "bandName": "MARK (มาร์ค)"
+  },
+  {
+    "bandName": "Bakeey (บาคีย์)"
+  },
+  {
+    "bandName": "BUB (บัป)"
+  },
+  {
+    "bandName": "ENERGY (เอ็นเนอร์จี้)"
+  },
+  {
+    "bandName": "Weifeng (เวยเฟง)"
+  },
+  {
+    "bandName": "AIKO (ไอโกะ)"
+  },
+  {
+    "bandName": "VIEWDER (วิวเดอร์)"
+  },
+  {
+    "bandName": "Innergie (อินเนอร์จี้)"
+  },
+  {
+    "bandName": "Ugreen (ยูกรีน)"
+  },
+  {
+    "bandName": "Nanch (แนช)"
+  },
+  {
+    "bandName": "SK-Link (เอสเค-ลิ้งค์)"
+  },
+  {
+    "bandName": "Rii (ริอิ)"
+  },
+  {
+    "bandName": "COOLCOLD (คูลโคล)"
+  },
+  {
+    "bandName": "Snoppa (สนอปป้า)"
+  },
+  {
+    "bandName": "COCORU (โคโครุ)"
+  },
+  {
+    "bandName": "SimPenguin (ซิมเพนกวิน)"
+  },
+  {
+    "bandName": "Anytek (เอนนี่เท็ค)"
+  },
+  {
+    "bandName": "Censreal (เซ็นรีล)"
+  },
+  {
+    "bandName": "Tascam (ทาสแคม)"
+  },
+  {
+    "bandName": "THEO (เดอะโอ)"
+  },
+  {
+    "bandName": "DA-MARVO (ดามาร์โว)"
+  },
+  {
+    "bandName": "SKG (เอสเคจี)"
+  },
+  {
+    "bandName": "RITI (ริถี)"
+  },
+  {
+    "bandName": "SOOCOO (โซคู)"
+  },
+  {
+    "bandName": "I mobile (ไอโมไบล์)"
+  },
+  {
+    "bandName": "Rocketek (ร๊อกเก็ท)"
+  },
+  {
+    "bandName": "Rocket (ร็อกเก็ท)"
+  },
+  {
+    "bandName": "Maimi (ไมมิ)"
+  },
+  {
+    "bandName": "Rpgroup (อาร์พีกรุ๊ป)"
+  },
+  {
+    "bandName": "Fineblue (ไฟน์บลู)"
+  },
+  {
+    "bandName": "Honor (โอนอร์)"
+  },
+  {
+    "bandName": "Hapgo (แฮพโก)"
+  },
+  {
+    "bandName": "My Melody (มายเมโลดี้)"
+  },
+  {
+    "bandName": "Lenuo (เลนูโอ)"
+  },
+  {
+    "bandName": "Proda (โปรดา)"
+  },
+  {
+    "bandName": "Lamyoo (แลมยู)"
+  },
+  {
+    "bandName": "Vinsic (วินสิค)"
+  },
+  {
+    "bandName": "QKZ​ (คิวเคซี​)"
+  },
+  {
+    "bandName": "Koluman (โคลูแมน)"
+  },
+  {
+    "bandName": "Tefeng (ทีเฟลง)"
+  },
+  {
+    "bandName": "SP (เอสพี)"
+  },
+  {
+    "bandName": "Keweisi (เกวไวซิ)"
+  },
+  {
+    "bandName": "Innotech (อินโนเทค)"
+  },
+  {
+    "bandName": "iBIRD (ไอเบิร์ด)"
+  },
+  {
+    "bandName": "Okawa (โอกาว้า)"
+  },
+  {
+    "bandName": "Ohoyo (โอ้โย)"
+  },
+  {
+    "bandName": "LG (แอลจี)"
+  },
+  {
+    "bandName": "IUSBport1 (ไอยูเอสบีพอร์ต1)"
+  },
+  {
+    "bandName": "Fenatech (ฟีนาเทค)"
+  },
+  {
+    "bandName": "Focus 3D (โฟกัส 3ดี)"
+  },
+  {
+    "bandName": "Starbucks (สตาร์บัคส์)"
+  },
+  {
+    "bandName": "Tomo (โทโมะ)"
+  },
+  {
+    "bandName": "iCharge (ไอชาร์ง)"
+  },
+  {
+    "bandName": "Lecun (เลอคัน)"
+  },
+  {
+    "bandName": "Waveex (วาวีค)"
+  },
+  {
+    "bandName": "I smart Case (ไอสมาร์ทเคส)"
+  },
+  {
+    "bandName": "Wacom (วาคอม)"
+  },
+  {
+    "bandName": "Kobwa (คอบวา)"
+  },
+  {
+    "bandName": "Cager (คาเกอร์)"
+  },
+  {
+    "bandName": "Radiwise (เรดิไวส์)"
+  },
+  {
+    "bandName": "Recadata (รีคาดาต้า)"
+  },
+  {
+    "bandName": "Arkon (อากอน)"
+  },
+  {
+    "bandName": "VICTOR (วิคเตอร์)"
+  },
+  {
+    "bandName": "Ztylus (ซีไทลัส)"
+  },
+  {
+    "bandName": "Chi-Yups (ไชยุพ)"
+  },
+  {
+    "bandName": "Moomins (มูมินส์)"
+  },
+  {
+    "bandName": "Rock Bear (ล๊อคเบียร์)"
+  },
+  {
+    "bandName": "Successmore (ซัสเซสมอร์)"
+  },
+  {
+    "bandName": "Printoss (พรินโตส)"
+  },
+  {
+    "bandName": "Dodocool (โดโด้คูล)"
+  },
+  {
+    "bandName": "T Up (ทีอัพ)"
+  },
+  {
+    "bandName": "HTC (เฮซทีซี)"
+  },
+  {
+    "bandName": "Solove (โซเลิฟ)"
+  },
+  {
+    "bandName": "Shinecon (ชายนิคอน)"
+  },
+  {
+    "bandName": "CKC (ซีเคซี)"
+  },
+  {
+    "bandName": "Vertex (เวอเท็ค)"
+  },
+  {
+    "bandName": "Holo (โฮโล)"
+  },
+  {
+    "bandName": "Manfrotto (แมนฟรอตโต)"
+  },
+  {
+    "bandName": "Weller (เวลเลอร์)"
+  },
+  {
+    "bandName": "Nemonic (นีโมนิก)"
+  },
+  {
+    "bandName": "Kawamono (คาวาโมโน)"
+  },
+  {
+    "bandName": "K Power (เค พาวเวอร์)"
+  },
+  {
+    "bandName": "Super (ซุปเปอร์)"
+  },
+  {
+    "bandName": "Omars (โอมาร์ส)"
+  },
+  {
+    "bandName": "PK (พีเค)"
+  },
+  {
+    "bandName": "Japan (เจแปน)"
+  },
+  {
+    "bandName": "Cheero (ชีโระ)"
+  },
+  {
+    "bandName": "Mark J3 (มาค เจ3)"
+  },
+  {
+    "bandName": "BRELONG (เบรลอง)"
+  },
+  {
+    "bandName": "Mark CC31 (มาร์ก ซีซ๊31)"
+  },
+  {
+    "bandName": "7Degress (เซเว่นดีเกรซ)"
+  },
+  {
+    "bandName": "BlackPink (แบล็คพิ้งค์)"
+  },
+  {
+    "bandName": "JDO (เจดีโอ)"
+  },
+  {
+    "bandName": "Borofone (โบโรโฟน)"
+  },
+  {
+    "bandName": "Mark CL20 (มาร์ก ซีแอล20)"
+  },
+  {
+    "bandName": "Mark CL10 (มาร์ก แอลซี10)"
+  },
+  {
+    "bandName": "Wesdar (เวสเดอร์)"
+  },
+  {
+    "bandName": "Vimoto (วิโมโต้)"
+  },
+  {
+    "bandName": "Blitz Wolf (บลิตซ์ วูล์ฟ)"
+  },
+  {
+    "bandName": "LabC (แลปซี)"
+  },
+  {
+    "bandName": "Haweel (ฮาวิล)"
+  },
+  {
+    "bandName": "Veger (วีเกอร์)"
+  },
+  {
+    "bandName": "Easy One Touth (อีซี่ วัน ทูตช์)"
+  },
+  {
+    "bandName": "Type C (ทิบ ซี)"
+  },
+  {
+    "bandName": "Flydigi (ฟายดีจี)"
+  },
+  {
+    "bandName": "MOBISTER (โมบิสเตอร์)"
+  },
+  {
+    "bandName": "Black Eye (แบ๊ค อาย)"
+  },
+  {
+    "bandName": "Foldio (โฟลดิโอ)"
+  },
+  {
+    "bandName": "Macaw (มาคอว์)"
+  },
+  {
+    "bandName": "Mrice (เอ็ม ไรซ์)"
+  },
+  {
+    "bandName": "TY (ทีวาย)"
+  },
+  {
+    "bandName": "VE (วีอี)"
+  },
+  {
+    "bandName": "Binwdzkj (บินซ์)"
+  },
+  {
+    "bandName": "Ranvoo (เรนวู)"
+  },
+  {
+    "bandName": "Xtar (เอ็กดซ์ตร้า)"
+  },
+  {
+    "bandName": "Park and Co (พาร์คแอนด์โค)"
+  },
+  {
+    "bandName": "Victsing (วิคท์ชิ้ง)"
+  },
+  {
+    "bandName": "Gogojoy (โกโกจอย)"
+  },
+  {
+    "bandName": "Lanyard (แลนยาร์ด)"
+  },
+  {
+    "bandName": "GEN Game (จีอีเอ็น เกม)"
+  },
+  {
+    "bandName": "Kimafun (คิมาฟู)"
+  },
+  {
+    "bandName": "O-Good (โอ กู๊ด)"
+  },
+  {
+    "bandName": "Untoom (อันตูม)"
+  },
+  {
+    "bandName": "ADATA (เอดาต้า)"
+  },
+  {
+    "bandName": "B2H (บีทูเอช)"
+  },
+  {
+    "bandName": "Babykids95 (เบบี้คิดส์95)"
+  },
+  {
+    "bandName": "Energea (อีเนอร์เกีย)"
+  },
+  {
+    "bandName": "Fiio (เอฟไอไอโอ)"
+  },
+  {
+    "bandName": "Fitbit (ฟิตบิท)"
+  },
+  {
+    "bandName": "Gekkopod (เก็กโกะพอต)"
+  },
+  {
+    "bandName": "KASHIWA (คาชิวา)"
+  },
+  {
+    "bandName": "Microsoft (ไมโครซอฟท์)"
+  },
+  {
+    "bandName": "Miggo (มิกโก้)"
+  },
+  {
+    "bandName": "NaRaYa (นารายา)"
+  },
+  {
+    "bandName": "Plantronics (แพลนโทนิค)"
+  },
+  {
+    "bandName": "Prolink (โปรลิ้งค์)"
+  },
+  {
+    "bandName": "Sennheiser (เซนน์ไฮเซอร์)"
+  },
+  {
+    "bandName": "Shanling (ชานลิ้ง)"
+  },
+  {
+    "bandName": "Silicon Power (ซิลิคอนพาวเวอร์)"
+  },
+  {
+    "bandName": "SMART (สมาร์ท)"
+  },
+  {
+    "bandName": "Thecoopidea (เดอะคอปปิเดีย)"
+  },
+  {
+    "bandName": "Tigernu (ไทเกอร์นู)"
+  },
+  {
+    "bandName": "Transcend (ทรานส์เซนด์)"
+  },
+  {
+    "bandName": "Ttesports (ทีทีอีสปอร์ต)"
+  },
+  {
+    "bandName": "Ueelr (อู๋เออร์)"
+  },
+  {
+    "bandName": "Western Digital (WD)"
+  },
+  {
+    "bandName": "White Label (ไวท์ เลเบิล)"
+  },
+  {
+    "bandName": "XDuoo (เอ็กซ์ดูโอ)"
+  },
+  {
+    "bandName": "X-Tips (เอ็กซ์-ทิป)"
+  },
+  {
+    "bandName": "ZHUSE (ซิลล์)"
+  },
+  {
+    "bandName": "Truelight (ทรูไลต์)"
+  },
+  {
+    "bandName": "Idmixs (อิทมิกซ์)"
+  },
+  {
+    "bandName": "Celbro (เซลโบร)"
+  },
+  {
+    "bandName": "P One (พีวัน)"
+  },
+  {
+    "bandName": "Baseus (เบซีอัส)"
+  },
+  {
+    "bandName": "Bll (บีแอแอล)"
+  },
+  {
+    "bandName": "Husselblad (ฮาสเซลบลาด)"
+  },
+  {
+    "bandName": "Bitdefender (บิทดีเฟนเดอร์)"
+  },
+  {
+    "bandName": "Lambchop (แลมป์โชป)"
+  },
+  {
+    "bandName": "Saramonic (ซาราโมนิค)"
+  },
+  {
+    "bandName": "Yupin (ยุพิน)"
+  },
+  {
+    "bandName": "Xturi (เอ็กซ์ทูริ)"
+  },
+  {
+    "bandName": "Devia (เดเวีย)"
+  },
+  {
+    "bandName": "Garmin (การ์มิน)"
+  },
+  {
+    "bandName": "Moshi Moshi (โมชิ โมชิ)"
+  },
+  {
+    "bandName": "MYE (เอ็มวายอี)"
+  },
+  {
+    "bandName": "MGT (เอ็มจีที)"
+  },
+  {
+    "bandName": "Eleaf (เลฟ)"
+  },
+  {
+    "bandName": "WST (ดับบิวเอสที)"
+  },
+  {
+    "bandName": "B&O Play (บีแอนด์โอ เพลย์)"
+  },
+  {
+    "bandName": "Loukin (ลูกิน)"
+  },
+  {
+    "bandName": "Tokai (โตเกีย)"
+  },
+  {
+    "bandName": "VRS Desigh (วีอาร์เอส ดีไซน์)"
+  },
+  {
+    "bandName": "Above the fray (อะโบฟ เดอะ เฟย์)"
+  },
+  {
+    "bandName": "Vango (แวนโก้)"
+  },
+  {
+    "bandName": "USB (ยูเอสบี)"
+  },
+  {
+    "bandName": "Fujitsu (ฟูจิตสึ)"
+  },
+  {
+    "bandName": "Cando (แคนโด)"
+  },
+  {
+    "bandName": "Spigen (สปีเก้น)"
+  },
+  {
+    "bandName": "Moov (มูฟ)"
+  },
+  {
+    "bandName": "7 Primo 1 (7 พริโม1)"
+  },
+  {
+    "bandName": "Fornorm (ฟอร์นอร์ม)"
+  },
+  {
+    "bandName": "I glow (ไอโกลว์)"
+  },
+  {
+    "bandName": "LeTV (เลอทีวี)"
+  },
+  {
+    "bandName": "GKK (จีเคเค)"
+  },
+  {
+    "bandName": "Ozaki (โอซากิ)"
+  },
+  {
+    "bandName": "DVE (ดีวีอี)"
+  },
+  {
+    "bandName": "Whoosh (วูช)"
+  },
+  {
+    "bandName": "Adam Elements (อดัม เอเลเมนท์)"
+  },
+  {
+    "bandName": "A19 (เอ19)"
+  },
+  {
+    "bandName": "Nana (นานา)"
+  },
+  {
+    "bandName": "WHY (วาย)"
+  },
+  {
+    "bandName": "Landfox (แลนด์ฟอร์ด)"
+  },
+  {
+    "bandName": "Gimo (กีโม)"
+  },
+  {
+    "bandName": "Iqos (ไอคอส)"
+  },
+  {
+    "bandName": "Bnk48 (บีเอ็นเค48)"
+  },
+  {
+    "bandName": "Kaisi (ไคซิ)"
+  },
+  {
+    "bandName": "Jaybird (เจย์เบิร์ด)"
+  },
+  {
+    "bandName": "Andoer (แอนเดอร์)"
+  },
+  {
+    "bandName": "GoPro (โกโปร)"
+  },
+  {
+    "bandName": "Invech (อินเว็ช)"
+  },
+  {
+    "bandName": "WK (ดับบิวเค)"
+  },
+  {
+    "bandName": "Marah (มาร์ช)"
+  },
+  {
+    "bandName": "Nicopy (นิโคปี้)"
+  },
+  {
+    "bandName": "Ahastyle (อาฮ่าสไตล์)"
+  },
+  {
+    "bandName": "House Worth (เฮ้าส์ วอร์ช)"
+  },
+  {
+    "bandName": "Comica (โคมิก้า)"
+  },
+  {
+    "bandName": "A bove the fray (อะบ๊อปเดอะเฟย์)"
+  },
+  {
+    "bandName": "Huion (ฮูเอี่ยน)"
+  },
+  {
+    "bandName": "SwitchEasy (สวิทอีซี่)"
+  },
+  {
+    "bandName": "Wave Shield (เวฟ ชิลด์)"
+  },
+  {
+    "bandName": "M Shield (เอ็มชิลด์)"
+  },
+  {
+    "bandName": "Foxcon (ฟ็อกคอน)"
+  },
+  {
+    "bandName": "Fixate Gel Pad (ฟิกเอท เจล เพด)"
+  },
+  {
+    "bandName": "Puregear (เพียวเกียร์)"
+  },
+  {
+    "bandName": "Rock Space (ร็อค สเปซ)"
+  },
+  {
+    "bandName": "UAG (ยูเอจี)"
+  },
+  {
+    "bandName": "Dolljai ​Shop (ดลใจ ช๊อป)"
+  },
+  {
+    "bandName": "IDeal (ไอเดล)"
+  },
+  {
+    "bandName": "JX (เจเอ็กซ์)"
+  },
+  {
+    "bandName": "Galaxy (กาแล็กซี่)"
+  },
+  {
+    "bandName": "POWER SUPPORT (พาวเวอร์ ซัพพอร์ต)"
+  },
+  {
+    "bandName": "Leegoog (ลีกุ๊ก)"
+  },
+  {
+    "bandName": "ASTON (แอสตัน)"
+  },
+  {
+    "bandName": "Snakebyte (สเนคไบต์)"
+  },
+  {
+    "bandName": "Do Star (ดูสตาร์)"
+  },
+  {
+    "bandName": "Uniden (ยูนิเดียน)"
+  },
+  {
+    "bandName": "Just Mobile (จัสต์ โมบายล์)"
+  },
+  {
+    "bandName": "Opula (โอปูร่า)"
+  },
+  {
+    "bandName": "Betop (บีท็อป)"
+  },
+  {
+    "bandName": "Florish Lama (โฟลลิส ลามา)"
+  },
+  {
+    "bandName": "R-Just (อาร์จัสต์)"
+  },
+  {
+    "bandName": "Elephone (อิเลโฟน)"
+  },
+  {
+    "bandName": "Nafumi (นาฟูมิ)"
+  },
+  {
+    "bandName": "Cylo (ไซโล่)"
+  },
+  {
+    "bandName": "Life Gel Pads (ไลฟ์เจลแพดส์)"
+  },
+  {
+    "bandName": "NOMAD (โนแมด)"
+  },
+  {
+    "bandName": "Sysmax (ซิสแม็กซ์)"
+  },
+  {
+    "bandName": "SP Silicon Power (เอสพี ซิลิคอน พาวเวอร์)"
+  },
+  {
+    "bandName": "Zerolemon (ซีโร่เลมอน)"
+  },
+  {
+    "bandName": "Dell (เดล)"
+  },
+  {
+    "bandName": "Trust Me (ทัชมี)"
+  },
+  {
+    "bandName": "Y&G (วายแอนด์จี)"
+  },
+  {
+    "bandName": "Harman (ฮาร์แมน)"
+  },
+  {
+    "bandName": "Master (มาสเตอร์)"
+  },
+  {
+    "bandName": "BeeZ Handmade (บีซีแฮนด์เมด)"
+  },
+  {
+    "bandName": "Mophie (โมไฟล์)"
+  },
+  {
+    "bandName": "OIDirect (โอไอไดเร็ค)"
+  },
+  {
+    "bandName": "168sim (หนึ่งหกแปดซิม)"
+  },
+  {
+    "bandName": "Supreme (สุพรีม)"
+  },
+  {
+    "bandName": "7 Degrees (7ดีกรีส์)"
+  },
+  {
+    "bandName": "Bose (บอส)"
+  },
+  {
+    "bandName": "Diewu (เดีย วู)"
+  },
+  {
+    "bandName": "GXY (จีเอ็กซ์วาย)"
+  },
+  {
+    "bandName": "GOLF (กอล์ฟ)"
+  },
+  {
+    "bandName": "Yeation (เยียชั่น)"
+  },
+  {
+    "bandName": "Bavier (บาร์เวียร์)"
+  },
+  {
+    "bandName": "ZNT (ซีเอ็นที)"
+  },
+  {
+    "bandName": "QWERKYWRITER (คิวเวอร์กี้ไวท์เตอร์)"
+  },
+  {
+    "bandName": "Doosl (ดูสล์)"
+  },
+  {
+    "bandName": "Iottie (ไออ็อตตี้)"
+  },
+  {
+    "bandName": "VOLCANO (โวลคาโน่)"
+  },
+  {
+    "bandName": "TM Mobile (ทีเอ็ม โมบาย)"
+  },
+  {
+    "bandName": "Lead Trend (ลีดเทรด)"
+  },
+  {
+    "bandName": "VTech (วีเทค)"
+  },
+  {
+    "bandName": "ZNP (แซดเอ็นพี)"
+  },
+  {
+    "bandName": "Lanniu A6 (แลนเนีย เอ6)"
+  },
+  {
+    "bandName": "Freevision (ฟรีวิชั่น)"
+  },
+  {
+    "bandName": "Jaymart (เจย์มาร์ท)"
+  },
+  {
+    "bandName": "Himax (ไฮแม็กซ์)"
+  },
+  {
+    "bandName": "Beats (บีทส์)"
+  },
+  {
+    "bandName": "IFI audio (ไอเอ็ฟไอออดิโอ)"
+  },
+  {
+    "bandName": "Bluewave (บลูเวฟ)"
+  },
+  {
+    "bandName": "Tile (เทล)"
+  },
+  {
+    "bandName": "Qualcomm (ควอลคอมม์)"
+  },
+  {
+    "bandName": "AAT (เอเอที)"
+  },
+  {
+    "bandName": "GBtiger (จีบี ไทเกอร์)"
+  },
+  {
+    "bandName": "Moment (โมเม้นท์)"
+  },
+  {
+    "bandName": "Airpolice (แอร์โพลิส)"
+  },
+  {
+    "bandName": "Kyowa (เคียวว่า)"
+  },
+  {
+    "bandName": "Comet (โคเมต)"
+  },
+  {
+    "bandName": "SPENDER (สเปนเดอร์)"
+  },
+  {
+    "bandName": "Jinserta (จินเซอร์ต้า)"
+  },
+  {
+    "bandName": "ZLD (ซีแอลดี)"
+  },
+  {
+    "bandName": "Nite Ize (ไนต์ ไอซ์)"
+  },
+  {
+    "bandName": "Tory Burch (ทอรี เบิร์ช)"
+  },
+  {
+    "bandName": "Poso (โพโซ)"
+  },
+  {
+    "bandName": "Keedox (คีด็อกซ์)"
+  },
+  {
+    "bandName": "X5 Bluetooth (เอ็กซ์5 บลูทูธ)"
+  },
+  {
+    "bandName": "Oukitel (ออคิเทล)"
+  },
+  {
+    "bandName": "Lenyes (เลนเยส)"
+  },
+  {
+    "bandName": "Boox (บุกซ์)"
+  },
+  {
+    "bandName": "Mosidun (โมสิดัน)"
+  },
+  {
+    "bandName": "Dopo (โดโป)"
+  },
+  {
+    "bandName": "Selfie Flashlight (เซลฟ์ฟี แฟลชไลท์)"
+  },
+  {
+    "bandName": "Soshine (โซชายน์)"
+  },
+  {
+    "bandName": "Hi Shield (ไฮชิลด์)"
+  },
+  {
+    "bandName": "Casiko (คาซิโก้)"
+  },
+  {
+    "bandName": "ESR (อีเอสอาร์)"
+  },
+  {
+    "bandName": "CATERPILLAR (แคทเธอร์พิลลาร์)"
+  },
+  {
+    "bandName": "Viltrox (วิลทร็อกซ์)"
+  },
+  {
+    "bandName": "KENJI (เคนจิ)"
+  },
+  {
+    "bandName": "Jakcom (เจคคอม)"
+  },
+  {
+    "bandName": "Ulanzi (ยูแลนซิ)"
+  },
+  {
+    "bandName": "Carry-All (แครี่ออล)"
+  },
+  {
+    "bandName": "Henry Cats & Friends (เฮนรี่แคทแอนด์เฟรน)"
+  },
+  {
+    "bandName": "Realme (เรียวมี)"
+  },
+  {
+    "bandName": "Coach (โค้ช)"
+  },
+  {
+    "bandName": "Micropack (ไมโครแพค)"
+  },
+  {
+    "bandName": "Sindvor (ไซด์วอร์)"
+  },
+  {
+    "bandName": "Sindvor TH (ซินวอร์ ทีเอช)"
+  },
+  {
+    "bandName": "Pokefi (โปกี้ฟาย)"
+  },
+  {
+    "bandName": "TAKSTAR (แทคสตาร์)"
+  },
+  {
+    "bandName": "Hamtec (แฮมเทค)"
+  },
+  {
+    "bandName": "Mobile Holders (โมบาย โฮลเดอร์)"
+  },
+  {
+    "bandName": "Allocacoc (อัลโลคาคอค)"
+  },
+  {
+    "bandName": "Three Uk (ทรียูเค)"
+  },
+  {
+    "bandName": "Sunshine (ซันชายส์)"
+  },
+  {
+    "bandName": "Hytera (ไฮทีรา)"
+  },
+  {
+    "bandName": "Havit (ฮาวิท)"
+  },
+  {
+    "bandName": "Moshi (โมชิ)"
+  },
+  {
+    "bandName": "Inphic (อินฟิค)"
+  },
+  {
+    "bandName": "Iluv (ไอลัฟ)"
+  },
+  {
+    "bandName": "8bitdo (8บิทโด)"
+  },
+  {
+    "bandName": "Yaxun (ยาซัน)"
+  },
+  {
+    "bandName": "Honeywell (ฮันนีเวลล์)"
+  },
+  {
+    "bandName": "Krusell (ครูเซล)"
+  },
+  {
+    "bandName": "Mous limitless 2.0 (เมาส์ ลิมิตเลส 2.0)"
+  },
+  {
+    "bandName": "Binmer (บินเมอร์)"
+  },
+  {
+    "bandName": "Yunteng (ยุนเต็ง)"
+  },
+  {
+    "bandName": "Tawan (ตะวัน)"
+  },
+  {
+    "bandName": "Verbatim (เวอร์บาทิม)"
+  },
+  {
+    "bandName": "HOCOM (โฮคอม)"
+  },
+  {
+    "bandName": "Nonda (นอนดา)"
+  },
+  {
+    "bandName": "Yorokobicraft (โยโบโกบิคราฟ)"
+  },
+  {
+    "bandName": "Oraimo (โอไรโม่)"
+  },
+  {
+    "bandName": "Uiisii (ยูอิซิ)"
+  },
+  {
+    "bandName": "Razer Phone (เรเซอร์โฟน)"
+  },
+  {
+    "bandName": "Gearmaster (เกียร์มาสเตอร์)"
+  },
+  {
+    "bandName": "Anymode (แอนนี่โมด)"
+  },
+  {
+    "bandName": "R’Ma (อาม่า)"
+  },
+  {
+    "bandName": "Gosmart (โกสมาร์ท)"
+  },
+  {
+    "bandName": "Yes I Do (เยส ไอ ดู)"
+  },
+  {
+    "bandName": "Sovawn (โซวาวน์)"
+  },
+  {
+    "bandName": "IUSBport2 (ไอยูเอสบีพอร์ต2)"
+  },
+  {
+    "bandName": "Westone (วีสโตน)"
+  },
+  {
+    "bandName": "The Woods Tale (เดอะวู๊ดส์เทล)"
+  },
+  {
+    "bandName": "Altron (อัลทรอน)"
+  },
+  {
+    "bandName": "I - Ring (ไอริง)"
+  },
+  {
+    "bandName": "Freedy (ฟรีดี้)"
+  },
+  {
+    "bandName": "Wopow (วอพาว)"
+  },
+  {
+    "bandName": "Xiang Wu (เซียงวู)"
+  },
+  {
+    "bandName": "Bkkhome (บีเคเคโฮม)"
+  },
+  {
+    "bandName": "King Kong (คิงคอง)"
+  },
+  {
+    "bandName": "VIPER TWO (ไวเปอร์ทู)"
+  },
+  {
+    "bandName": "COMMANDER (คอมมานเดอร์)"
+  },
+  {
+    "bandName": "Daiso (ไดโซ)"
+  },
+  {
+    "bandName": "Alinco (อลิงโก้)"
+  },
+  {
+    "bandName": "HYT (เอชวายที)"
+  },
+  {
+    "bandName": "R-sim (อาร์ซิม)"
+  },
+  {
+    "bandName": "Veari (วีเอริ)"
+  },
+  {
+    "bandName": "Mumuso (มูมูโซ)"
+  },
+  {
+    "bandName": "LARSEN (ลาร์เซน)"
+  },
+  {
+    "bandName": "DTX (ดีทีเอ็กซ์)"
+  },
+  {
+    "bandName": "Moza (โมซา)"
+  },
+  {
+    "bandName": "Skullcandy (สคูลแคนดี้)"
+  },
+  {
+    "bandName": "Simple one (ซิมเปิ้ลวัน)"
+  },
+  {
+    "bandName": "AJ (เอเจ)"
+  },
+  {
+    "bandName": "VIPER (ไวเปอร์)"
+  },
+  {
+    "bandName": "MA MARSHAL (เอ็มเอส มาแชล)"
+  },
+  {
+    "bandName": "YAESU (ยาอีสุ)"
+  },
+  {
+    "bandName": "Line Thailand (ไลน์ไทยแลนด์)"
+  },
+  {
+    "bandName": "Shiftcam (ชิฟท์แคม)"
+  },
+  {
+    "bandName": "Motolora (โมโตโลร่า)"
+  },
+  {
+    "bandName": "Pictar (พิคตาร์)"
+  },
+  {
+    "bandName": "Jellico (เจลิโค่)"
+  },
+  {
+    "bandName": "ADT (เอดีที)"
+  },
+  {
+    "bandName": "Rcozy (อาร์โคซี่)"
+  },
+  {
+    "bandName": "Hyper Drive (ไฮเปอร์ ไดรฟ์)"
+  },
+  {
+    "bandName": "Voz (โวซ)"
+  },
+  {
+    "bandName": "Geumxl (จียูเอ็มเอ็กซ์แอล)"
+  },
+  {
+    "bandName": "MS Marshal (เอ็ม เอส มาแชล)"
+  },
+  {
+    "bandName": "Fujitel (ฟูจิเทล)"
+  },
+  {
+    "bandName": "Alpha (อัลฟ่า)"
+  },
+  {
+    "bandName": "I-MU (ไอมู)"
+  },
+  {
+    "bandName": "Fender (เฟนเดอร์)"
+  },
+  {
+    "bandName": "Rilakkuma (ริลัคคุมะ)"
+  },
+  {
+    "bandName": "Olaf (โอลาฟ)"
+  },
+  {
+    "bandName": "Tunicz (ทูนิกซ์)"
+  },
+  {
+    "bandName": "CWC (ซีดับบลิวซี)"
+  },
+  {
+    "bandName": "Cravepro (เครฟโปร)"
+  },
+  {
+    "bandName": "Keleduo (เกลดูโอ)"
+  },
+  {
+    "bandName": "Smartmi (สมาร์ทมิ)"
+  },
+  {
+    "bandName": "Bonvan (บอนแวน)"
+  },
+  {
+    "bandName": "M Hores Pure3 (เอ็มฮอร์ส เพียวทรี)"
+  },
+  {
+    "bandName": "Blackview (แบล็ควิว)"
+  },
+  {
+    "bandName": "Oya (โอยะ)"
+  },
+  {
+    "bandName": "Aplus (เอพลัส)"
+  },
+  {
+    "bandName": "Chyi (ซีเอชวายไอ)"
+  },
+  {
+    "bandName": "Devilcase (ดีเวียเคส)"
+  },
+  {
+    "bandName": "Budi (บูดิ)"
+  },
+  {
+    "bandName": "Philips (ฟิลิปส์)"
+  },
+  {
+    "bandName": "S2B (เอสทูบี)"
+  },
+  {
+    "bandName": "Giffgaff (กิฟแกฟ)"
+  },
+  {
+    "bandName": "Gevo (เกโว)"
+  },
+  {
+    "bandName": "PINNSHOP (ภิญญ์ช็อป)"
+  },
+  {
+    "bandName": "Zmi (แซดเอ็มไอ)"
+  },
+  {
+    "bandName": "Amko (แอมโค)"
+  },
+  {
+    "bandName": "CYK (ซีวายเค)"
+  },
+  {
+    "bandName": "Edifier (อีดิฟายเออร์)"
+  },
+  {
+    "bandName": "Liitokala (ลิไอโทคาลา)"
+  },
+  {
+    "bandName": "Wroof (วรูฟ)"
+  },
+  {
+    "bandName": "Dprui (ดีพริว)"
+  },
+  {
+    "bandName": "Ranchotion (รานโชชั่น)"
+  },
+  {
+    "bandName": "Gorilla (กอริลลา)"
+  },
+  {
+    "bandName": "NB Shop (เอ็นบีช็อป)"
+  },
+  {
+    "bandName": "Valente (วาเลนเต้)"
+  },
+  {
+    "bandName": "Gamevice (เกมไวซ์)"
+  },
+  {
+    "bandName": "Mobicam (โมบิแคม)"
+  },
+  {
+    "bandName": "Sanx (ซานเอ็กซ์)"
+  },
+  {
+    "bandName": "Card Reader (การ์ดรีดเดอร์)"
+  },
+  {
+    "bandName": "Lametric (ลาเมทริกส์)"
+  },
+  {
+    "bandName": "HAIFAI (ไฮไฟ)"
+  },
+  {
+    "bandName": "Joby (โจบี้)"
+  },
+  {
+    "bandName": "CYK Studio (ซีวายเค สตูดิโอ)"
+  },
+  {
+    "bandName": "Roidmi (รอยด์มี่)"
+  },
+  {
+    "bandName": "Easy​ & Perfect (อีซี่ แอนด์ เพอร์เฟค)"
+  },
+  {
+    "bandName": "Hidance (ไฮแดนซ์)"
+  },
+  {
+    "bandName": "Nubia (นูเบีย)"
+  },
+  {
+    "bandName": "Bcase (บีคอส)"
+  },
+  {
+    "bandName": "Acer (เอเซอร์)"
+  },
+  {
+    "bandName": "Ram Mount (แรม เมาท์)"
+  },
+  {
+    "bandName": "Mazer (เมเซอร์)"
+  },
+  {
+    "bandName": "Estand (เอสสแตนด์)"
+  },
+  {
+    "bandName": "ICOM (ไอคอม)"
+  },
+  {
+    "bandName": "AY (เอวาย)"
+  },
+  {
+    "bandName": "SG (เอสจี)"
+  },
+  {
+    "bandName": "KENWOOD (เคนวูด)"
+  },
+  {
+    "bandName": "E Car (อีคาร์)"
+  },
+  {
+    "bandName": "Speeder (สปีดเดอร์)"
+  },
+  {
+    "bandName": "Samxon (แซมซอน)"
+  },
+  {
+    "bandName": "Biozen (ไบโอเซน)"
+  },
+  {
+    "bandName": "Tp-Link (ทีพีลิงค์)"
+  },
+  {
+    "bandName": "Tribord (ทริบอร์ด)"
+  },
+  {
+    "bandName": "Mastersat (มาสเตอร์แซท)"
+  },
+  {
+    "bandName": "Voulttom (วูลทอม)"
+  },
+  {
+    "bandName": "Chapter 2 (แชปเตอร์2)"
+  },
+  {
+    "bandName": "Oneder (วันเดอร์)"
+  },
+  {
+    "bandName": "Aqara (อะควอร่า)"
+  },
+  {
+    "bandName": "PIXMA KREEN (พิกม่าคลีน)"
+  },
+  {
+    "bandName": "Benelic (บีเนลิค)"
+  },
+  {
+    "bandName": "Maxwell (แมกซ์เวล)"
+  },
+  {
+    "bandName": "Murata (มูระตะ)"
+  },
+  {
+    "bandName": "RUBYCON (รูบี้คอน)"
+  },
+  {
+    "bandName": "ELNA (เอลน่า)"
+  },
+  {
+    "bandName": "Nichicon (นิชิคอน)"
+  },
+  {
+    "bandName": "Samwha (แซมวา)"
+  },
+  {
+    "bandName": "TECATE (ทีเคท)"
+  },
+  {
+    "bandName": "Vekin (เวคิน)"
+  },
+  {
+    "bandName": "Caseoutlet (เคสเอ้าท์เลต)"
+  },
+  {
+    "bandName": "Xgear (เอ็กซ์เกียร์)"
+  },
+  {
+    "bandName": "Skross (เอสคลอส)"
+  },
+  {
+    "bandName": "Nut Mini (นัทมินิ)"
+  },
+  {
+    "bandName": "Audio Technica (ออดิโอเทคนิก้า)"
+  },
+  {
+    "bandName": "Kate Spade (เคทสเปด)"
+  },
+  {
+    "bandName": "Vissko (วิสส์โก)"
+  },
+  {
+    "bandName": "Benison (เบนิสัน)"
+  },
+  {
+    "bandName": "Jason (เจสัน)"
+  },
+  {
+    "bandName": "Tradit (ทาร์ดิต)"
+  },
+  {
+    "bandName": "Ibattz (ไอแบตซ์)"
+  },
+  {
+    "bandName": "WHUSB (ดับบลิวเอชยูเอสบี)"
+  },
+  {
+    "bandName": "Google (กูเกิ้ล​)"
+  },
+  {
+    "bandName": "YX Stylus Pen (วายเอ็กซ์ไตลัส เพ็น)"
+  },
+  {
+    "bandName": "Makoo (มากุ)"
+  },
+  {
+    "bandName": "Megafon (เมกะโฟน)"
+  },
+  {
+    "bandName": "RMA Like (อาร์เอ็มเอ ไลค์)"
+  },
+  {
+    "bandName": "Dtech (ดีเท็ค)"
+  },
+  {
+    "bandName": "AMAZINGthing (อเมซิ่งทิง)"
+  },
+  {
+    "bandName": "AWT (เอดับบลิวที)"
+  },
+  {
+    "bandName": "Toriyama (โทริยามะ)"
+  },
+  {
+    "bandName": "Muqu (มูคู)"
+  },
+  {
+    "bandName": "Go Gadget (โกแก็กเก็ต)"
+  },
+  {
+    "bandName": "Defense (ดีเฟนซ)"
+  },
+  {
+    "bandName": "Flir (เอฟแอลไออาร์)"
+  },
+  {
+    "bandName": "UNI-T (ยูนิท)"
+  },
+  {
+    "bandName": "Lifangcai (ลิฟางไค)"
+  },
+  {
+    "bandName": "Apro (เอโปร)"
+  },
+  {
+    "bandName": "Vidvie (วิดวี่)"
+  },
+  {
+    "bandName": "Baofang (บาวฟาง)"
+  },
+  {
+    "bandName": "Mezz (เมส)"
+  },
+  {
+    "bandName": "Joway (โจเวย์)"
+  },
+  {
+    "bandName": "Tsunami (สึนามิ)"
+  },
+  {
+    "bandName": "Black Megic (แบล็ค เมจิค)"
+  },
+  {
+    "bandName": "Google Pixel (กูเกิ้ล พิกเซล)"
+  },
+  {
+    "bandName": "Bavin (แบวิน)"
+  },
+  {
+    "bandName": "Newmine (นิวมายน์)"
+  },
+  {
+    "bandName": "Minigood (มินิกู๊ด)"
+  },
+  {
+    "bandName": "Vakamo (วากาโม่)"
+  },
+  {
+    "bandName": "Anbes (แอนเบส)"
+  },
+  {
+    "bandName": "Digital 2 Home (ดิจิตอล 2 โฮม)"
+  },
+  {
+    "bandName": "Uslion (อัสลีออน)"
+  },
+  {
+    "bandName": "Vokamo Spow (โวกาโม่ สโปว์)"
+  },
+  {
+    "bandName": "Moft (มอฟท์)"
+  },
+  {
+    "bandName": "TJR (ทีเจอาร์)"
+  },
+  {
+    "bandName": "Redfox (เรดฟ็อกซ์)"
+  },
+  {
+    "bandName": "Sharkfilm (ชาร์คฟิลม์)"
+  },
+  {
+    "bandName": "Zikko (ซิกโก้)"
+  },
+  {
+    "bandName": "HTH Wish (เอชทีเอช วิช)"
+  },
+  {
+    "bandName": "Kimiso (คิมิโซ)"
+  },
+  {
+    "bandName": "Fillit (ฟิลอิส)"
+  },
+  {
+    "bandName": "JIAN (ไจแอนท์)"
+  },
+  {
+    "bandName": "Denovo (ดีโนโว)"
+  },
+  {
+    "bandName": "Yesido (เยซิโด)"
+  },
+  {
+    "bandName": "Arrim (อาร์ริม)"
+  },
+  {
+    "bandName": "Ipednoi (ไอเป็ดน้อย)"
+  },
+  {
+    "bandName": "OontZ (ออนท์ซี)"
+  },
+  {
+    "bandName": "Essager (เอสเซเจอร์)"
+  },
+  {
+    "bandName": "Mechanic (เมคานิค)"
+  },
+  {
+    "bandName": "Masterpiece Wood (มาสเตอร์พีชวู๊ด)"
+  },
+  {
+    "bandName": "Infinix (อินฟินิกซ์)"
+  },
+  {
+    "bandName": "Kakao (คาคาโอ)"
+  },
+  {
+    "bandName": "Haojue (เฮาจู)"
+  },
+  {
+    "bandName": "Boeleo (โบอีเลโอ)"
+  },
+  {
+    "bandName": "Meitu (เหม่ยถู)"
+  },
+  {
+    "bandName": "Onan Korea (อนันต์ โคเรีย)"
+  },
+  {
+    "bandName": "Omnicharge (ออมนิชาร์จ)"
+  },
+  {
+    "bandName": "IKEA (อีเกีย)"
+  },
+  {
+    "bandName": "BRIK (บริค)"
+  },
+  {
+    "bandName": "Recci (เร็กซี่)"
+  },
+  {
+    "bandName": "Mili (มิลิ)"
+  },
+  {
+    "bandName": "Iface (ไอเฟค)"
+  },
+  {
+    "bandName": "Amazon (แอมะซอน)"
+  },
+  {
+    "bandName": "Blackberry (แบล็คเบอรี่)"
+  },
+  {
+    "bandName": "Tuopoda (ทูโอโบด้า)"
+  },
+  {
+    "bandName": "Padmate Pamu Scroll (แพดเมทพามูสกอร์)"
+  },
+  {
+    "bandName": "Joyseus (จอยเซอุส)"
+  },
+  {
+    "bandName": "I Strong (ไอ สตรอง)"
+  },
+  {
+    "bandName": "Azdome (เอซีโดม)"
+  },
+  {
+    "bandName": "SKYPROBE (สกายพรูบ)"
+  },
+  {
+    "bandName": "Heyker (ไฮเกอร์)"
+  },
+  {
+    "bandName": "Blu (บูล)"
+  },
+  {
+    "bandName": "Zoom IQ7 (ซูมไอคิว7)"
+  },
+  {
+    "bandName": "Element Case (เอลเลเมนท์ เคส)"
+  },
+  {
+    "bandName": "Game Sir (เกมเซอร์)"
+  },
+  {
+    "bandName": "Tee Service (ทีเซอร์วิส)"
+  },
+  {
+    "bandName": "Claires (แคลร์ส)"
+  },
+  {
+    "bandName": "Zumo (ซูโม่)"
+  },
+  {
+    "bandName": "Caravan (คาราวาน)"
+  },
+  {
+    "bandName": "Hafele (เฮเฟเล่)"
+  },
+  {
+    "bandName": "Topk (ท็อปเค)"
+  },
+  {
+    "bandName": "OasisMine (โอเอซิสมายน์)"
+  },
+  {
+    "bandName": "Resong (รีซอง)"
+  },
+  {
+    "bandName": "Fluffy Homey (ฟลัฟฟี่โฮเมย์)"
+  },
+  {
+    "bandName": "Xiletu (ซิเลตู)"
+  },
+  {
+    "bandName": "Movingmic (มูฟวิ่งไมค์)"
+  },
+  {
+    "bandName": "Choetech (โชเทค)"
+  },
+  {
+    "bandName": "Ammiko It (แอมมิโกไอที)"
+  },
+  {
+    "bandName": "SENDER (เซนเดอร์)"
+  },
+  {
+    "bandName": "I Easy Drive (ไออีซี่ไดร์ฟ)"
+  },
+  {
+    "bandName": "Dux Ducis (ดักซ์ดูซิส)"
+  },
+  {
+    "bandName": "Swarovski (สวารอฟสกี้)"
+  },
+  {
+    "bandName": "Inovo (ไอโนโว่)"
+  },
+  {
+    "bandName": "Zealot (ซีลอท)"
+  },
+  {
+    "bandName": "Gionee (จีโอนี)"
+  },
+  {
+    "bandName": "Got7 (ก็อตเซเวน)"
+  },
+  {
+    "bandName": "Xiberia (ไซบีเรีย)"
+  },
+  {
+    "bandName": "Motowolf (โมโตวูฟ)"
+  },
+  {
+    "bandName": "Apexel (เอเพกเซล)"
+  },
+  {
+    "bandName": "Brydge (ไบรจ์)"
+  },
+  {
+    "bandName": "TC Com (ทีซีคอม)"
+  },
+  {
+    "bandName": "Leaone (ลีอาวัน)"
+  },
+  {
+    "bandName": "Walkman (วอล์คแมน)"
+  },
+  {
+    "bandName": "Uwell (ยูเวล)"
+  },
+  {
+    "bandName": "Techline (เทคไลน์)"
+  },
+  {
+    "bandName": "SBS (เอสบีเอส)"
+  },
+  {
+    "bandName": "VB Car (วีบีคาร์)"
+  },
+  {
+    "bandName": "I-Moble (ไอโมบาย)"
+  },
+  {
+    "bandName": "Wuw (วูว)"
+  },
+  {
+    "bandName": "Feeltek (ฟีลเทค)"
+  },
+  {
+    "bandName": "Swiss Ray Guard (สวิสเรการ์ด)"
+  },
+  {
+    "bandName": "Popsockets (ป็อบซ๊อกเกท)"
+  },
+  {
+    "bandName": "Dagee (ดาจี้)"
+  },
+  {
+    "bandName": "Nu Force (นู ฟอร์ส)"
+  },
+  {
+    "bandName": "Focus (โฟกัส)"
+  },
+  {
+    "bandName": "Gloop (กลูป)"
+  },
+  {
+    "bandName": "PLEXTONE (เพล็กซ์โทน)"
+  },
+  {
+    "bandName": "Qianli (เชียนลี่)"
+  },
+  {
+    "bandName": "Shiqima (ชิคิมา)"
+  },
+  {
+    "bandName": "OSS Team (โอเอสเอส ทีม)"
+  },
+  {
+    "bandName": "Totu (โทตู)"
+  },
+  {
+    "bandName": "Protection Labs (โปรเทคชั่น แล็บส์)"
+  },
+  {
+    "bandName": "Aftershokz (อาฟเตอร์ช็อคซ์)"
+  },
+  {
+    "bandName": "Smiggle​ (สมิกเกิล)"
+  },
+  {
+    "bandName": "Xundo (ซันโด้)"
+  },
+  {
+    "bandName": "Kaku (คาคุ)"
+  },
+  {
+    "bandName": "Broad Link (บอร์ดลิ้งค์)"
+  },
+  {
+    "bandName": "Movada (โมวาด้า)"
+  },
+  {
+    "bandName": "RHM (อาร์เอชเอ็ม)"
+  },
+  {
+    "bandName": "Neolution e-sport mobile (นีโอลูชั่นอีสปรอทโมบาย)"
+  },
+  {
+    "bandName": "ViewSonic (วิวโซนิค)"
+  },
+  {
+    "bandName": "1MORE (วันมอร์)"
+  },
+  {
+    "bandName": "Langsdom (แลงส์ดอม)"
+  },
+  {
+    "bandName": "Esvne (เอสวีเน่)"
+  },
+  {
+    "bandName": "Acatel (อะคาเทล)"
+  },
+  {
+    "bandName": "Orsen (ออร์เซน)"
+  },
+  {
+    "bandName": "Wizgear (วิซเกียร์)"
+  },
+  {
+    "bandName": "ZTE (แซดทีอี)"
+  },
+  {
+    "bandName": "Driver Alarm (ไดเวอร์ อะลาร์ม)"
+  },
+  {
+    "bandName": "Attila (อัตติลา)"
+  },
+  {
+    "bandName": "Chuwi (ชูวี่)"
+  },
+  {
+    "bandName": "Kuula (คูล่า)"
+  },
+  {
+    "bandName": "Zanco (ซันโค่)"
+  },
+  {
+    "bandName": "Black shark (บล็อคเชค)"
+  },
+  {
+    "bandName": "Pen Power (เพ็น เพาเวอร์)"
+  },
+  {
+    "bandName": "Shockprice (ช็อคไพร์ซ)"
+  },
+  {
+    "bandName": "Vetus (วีตัส)"
+  },
+  {
+    "bandName": "Blackshark (แบล็คชาร์ค)"
+  },
+  {
+    "bandName": "Feizhi (เฟ่ยชี)"
+  },
+  {
+    "bandName": "Bang & Olufsen (แบง & โอลูฟเซน)"
+  },
+  {
+    "bandName": "X Tech (เอ็กซ์เทค)"
+  },
+  {
+    "bandName": "Juyupu (จูยูพู)"
+  },
+  {
+    "bandName": "Nudie (นูดี้)"
+  },
+  {
+    "bandName": "Tolif (โทลิฟ)"
+  },
+  {
+    "bandName": "Rhinoshield (ไรโน่ชีลด์)"
+  },
+  {
+    "bandName": "Hifiman (ไฮไฟแมน)"
+  },
+  {
+    "bandName": "Lyn Around (ลินอราวด์)"
+  },
+  {
+    "bandName": "Ka1shop (เคเอวันช็อป)"
+  },
+  {
+    "bandName": "Miui (มิยูอิ)"
+  },
+  {
+    "bandName": "Siroflo (สิโรโฟล)"
+  },
+  {
+    "bandName": "Onida (โอนิด้า)"
+  },
+  {
+    "bandName": "Moguu (โมกุ)"
+  },
+  {
+    "bandName": "T Phox (ทีโฟซ์)"
+  },
+  {
+    "bandName": "Kp Advance (เอสเคแอดวานซ์)"
+  },
+  {
+    "bandName": "Cathkidton (แคท คิดสตัน)"
+  },
+  {
+    "bandName": "This Is One (ดีสอีสวัน)"
+  },
+  {
+    "bandName": "Mifo (มิโฟ)"
+  },
+  {
+    "bandName": "Aiqaa (ไอก้า)"
+  },
+  {
+    "bandName": "ACS (เอซีเอส)"
+  },
+  {
+    "bandName": "Kitkat (คิทแคท)"
+  },
+  {
+    "bandName": "Fengzhilife (เฟงชีไลฟ์)"
+  },
+  {
+    "bandName": "Gjby (จีเจบีวาย)"
+  },
+  {
+    "bandName": "E&P (อีแอนด์พี)"
+  },
+  {
+    "bandName": "Sodo (โซโด)"
+  },
+  {
+    "bandName": "PT Wireless (พีที ไวเลส)"
+  },
+  {
+    "bandName": "Ulanzi (อูลานซี)"
+  },
+  {
+    "bandName": "Qoovi (คูวี่)"
+  },
+  {
+    "bandName": "Strontium (สตรองเทียม)"
+  },
+  {
+    "bandName": "Aclasio (เอคลาสสิโอ)"
+  },
+  {
+    "bandName": "Veeaii (วีไอ)"
+  },
+  {
+    "bandName": "Targus (ทาร์กัส)"
+  },
+  {
+    "bandName": "Surface (เวอร์เฟส)"
+  },
+  {
+    "bandName": "Polaroid (โพลารอยด์)"
+  },
+  {
+    "bandName": "Eaudio (อีออดิโอ)"
+  },
+  {
+    "bandName": "Dudeeshop (ดูดีช็อป)"
+  },
+  {
+    "bandName": "Hyper X (ไฮเปอร์เอ็กซ์)"
+  },
+  {
+    "bandName": "FDGao (เอฟดีเกา)"
+  },
+  {
+    "bandName": "Dreamgate (ดรีมเกท)"
+  },
+  {
+    "bandName": "Xp Pen (เอ็กซ์พีเพน)"
+  },
+  {
+    "bandName": "Native Union (เนทีฟ ยูเนียน)"
+  },
+  {
+    "bandName": "Unit Bomb (ยูนิค บอมบ์)"
+  },
+  {
+    "bandName": "Xfit (เอ็กซ์ฟิต)"
+  },
+  {
+    "bandName": "Hale (เฮล)"
+  },
+  {
+    "bandName": "Soundmagic (ซาวด์เมจิก)"
+  },
+  {
+    "bandName": "Damei (ดาเม่ย)"
+  },
+  {
+    "bandName": "Sonoff (โซนอฟ)"
+  },
+  {
+    "bandName": "Lagava (ลากาว่า)"
+  },
+  {
+    "bandName": "BigBang (บิ๊กแบง)"
+  },
+  {
+    "bandName": "Anitech (แอนิเทค)"
+  },
+  {
+    "bandName": "Zhongxing (จงซิง)"
+  },
+  {
+    "bandName": "Yueshu (ยูชู)"
+  },
+  {
+    "bandName": "Icarer (ไอคาเรอร์)"
+  },
+  {
+    "bandName": "Ipipoo (ไอปิปโป)"
+  },
+  {
+    "bandName": "Mofi (โมฟี)"
+  },
+  {
+    "bandName": "Hnt (เอชเอ็นที)"
+  },
+  {
+    "bandName": "Fonken (โฟนเค่น)"
+  },
+  {
+    "bandName": "Earpods Headphone Plug (เอีย ปอดส์ เฮดโฟน ผลัก)"
+  },
+  {
+    "bandName": "Hiegi (เฮียกิ)"
+  },
+  {
+    "bandName": "Digrepair (ดิกรีแพร์)"
+  },
+  {
+    "bandName": "CheetahTalk (ชีตาห์ ทอลค์)"
+  },
+  {
+    "bandName": "Tesla (เทสล่า)"
+  },
+  {
+    "bandName": "Esther Bunny (เอสเทอร์บันนี่)"
+  },
+  {
+    "bandName": "CS@ (ซีเอสแอด)"
+  },
+  {
+    "bandName": "Capshi (แคปซิ)"
+  },
+  {
+    "bandName": "Quad Lock (ควาดล็อก)"
+  },
+  {
+    "bandName": "Barbie (บาร์บี้)"
+  },
+  {
+    "bandName": "JTLegend (เจทีรีเจนต์)"
+  },
+  {
+    "bandName": "Momo Stick (โมโม สติ๊ก)"
+  },
+  {
+    "bandName": "L Max (แอลแม็กซ์)"
+  },
+  {
+    "bandName": "Mizoo (มิสุ)"
+  },
+  {
+    "bandName": "Leotech (ลีโอเทค)"
+  },
+  {
+    "bandName": "Kakao Friends (คาเคาเฟรนด์)"
+  },
+  {
+    "bandName": "GZ (จีแซ่ด)"
+  },
+  {
+    "bandName": "BKY (บีเควาย)"
+  },
+  {
+    "bandName": "Randy (แรนดี้)"
+  },
+  {
+    "bandName": "Moga (โมก้า)"
+  },
+  {
+    "bandName": "OWAYS (ออลเวย์)"
+  },
+  {
+    "bandName": "Airpods Pro (แอร์พอร์ตโปร)"
+  },
+  {
+    "bandName": "I Drive (ไอไดรฟ์)"
+  },
+  {
+    "bandName": "Bloodbat (บลูดแบท)"
+  },
+  {
+    "bandName": "Lofter (ลอฟท์เตอร์)"
+  },
+  {
+    "bandName": "Sugru (ซูกรู)"
+  },
+  {
+    "bandName": "Tiwastage (ทิว่าสเตจ)"
+  },
+  {
+    "bandName": "CL (ซีแอล)"
+  },
+  {
+    "bandName": "Voorox (โวร็อกซ์)"
+  },
+  {
+    "bandName": "Trangu​ (ทรังกู)"
+  },
+  {
+    "bandName": "IBeat (ไอบีท)"
+  },
+  {
+    "bandName": "Benjie (เบนจิ)"
+  },
+  {
+    "bandName": "Gadhouse (แก๊ดเฮ้าส์)"
+  },
+  {
+    "bandName": "Kikkerland (คิกเกอร์แลนด์)"
+  },
+  {
+    "bandName": "Carsun (คาร์ซัน)"
+  },
+  {
+    "bandName": "Gucci (กุชชี่)"
+  },
+  {
+    "bandName": "Hastra (แฮสตร้า)"
+  },
+  {
+    "bandName": "Hastra H4 (ฮาสเตร เฮชโฟร์)"
+  },
+  {
+    "bandName": "Happylifestation (แฮ็ปปี้ไลฟ์สเตชั่น)"
+  },
+  {
+    "bandName": "Tiengu (เทียนกู)"
+  },
+  {
+    "bandName": "QUARRY (ควอรี)"
+  },
+  {
+    "bandName": "Recorder Factory (รีคอร์เดอร์แฟคตอรี่)"
+  },
+  {
+    "bandName": "Pxn (พีเอ็กซ์เอ็น)"
+  },
+  {
+    "bandName": "T Plus (ทีพลัส)"
+  },
+  {
+    "bandName": "Fuse Chicken (ฟิวส์ ชิคเค่น)"
+  },
+  {
+    "bandName": "Kabcon (แคบคอน)"
+  },
+  {
+    "bandName": "Qubii (คิวบิ)"
+  },
+  {
+    "bandName": "Azden (แอชเดน​)"
+  },
+  {
+    "bandName": "YX (วายเอ็กซ์)"
+  },
+  {
+    "bandName": "Lieqi (เลียซี่)"
+  },
+  {
+    "bandName": "CHARGE (ชาร์จ)"
+  },
+  {
+    "bandName": "SpinIt (สปินอิท)"
+  },
+  {
+    "bandName": "Commax (คอมแม็กซ์)"
+  },
+  {
+    "bandName": "Ovana (โอวาน่า)"
+  },
+  {
+    "bandName": "Techpro (เทคโปร)"
+  },
+  {
+    "bandName": "Qplus (คิวพลัส)"
+  },
+  {
+    "bandName": "Toesu (โตอีสุ)"
+  },
+  {
+    "bandName": "AOVA (เอโอว่า)"
+  },
+  {
+    "bandName": "Ible (ไอเบิล)"
+  },
+  {
+    "bandName": "Apple Sheep (แอปเปิ้ล ซีพ)"
+  },
+  {
+    "bandName": "Atouchbo (อะทัชบู)"
+  },
+  {
+    "bandName": "Homec (โฮมซี)"
+  },
+  {
+    "bandName": "J&J Moblie (เจแอนด์เจโมบาย)"
+  },
+  {
+    "bandName": "Miu Miu (มิวมิว)"
+  },
+  {
+    "bandName": "Kaiwa (ไควะ)"
+  },
+  {
+    "bandName": "Tuyu (ทูยู)"
+  },
+  {
+    "bandName": "Magna Vision (แมกนา วิชั่น)"
+  },
+  {
+    "bandName": "NEC (เอ็นอีซี)"
+  },
+  {
+    "bandName": "Kuulaa (คูลา)"
+  },
+  {
+    "bandName": "Hiby (ไฮบาย)"
+  },
+  {
+    "bandName": "Yealink (เยลลิ้ง)"
+  },
+  {
+    "bandName": "Xidale (ซีเดล)"
+  },
+  {
+    "bandName": "Inrico (อินริโก้)"
+  },
+  {
+    "bandName": "FitPro (ฟิตโปร)"
+  },
+  {
+    "bandName": "Imoo (ไอมู่)"
+  },
+  {
+    "bandName": "Romane (โรมาเน่)"
+  },
+  {
+    "bandName": "Zellcas (เซลแคส)"
+  },
+  {
+    "bandName": "Benro (เบนโร)"
+  },
+  {
+    "bandName": "Macan (มาคาน)"
+  },
+  {
+    "bandName": "Bouti (บูติ)"
+  },
+  {
+    "bandName": "Deep Audio (ดีพ ออดิโอ)"
+  },
+  {
+    "bandName": "Etera (อีเทร่า)"
+  },
+  {
+    "bandName": "Sabbat (แซบแบท)"
+  },
+  {
+    "bandName": "LIHIT (ไลฮิท)"
+  },
+  {
+    "bandName": "Proofs (พรูฟ)"
+  },
+  {
+    "bandName": "Harrods (แฮรอท)"
+  },
+  {
+    "bandName": "LADY (เลดี้)"
+  },
+  {
+    "bandName": "Alsoff (แอลซอฟ)"
+  },
+  {
+    "bandName": "Etude House (อีทูดี้ เฮ้าส์)"
+  },
+  {
+    "bandName": "Caravancrew (คาราวานคริว)"
+  },
+  {
+    "bandName": "Louis Vuitton (หลุยส์ วิตตอง)"
+  },
+  {
+    "bandName": "Shark (ชาร์ค)"
+  },
+  {
+    "bandName": "Visbella (วิสเบลล่า)"
+  },
+  {
+    "bandName": "Beez (บีส์)"
+  },
+  {
+    "bandName": "QMax (คิวแมกซ์)"
+  },
+  {
+    "bandName": "DJI (ดีเจไอ)"
+  },
+  {
+    "bandName": "Goodjodoq (กู๊ดโจดอค)"
+  },
+  {
+    "bandName": "Catalyst (แคทาไลซ์)"
+  },
+  {
+    "bandName": "Genius Gadgets (จีเนียสแก็ดเจ็ท)"
+  },
+  {
+    "bandName": "Gobelt (โกลเบลท์)"
+  },
+  {
+    "bandName": "Carmount (คาร์มอนท์)"
+  },
+  {
+    "bandName": "Mfeng (เอ็มเฟ็ง)"
+  },
+  {
+    "bandName": "Peri Page (เพอริ เพจ)"
+  },
+  {
+    "bandName": "Uutek (ยูเทค)"
+  },
+  {
+    "bandName": "Dudao (ดูดาว)"
+  },
+  {
+    "bandName": "Ruizu (รุยซุ)"
+  },
+  {
+    "bandName": "Vivalla (วีวัลลา)"
+  },
+  {
+    "bandName": "Elgato (เอลกาโต้)"
+  },
+  {
+    "bandName": "QKZ (คิวเคซี)"
+  },
+  {
+    "bandName": "Aigo (ไอโก)"
+  },
+  {
+    "bandName": "Kidnap Me (คิดแนปมี)"
+  },
+  {
+    "bandName": "Yuntonghe (ยันตง)"
+  },
+  {
+    "bandName": "Griptok (กริ๊บต๊อก)"
+  },
+  {
+    "bandName": "Smalody (สมาโลดี้)"
+  },
+  {
+    "bandName": "Keysion (คีย์ชั่น)"
+  },
+  {
+    "bandName": "Aauxx (เอเอยูเอ็กซ์)"
+  },
+  {
+    "bandName": "Trangu (ตรังงู)"
+  },
+  {
+    "bandName": "Recci (เรสซิ)"
+  },
+  {
+    "bandName": "Recrsi (เรคซี)"
+  },
+  {
+    "bandName": "Xundd (ซูนดี้)"
+  },
+  {
+    "bandName": "Lenyes (เลนส์เยส)"
+  },
+  {
+    "bandName": "Rapoo (แรปโป้)"
+  },
+  {
+    "bandName": "Xing Wu (ซิงวู)"
+  },
+  {
+    "bandName": "Kuu Laa (คู ล่า)"
+  },
+  {
+    "bandName": "Eve (อีฟ)"
+  },
+  {
+    "bandName": "Game Sir (เกม เซอร์)"
+  },
+  {
+    "bandName": "Yobo (โยโบ)"
+  },
+  {
+    "bandName": "fast cable 3m (ฟาส เคเบิ้ล ทรีเอ็ม)"
+  },
+  {
+    "bandName": "Acgicea (อาสจิก้า)"
+  },
+  {
+    "bandName": "Acgicea (แอกติเทีย)"
+  },
+  {
+    "bandName": "Pana Objects (พานาออปเจ็ค)"
+  },
+  {
+    "bandName": "Xone (เอ็กซ์วัน)"
+  },
+  {
+    "bandName": "Pana (พนา)"
+  },
+  {
+    "bandName": "Keybudz (คีย์บัดซ์)"
+  },
+  {
+    "bandName": "Key Budz (คีย์ บัดซ์)"
+  },
+  {
+    "bandName": "Hanskin (แฮนสกิน)"
+  },
+  {
+    "bandName": "Bestand (บีสแตนด์)"
+  },
+  {
+    "bandName": "Ymo (วายโม)"
+  },
+  {
+    "bandName": "Llano (ลลาโน)"
+  },
+  {
+    "bandName": "Oppo R9 (ออปโป้อาร์9)"
+  },
+  {
+    "bandName": "Hetaida (ฮีไทดา)"
+  },
+  {
+    "bandName": "Plus ID (พลัสไอดี)"
+  },
+  {
+    "bandName": "Logitech (โลจิเทค)"
+  },
+  {
+    "bandName": "Highestjump (ไฮเอสจัมพ์)"
+  },
+  {
+    "bandName": "Life Proof (ไลฟ์ พรูฟ)"
+  },
+  {
+    "bandName": "Adam (อดัม)"
+  },
+  {
+    "bandName": "GP Battery (จีพี เเบตเตอรี่)"
+  },
+  {
+    "bandName": "Nct (เอ็นซีที)"
+  },
+  {
+    "bandName": "Vokamo (โวคาโม)"
+  },
+  {
+    "bandName": "Beyond (บียอน)"
+  },
+  {
+    "bandName": "Broadlink (บอร์ดลิ้ง)"
+  },
+  {
+    "bandName": "Coolkids (คลู คิดส์)"
+  },
+  {
+    "bandName": "Grenoplus (กรีโนพลัส)"
+  },
+  {
+    "bandName": "Tucano (ทูคาโน่)"
+  },
+  {
+    "bandName": "Spyslide (สปายสไลด์)"
+  },
+  {
+    "bandName": "Horn Stand (ฮอน สแตน)"
+  },
+  {
+    "bandName": "AT&K (เอทีแอนด์เค)"
+  },
+  {
+    "bandName": "Kingxbar (คิงเอ็กซ์บาร์)"
+  },
+  {
+    "bandName": "Gusgu (กัสกู)"
+  },
+  {
+    "bandName": "Comic Horse (โคมิค ฮอร์ส)"
+  },
+  {
+    "bandName": "Zorloo (ซอลู)"
+  },
+  {
+    "bandName": "Waca (วาคา)"
+  },
+  {
+    "bandName": "Tru Fit (ทรู ฟิต)"
+  },
+  {
+    "bandName": "Mocut (โมคัท)"
+  },
+  {
+    "bandName": "Jelly (เจลลี่)"
+  },
+  {
+    "bandName": "Casetify (เคสทิฟาย)"
+  },
+  {
+    "bandName": "Minimono (มินิโมโน)"
+  },
+  {
+    "bandName": "Lifeprint (ไลฟ์ปริ้นท์)"
+  },
+  {
+    "bandName": "Excella (เอ็กซ์เซลล่า)"
+  },
+  {
+    "bandName": "Tenda (เทนด้า)"
+  },
+  {
+    "bandName": "Foreo (โฟรีโอ)"
+  },
+  {
+    "bandName": "mcdodo (แมคโดโด่)"
+  },
+  {
+    "bandName": "BOBBY BEAR (บ็อบบี้ แบร์)"
+  },
+  {
+    "bandName": "Teclast (เทคลาสท์)"
+  },
+  {
+    "bandName": "Z Ziz It (แซด ซิซ อิท)"
+  },
+  {
+    "bandName": "Divi (ดิวิ)"
+  },
+  {
+    "bandName": "Solognac (โซล็อกแนค)"
+  },
+  {
+    "bandName": "Smatrul (สมาร์ทรูล)"
+  },
+  {
+    "bandName": "Booster Stylus (บูสเตอร์ สไตล์ลัส)"
+  },
+  {
+    "bandName": "Upergo (ยูเปอร์โก)"
+  },
+  {
+    "bandName": "Nitecore (ไนท์คอร์)"
+  },
+  {
+    "bandName": "Ibasso (ไอบาสโซ)"
+  },
+  {
+    "bandName": "Zeed Sim (ซี๊ดซิม)"
+  },
+  {
+    "bandName": "Malakul (มาลาคุล)"
+  },
+  {
+    "bandName": "TFZ (ทีเอฟซี)"
+  },
+  {
+    "bandName": "Acome (อาโคมี่)"
+  },
+  {
+    "bandName": "Sport Sound (สปอร์ตซาวน์)"
+  },
+  {
+    "bandName": "ITrack (ไอแทรค)"
+  },
+  {
+    "bandName": "Timekettle (ไทม์เก็ตเทล)"
+  },
+  {
+    "bandName": "Yifeng (ยิเฟง)"
+  },
+  {
+    "bandName": "Bloomy (บลูมี่)"
+  },
+  {
+    "bandName": "Loyfar (ลอยฟ้า)"
+  },
+  {
+    "bandName": "Mitsubishi (มิตซุบิชิ)"
+  },
+  {
+    "bandName": "Anker (แองเคอร์)"
+  },
+  {
+    "bandName": "Ericsson (อีริคสัน)"
+  },
+  {
+    "bandName": "Quick (ควิก)"
+  },
+  {
+    "bandName": "Qucik (คูคิค)"
+  },
+  {
+    "bandName": "Vox (วอกซ์)"
+  },
+  {
+    "bandName": "Kensonic (เคนโซนิค)"
+  },
+  {
+    "bandName": "Lenovo (เลโนโว่)"
+  },
+  {
+    "bandName": "CYKStudio (ซีวายเคสตูดิโอ)"
+  },
+  {
+    "bandName": "Smax (เอสแม็ก)"
+  },
+  {
+    "bandName": "Fenglong (เฟิงโหลง)"
+  },
+  {
+    "bandName": "Corsair (คอร์แซร์)"
+  },
+  {
+    "bandName": "EVANGELION STORE (เอวาเกเลียน สโตร์)"
+  },
+  {
+    "bandName": "DermLite (เดอรมีริด)"
+  },
+  {
+    "bandName": "Pingao (พินเกา)"
+  },
+  {
+    "bandName": "Encore (อังกอร์)"
+  },
+  {
+    "bandName": "Pabk (พีเอบีเค)"
+  },
+  {
+    "bandName": "Jnuaryland (เจนูอารี่แลนด์)"
+  },
+  {
+    "bandName": "Polk (โพล์ค)"
+  },
+  {
+    "bandName": "Urbanista (เออบันนิสต้า)"
+  },
+  {
+    "bandName": "Go Belt (โกเบลท์)"
+  },
+  {
+    "bandName": "Other Brands (ออเทอร์ แบรนด์)"
+  },
+  {
+    "bandName": "Maxci (แม็กซี่)"
+  },
+  {
+    "bandName": "Easy&Perfect (อีซี่แอนด์เพอร์เฟค)"
+  },
+  {
+    "bandName": "Flybird (ฟลายบริด)"
+  },
+  {
+    "bandName": "Leather De Lim (เลเธอร์เดอลิม)"
+  },
+  {
+    "bandName": "NA Gadgets (เอ็นเอเก็จเจ็ท)"
+  },
+  {
+    "bandName": "GUB (จียูบี)"
+  },
+  {
+    "bandName": "Icharger (ไอชาร์จเจอร์)"
+  },
+  {
+    "bandName": "Monster (มอนสเตอร์)"
+  },
+  {
+    "bandName": "DG Ming (ดีจี หมิง)"
+  },
+  {
+    "bandName": "LifeProof (ไลฟ์พรูฟ)"
+  },
+  {
+    "bandName": "Soundsoul (ซาวด์โซล)"
+  },
+  {
+    "bandName": "Alabas (อลาบัส)"
+  },
+  {
+    "bandName": "Onlite (ออนไลท์)"
+  },
+  {
+    "bandName": "UR Green (ยูอาร์กรีน)"
+  },
+  {
+    "bandName": "Radiolink (เรดิโอลิ้งค์)"
+  },
+  {
+    "bandName": "Easy Call (อีซี่คอล)"
+  },
+  {
+    "bandName": "EasyCall (เอียคลอ)"
+  },
+  {
+    "bandName": "Tripod Support (ทรีพอดซับพอท)"
+  },
+  {
+    "bandName": "Paclink (เพคลิงค์)"
+  },
+  {
+    "bandName": "Tot (ทีโอที)"
+  },
+  {
+    "bandName": "TicwatchE (ทิควอชอี)"
+  },
+  {
+    "bandName": "BBguarder (บีบีการ์ดเดอร์)"
+  },
+  {
+    "bandName": "S Card Reader (เอสการ์ดหลีดเดอร์)"
+  },
+  {
+    "bandName": "Cardreader (การ์ดลีดเดอร์)"
+  },
+  {
+    "bandName": "Jennyberry (เจนนี่เบอร์รี่)"
+  },
+  {
+    "bandName": "Ohio (โอไฮโอ)"
+  },
+  {
+    "bandName": "Feiyutech (เฟยยูเทค)"
+  },
+  {
+    "bandName": "Muku (มุกุ)"
+  },
+  {
+    "bandName": "Hutchison (ฮัชจิสัน)"
+  },
+  {
+    "bandName": "Bewell (บีเวลล์)"
+  },
+  {
+    "bandName": "WATASHI (วาทาชิ)"
+  },
+  {
+    "bandName": "Sky Dolphin (สกายดอลฟิน)"
+  },
+  {
+    "bandName": "DemerBox (ดีเมอบ๊อก)"
+  },
+  {
+    "bandName": "idiskk (ไอดิส)"
+  },
+  {
+    "bandName": "Surecom (ชัวร์คอม)"
+  },
+  {
+    "bandName": "JDI (เจดีไอ)"
+  },
+  {
+    "bandName": "Arichs (อะริชส์)"
+  },
+  {
+    "bandName": "Asics (เอสิกส์)"
+  },
+  {
+    "bandName": "Epictech (อีปิคเทค)"
+  },
+  {
+    "bandName": "Wiggle Wiggle (วิกเกิ้ล วิกเกิ้ล)"
+  },
+  {
+    "bandName": "Sydekick (ไซด์คิก)"
+  },
+  {
+    "bandName": "Ephone (อีโฟน)"
+  },
+  {
+    "bandName": "YG SELECT (วายจี ซีเลค)"
+  },
+  {
+    "bandName": "Twitch (ทวิตช์)"
+  },
+  {
+    "bandName": "GOOJODOQ (กูโจดอก)"
+  },
+  {
+    "bandName": "XLL (เอ็กซ์แอลแอล)"
+  },
+  {
+    "bandName": "Love Mei (เลิฟเมย)"
+  },
+  {
+    "bandName": "Digtal Lab (ดิจิทัล แล็ป)"
+  },
+  {
+    "bandName": "Hohem (โฮเฮม)"
+  },
+  {
+    "bandName": "MyMai Woodcraft (มายใหม่วู้ดคราฟท์)"
+  },
+  {
+    "bandName": "D-Power  (ดี-เพาเวอร์)"
+  },
+  {
+    "bandName": "Photofast (โฟโต้ฟาร์ส)"
+  },
+  {
+    "bandName": "D1 Spec (ดีวัน สเปค)"
+  },
+  {
+    "bandName": "Tecno (เทกโน)"
+  },
+  {
+    "bandName": "Kaisite (ไกไซท์)"
+  },
+  {
+    "bandName": "HOMEMAXS (โฮมแมก)"
+  },
+  {
+    "bandName": "Homemaxs (โฮมแม็กซ์)"
+  },
+  {
+    "bandName": "D1Sport (ดีวันสปอร์ต)"
+  },
+  {
+    "bandName": "Taotronics (ทาโอโทรนิคส์)"
+  },
+  {
+    "bandName": "Lucky (ลัคกี้)"
+  },
+  {
+    "bandName": "Razer (เรเซอร์)"
+  },
+  {
+    "bandName": "Power Max (เพาเวอร์เม็กซ์)"
+  },
+  {
+    "bandName": "XTech (เอ็กเทค)"
+  },
+  {
+    "bandName": "3Sixt (3ซิกท์)"
+  },
+  {
+    "bandName": "Banana (บานาน่า)"
+  },
+  {
+    "bandName": "Centechia (เซนเทเชีย)"
+  },
+  {
+    "bandName": "BTY (บีทีวาย)"
+  },
+  {
+    "bandName": "Voxlink (ว็อกลิงค์)"
+  },
+  {
+    "bandName": "Centechia (เซนเทคเซียร์)"
+  },
+  {
+    "bandName": "Voxlink (วอกซ์ลิงก์)"
+  },
+  {
+    "bandName": "Japfac (แจปแฟค)"
+  },
+  {
+    "bandName": "Powermax (เพาเวอร์แม็กซ์)"
+  },
+  {
+    "bandName": "Powermax (พาวเวอร์แม็กซ์)"
+  },
+  {
+    "bandName": "Luobr  (โล่ บีอาร์)"
+  },
+  {
+    "bandName": "Luobr  (โล่บีอาร์)"
+  },
+  {
+    "bandName": "Meldylandz (เมลดี้แลนด์)"
+  },
+  {
+    "bandName": "Jie-Star (จีสตาร์)"
+  },
+  {
+    "bandName": "Elecom (อีเลคอม)"
+  },
+  {
+    "bandName": "Elecom (เอเลคอม)"
+  },
+  {
+    "bandName": "Singer (ซิงเกอร์)"
+  },
+  {
+    "bandName": "Ionct (ไอโอเอ็นซีที)"
+  },
+  {
+    "bandName": "BADGAD ( แบดแกด)"
+  },
+  {
+    "bandName": "Ionct"
+  },
+  {
+    "bandName": "Badgad (แบดแกด)"
+  },
+  {
+    "bandName": "Badgad (แบดเกด)"
+  },
+  {
+    "bandName": "UK Coco (ยูเคโคโค่)"
+  },
+  {
+    "bandName": "Ukcoco (ยูเคโคโค)"
+  },
+  {
+    "bandName": "Ukcoco (ยูเคโคโค่)"
+  },
+  {
+    "bandName": "UKCOCO"
+  },
+  {
+    "bandName": "Luobr (โล่บีอาร์)"
+  },
+  {
+    "bandName": "Cozistyle (โคซี่สไตล์)"
+  },
+  {
+    "bandName": "Cozistyle"
+  },
+  {
+    "bandName": "Cozistyle (โคซิสไตล์)"
+  },
+  {
+    "bandName": "Luobr (โล่ บีอาร์)"
+  },
+  {
+    "bandName": "Imak (ไอมาก)"
+  },
+  {
+    "bandName": "Foxnovo (ฟ็อกซ์โนโว่)"
+  },
+  {
+    "bandName": "Modernego (โมเดิร์นอีโก้)"
+  },
+  {
+    "bandName": "Huggyme (ฮักกี้มี)"
+  },
+  {
+    "bandName": "ACE (เอซีอี)"
+  },
+  {
+    "bandName": "MOFT (มอฟ)"
+  },
+  {
+    "bandName": "Hook (ฮุค)"
+  },
+  {
+    "bandName": "MyMai (มายไม้)"
+  },
+  {
+    "bandName": "IRing (ไอริง)"
+  },
+  {
+    "bandName": "LOGO X TRA (เลโก้เอ็กซ์ตร้า)"
+  },
+  {
+    "bandName": "Parblo (พาร์โบล)"
+  },
+  {
+    "bandName": "Tengu (เทนกุ)"
+  },
+  {
+    "bandName": "Anmite (แอนไมต์)"
+  },
+  {
+    "bandName": "Yinguo (ยิงกั๋ว)"
+  },
+  {
+    "bandName": "Dissing (ดีสซิ่ง)"
+  },
+  {
+    "bandName": "Bluelounge (บลูเลาจน์)"
+  },
+  {
+    "bandName": "Ringke  (ริงก้า)"
+  },
+  {
+    "bandName": "Suntaiho (ซันไทโฮ)"
+  },
+  {
+    "bandName": "Maikou (มายโค่ว)"
+  },
+  {
+    "bandName": "Ufi (ยูเอฟไอ)"
+  },
+  {
+    "bandName": "Apill (เอพริว)"
+  },
+  {
+    "bandName": "Baojia (เบาเจีย)"
+  },
+  {
+    "bandName": "CCing (ซีซิง)"
+  },
+  {
+    "bandName": "Dressit (เดรสซิส)"
+  },
+  {
+    "bandName": "Steelseries (สตีลซีรีย์)"
+  },
+  {
+    "bandName": "Chonni And Co (ชลนิแอนด์โค)"
+  },
+  {
+    "bandName": "Jumpshot (จั๊มช็อต)"
+  },
+  {
+    "bandName": "HAKONE (ฮาโกเน่)"
+  },
+  {
+    "bandName": "Alatour (อาลาทัวร์)"
+  },
+  {
+    "bandName": "Alatour (อลาทัวร์)"
+  },
+  {
+    "bandName": "Mojipower (โมจิเพาเวอร์)"
+  },
+  {
+    "bandName": "Moikit  (โมอิคิด)"
+  },
+  {
+    "bandName": "Sud Audio (ซุดออดิโฮ)"
+  },
+  {
+    "bandName": "Superfinenib (ซุปเปอร์เน็ก)"
+  },
+  {
+    "bandName": "Gordak850 (กอร์ดาค850)"
+  },
+  {
+    "bandName": "Gordak863 (กอร์ดาค863)"
+  },
+  {
+    "bandName": "Gordak925 (กอร์ดาค925)"
+  },
+  {
+    "bandName": "Sunshine (ซันชายน์)"
+  },
+  {
+    "bandName": "Kuaiqu  (คูไอคู)"
+  },
+  {
+    "bandName": "Soundpeats (ซาวด์พีท)"
+  },
+  {
+    "bandName": "Utorrent (ยูเอร์เร้นท์)"
+  },
+  {
+    "bandName": "Alatour (อลาเทอร์)"
+  },
+  {
+    "bandName": "IK Multimedia (ไอเค มัลติมีเดีย)"
+  },
+  {
+    "bandName": "Inovagen (ไอโนวาเจน)"
+  },
+  {
+    "bandName": "Iwalk (ไอวอล์ค)"
+  },
+  {
+    "bandName": "Yamaha (ยามาฮ่า)"
+  },
+  {
+    "bandName": "Smallrig (สมอลล์ริก)"
+  },
+  {
+    "bandName": "Smallrig (สมอลริก)"
+  },
+  {
+    "bandName": "Onesam (วันแซม)"
+  },
+  {
+    "bandName": "Usam (ยูแซม)"
+  },
+  {
+    "bandName": "Bencarson (เบนคาร์สัน)"
+  },
+  {
+    "bandName": "Yogibo (โยกิโบ)"
+  },
+  {
+    "bandName": "Foxkin (ฟอกซ์คิน)"
+  },
+  {
+    "bandName": "Foxkin (ฟ๊อกซ์คิน)"
+  },
+  {
+    "bandName": "Techtest (เทคเทสต์)"
+  },
+  {
+    "bandName": "华为 (หัวเหว่ย)"
+  },
+  {
+    "bandName": "Accezz (แอคเซส)"
+  },
+  {
+    "bandName": "Inker (อินเกอร์)"
+  },
+  {
+    "bandName": "Sumaho (สุมาโฮะ)"
+  },
+  {
+    "bandName": "Sumaho Mask (สุมาโฮะ มาสก์)"
+  },
+  {
+    "bandName": "Usams (ยูแซมส์)"
+  },
+  {
+    "bandName": "Gourmandise (กรูเม่ดีสต์)"
+  },
+  {
+    "bandName": "Jlab Audio (เจแล็บ ออดิโอ)"
+  },
+  {
+    "bandName": "Sena (เซนา)"
+  },
+  {
+    "bandName": "Sena (เสนา)"
+  },
+  {
+    "bandName": "Kuulaa (คูล่า)"
+  },
+  {
+    "bandName": "Sonar (โซนาร์)"
+  },
+  {
+    "bandName": "Marcus (มาร์คัส)"
+  },
+  {
+    "bandName": "Haylou (เฮโล)"
+  },
+  {
+    "bandName": "Future Thailand (ฟิวเจอร์ไทยแลนด์)"
+  },
+  {
+    "bandName": "P47 (พี47)"
+  },
+  {
+    "bandName": "KXLY (เคเอ็กซ์แอลวาย)"
+  },
+  {
+    "bandName": "LD Power Plus (แอลดีพาวเวอร์พลัส)"
+  },
+  {
+    "bandName": "Folio (โฟลิโอ)"
+  },
+  {
+    "bandName": "Xtrike Me (เอ็กซ์ทริกมี)"
+  },
+  {
+    "bandName": "Basspal (บาสปาล)"
+  },
+  {
+    "bandName": "Xiaomi (เสี่ยวหมี่)"
+  },
+  {
+    "bandName": "Knight (ไนต์)"
+  },
+  {
+    "bandName": "KOKO (โคโคะ)"
+  },
+  {
+    "bandName": "Wavlink (เวฟลิ้งค์)"
+  },
+  {
+    "bandName": "Deff (เดฟฟ์)"
+  },
+  {
+    "bandName": "Fasttect (ฟาสเทค)"
+  },
+  {
+    "bandName": "Brunch Brother (บรานซ์ บราเทอร์)"
+  },
+  {
+    "bandName": "Owire (โอวิเร)"
+  },
+  {
+    "bandName": "Licheers (ลิเชียร์)"
+  },
+  {
+    "bandName": "Relife (รีไลฟ์)"
+  },
+  {
+    "bandName": "Yaesu (ยาอีซุ)"
+  },
+  {
+    "bandName": "Maxtone (แม็กซ์โทน)"
+  },
+  {
+    "bandName": "Anmone (แอนโมเน่)"
+  },
+  {
+    "bandName": "Anmone (แอนโมนี่)"
+  },
+  {
+    "bandName": "Macnus (แมคนัส)"
+  },
+  {
+    "bandName": "Macnus (แม็กนัส)"
+  },
+  {
+    "bandName": "Leofoto (ลีโอโฟโต้)"
+  },
+  {
+    "bandName": "Focusrite (โฟกัสไรท์)"
+  },
+  {
+    "bandName": "Napdee (นัปดี)"
+  },
+  {
+    "bandName": "Kingdo (คิงโด)"
+  },
+  {
+    "bandName": "LT (แอลที)"
+  },
+  {
+    "bandName": "Alinco (อะลิงโก้)"
+  },
+  {
+    "bandName": "Panzer Glass (แพนเซอร์กลาส)"
+  },
+  {
+    "bandName": "Tegic (เทจิค)"
+  },
+  {
+    "bandName": "Modern Ego (โมเดิร์น อีโก้)"
+  },
+  {
+    "bandName": "7 Degrees (เซเว่นดีกรี)"
+  },
+  {
+    "bandName": "Kiwi (กีวี่)"
+  },
+  {
+    "bandName": "Fox (ฟ็อกซ์)"
+  },
+  {
+    "bandName": "ฺBouti Thailand (บูติ ไทยแลนด์)"
+  },
+  {
+    "bandName": "Seenda (ซีนดา)"
+  },
+  {
+    "bandName": "Seenda (เซียนต้า)"
+  },
+  {
+    "bandName": "Seenda (ซีนด้า)"
+  },
+  {
+    "bandName": "Orii (ออริอิ)"
+  },
+  {
+    "bandName": "Orii (ออริ)"
+  },
+  {
+    "bandName": "Viaking (เวียคิง)"
+  },
+  {
+    "bandName": "Huawei (หัวเว่ย)"
+  },
+  {
+    "bandName": "Pink Pineapple (พิ้งค์ ไพน์แอปเปิ้ล)"
+  },
+  {
+    "bandName": "Choccola (ช็อคโกแลต)"
+  },
+  {
+    "bandName": "Vayoit (วาโยไอที)"
+  },
+  {
+    "bandName": "Kacee (เคซี)"
+  },
+  {
+    "bandName": "Tommox (ทอมม็อกซ์)"
+  },
+  {
+    "bandName": "High Power (ฮายเก็ด พาวเวอร์)"
+  },
+  {
+    "bandName": "I Pod (ไอพ็อด)"
+  },
+  {
+    "bandName": "Redmi (เรดหมี่)"
+  },
+  {
+    "bandName": "Realme (เรียลมี)"
+  },
+  {
+    "bandName": "Christian Dior (คริสเตียน ดิออร์)"
+  },
+  {
+    "bandName": "Sarafox (ซาราฟ็อกซ์)"
+  },
+  {
+    "bandName": "Lyfro (ไลโฟร์)"
+  },
+  {
+    "bandName": "Lyfro (ไลโฟ)"
+  },
+  {
+    "bandName": "Mototec (โมโตเทค)"
+  },
+  {
+    "bandName": "Umbra (อัมบรา)"
+  },
+  {
+    "bandName": "Maktar (มาคตาร์)"
+  },
+  {
+    "bandName": "Hytera (ไฮเทรา)"
+  },
+  {
+    "bandName": "Bergenes (เบรเยียเนส)"
+  },
+  {
+    "bandName": "Mezone (มีโซน)"
+  },
+  {
+    "bandName": "Vancefly (แวนซ์ฟลาย)"
+  },
+  {
+    "bandName": "Lemel (ลีเมล)"
+  },
+  {
+    "bandName": "Airpurity  (แอร์เพียวริตี้)"
+  },
+  {
+    "bandName": "Elixage (อิลิกเซ็จ)"
+  },
+  {
+    "bandName": "Blue Box (บลูบ๊อก)"
+  },
+  {
+    "bandName": "Blue Box (บลูบ็อกซ์)"
+  },
+  {
+    "bandName": "Fly360 (ไฟล์360)"
+  },
+  {
+    "bandName": "Kingma (คิงค์มา)"
+  },
+  {
+    "bandName": "Easy&Perfect (อีซี่แอนด์เพอร์เฟกต์)"
+  },
+  {
+    "bandName": "Mijia (มิเจีย)"
+  },
+  {
+    "bandName": "Sunmi (ซันมิ)"
+  },
+  {
+    "bandName": "Lucky Box (ลัคกี้บ็อกซ์)"
+  },
+  {
+    "bandName": "NBA Mania (เอ็นบีเอ มาเนีย)"
+  },
+  {
+    "bandName": "Ipaky (ไอพากี้)"
+  },
+  {
+    "bandName": "Walk Photo (วอกโฟโต้)"
+  },
+  {
+    "bandName": "Line Friends (ไลน์เฟรนด์)"
+  },
+  {
+    "bandName": "Motorola (โมโตโรล่า)"
+  },
+  {
+    "bandName": "V Tech (วีเทค)"
+  },
+  {
+    "bandName": "Mobipro (โมบิโปร)"
+  },
+  {
+    "bandName": "Celebrat (เซเลเบรท)"
+  },
+  {
+    "bandName": "Celebrat (เซเลแบรต)"
+  },
+  {
+    "bandName": "Hishield (ไฮชีลด์)"
+  },
+  {
+    "bandName": "Seabird (ซีเบิร์ด)"
+  },
+  {
+    "bandName": "Xooxi (โซซี่)"
+  },
+  {
+    "bandName": "Mingke (มิ้งเก้)"
+  },
+  {
+    "bandName": "Arun (อรุณ)"
+  },
+  {
+    "bandName": "Letong (เลทอง)"
+  },
+  {
+    "bandName": "Dengo (เดนโก้)"
+  },
+  {
+    "bandName": "YKZ (วายเคแซด)"
+  },
+  {
+    "bandName": "Incase (อินเคส)"
+  },
+  {
+    "bandName": "Binary Antenna (ไบนารี่ แอนเทนน่า)"
+  },
+  {
+    "bandName": "Binary (ไบนารี่)"
+  },
+  {
+    "bandName": "Leshp (เลสเอชพี)"
+  },
+  {
+    "bandName": "Invisibleshield (อินวิซิเบิลชิลด์)"
+  },
+  {
+    "bandName": "Invisible Shield (อินวิซิเบิล ชิลด์)"
+  },
+  {
+    "bandName": "Iant (ไอแอนท์)"
+  },
+  {
+    "bandName": "Rampow (แรมพาว)"
+  },
+  {
+    "bandName": "Palm Angels (ปาล์ม แองเจิ้ล)"
+  },
+  {
+    "bandName": "Goip (โกไอพี)"
+  },
+  {
+    "bandName": "Holo (โฮโล่)"
+  },
+  {
+    "bandName": "Xooxi (ซูซี่)"
+  },
+  {
+    "bandName": "Tidik (ทิกดิก)"
+  },
+  {
+    "bandName": "Zuzg (ซัสจี)"
+  },
+  {
+    "bandName": "Ray Protector (เรย์ โปรเทคเตอร์)"
+  },
+  {
+    "bandName": "Aukey (อูคีย์)"
+  },
+  {
+    "bandName": "Octave (อ็อกเทบ)"
+  },
+  {
+    "bandName": "Ponity (โพนิตี)"
+  },
+  {
+    "bandName": "Labrador (ลาบราดอร์)"
+  },
+  {
+    "bandName": "Hoho Munbanggu (โฮโฮ มัลบังกุ)"
+  },
+  {
+    "bandName": "Mill and Moi (มิลแอนด์มอ)"
+  },
+  {
+    "bandName": "Bibibbung Tok (บีบิบบัง ต๊อก)"
+  },
+  {
+    "bandName": "Young Forest (ยัง ฟอเรสท์)"
+  },
+  {
+    "bandName": "B2Go (บีทูโก)"
+  },
+  {
+    "bandName": "BP Wander (บีพีแวนเดอร์)"
+  },
+  {
+    "bandName": "Lanex (ลาเน็กซ์)"
+  },
+  {
+    "bandName": "First Class (เฟิร์สคลาส)"
+  },
+  {
+    "bandName": "First Class (เฟิสท์ คลาส)"
+  },
+  {
+    "bandName": "Worldtech (เวิลด์เทค)"
+  },
+  {
+    "bandName": "LUKEN (ลูเค่น)"
+  },
+  {
+    "bandName": "Go Pro (โกโปร)"
+  },
+  {
+    "bandName": "Maxcon (แม็กซ์คอน)"
+  },
+  {
+    "bandName": "Risiea (ริเซีย)"
+  },
+  {
+    "bandName": "Elfstorm (เอลฟ์สตอร์ม)"
+  },
+  {
+    "bandName": "PNGXE (พีเอ็นจีเอ็กซ์อี)"
+  },
+  {
+    "bandName": "Binary (ไบนารี)"
+  },
+  {
+    "bandName": "Cheero (ชีโร่)"
+  },
+  {
+    "bandName": "Napdee (แนปดี)"
+  },
+  {
+    "bandName": "BUBM (บียูบีเอ็ม)"
+  },
+  {
+    "bandName": "Ikea (อิเกีย)"
+  },
+  {
+    "bandName": "Vivan (วิแวน)"
+  },
+  {
+    "bandName": "Cyberdict (ไซเบอร์ดิก)"
+  }
+]

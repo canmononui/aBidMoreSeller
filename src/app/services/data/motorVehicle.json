@@ -1,0 +1,10844 @@
+[
+  {
+    "bandName": "No brand (ไม่มีแบรนด์)"
+  },
+  {
+    "bandName": "Honda (ฮอนด้า)"
+  },
+  {
+    "bandName": "Michelin (มิชชิลิน)"
+  },
+  {
+    "bandName": "BMW (บีเอ็มดับบลิว)"
+  },
+  {
+    "bandName": "YAMAHA (ยามาฮ่า)"
+  },
+  {
+    "bandName": "KENWOOD (เคนวูด)"
+  },
+  {
+    "bandName": "SOKE (โสก)"
+  },
+  {
+    "bandName": "Pioneer (พีโอเนียร์)"
+  },
+  {
+    "bandName": "Brembo (เบรมโบ)"
+  },
+  {
+    "bandName": "Ohlins (โอลินส์)"
+  },
+  {
+    "bandName": "Valvoline (วาโวลีน)"
+  },
+  {
+    "bandName": "Real Helmet (เรียล เฮลเมท)"
+  },
+  {
+    "bandName": "Bilmola (บิลโมล่า)"
+  },
+  {
+    "bandName": "K-RUBBER (เครับเบอร์)"
+  },
+  {
+    "bandName": "Tips2Keep (ทิปทูคีป)"
+  },
+  {
+    "bandName": "GRACSHAW (แกรคชาว)"
+  },
+  {
+    "bandName": "OSRAM (ออสแรม)"
+  },
+  {
+    "bandName": "Master Coolant (มาสเตอร์ คูเลนท์)"
+  },
+  {
+    "bandName": "INDEX (อินเด็กซ์)"
+  },
+  {
+    "bandName": "XENON (ซีนอน)"
+  },
+  {
+    "bandName": "Bendix (เบนดิกซ์)"
+  },
+  {
+    "bandName": "BOSCH (บ๊อช)"
+  },
+  {
+    "bandName": "Isuzu (อีซูซุ)"
+  },
+  {
+    "bandName": "Liqui Moly (ลิควิโมลี่)"
+  },
+  {
+    "bandName": "Vespa Piaggo (เวสป้า เปียกโก้))"
+  },
+  {
+    "bandName": "KSR (เคเอสอาร์)"
+  },
+  {
+    "bandName": "MOTOR-X (มอเตอร์ เอ็กซ์)"
+  },
+  {
+    "bandName": "Speedstudio (สปีดสตูดิโอ)"
+  },
+  {
+    "bandName": "Firebird (ไฟร์เบิร์ด)"
+  },
+  {
+    "bandName": "INDEX Dunk (อินเด็กซ์ ดันค์)"
+  },
+  {
+    "bandName": "Fino (ไฟโน่)"
+  },
+  {
+    "bandName": "AVEX (เอเว็กซ์)"
+  },
+  {
+    "bandName": "Natcha003 (ณัทชา 003)"
+  },
+  {
+    "bandName": "Mobil 1 (โมบิลวัน)"
+  },
+  {
+    "bandName": "KLUM-X (คลาแม็กซ์)"
+  },
+  {
+    "bandName": "PROBIKER (โปรไบค์เกอร์)"
+  },
+  {
+    "bandName": "Mitsubishi Mirage (มิทซูบิชิ มิราจ)"
+  },
+  {
+    "bandName": "Podium one (โพเดี่ยม วัน)"
+  },
+  {
+    "bandName": "Nissan (นิสสัน)"
+  },
+  {
+    "bandName": "ONSEN (ออนเซ็น)"
+  },
+  {
+    "bandName": "Aukey (ออคีย์)"
+  },
+  {
+    "bandName": "Msx (เอ็มเอสเอ็กซ์)"
+  },
+  {
+    "bandName": "Olesson (โอเลสซอน)"
+  },
+  {
+    "bandName": "Bodyguard (บอดี้การ์ด)"
+  },
+  {
+    "bandName": "FUEL RIDER (ฟิล ไรเดอร์)"
+  },
+  {
+    "bandName": "Motul (โมตุล)"
+  },
+  {
+    "bandName": "Spacecrown (สเปสคราวน์)"
+  },
+  {
+    "bandName": "Kawasaki (คาวาซากิ)"
+  },
+  {
+    "bandName": "Repsol (เรปโซล)"
+  },
+  {
+    "bandName": "Kriega (คริก้า)"
+  },
+  {
+    "bandName": "Audio Quart (ออดิโอ ควอร์ต)"
+  },
+  {
+    "bandName": "Reflex (รีเฟล็กซ์)"
+  },
+  {
+    "bandName": "HKS (เอชเคเอส)"
+  },
+  {
+    "bandName": "COLOR (คัลเลอร์)"
+  },
+  {
+    "bandName": "RAM MOUNT (แรม เมาท์)"
+  },
+  {
+    "bandName": "Maxspeed rim (แม็กซ์สปีด ริม)"
+  },
+  {
+    "bandName": "Mr Carblinds (ดร.คาร์บลายด์)"
+  },
+  {
+    "bandName": "JSD (เจเอสดี)"
+  },
+  {
+    "bandName": "Ocean (โอเชี่ยน)"
+  },
+  {
+    "bandName": "Petronas (ปีโตรนาส)"
+  },
+  {
+    "bandName": "Eneos (เอเนออส)"
+  },
+  {
+    "bandName": "Mazda (มาสด้า)"
+  },
+  {
+    "bandName": "Castrol  EDGE (คาสตรอล เอดจ์)"
+  },
+  {
+    "bandName": "CRG (ซีอาร์จี)"
+  },
+  {
+    "bandName": "Mslaz (เอ็มเซล)"
+  },
+  {
+    "bandName": "SUZUKI (ซูซูกิ)"
+  },
+  {
+    "bandName": "CASTROL (คาสตรอล)"
+  },
+  {
+    "bandName": "TK Racing (ทีเค ราคิงก์)"
+  },
+  {
+    "bandName": "Austinracecing (อัสตินเรคซิง)"
+  },
+  {
+    "bandName": "ปตท"
+  },
+  {
+    "bandName": "SHARK (ชาร์ค)"
+  },
+  {
+    "bandName": "Wako's (วากอส)"
+  },
+  {
+    "bandName": "Mio (มิโอ้)"
+  },
+  {
+    "bandName": "Racing Power (เรซซิง พาวเวอร์)​"
+  },
+  {
+    "bandName": "STDesign (เอสทีดีไซจน์)"
+  },
+  {
+    "bandName": "Vemar (วีมาร์)"
+  },
+  {
+    "bandName": "Osk (โอเอสเค)"
+  },
+  {
+    "bandName": "Shark Helmets (ชาร์ค ฮิลเมทส์)"
+  },
+  {
+    "bandName": "AUTOMAN (ออโต้เเมน)"
+  },
+  {
+    "bandName": "Daytona (เดย์โทน่า)"
+  },
+  {
+    "bandName": "Asw Balance (เอเอสดับบลิว บาลานซ์)"
+  },
+  {
+    "bandName": "GPS ONE (จีพีเอสวัน)"
+  },
+  {
+    "bandName": "SOLEX (โซเล็กซ์)"
+  },
+  {
+    "bandName": "Opel (โอเปิ้ล)"
+  },
+  {
+    "bandName": "TODA (โตดะ)"
+  },
+  {
+    "bandName": "Abs (เอบีเอส)"
+  },
+  {
+    "bandName": "Porporr404 (ปอร์ปอร์404)"
+  },
+  {
+    "bandName": "Commander (คอมแมนเดอร์)"
+  },
+  {
+    "bandName": "SUPER G2 (ซุปเปอร์ จีทู)"
+  },
+  {
+    "bandName": "ThreeBond (ทรีบอนด์)"
+  },
+  {
+    "bandName": "APEX (เอเป็กซ์)"
+  },
+  {
+    "bandName": "Rocky Speed (ร็อคกี้ สปีด)"
+  },
+  {
+    "bandName": "Koito (โคะอิโท)"
+  },
+  {
+    "bandName": "B. Duck (บีดักซ์)"
+  },
+  {
+    "bandName": "TDC (ทีดีซี)"
+  },
+  {
+    "bandName": "Amsoil (แอมซอยล์)"
+  },
+  {
+    "bandName": "PENTAIR (เพนเทียร์)"
+  },
+  {
+    "bandName": "WIX (วิกซ์)"
+  },
+  {
+    "bandName": "Taichi (ไทชิ)"
+  },
+  {
+    "bandName": "Pulsar (พัลซาร์)"
+  },
+  {
+    "bandName": "Thai antinoc (ไทยแอนตี้น็อค)"
+  },
+  {
+    "bandName": "Earldom (อาร์ลดอม)"
+  },
+  {
+    "bandName": "Assdwe (แอดวี่)"
+  },
+  {
+    "bandName": "TAKATA (ทาคาต้า)"
+  },
+  {
+    "bandName": "O M Y ( โอ เอม วาย )"
+  },
+  {
+    "bandName": "Vimoto (วิโมโต้)"
+  },
+  {
+    "bandName": "Phoenix (โพนิกซ์)"
+  },
+  {
+    "bandName": "KTY (เคตี้)"
+  },
+  {
+    "bandName": "Idemitsu (อิเดมิตสึ)"
+  },
+  {
+    "bandName": "GripGo (กริปโก)"
+  },
+  {
+    "bandName": "Caltex (คาลเท็กซ์)"
+  },
+  {
+    "bandName": "Samurai (ซามูไร)"
+  },
+  {
+    "bandName": "Link Force (ลิงค์ฟอร์ซ)"
+  },
+  {
+    "bandName": "HJC (เอชเจซี)"
+  },
+  {
+    "bandName": "Trane (เทรน)"
+  },
+  {
+    "bandName": "Maxtec (แม็กซ์เทค)"
+  },
+  {
+    "bandName": "None (นอน)"
+  },
+  {
+    "bandName": "B&B (บีแอนด์บี)"
+  },
+  {
+    "bandName": "Next (เน็กซ์)"
+  },
+  {
+    "bandName": "Ahi (อฮิ)"
+  },
+  {
+    "bandName": "QUAD LOCK (ควาดล็อก)"
+  },
+  {
+    "bandName": "JOMTHAI (จอมไทย)"
+  },
+  {
+    "bandName": "SC PROJECT (เอสซีโปรเจ็กต์)"
+  },
+  {
+    "bandName": "Catch Caddy (แคทช์ แคดดี้)"
+  },
+  {
+    "bandName": "Disney (ดิสนีย์)"
+  },
+  {
+    "bandName": "Soryu (โซร์ยู)"
+  },
+  {
+    "bandName": "DRIVEBOT (ไดร์ฟบอท)"
+  },
+  {
+    "bandName": "OEM (โออีเอ็ม)"
+  },
+  {
+    "bandName": "VELOIL (เวลลอย)"
+  },
+  {
+    "bandName": "Premier ( พรีเมียร์)"
+  },
+  {
+    "bandName": "RK (อาร์เค)"
+  },
+  {
+    "bandName": "2Car (ทูคาร์)"
+  },
+  {
+    "bandName": "Seven Speed (เซเว่นสปีด)"
+  },
+  {
+    "bandName": "Harley (ฮาร์เลย์)"
+  },
+  {
+    "bandName": "Moritech (โมริแทช)"
+  },
+  {
+    "bandName": "Car G7 (คาร์จี เซเว่น)"
+  },
+  {
+    "bandName": "KOOM (คูม)"
+  },
+  {
+    "bandName": "AJAK (อาจาก)"
+  },
+  {
+    "bandName": "Mitsubishi (มิทซูบิชิ)"
+  },
+  {
+    "bandName": "YSS (วายเอสเอส)"
+  },
+  {
+    "bandName": "LOCKTE (ล็อคเต้)"
+  },
+  {
+    "bandName": "MAXXIS (แม็กซ์ซิส)"
+  },
+  {
+    "bandName": "ZIC  (ซิค)"
+  },
+  {
+    "bandName": "ZIM-ZEEM (ซิมซีม)"
+  },
+  {
+    "bandName": "M1 (เอ็ม1)"
+  },
+  {
+    "bandName": "Fineline (ไฟน์ไลน์)"
+  },
+  {
+    "bandName": "Shoei (โชเอะ)"
+  },
+  {
+    "bandName": "Ford Fiesta (ฟอร์ดเฟียสต้า)"
+  },
+  {
+    "bandName": "Gutsun (กัตซัน)"
+  },
+  {
+    "bandName": "TOPTUL (ท็อปทัล)"
+  },
+  {
+    "bandName": "Altrax (แอลเท็ค)"
+  },
+  {
+    "bandName": "DTG (ดีทีจี)"
+  },
+  {
+    "bandName": "LUBE 71 (ลูบ71)"
+  },
+  {
+    "bandName": "YASAKI (ยาซากิ)"
+  },
+  {
+    "bandName": "AGV (เอจีวี)"
+  },
+  {
+    "bandName": "ACDelco (เอซีเดลโก้)"
+  },
+  {
+    "bandName": "V-TECH (วีเทค)"
+  },
+  {
+    "bandName": "FB (เอฟบี)"
+  },
+  {
+    "bandName": "90 Ninety (ไนน์ตี้)"
+  },
+  {
+    "bandName": "90Ninety (90ไนน์ตี้)"
+  },
+  {
+    "bandName": "CALTON (คาลตัน)"
+  },
+  {
+    "bandName": "KENPRO (เคนโปร)"
+  },
+  {
+    "bandName": "พรมกระดุม Ford Everest-2015"
+  },
+  {
+    "bandName": "CABERG (คาเบิร์ก)"
+  },
+  {
+    "bandName": "Pro-Bolt (โปรบอล์ต)"
+  },
+  {
+    "bandName": "SONY (โซนี่)"
+  },
+  {
+    "bandName": "AISIN (ไอซิน)"
+  },
+  {
+    "bandName": "Unixx (ยูนิกซ์)"
+  },
+  {
+    "bandName": "Ford (ฟอร์ด)"
+  },
+  {
+    "bandName": "MotoGP (โมโต จีพี)"
+  },
+  {
+    "bandName": "NIPPON (นิปปอน)"
+  },
+  {
+    "bandName": "Hello kitty (ฮัลโหล คิตตี้)"
+  },
+  {
+    "bandName": "MT helmet (เอ็มที เฮลเมท)"
+  },
+  {
+    "bandName": "Carg7 (คาร์จี7)"
+  },
+  {
+    "bandName": "NGK (เอ็น.จี.เค)"
+  },
+  {
+    "bandName": "Denso Iridium (เดนโซอิริเดียม)"
+  },
+  {
+    "bandName": "Carmero (คาเมโร่)"
+  },
+  {
+    "bandName": "China (ชิน่า)"
+  },
+  {
+    "bandName": "Zfine (ซีไฟน์)"
+  },
+  {
+    "bandName": "Atom (อะตอม)"
+  },
+  {
+    "bandName": "RCB (อาร์ซีบี)"
+  },
+  {
+    "bandName": "Scent Nature (เซนต์เนเจอร์)"
+  },
+  {
+    "bandName": "MKY GROUP (เอ็มกาย กรุ๊ป)"
+  },
+  {
+    "bandName": "Chevrolet (เชฟโรเลท)"
+  },
+  {
+    "bandName": "Avex Helmets (เอเว็กซ์ เฮลเมทส์)"
+  },
+  {
+    "bandName": "YOXI (โยซิ)"
+  },
+  {
+    "bandName": "X5 Bluetooth (เอ็กซ์ห้า บลูทูธ )"
+  },
+  {
+    "bandName": "Helmetkid (เฮลเมทคิด)"
+  },
+  {
+    "bandName": "FULL RAZER (ฟูลเลเซอร์)"
+  },
+  {
+    "bandName": "Kbird (เคเบิร์ด)"
+  },
+  {
+    "bandName": "Zulex (ซูเลกซ์)"
+  },
+  {
+    "bandName": "Ride it (ไรด์อิส)"
+  },
+  {
+    "bandName": "YOGO (โยโก)"
+  },
+  {
+    "bandName": "Bungbon (บางบอน)"
+  },
+  {
+    "bandName": "REAL (เรียล)"
+  },
+  {
+    "bandName": "Bangchak (บางจาก)"
+  },
+  {
+    "bandName": "Cargoloc (คาร์โกล็อค)"
+  },
+  {
+    "bandName": "OSAKI (โอโซกิ)"
+  },
+  {
+    "bandName": "KAR (คาร์)"
+  },
+  {
+    "bandName": "BENZ (เบนซ์)"
+  },
+  {
+    "bandName": "Shodai shop (โชเดียช็อป)"
+  },
+  {
+    "bandName": "PK (พีเค)"
+  },
+  {
+    "bandName": "Bluetooth Car (บลูทูธ คาร์)"
+  },
+  {
+    "bandName": "LEOMAX (ลีโอแม็กซ)"
+  },
+  {
+    "bandName": "St6 (เอสทีซิกซ์)"
+  },
+  {
+    "bandName": "Allshop2you (ออลช็อปทูยู)"
+  },
+  {
+    "bandName": "Chaina (ไชน่า)"
+  },
+  {
+    "bandName": "Fixate (ฟิกซ์เอท)"
+  },
+  {
+    "bandName": "Depo (เดอโป)"
+  },
+  {
+    "bandName": "West lake (เวสท์เลก)"
+  },
+  {
+    "bandName": "Cocoshop (โคโคช็อป)"
+  },
+  {
+    "bandName": "Hella (เฮลล่า)"
+  },
+  {
+    "bandName": "Benelli (เบเนลิล)"
+  },
+  {
+    "bandName": "GULF (กลุ๊ฟ)"
+  },
+  {
+    "bandName": "NJCAR (เอ็นเจ คาร์)"
+  },
+  {
+    "bandName": "Nankang (แนนแกง)"
+  },
+  {
+    "bandName": "BIMOLA​ (บิโมล่า)"
+  },
+  {
+    "bandName": "RECARO (รีคาโร่)"
+  },
+  {
+    "bandName": "Yema Helmet (เยมา เฮลเม็ต)"
+  },
+  {
+    "bandName": "Pluse1 (พลุสวัน)"
+  },
+  {
+    "bandName": "Carsun (คาร์สัน)"
+  },
+  {
+    "bandName": "CCP (ซีซีพี)"
+  },
+  {
+    "bandName": "Duro (ดูโร่)"
+  },
+  {
+    "bandName": "PowerLink (เพาเวอร์ ลิงค์)"
+  },
+  {
+    "bandName": "Remax (รีเเม็กซ์)"
+  },
+  {
+    "bandName": "PINTO (ปิ่นโต)"
+  },
+  {
+    "bandName": "Ohho (โอ้โห)"
+  },
+  {
+    "bandName": "SIN (ซิน)"
+  },
+  {
+    "bandName": "Sparzo (สปาโซ่)"
+  },
+  {
+    "bandName": "Phyllis (ฟิลลิส)"
+  },
+  {
+    "bandName": "Seesans (สีสัน)"
+  },
+  {
+    "bandName": "STP  (เอสทีพี)"
+  },
+  {
+    "bandName": "J-Speed (เจ สปีด)"
+  },
+  {
+    "bandName": "Zigma (ซิกม่า)"
+  },
+  {
+    "bandName": "ODR (โอดีอาร์)"
+  },
+  {
+    "bandName": "Mickey Mouse (มิกกี้ เมาส์)"
+  },
+  {
+    "bandName": "OSWA (ออสวา)"
+  },
+  {
+    "bandName": "X-Lite (เอ็กซ์ไลท์)"
+  },
+  {
+    "bandName": "Moto R (โมโต้อาร์)"
+  },
+  {
+    "bandName": "Snell (สเนล)"
+  },
+  {
+    "bandName": "US Cushing (ยูเอสคุชชิง)"
+  },
+  {
+    "bandName": "AXO (เอเอ็กซ์โอ)"
+  },
+  {
+    "bandName": "Thaivasion (ไทแวสัน)"
+  },
+  {
+    "bandName": "Vertex (เวอร์เทกซ์)"
+  },
+  {
+    "bandName": "MASCASEY (แมสเคซี่)"
+  },
+  {
+    "bandName": "Goodride (กู๊ดไรด์)"
+  },
+  {
+    "bandName": "Ducati (ดูคาติ)"
+  },
+  {
+    "bandName": "สแตนเลย์"
+  },
+  {
+    "bandName": "Standley (สแตนเลย์)"
+  },
+  {
+    "bandName": "NHK (เอ็นเอชเค)"
+  },
+  {
+    "bandName": "Arai (อาราอิ)"
+  },
+  {
+    "bandName": "Banzai (บานไซ)"
+  },
+  {
+    "bandName": "FALCONS (ฟอลคอน)"
+  },
+  {
+    "bandName": "EZI (อีซี่)"
+  },
+  {
+    "bandName": "Xcam (เอ็กซ์แคม)"
+  },
+  {
+    "bandName": "PTT (ปตท.)"
+  },
+  {
+    "bandName": "Flexoid (เฟล็กออยล์)"
+  },
+  {
+    "bandName": "MG (เอ็มจี)"
+  },
+  {
+    "bandName": "CARBEST (คาร์เบสท์)"
+  },
+  {
+    "bandName": "Rock Biker (ร็อค ไบเกอร์)"
+  },
+  {
+    "bandName": "Maspo (มาสโป)"
+  },
+  {
+    "bandName": "Duraichi (ดูราอิชิ)"
+  },
+  {
+    "bandName": "Chuoyuka (โชยูก้า)"
+  },
+  {
+    "bandName": "Orsam (ออร์เซม)"
+  },
+  {
+    "bandName": "MAMORU (มาโมรุ)"
+  },
+  {
+    "bandName": "SOLO (โซโล)"
+  },
+  {
+    "bandName": "Yaris ativ (ยาริส แอททีพ)"
+  },
+  {
+    "bandName": "Mocc (มอคค์)"
+  },
+  {
+    "bandName": "YOKOHAMA (โยโกฮามา)"
+  },
+  {
+    "bandName": "DSO (ดีโซ่)"
+  },
+  {
+    "bandName": "NAS (แนช)"
+  },
+  {
+    "bandName": "KAPPA (แกปป้า)"
+  },
+  {
+    "bandName": "NAKOYA (นาโกย่า)"
+  },
+  {
+    "bandName": "SKF (เอสเคเอฟ)"
+  },
+  {
+    "bandName": "STIEBER (สติเบอร์)"
+  },
+  {
+    "bandName": "OMEGA (โอเมก้า)"
+  },
+  {
+    "bandName": "Thecar (เดอะคาร์)"
+  },
+  {
+    "bandName": "LED (แอลอีดี)"
+  },
+  {
+    "bandName": "CAR INVRTER  (คาร์อินเวอร์เตอร์)"
+  },
+  {
+    "bandName": "Gus (กัส)"
+  },
+  {
+    "bandName": "Deestone (ดีสโตน)"
+  },
+  {
+    "bandName": "Hopstyling (ฮอปสไตล์ลิ่ง)"
+  },
+  {
+    "bandName": "HM AUTO (เอชเอ็ม ออโต)"
+  },
+  {
+    "bandName": "Greddy (เกร็ดดี้)"
+  },
+  {
+    "bandName": "DEVIL EVOLUTION (เดวิลอีโวลูชั่น)"
+  },
+  {
+    "bandName": "American sound Damping (อเมริกัน ซาวด์ ดัมปิ้ง)"
+  },
+  {
+    "bandName": "Kumamon (คุมะมง)"
+  },
+  {
+    "bandName": "IDEA LIFE (ไอเดียไลฟ์)"
+  },
+  {
+    "bandName": "Vespa (เวสป้า)"
+  },
+  {
+    "bandName": "Sanrio (ซานริโอ้)"
+  },
+  {
+    "bandName": "Hoco (โฮโค่)"
+  },
+  {
+    "bandName": "Akrapovic (อะคราโพวิค)"
+  },
+  {
+    "bandName": "Super lube (ซุปเปอร์ ลูบ)"
+  },
+  {
+    "bandName": "ND RUBBER (เอ็นบี รับเบอร์)"
+  },
+  {
+    "bandName": "LS2 (แอลเอสทู)"
+  },
+  {
+    "bandName": "ROADSTAR (โรสด์สตาร์)"
+  },
+  {
+    "bandName": "XO (เอ็กซ์โอ)"
+  },
+  {
+    "bandName": "UGREEN (ยูกรีน)"
+  },
+  {
+    "bandName": "Alpinestar (อัลไพน์สตาร์)"
+  },
+  {
+    "bandName": "LEO  (ลีโอ)"
+  },
+  {
+    "bandName": "Total (โททาล)"
+  },
+  {
+    "bandName": "CATTEZIA (แคททีเซีย)"
+  },
+  {
+    "bandName": "TGR (ทีจีอาร์)"
+  },
+  {
+    "bandName": "JBL (เจบีเเอล)"
+  },
+  {
+    "bandName": "Bell bullitt carbon (เบล บุลลิท คาร์บอน)"
+  },
+  {
+    "bandName": "Furio (ฟูริโอ)"
+  },
+  {
+    "bandName": "Power Max (เพาเวอร์ แม็กซ์)"
+  },
+  {
+    "bandName": "Valvoline  (วาโวลีน)"
+  },
+  {
+    "bandName": "Alpine ( (แอลพิน)"
+  },
+  {
+    "bandName": "LUNGTHONGLED (ลุงทองแอลอีดี)"
+  },
+  {
+    "bandName": "Oracal (โอลาคอล)"
+  },
+  {
+    "bandName": "Skylite (สกายลิต)"
+  },
+  {
+    "bandName": "Pertamina (เปอร์ตามิน่า)"
+  },
+  {
+    "bandName": "Pooh (พูห์)"
+  },
+  {
+    "bandName": "Mobil (โมบิล)"
+  },
+  {
+    "bandName": "Racetech Boost  (แร็คเท็คบูสท์)"
+  },
+  {
+    "bandName": "Gates PowerLink (เกทส์ เพาเวอร์ลิงค์)"
+  },
+  {
+    "bandName": "Launch CRP123 (ลัชซีอาร์พี123)"
+  },
+  {
+    "bandName": "Decker Frog (เด็คเกอร์ ฟ็อก)"
+  },
+  {
+    "bandName": "LED COB (แลปโคป)"
+  },
+  {
+    "bandName": "Porsche (ปอร์เช่)"
+  },
+  {
+    "bandName": "TCL (ทีซีแอล)"
+  },
+  {
+    "bandName": "Universal​ (ยูนิเวอร์เซล)"
+  },
+  {
+    "bandName": "MERCEDES BENZ (เมอร์ซิเดส เบนซ์)"
+  },
+  {
+    "bandName": "MAYU (มายู)"
+  },
+  {
+    "bandName": "PT Maxnitron (พีที แม็กซ์นิตรอน)"
+  },
+  {
+    "bandName": "Ate (เอเต้)"
+  },
+  {
+    "bandName": "Boo (บีโอโอ)"
+  },
+  {
+    "bandName": "Auto Mate (ออโต้เมท)"
+  },
+  {
+    "bandName": "Hyundai (ฮุนได)"
+  },
+  {
+    "bandName": "BERNER (เบอร์เนอร์)"
+  },
+  {
+    "bandName": "WinniethePooh (วินนี่เดอะพูห์)"
+  },
+  {
+    "bandName": "Alpine (แอลพิน)"
+  },
+  {
+    "bandName": "Cusco (คัสโค่)"
+  },
+  {
+    "bandName": "Rizoma (ริโซม่า)"
+  },
+  {
+    "bandName": "Victor47 (วิกเตอร์47)"
+  },
+  {
+    "bandName": "PROROGIC (โปรโรจิค)"
+  },
+  {
+    "bandName": "DB DRIVE (ดีบีไดร์ฟ)"
+  },
+  {
+    "bandName": "Saveplus (เซฟพลัส)"
+  },
+  {
+    "bandName": "VST (วีเอสที)"
+  },
+  {
+    "bandName": "CPS (ซีพีเอส)"
+  },
+  {
+    "bandName": "Nitek (ไนเทค)"
+  },
+  {
+    "bandName": "MOLYLAND (โมลี่แลนด์)"
+  },
+  {
+    "bandName": "DUCKHAMS (ดักแฮม)"
+  },
+  {
+    "bandName": "SEMCO (แซมโก้)"
+  },
+  {
+    "bandName": "PLATINUM-X (แพลตตินั่มเอกซ์)"
+  },
+  {
+    "bandName": "Vnetphone (วีเนทโฟน)"
+  },
+  {
+    "bandName": "BOSNY (บอสนี่)"
+  },
+  {
+    "bandName": "pk tech (พีเค เทค)"
+  },
+  {
+    "bandName": "Bikebt (ไบค์บีที)"
+  },
+  {
+    "bandName": "EARL's (เอิร์ล)"
+  },
+  {
+    "bandName": "WURTH (เวือร์ท)"
+  },
+  {
+    "bandName": "PANOM RACING (พนม เรคซิ่ง)"
+  },
+  {
+    "bandName": "EZ way (อีแซด เวย์)"
+  },
+  {
+    "bandName": "Bad Badtz-Maru (แบ๊ดแบ๊ดมารุ)"
+  },
+  {
+    "bandName": "BOUSHI (โบชิ)"
+  },
+  {
+    "bandName": "KOMIYA (โคมิยะ)"
+  },
+  {
+    "bandName": "BP (บีพี)"
+  },
+  {
+    "bandName": "Protrack (โปรแทร็ค)"
+  },
+  {
+    "bandName": "DENSO (เดนโซ)"
+  },
+  {
+    "bandName": "Rider viper (ไรเดอร์ วิปเปอร์)"
+  },
+  {
+    "bandName": "STATE  (สเตท)"
+  },
+  {
+    "bandName": "Nissin Caliper (นิสสิน คาลิเปอร์)"
+  },
+  {
+    "bandName": "ULTRA MAX (อัลตร้าเเมกซ์)"
+  },
+  {
+    "bandName": "Showa (โชว่า)"
+  },
+  {
+    "bandName": "Coolthings (คูลติ้งส์)"
+  },
+  {
+    "bandName": "BMB (บีเอ็มบี)"
+  },
+  {
+    "bandName": "M-Slaz (เอ็ม สลาซ)"
+  },
+  {
+    "bandName": "Honda Wave (ฮอนด้า เวฟ)"
+  },
+  {
+    "bandName": "BOLIDEN SILVERTECH (โบลิเด้นซิลเวอร์เทค)"
+  },
+  {
+    "bandName": "HKT (เอชเคที)"
+  },
+  {
+    "bandName": "PSG (พีเอสจี)"
+  },
+  {
+    "bandName": "Nexzter (เน็กซ์เตอร์)"
+  },
+  {
+    "bandName": "Marie (มารี)"
+  },
+  {
+    "bandName": "GTR (จีทีอาร์)"
+  },
+  {
+    "bandName": "Decken  (เดคเคน)"
+  },
+  {
+    "bandName": "Massimo (มัสซิโม่)"
+  },
+  {
+    "bandName": "Kiddevil (คิดเดวิล)"
+  },
+  {
+    "bandName": "VPRO WAX (วีโปร แว็กซ์)"
+  },
+  {
+    "bandName": "Marushin (มารุชิน)"
+  },
+  {
+    "bandName": "Bonchi (บอนชิ)"
+  },
+  {
+    "bandName": "Moty's (โมตี้)"
+  },
+  {
+    "bandName": "Sparco (สปาโค)"
+  },
+  {
+    "bandName": "Volvo (วอลโว่)"
+  },
+  {
+    "bandName": "Getagift (เกทต้ากิ๊ฟท์)"
+  },
+  {
+    "bandName": "Inner (อินเนอร์)"
+  },
+  {
+    "bandName": "CPK (ซีพีเค)"
+  },
+  {
+    "bandName": "VOLTRONIC (โวลโทรนิก)"
+  },
+  {
+    "bandName": "Doraemon (โดราเอมอน)"
+  },
+  {
+    "bandName": "OMC (โอเอ็มซี)"
+  },
+  {
+    "bandName": "Sunoco (ซันโนโก)"
+  },
+  {
+    "bandName": "Elf (เอลฟ์)"
+  },
+  {
+    "bandName": "Ipone (อิปปอน)"
+  },
+  {
+    "bandName": "HD HELMET​ (เอชดีเฮลเมท)"
+  },
+  {
+    "bandName": "NGi (เอ็นกิ)"
+  },
+  {
+    "bandName": "STM (เอสทีเอ็ม)"
+  },
+  {
+    "bandName": "DECCON (เดคคอน)"
+  },
+  {
+    "bandName": "KEVLAR (เคฟลาร์)"
+  },
+  {
+    "bandName": "TOYOTA (โตโยต้า)"
+  },
+  {
+    "bandName": "Use For (ยูส ฟอร์)"
+  },
+  {
+    "bandName": "Fit (ฟิต)"
+  },
+  {
+    "bandName": "S.PRY (เอสปราย)"
+  },
+  {
+    "bandName": "S100 (เอส100)"
+  },
+  {
+    "bandName": "LM Lava (แอลเอ็ม ลาวา)"
+  },
+  {
+    "bandName": "Wruth ( เวิร์ท )"
+  },
+  {
+    "bandName": "X5 CAR (เอ็กซ์ไฟท์คาร์)"
+  },
+  {
+    "bandName": "YUASA (ยัวซ่า)"
+  },
+  {
+    "bandName": "GT (จีที)"
+  },
+  {
+    "bandName": "ALPHA COUSTIC  (อัลฟ่าคูสติกส์)"
+  },
+  {
+    "bandName": "SHARP (ชาร์ป)"
+  },
+  {
+    "bandName": "Giant (ไจแอนด์)"
+  },
+  {
+    "bandName": "Sport cam (สปอร์ตแคม)"
+  },
+  {
+    "bandName": "Bangkoklife (แบงค์คอกไลฟ์)"
+  },
+  {
+    "bandName": "S OIL  (เอสออยล์)"
+  },
+  {
+    "bandName": "Biltwell (บิลท์เวลล์)"
+  },
+  {
+    "bandName": "Walbro (วัลโบร)"
+  },
+  {
+    "bandName": "Acustika (เอคัสติก้า)"
+  },
+  {
+    "bandName": "VODOOL (โวดูล)"
+  },
+  {
+    "bandName": "Rat Stopper (แรท สต็อปเปอร์)"
+  },
+  {
+    "bandName": "Dinga (ดิงก้า)"
+  },
+  {
+    "bandName": "Alicar (อาลิคาร์)"
+  },
+  {
+    "bandName": "Nardi (นาร์ดิ)"
+  },
+  {
+    "bandName": "OKLEAD (โอกลีด์)"
+  },
+  {
+    "bandName": "OD  (โอดี)"
+  },
+  {
+    "bandName": "Universal fit (ยูนิเวอร์เซล ฟิต)"
+  },
+  {
+    "bandName": "PARAMAT (พาราแม็ท)"
+  },
+  {
+    "bandName": "Fujiyama (ฟูจิยาม่า)"
+  },
+  {
+    "bandName": "Sankei roki (แซนกี้ โรกิ)"
+  },
+  {
+    "bandName": "Kingston  (คิงส์ตัน)"
+  },
+  {
+    "bandName": "GPS UPAST (จีพีเอส ยูพลัสท์)"
+  },
+  {
+    "bandName": "YAGUSO (ยากูโซ)"
+  },
+  {
+    "bandName": "Hurricane (เฮอร์ริเคน)"
+  },
+  {
+    "bandName": "Man-u (แมนยู)"
+  },
+  {
+    "bandName": "LE-KONE (เลอคอน)"
+  },
+  {
+    "bandName": "NJ mortor (เอ็นเจ มอร์เตอร์)"
+  },
+  {
+    "bandName": "POWER JET (เพาเวอร์เจ็ท)"
+  },
+  {
+    "bandName": "Dshop (ดีช็อป)"
+  },
+  {
+    "bandName": "ตราเพชร"
+  },
+  {
+    "bandName": "VIOFO (ไวโอโฟ)"
+  },
+  {
+    "bandName": "Scott (สก็อต)"
+  },
+  {
+    "bandName": "Blackhole (แบล็คโฮล)"
+  },
+  {
+    "bandName": "BEZLUBE (เบซลูบ)"
+  },
+  {
+    "bandName": "RACINGBOY (เรซซิ่งบอย)"
+  },
+  {
+    "bandName": "AHP (เอเฮชพี)"
+  },
+  {
+    "bandName": "Tsugiki (สึกิจิ)"
+  },
+  {
+    "bandName": "KINZO (คินโซ)"
+  },
+  {
+    "bandName": "Subaru (ซูบารุ)"
+  },
+  {
+    "bandName": "Prostuff (โปรสตั๊ฟฟ์)"
+  },
+  {
+    "bandName": "BON (โบน)"
+  },
+  {
+    "bandName": "TWM (ทีดับบิวเอ็ม)"
+  },
+  {
+    "bandName": "Mokila (โมกิล่า)"
+  },
+  {
+    "bandName": "Rilakkuma (ริรัคคุมะ)"
+  },
+  {
+    "bandName": "Solute (โซลูท)"
+  },
+  {
+    "bandName": "Gopro (โกโปร)"
+  },
+  {
+    "bandName": "UTING-INNOVATION (ยูติ้ง อินโนเวชั่น)​"
+  },
+  {
+    "bandName": "IOttie (อิออสตี้)"
+  },
+  {
+    "bandName": "Garmin Edge (การ์มิน เอดจ์)"
+  },
+  {
+    "bandName": "ATV (เอทีวี)"
+  },
+  {
+    "bandName": "Tank Bag (ถัง แบ็ค)"
+  },
+  {
+    "bandName": "Cretom (ครีตอม)"
+  },
+  {
+    "bandName": "Ninja300 (นินจา300)"
+  },
+  {
+    "bandName": "Seacrown (ซีคราวน์)"
+  },
+  {
+    "bandName": "GPS C1 (จีพีเอส ซีวัน)"
+  },
+  {
+    "bandName": "Slime (สลิม)"
+  },
+  {
+    "bandName": "Superme (ซูพรีม)"
+  },
+  {
+    "bandName": "SUM (ซุม)"
+  },
+  {
+    "bandName": "Yusta (ยูสตาร์)"
+  },
+  {
+    "bandName": "Generic (เจนเนอริค)"
+  },
+  {
+    "bandName": "Leyland (เลย์แลนด์)"
+  },
+  {
+    "bandName": "BLUEWAY (บลูเวย์)"
+  },
+  {
+    "bandName": "API (เอพีไอ)"
+  },
+  {
+    "bandName": "Redbull (เรดบูล)"
+  },
+  {
+    "bandName": "Schuberth (ชูเบิร์ท)"
+  },
+  {
+    "bandName": "Sky hunter (สกี ฮันเตอร์)"
+  },
+  {
+    "bandName": "Giffarine (กิฟฟารีน)"
+  },
+  {
+    "bandName": "RALLI ART (แรลลี่อาร์ท)"
+  },
+  {
+    "bandName": "Platong Gadget (ปลาทองแกดเจ็ท)"
+  },
+  {
+    "bandName": "ENYX (อีนิกซ์)"
+  },
+  {
+    "bandName": "Max Way (แม็กเวย์)"
+  },
+  {
+    "bandName": "MAX SHELTER (แม็กซ์เชลเตอร์)"
+  },
+  {
+    "bandName": "ARASHI (อาราชิ)"
+  },
+  {
+    "bandName": "Suniso (ซูนิโซ่)"
+  },
+  {
+    "bandName": "Moto System (โมโต ซิสเท็ม)"
+  },
+  {
+    "bandName": "Wolf-Exhaust (วูฟ-เอ็กสอซท)"
+  },
+  {
+    "bandName": "Bless Power Plus (เบสเพาเวอร์พลัส)"
+  },
+  {
+    "bandName": "TROOPER (ทรูเปอร์)"
+  },
+  {
+    "bandName": "Kwaithong (ควายทอง)"
+  },
+  {
+    "bandName": "Shell  (เชลล์)"
+  },
+  {
+    "bandName": "KAKUDOS (คาคูดอส)"
+  },
+  {
+    "bandName": "Pamper shop (แปมเปอ์ช็อป)"
+  },
+  {
+    "bandName": "KOKIDS (โคคิดส์)"
+  },
+  {
+    "bandName": "Priority (ไพโอริตี้)"
+  },
+  {
+    "bandName": "SCM SHOP (เอสซีเอ็ม ช็อป)"
+  },
+  {
+    "bandName": "Baseus (เบซิอัส)"
+  },
+  {
+    "bandName": "Shinko (ชินโกะ)"
+  },
+  {
+    "bandName": "ZMZ (ซีเอ็มซี)"
+  },
+  {
+    "bandName": "PIVOT (พิวอท)"
+  },
+  {
+    "bandName": "Mestek (แมสเทค)"
+  },
+  {
+    "bandName": "แฮนด์แดร็ก V.3"
+  },
+  {
+    "bandName": "CONSO (คอนโซ)"
+  },
+  {
+    "bandName": "Rider R1 (ไรเดอร์อาร์วัน)"
+  },
+  {
+    "bandName": "Carmate (คาร์เมท)"
+  },
+  {
+    "bandName": "X-1 plus (เอ็กซ์วัน พลัส)"
+  },
+  {
+    "bandName": "K&N (เคแอนด์เอ็น)"
+  },
+  {
+    "bandName": "Nitron (ไนตรอน)"
+  },
+  {
+    "bandName": "KS CAR WAX (เคเอสคาร์แว็กซ์)"
+  },
+  {
+    "bandName": "Spirit beast (สปิริต บีสท์)"
+  },
+  {
+    "bandName": "Fuchs (ฟุคส์)"
+  },
+  {
+    "bandName": "Eagle Power (อีเกิ้ลเพาเวอร์)"
+  },
+  {
+    "bandName": "Yasai (ยาไซ)"
+  },
+  {
+    "bandName": "Xplus Great Diamond (เอ็กซ์พลัสเกรทไดมอนด์)"
+  },
+  {
+    "bandName": "HJC Helmets (เอชเจซีฮิลเมทส์)"
+  },
+  {
+    "bandName": "Mototwist (โมโตทวิสท์)"
+  },
+  {
+    "bandName": "TU PAKNAM (ตู่ ปากน้ำ)"
+  },
+  {
+    "bandName": "DMV (ดีเอ็มวี)"
+  },
+  {
+    "bandName": "Car Valet (คาร์วา้ลท)"
+  },
+  {
+    "bandName": "MB Audio (เอ็มบี ออดิโอ)"
+  },
+  {
+    "bandName": "WP (ดับบิวพี)"
+  },
+  {
+    "bandName": "King tool (คิง ทู)"
+  },
+  {
+    "bandName": "Nui Racing Project (นุ้ย เรคซิ่ง โปรเจคท์)"
+  },
+  {
+    "bandName": "SHOGUN (โชกัน)"
+  },
+  {
+    "bandName": "JEEP (จีป)"
+  },
+  {
+    "bandName": "Ugly Bros (อัคลี่ บอส)"
+  },
+  {
+    "bandName": "Agv Helmet (เอจีวีเฮลเมท)"
+  },
+  {
+    "bandName": "Floveme (โฟล์ฟมี)"
+  },
+  {
+    "bandName": "Blgm bo (เบลจีเอ็ม โบ)"
+  },
+  {
+    "bandName": "Asia (เอเซีย)"
+  },
+  {
+    "bandName": "Polestar (โปเลสสตาร์)"
+  },
+  {
+    "bandName": "Chk Racing (เชคเรดซิ่ง)"
+  },
+  {
+    "bandName": "ID Sparta (ไอดี สปาร์ตั้น)"
+  },
+  {
+    "bandName": "Lexia  (เล็กเซียร์)"
+  },
+  {
+    "bandName": "Makita (มากิตา)"
+  },
+  {
+    "bandName": "Triumph (ไทอั้มพ์)"
+  },
+  {
+    "bandName": "AAT (เอเอที)"
+  },
+  {
+    "bandName": "ShareStyle (แชร์สไตล์)"
+  },
+  {
+    "bandName": "Silkblaze (ซิลก์เบลซ)"
+  },
+  {
+    "bandName": "Mugen (มักเก้น)"
+  },
+  {
+    "bandName": "V Helmet (วีเฮลเม็ท)"
+  },
+  {
+    "bandName": "Kranchana Electric (กาญจนา อิเล็กทริก)"
+  },
+  {
+    "bandName": "Gas Runner (แก๊สรันเนอร์)"
+  },
+  {
+    "bandName": "DNA (ดีเอ็นเอ)"
+  },
+  {
+    "bandName": "Dainese (ไดนี่ส์)"
+  },
+  {
+    "bandName": "Kominee (โคมินี่)"
+  },
+  {
+    "bandName": "HItech (ไฮเทค)"
+  },
+  {
+    "bandName": "Kitaco (คิทาโก้)"
+  },
+  {
+    "bandName": "S-Oil (เอสออย)"
+  },
+  {
+    "bandName": "Marchesini (มาร์เชอซินี่)"
+  },
+  {
+    "bandName": "Air alert (แอร์ อเลิร์ท)"
+  },
+  {
+    "bandName": "Invertor (อินเวอร์เตอร์)"
+  },
+  {
+    "bandName": "Tanaki (ทานากิ)"
+  },
+  {
+    "bandName": "Mitas (ไมทัส)"
+  },
+  {
+    "bandName": "9led (ไนน์เเลป)"
+  },
+  {
+    "bandName": "Ruifeng S3 (รุยเฟงเอสทรี)"
+  },
+  {
+    "bandName": "Grandthai (แกรนด์ไทย)"
+  },
+  {
+    "bandName": "Platinum (แพลทตินั่ม)"
+  },
+  {
+    "bandName": "Metzeler (เมสเซนเล่อ)"
+  },
+  {
+    "bandName": "Yoshimura (โยชิมูระ)"
+  },
+  {
+    "bandName": "Kemex (เคเม็กซ์)"
+  },
+  {
+    "bandName": "Red Fox (เรด ฟ็อก)"
+  },
+  {
+    "bandName": "RAIZIN (ไรซิน)"
+  },
+  {
+    "bandName": "Icon (ไอคอน)"
+  },
+  {
+    "bandName": "MATPRO (แมทโปร)"
+  },
+  {
+    "bandName": "Zdatt (แซดแดตต์)"
+  },
+  {
+    "bandName": "NINJA  CARBON (นินจาคาร์บอน)"
+  },
+  {
+    "bandName": "Leovince (ลีโอวิ้น)"
+  },
+  {
+    "bandName": "NEXX (เน็กซ์)"
+  },
+  {
+    "bandName": "Modibike (โมดิไบท์)"
+  },
+  {
+    "bandName": "CANA (คาน่า)"
+  },
+  {
+    "bandName": "Inter Oil (อินเตอร์ออย)"
+  },
+  {
+    "bandName": "Suomy (ซูโอมี่)"
+  },
+  {
+    "bandName": "DID (ดิด)"
+  },
+  {
+    "bandName": "Film Film (ฟิล์มฟิล์ม)"
+  },
+  {
+    "bandName": "G'zox (จีซ็อกซ์)"
+  },
+  {
+    "bandName": "WHALE (เวล)"
+  },
+  {
+    "bandName": "SUOER (ซูเอ่อ)"
+  },
+  {
+    "bandName": "Doosl (ดูสล์)"
+  },
+  {
+    "bandName": "Ronson  (รอนสัน)"
+  },
+  {
+    "bandName": "TFP (ทีเอฟพี)"
+  },
+  {
+    "bandName": "KTM (เคทีเอ็ม)"
+  },
+  {
+    "bandName": "OYABUN (โอยาบัน)"
+  },
+  {
+    "bandName": "Tayota (โตโยต้า)"
+  },
+  {
+    "bandName": "GT-R (จีทีอาร์)"
+  },
+  {
+    "bandName": "JOMTHAI ASAHI (จอมไทยอาซาฮี)"
+  },
+  {
+    "bandName": "Bonform (บอนฟอร์ม)"
+  },
+  {
+    "bandName": "Anton (แอนตัน)"
+  },
+  {
+    "bandName": "Finaltech (ไฟนอลเทค)"
+  },
+  {
+    "bandName": "Climder (คลิมเดอร์)"
+  },
+  {
+    "bandName": "Eagle​ Hi​ super​ cool (อีเกิ้ล ไฮ ซุปเปอร์ คูล)"
+  },
+  {
+    "bandName": "Shang Jie (แชงจี)​"
+  },
+  {
+    "bandName": "ARMORALL (อาร์โมรอล)"
+  },
+  {
+    "bandName": "T20 (ทีทเว้นตี้)"
+  },
+  {
+    "bandName": "Bluechem (บลูเคม)"
+  },
+  {
+    "bandName": "YIJIE (ยีจี้)"
+  },
+  {
+    "bandName": "EK Chain Japan (อีเคเชน เจแปน)"
+  },
+  {
+    "bandName": "Qkong (คิวคอง)"
+  },
+  {
+    "bandName": "iMUKi Auto Boutique (ไอมูกิ ออโต้ บูติก)"
+  },
+  {
+    "bandName": "Gazi (กาซี่)"
+  },
+  {
+    "bandName": "Toshino (โตชิโน่)"
+  },
+  {
+    "bandName": "Heavy Camel (เฮฟวี่ คาร์เมล)"
+  },
+  {
+    "bandName": "KYT Helmets (เควายที เฮลเมทส์)"
+  },
+  {
+    "bandName": "VOLKSWAGEN (โฟล์คสวาเก้น)"
+  },
+  {
+    "bandName": "Smart Tech (สมาร์ท​เทค)"
+  },
+  {
+    "bandName": "Zamakaz (ซามาคาซ)"
+  },
+  {
+    "bandName": "Easy Car (อีซี่ คาร์)"
+  },
+  {
+    "bandName": "Teclon (เทคลอน)"
+  },
+  {
+    "bandName": "Lifan (ไลฟาน)"
+  },
+  {
+    "bandName": "YILIATOM (ยิลิอตอม)"
+  },
+  {
+    "bandName": "Speed Furious (สปีด ฟูเรียส)"
+  },
+  {
+    "bandName": "Karburator (คาบูเรเตอร์)"
+  },
+  {
+    "bandName": "Regulator (เรกูเรเตอร์)"
+  },
+  {
+    "bandName": "IMPERIAL (อิมพีเรียล)"
+  },
+  {
+    "bandName": "Dr.Jones (ดร.โจนส์)"
+  },
+  {
+    "bandName": "ENSO (เอนโซ)"
+  },
+  {
+    "bandName": "Arctic (อาร์คติก)"
+  },
+  {
+    "bandName": "Seanthor (เซียนต่อ)"
+  },
+  {
+    "bandName": "Misterbox (มิสเตอร์บ็อกซ์)"
+  },
+  {
+    "bandName": "CROCODILE (คร็อคโคไดล์)"
+  },
+  {
+    "bandName": "GIVI (จีวี่)"
+  },
+  {
+    "bandName": "Nuoman (นูโอแมน)"
+  },
+  {
+    "bandName": "HEPCO&BECKER (เฮปโค&เบคเกอร์)"
+  },
+  {
+    "bandName": "Ienergy (ไอเอ็นเนอจีย์)"
+  },
+  {
+    "bandName": "Benkia (เบนเกีย)"
+  },
+  {
+    "bandName": "Project Smart (โปรเจ็กสมาท)"
+  },
+  {
+    "bandName": "Morton (มอร์ตัน)"
+  },
+  {
+    "bandName": "Datatec (ดาต้าเทค)"
+  },
+  {
+    "bandName": "Muc-Off (มัคออฟ)"
+  },
+  {
+    "bandName": "TESON (ทีสัน)"
+  },
+  {
+    "bandName": "SEIKEN (ไซเก้น)"
+  },
+  {
+    "bandName": "DWM (ดีดับบิวเอ็ม)"
+  },
+  {
+    "bandName": "HUD (ฮัด)"
+  },
+  {
+    "bandName": "Continental (คอนติเนนทัล)"
+  },
+  {
+    "bandName": "SRK (เอสอาร์เค)"
+  },
+  {
+    "bandName": "GIZMO (กิ๊ฟโม่)"
+  },
+  {
+    "bandName": "Daimax (ไดแม็กซ์)"
+  },
+  {
+    "bandName": "Tanked Racing (แทงค์ เรซซิ่ง)"
+  },
+  {
+    "bandName": "Aeropak (แอโร่แพ็ค)"
+  },
+  {
+    "bandName": "Takegawa (เทคกาวา)"
+  },
+  {
+    "bandName": "APY (เอพีวาย)"
+  },
+  {
+    "bandName": "NMN  (เอ็นเอ็มเอ็น)"
+  },
+  {
+    "bandName": "EVOTECH (อีโวเทค)"
+  },
+  {
+    "bandName": "Zuma (ซูมา)"
+  },
+  {
+    "bandName": "KNP (เคเอ็นพี)"
+  },
+  {
+    "bandName": "Bullsone (บูลโซน)"
+  },
+  {
+    "bandName": "Benbat (เบนแบท)"
+  },
+  {
+    "bandName": "Daiten (ไดเท็น)"
+  },
+  {
+    "bandName": "Mutarru (มุทะลุ)"
+  },
+  {
+    "bandName": "ZEUS (ซีอูส)"
+  },
+  {
+    "bandName": "Hotgun (ฮ็อตกัน)"
+  },
+  {
+    "bandName": "Formula-X (ฟอร์มูล่าเอ็กซ์)"
+  },
+  {
+    "bandName": "Komine (โคมาย)"
+  },
+  {
+    "bandName": "PENRITE (เพนไรท์)"
+  },
+  {
+    "bandName": "PUTOLINE (พูโตลีน)"
+  },
+  {
+    "bandName": "NaXa (นาซ่า)"
+  },
+  {
+    "bandName": "RINO (ไรโน)"
+  },
+  {
+    "bandName": "Tufoil (ทัฟออยล์)"
+  },
+  {
+    "bandName": "HYPERPRO (ไฮเปอร์โปร)"
+  },
+  {
+    "bandName": "IRC (ไออาซี)"
+  },
+  {
+    "bandName": "A.V.U. Super (เอวียู)"
+  },
+  {
+    "bandName": "Unitek (ยูนิเทค)"
+  },
+  {
+    "bandName": "Visbella (วิสเบลล่า)"
+  },
+  {
+    "bandName": "ShinEtsu (ซิยอีทซุ)"
+  },
+  {
+    "bandName": "KODASKIN (โคด้าสกิน)"
+  },
+  {
+    "bandName": "MENAT (เมเนท)"
+  },
+  {
+    "bandName": "SCOYCO (สคอยโค่)"
+  },
+  {
+    "bandName": "Steel mate (สตีลเมท)"
+  },
+  {
+    "bandName": "KOVIX (โควิกซ์)"
+  },
+  {
+    "bandName": "Rubber Shift Sock (รับเบอร์ชิพช็อค)"
+  },
+  {
+    "bandName": "Eicma (อิ๊กม่า)"
+  },
+  {
+    "bandName": "Niko (นิโก้)"
+  },
+  {
+    "bandName": "Zoomer x (ซูเมอร์เอ็กซ์)"
+  },
+  {
+    "bandName": "MOTORUN (โมโตรัน)"
+  },
+  {
+    "bandName": "LT (แอลที)"
+  },
+  {
+    "bandName": "RZM (อาร์ซีเอ็ม)"
+  },
+  {
+    "bandName": "SOL (โซล)"
+  },
+  {
+    "bandName": "MAD MUFFLER (แมดมัฟเฟลอร์)"
+  },
+  {
+    "bandName": "MIKAWA (มิกาว่า)"
+  },
+  {
+    "bandName": "SHINEMATE (ไชน์เมท)"
+  },
+  {
+    "bandName": "3D HD (ทรีดี เฮชดี)"
+  },
+  {
+    "bandName": "NANONIX (นาโนนิกซ์)"
+  },
+  {
+    "bandName": "QUARTZ PRO (ควอตซ์ โปร)"
+  },
+  {
+    "bandName": "WASABI (วาซาบิ)"
+  },
+  {
+    "bandName": "Scorpion (สกอร์เปี้ยน)"
+  },
+  {
+    "bandName": "FLY BOSS (ฟาย บอส)"
+  },
+  {
+    "bandName": "LOC-T (ล็อคที)"
+  },
+  {
+    "bandName": "Monster (มอนส์เตอร์)"
+  },
+  {
+    "bandName": "TOMEI (โทเมอิ)"
+  },
+  {
+    "bandName": "NISIN (นิชชิน)"
+  },
+  {
+    "bandName": "ASUMI (อาซูมิ)"
+  },
+  {
+    "bandName": "Delo (เดโล่)"
+  },
+  {
+    "bandName": "BC30B (บีซีเทอร์ติบี)"
+  },
+  {
+    "bandName": "ARCTIC (อาร์กติก)"
+  },
+  {
+    "bandName": "Gale Speed (เกลสปีด)"
+  },
+  {
+    "bandName": "SEPP (เซป)"
+  },
+  {
+    "bandName": "EST (อีเอสที)"
+  },
+  {
+    "bandName": "SFIDA  (สฟีด้า)"
+  },
+  {
+    "bandName": "SEEKER (ซีเกอร์)"
+  },
+  {
+    "bandName": "Panasonic (พานาโซนิค)"
+  },
+  {
+    "bandName": "Autometer (ออโต้มีเตอร์)"
+  },
+  {
+    "bandName": "Stomgrip (สตอมกริป)"
+  },
+  {
+    "bandName": "B&G (บีแอนด์จี)"
+  },
+  {
+    "bandName": "Nitainos (ไนไตนอส)"
+  },
+  {
+    "bandName": "ROCKZ (ร็อคซ์)"
+  },
+  {
+    "bandName": "Wansbo (แวนซ์โบ)"
+  },
+  {
+    "bandName": "Scotch (สก็อต)"
+  },
+  {
+    "bandName": "Nicopy (นิโคปี้)"
+  },
+  {
+    "bandName": "CAMEL ( คาเมล )"
+  },
+  {
+    "bandName": "Sakura (ซากุระ)"
+  },
+  {
+    "bandName": "Fasttech (ฟาสเท็ค)"
+  },
+  {
+    "bandName": "Pro-Plus (โปรพลัส)"
+  },
+  {
+    "bandName": "Schneider (ชไนเดอร์)"
+  },
+  {
+    "bandName": "Wanshile (วันชิลี)"
+  },
+  {
+    "bandName": "BESCO (เบสโค่)"
+  },
+  {
+    "bandName": "PERMATEX (เปอร์มาเท็กซ์)"
+  },
+  {
+    "bandName": "Mashimaro (มาชิมาโร)"
+  },
+  {
+    "bandName": "Zs my car (แซทเอส มายคาร์)"
+  },
+  {
+    "bandName": "3M (3เอ็ม)"
+  },
+  {
+    "bandName": "MNtech (เอ็มเอ็นเทค)"
+  },
+  {
+    "bandName": "MT (เอ็มที)"
+  },
+  {
+    "bandName": "CITY COCO (ซิตี้โคโค่)"
+  },
+  {
+    "bandName": "DAI-O (ไดโอ)"
+  },
+  {
+    "bandName": "Komori (โคโมริ)"
+  },
+  {
+    "bandName": "BTL (บีทีแอล)"
+  },
+  {
+    "bandName": "Progrip (โปรกริป)"
+  },
+  {
+    "bandName": "Super OBD2 (ซุปเปอร์โอบีดี2)"
+  },
+  {
+    "bandName": "Bell helmet (เบล เฮลเมท)"
+  },
+  {
+    "bandName": "Bluetooth Music (บลูทูธมิวสิค)"
+  },
+  {
+    "bandName": "FERODO (เฟอโรโด)"
+  },
+  {
+    "bandName": "Avery Denison (เอเวอร์รี่ เดนิสสัน)"
+  },
+  {
+    "bandName": "AdapShop (อแด็บช็อป)"
+  },
+  {
+    "bandName": "Holo (โฮโล)"
+  },
+  {
+    "bandName": "CONOCO (โคโนโค่)"
+  },
+  {
+    "bandName": "Wave Pro (เวปโปร)"
+  },
+  {
+    "bandName": "RGB (อาร์จีบี)"
+  },
+  {
+    "bandName": "BUSHIDO  (บูชิโด)"
+  },
+  {
+    "bandName": "TEVEZ (เตเวซ)"
+  },
+  {
+    "bandName": "Alarm Lock (อลาร์มล็อค)"
+  },
+  {
+    "bandName": "ESP (อีแอสพี)"
+  },
+  {
+    "bandName": "DMAX (ดีแม็กซ์)"
+  },
+  {
+    "bandName": "Winton  (วินตัน)"
+  },
+  {
+    "bandName": "Racefit (เรซฟิท)"
+  },
+  {
+    "bandName": "KYT (เควายที)"
+  },
+  {
+    "bandName": "BUM SHAKER (บัมเชคเกอร์)"
+  },
+  {
+    "bandName": "Wise (ไวส์)​"
+  },
+  {
+    "bandName": "Stage6 (สเตจ6)"
+  },
+  {
+    "bandName": "SPRRACING (เอสพี่อาร์เรดซิ่ง)"
+  },
+  {
+    "bandName": "AJ SPEED (เอเจ สปีด)"
+  },
+  {
+    "bandName": "200w  (200ดับเบิ้ลยู)"
+  },
+  {
+    "bandName": "Momo Design (โมโม่ดีไซน์)"
+  },
+  {
+    "bandName": "BKK SIXTYNINE (บีเคเค ซิกตี้ไนน์)"
+  },
+  {
+    "bandName": "CARSPEED (คาร์สปีด)"
+  },
+  {
+    "bandName": "SM5 (เอสเอ็มไฟส์)"
+  },
+  {
+    "bandName": "Motozaa (โมโตซ่า)"
+  },
+  {
+    "bandName": "MRA (เอ็มอาร์เอ)"
+  },
+  {
+    "bandName": "AOTOMONARCH (ออโต้มอแนช)"
+  },
+  {
+    "bandName": "IDHelmet  (ไอดีเฮลเมท)"
+  },
+  {
+    "bandName": "Subwoofer (ซับวูฟเฟอร์)"
+  },
+  {
+    "bandName": "KIRKEY (เคอคีย์)"
+  },
+  {
+    "bandName": "Sub box (ซับบ็อก)"
+  },
+  {
+    "bandName": "HINO (ไฮโน่)"
+  },
+  {
+    "bandName": "Napolex (นาโพเล็กซ์)"
+  },
+  {
+    "bandName": "Sino (ซีโน)"
+  },
+  {
+    "bandName": "TMW (ทีเอมดับบิว)"
+  },
+  {
+    "bandName": "DOREC (ดอเร็กซ์)"
+  },
+  {
+    "bandName": "Abro (อาโบร)"
+  },
+  {
+    "bandName": "PIAA (เพียร์)"
+  },
+  {
+    "bandName": "LDMET (แอลดีเมท)"
+  },
+  {
+    "bandName": "Bostwick (บอสวิค)"
+  },
+  {
+    "bandName": "Reddargon (เรดดาก้อน)"
+  },
+  {
+    "bandName": "Daikyo (ไดเกียว)"
+  },
+  {
+    "bandName": "K9  (เค9)"
+  },
+  {
+    "bandName": "A/d/s  (เอดีเอส)"
+  },
+  {
+    "bandName": "ATOMIC  (อะโตมิค)"
+  },
+  {
+    "bandName": "ATOMIC 4CH (อโตมิค โฟร์ซีเฮช)"
+  },
+  {
+    "bandName": "The fuse tap (เดอะฟิวส์แท็ป)​"
+  },
+  {
+    "bandName": "PEC (พีอีซี)​"
+  },
+  {
+    "bandName": "CEHAM (ซีแฮม)"
+  },
+  {
+    "bandName": "DDDiscount (ดีดีดิสดิสเคาท์)"
+  },
+  {
+    "bandName": "TITHUM  (ไททัม)"
+  },
+  {
+    "bandName": "Star Field Knight (สตาร์ฟิลไนค์)"
+  },
+  {
+    "bandName": "VESRAH (เวสราห์)"
+  },
+  {
+    "bandName": "WB (ดับบิวบี)"
+  },
+  {
+    "bandName": "Doxin (โดซิน)"
+  },
+  {
+    "bandName": "TPMS PRO (ทีพีเอ็มเอส โปร)"
+  },
+  {
+    "bandName": "Elder Helmet"
+  },
+  {
+    "bandName": "KG little car (เคจี ลิเติล คาร์)"
+  },
+  {
+    "bandName": "Vee Rubber (วีรับเบอร์ )"
+  },
+  {
+    "bandName": "SANTOSHI (ซันโตชิ)"
+  },
+  {
+    "bandName": "JL (เจแอล)"
+  },
+  {
+    "bandName": "Raw Helmet (รอว์ เฮลเม็ท)"
+  },
+  {
+    "bandName": "Waterproof Film (เวลโปร)"
+  },
+  {
+    "bandName": "Motospeed (โมโจชอป)"
+  },
+  {
+    "bandName": "Quark (ควาร์ก)"
+  },
+  {
+    "bandName": "Maxxis (แม็กซ์ซีส)"
+  },
+  {
+    "bandName": "Dixcel (ดิกเซล)"
+  },
+  {
+    "bandName": "Type-R (ไทพ์อาร์)"
+  },
+  {
+    "bandName": "Power plus (พาวเวอร์ พลัส)"
+  },
+  {
+    "bandName": "Fim (ฟิต)"
+  },
+  {
+    "bandName": "liger (ไลเกอร์)"
+  },
+  {
+    "bandName": "Type r (ไทพ์อาร์)"
+  },
+  {
+    "bandName": "PHC  (พีเฮชซี)"
+  },
+  {
+    "bandName": "SM5 helmet ( เอส เอ็ม ไฟว์ เฮลเม็ท)"
+  },
+  {
+    "bandName": "Zebe Transformers  (ซีบี ทรานฟอร์มเมอร์ )"
+  },
+  {
+    "bandName": "Sendem (เซ็นเด็ม)"
+  },
+  {
+    "bandName": "Wave (เวฟ)"
+  },
+  {
+    "bandName": "Vixo (วิกโอ)"
+  },
+  {
+    "bandName": "Barkbusters (บาร์คบัสเตอร์)"
+  },
+  {
+    "bandName": "OBD Link (โอบีดี ลิงค์)"
+  },
+  {
+    "bandName": "Rider (ไรเดอร์ )"
+  },
+  {
+    "bandName": "Barkbuster (บาร์คบัตเตอร์)"
+  },
+  {
+    "bandName": "Power Moto (เพาเวอร์ โมโต)"
+  },
+  {
+    "bandName": "Set Up Design (เซต อัพ ดีไซน์)"
+  },
+  {
+    "bandName": "BABY I C (เบบี้ ไอ ซี)"
+  },
+  {
+    "bandName": "Kazai (คาไซ)"
+  },
+  {
+    "bandName": "Max View (แม็กซ์วิว)"
+  },
+  {
+    "bandName": "Mercury (เมอคิวรี)"
+  },
+  {
+    "bandName": "Welight (วีไลท์)"
+  },
+  {
+    "bandName": "Bardahl (บาร์เดอร์)"
+  },
+  {
+    "bandName": "Mitsuibishi (มิตซูบิชิ)"
+  },
+  {
+    "bandName": "Slotpad (สล็อตแพด)"
+  },
+  {
+    "bandName": "Index Monza (อินเด๊ก มอนซ่า)"
+  },
+  {
+    "bandName": "Space Crown (สเปซคราวน์)"
+  },
+  {
+    "bandName": "Rainproof Film  (เรนพลูฟ ฟิล์ม)"
+  },
+  {
+    "bandName": "Vinjct (วินเจท)"
+  },
+  {
+    "bandName": "Moth Racing (มอท เรซซิ่ง)"
+  },
+  {
+    "bandName": "SNB (เอสเอ็นบี)"
+  },
+  {
+    "bandName": "ไฟฉายคาด"
+  },
+  {
+    "bandName": "Torco (ทอร์โก้)"
+  },
+  {
+    "bandName": "Id helmet (ไอดี เฮลเมท)"
+  },
+  {
+    "bandName": "Garmin (การ์มิน)"
+  },
+  {
+    "bandName": "Kyowa (เคียววา)"
+  },
+  {
+    "bandName": "Zeepin"
+  },
+  {
+    "bandName": "Auto Star ( ออโต้ สตาร์)"
+  },
+  {
+    "bandName": "Sena (เสนา)"
+  },
+  {
+    "bandName": "Ultra Gauge (อัลตร้าเกจ)"
+  },
+  {
+    "bandName": "Diamond Tape (ไดมอนด์ เทบ)"
+  },
+  {
+    "bandName": "YAKX (วายเอเคเอ็กซ์)"
+  },
+  {
+    "bandName": "All About Car (ออล อะเบ้าท์ คาร์)"
+  },
+  {
+    "bandName": "Touratech (ทัวราเทค)"
+  },
+  {
+    "bandName": "Perfect Aerosol (เปอร์เฟค  แอโรโซล)"
+  },
+  {
+    "bandName": "Bseoch (เบสออส)"
+  },
+  {
+    "bandName": "Isika (ไอซิก้า)"
+  },
+  {
+    "bandName": "Series R (ซีรีส์อาร์)"
+  },
+  {
+    "bandName": "Hugoflex (ฮิวโก้เฟล็ก)"
+  },
+  {
+    "bandName": "Autoplus (ออโต้พลัส)"
+  },
+  {
+    "bandName": "Sino-Track (ไซโนเทค)"
+  },
+  {
+    "bandName": "All About​ Car (ออล อเบ้าท์ คาร์)"
+  },
+  {
+    "bandName": "All About Cars (อออะเบ้าท์คาร์)"
+  },
+  {
+    "bandName": "Ecu Shop (อีซียูช็อป)"
+  },
+  {
+    "bandName": "Hamtec (แฮมเทค)"
+  },
+  {
+    "bandName": "ํYSS (วายเอสเอส)"
+  },
+  {
+    "bandName": "RPM (อาพีเอ็ม)"
+  },
+  {
+    "bandName": "Yeleno (เยเลนโน)"
+  },
+  {
+    "bandName": "Anchor (แอนชอร์)"
+  },
+  {
+    "bandName": "WD 40 (ดับบลิว40)"
+  },
+  {
+    "bandName": "ECU Shop (อีซียู ช็อป)"
+  },
+  {
+    "bandName": "SJ Streetsounds (เอส เจ สตีสซาว)"
+  },
+  {
+    "bandName": "Distinct Car Audio"
+  },
+  {
+    "bandName": "Compass (คอมพาส)"
+  },
+  {
+    "bandName": "VT Auto Wax (วีที ออโต้ แว็กซ์)"
+  },
+  {
+    "bandName": "KK Carshop (เคเค คาร์ช็อป)"
+  },
+  {
+    "bandName": "KKcarshop  (เคเคคาร์ช็อป)"
+  },
+  {
+    "bandName": "KK Carshop (เคเคคาร์ช็อป)"
+  },
+  {
+    "bandName": "Prospeed (โปรสปีด)"
+  },
+  {
+    "bandName": "Adelin (อเดลีน)"
+  },
+  {
+    "bandName": "Enki (เอ็นกิ)​"
+  },
+  {
+    "bandName": "TMD (ทีเอ็มดี)"
+  },
+  {
+    "bandName": "Akepanich (เอกพาณิชย์)"
+  },
+  {
+    "bandName": "Status (สตาตัส)"
+  },
+  {
+    "bandName": "The Best (เดอะ เบส์)"
+  },
+  {
+    "bandName": "SNR (เอสเอ็นอาร์)"
+  },
+  {
+    "bandName": "Pradub Car (ประดับ คาร์)"
+  },
+  {
+    "bandName": "ATX (เอทีเอ็กซ์)"
+  },
+  {
+    "bandName": "AEB (เอ อี บี)"
+  },
+  {
+    "bandName": "RM (อาร์เอ็ม)"
+  },
+  {
+    "bandName": "Square Oil (สแควร์ ออย)"
+  },
+  {
+    "bandName": "Truvativ (ทรูวาติว)"
+  },
+  {
+    "bandName": "ไอศิกาณ์"
+  },
+  {
+    "bandName": "LED By G (แอลอีดี บาย จี)"
+  },
+  {
+    "bandName": "Personal GPS Tracker (เพอร์โซนอล จีพีเอส ทิคเกอร์)"
+  },
+  {
+    "bandName": "Elite (อีลิต)"
+  },
+  {
+    "bandName": "Cobra (คอปบร้า)"
+  },
+  {
+    "bandName": "Aspira (แอสพิร่า)"
+  },
+  {
+    "bandName": "NSports (เอ็นสปอร์ท)"
+  },
+  {
+    "bandName": "PSB NET (พีเอสบี เน็ต)"
+  },
+  {
+    "bandName": "Tri Petch (ไทร์ พีช)"
+  },
+  {
+    "bandName": "Avex Helmets (เอเว็กซ์ ฮิลเมทส์)"
+  },
+  {
+    "bandName": "Hang Part (แฮง พลาต)"
+  },
+  {
+    "bandName": "Audiosociety (ออดิโอโซไซตี้)"
+  },
+  {
+    "bandName": "Daddy (แด้ดดี้)"
+  },
+  {
+    "bandName": "Maxgtrs (แม๊กซ์จีทีอาร์เอส)"
+  },
+  {
+    "bandName": "Smok (สมอค)"
+  },
+  {
+    "bandName": "SPR (เอสพีอาร์)"
+  },
+  {
+    "bandName": "Decken frog (เดกเค่น ฟร็อก)"
+  },
+  {
+    "bandName": "Cob custom (คอบ คัสตอม)"
+  },
+  {
+    "bandName": "Toikien (ทอยคิเอ็น)"
+  },
+  {
+    "bandName": "Michika (มิชิกะ)"
+  },
+  {
+    "bandName": "Michika (มิชิก้า)"
+  },
+  {
+    "bandName": "GD Car Audio (จีดี คาร์ ออดิโอ)"
+  },
+  {
+    "bandName": "Custom Cree (คัสตอม คลี)"
+  },
+  {
+    "bandName": "Alonza (อะล่อนซ่า)"
+  },
+  {
+    "bandName": "ZIIIRO (ซีย์โร่)"
+  },
+  {
+    "bandName": "Energy (เอ็นเนอร์จี้)"
+  },
+  {
+    "bandName": "Doct (ด็อค)"
+  },
+  {
+    "bandName": "KEnKT56 (เคนเคที่ห้าสิบหก)"
+  },
+  {
+    "bandName": "Ronin (โรนิน)"
+  },
+  {
+    "bandName": "Novsight (นอฟไซท์)"
+  },
+  {
+    "bandName": "Sirocco (ซิลอคโค)"
+  },
+  {
+    "bandName": "Dingku (ดิงกุ)"
+  },
+  {
+    "bandName": "AeroMotire (เอโรโมเทียร)"
+  },
+  {
+    "bandName": "Zero Gravity (ซีโร่ กาวิตี้)"
+  },
+  {
+    "bandName": "Sumo (ซูโม่)"
+  },
+  {
+    "bandName": "Praram 2 Bike (พระราม2ไบค์)"
+  },
+  {
+    "bandName": "Carworld (คาร์เวิลด์)"
+  },
+  {
+    "bandName": "Mitsuba (มิทซูบา)"
+  },
+  {
+    "bandName": "Devil (เดวิล)"
+  },
+  {
+    "bandName": "CONCEPT R (คอนเซปต์ อาร์)"
+  },
+  {
+    "bandName": "Austin (อัสติน)"
+  },
+  {
+    "bandName": "Chain Speed (เชียน สปีด)"
+  },
+  {
+    "bandName": "SignatureSound (ซิกเนเจอร์ซาวด์)"
+  },
+  {
+    "bandName": "EGP (อีจีพี)"
+  },
+  {
+    "bandName": "Victsing (วิคท์ซิง)"
+  },
+  {
+    "bandName": "อ้วนออเงิน"
+  },
+  {
+    "bandName": "Top1 (ท็อปวัน)"
+  },
+  {
+    "bandName": "Kiwi (กีวี่)"
+  },
+  {
+    "bandName": "Anda Helmet (แอนดา เฮลเมต)"
+  },
+  {
+    "bandName": "Stage Biker (สแตจ บิเกอร์)"
+  },
+  {
+    "bandName": "GPX Demon 150 GR (จีพีเอ็กซ์ ดีมอน 150 จีอาร์)"
+  },
+  {
+    "bandName": "QRS (คิวอาร์เอส)"
+  },
+  {
+    "bandName": "Xinli (ซินลิ)"
+  },
+  {
+    "bandName": "Fenatech (ฟีนาเทค)"
+  },
+  {
+    "bandName": "Diff (ดิฟฟ์)"
+  },
+  {
+    "bandName": "Torc (ทอร์ค)"
+  },
+  {
+    "bandName": "DiamondFilm (ไดม่อนฟิล์ม)"
+  },
+  {
+    "bandName": "Elite UK (อีลิต ยูเค)"
+  },
+  {
+    "bandName": "JalonaCNC (จาโรน่า ซีเอ็นซี)"
+  },
+  {
+    "bandName": "RMT (อาร์เอ็มที)"
+  },
+  {
+    "bandName": "KTP​ (เคพีที)"
+  },
+  {
+    "bandName": "Dengo (เดนโก้)"
+  },
+  {
+    "bandName": "Dtech (ดีเทค)"
+  },
+  {
+    "bandName": "Color shop (คัลเลอร์ ช็อป)"
+  },
+  {
+    "bandName": "JAC (เจเอซี)"
+  },
+  {
+    "bandName": "่Jumper Horse (จัมเปอร์ฮอส)"
+  },
+  {
+    "bandName": "K2 Factory (เคทูแฟคตอรี่)"
+  },
+  {
+    "bandName": "K2-Factory (เค2 แฟคตอรี่)"
+  },
+  {
+    "bandName": "Rjays (อาร์เจส์)"
+  },
+  {
+    "bandName": "Diamond (ไดม่อนฟิล์ม)"
+  },
+  {
+    "bandName": "TP (ที พี)"
+  },
+  {
+    "bandName": "ปรัชญา 2561"
+  },
+  {
+    "bandName": "Super D (ซุบเปอร์)"
+  },
+  {
+    "bandName": "เอี๊ยงท่อซิ่ง"
+  },
+  {
+    "bandName": "Distar (ดิสตาร์)"
+  },
+  {
+    "bandName": "Filter (ฟิลเตอร์)"
+  },
+  {
+    "bandName": "Union (ยูเนี่ยน)"
+  },
+  {
+    "bandName": "AE Reflective (เออี รีเฟคทีฟ)"
+  },
+  {
+    "bandName": "A One (เอวัน)"
+  },
+  {
+    "bandName": "Back Liners (แบล็ค ลินเนอร์)"
+  },
+  {
+    "bandName": "SP (เอสพี)"
+  },
+  {
+    "bandName": "Youston (ยูสตัน)"
+  },
+  {
+    "bandName": "Fabrix (ฟาบริกซ์)"
+  },
+  {
+    "bandName": "Oklead (โอครีต)"
+  },
+  {
+    "bandName": "RSD (อาร์เอสดี)"
+  },
+  {
+    "bandName": "CAG (ซีเอจี)"
+  },
+  {
+    "bandName": "Yoko (โยโก)"
+  },
+  {
+    "bandName": "Compac (คอมแพ็ค)"
+  },
+  {
+    "bandName": "Navigate (เนวิเกท)"
+  },
+  {
+    "bandName": "TRW (ทีอาร์ดับเบิลยู)"
+  },
+  {
+    "bandName": "Follow (โฟลโลว)"
+  },
+  {
+    "bandName": "3D Auto Care (ทรีดี ออโต้ แคร์)"
+  },
+  {
+    "bandName": "Kelenate (คีรีเนต)"
+  },
+  {
+    "bandName": "TM Car Seat (ทีเอ็ม คาร์ซีท)"
+  },
+  {
+    "bandName": "Ful HD Car DVR (ฟูล เอชดี คาร์ ดีวีอาร์)"
+  },
+  {
+    "bandName": "Newton (นิวตัน)"
+  },
+  {
+    "bandName": "SAK Product (เอสเอเค โปรดักส์)"
+  },
+  {
+    "bandName": "Eni (อีนิ)"
+  },
+  {
+    "bandName": "Mini Race Shop (มินิ เรซ ช็อป)"
+  },
+  {
+    "bandName": "Riders'DNA (ไรเดอร์ ดีเอ็นเอ)"
+  },
+  {
+    "bandName": "K-Fox (เค ฟ็อกซ์)"
+  },
+  {
+    "bandName": "Fast (ฟาสต์)"
+  },
+  {
+    "bandName": "อินทรีเหล็ก"
+  },
+  {
+    "bandName": "RSG (อาร์เอสจี)"
+  },
+  {
+    "bandName": "JVC (เจวีซี)"
+  },
+  {
+    "bandName": "Cob (คอบ)"
+  },
+  {
+    "bandName": "ASG (เอเอสจี)"
+  },
+  {
+    "bandName": "Just1 Helmet (จัส1 เฮลเมท)"
+  },
+  {
+    "bandName": "Brike (ไบค์)"
+  },
+  {
+    "bandName": "Miller Oils (มิลเลอร์ ออยล์)"
+  },
+  {
+    "bandName": "Vok (ว็อค)"
+  },
+  {
+    "bandName": "Vera (วีร่า)"
+  },
+  {
+    "bandName": "Fokker (ฟ็อกเกอร์)"
+  },
+  {
+    "bandName": "Vicovation (วิโควาชั่น)"
+  },
+  {
+    "bandName": "Zeta (ซีตา)"
+  },
+  {
+    "bandName": "American Eagle (อเมริกันอีเกิ้ล)"
+  },
+  {
+    "bandName": "Vehicle (วีไฮเคิล)"
+  },
+  {
+    "bandName": "FCC (เอฟซีซี)"
+  },
+  {
+    "bandName": "Vehicle Blackbox DVR (วีฮิเคิล แบล็คบ็อก ดีวีอาร์)"
+  },
+  {
+    "bandName": "Mascot Caraudio (มาสคอต คาร์ออดิโอ)"
+  },
+  {
+    "bandName": "Lightect (ไลท์เท็คต์)"
+  },
+  {
+    "bandName": "Washi (วาชิ)"
+  },
+  {
+    "bandName": "Silver Tech (ซิลเวอร์เทค)"
+  },
+  {
+    "bandName": "BeWell (บีเวลล์)"
+  },
+  {
+    "bandName": "Anytek (อนีเทค)"
+  },
+  {
+    "bandName": "Max Bright (แม็ก ไบร์ท)"
+  },
+  {
+    "bandName": "เฮี๋ยตี๋ออโต้"
+  },
+  {
+    "bandName": "เฮียตี๋ออโต้"
+  },
+  {
+    "bandName": "AMC (เอเอ็มซี)"
+  },
+  {
+    "bandName": "Heartee Auto (เฮียตี๋ ออโต้)"
+  },
+  {
+    "bandName": "มอเตอร์ไซต์"
+  },
+  {
+    "bandName": "R&G (อาร์แอนด์จี)"
+  },
+  {
+    "bandName": "Smartcam (สมาร์ทแคม)"
+  },
+  {
+    "bandName": "TSG (ทีเอสจี)"
+  },
+  {
+    "bandName": "All Mate (ออลเมท)"
+  },
+  {
+    "bandName": "Cardo (คาร์โด้)"
+  },
+  {
+    "bandName": "Daiichi (ไดอิจิ)"
+  },
+  {
+    "bandName": "Bando (แบนโด้)"
+  },
+  {
+    "bandName": "FL (เอฟแอล)"
+  },
+  {
+    "bandName": "Cyleto (ไคลีโต)"
+  },
+  {
+    "bandName": "BBM Racing (บีบีเอ็ม ราชิ่ง)"
+  },
+  {
+    "bandName": "WolfEye (วูฟอาย)"
+  },
+  {
+    "bandName": "Loxzy (ล็อกซี่)"
+  },
+  {
+    "bandName": "Tbe (ทีบี)"
+  },
+  {
+    "bandName": "Wynn's (วินส์)"
+  },
+  {
+    "bandName": "Wolf Eye (วูฟอาย)"
+  },
+  {
+    "bandName": "Universal plug (ยูนิเวอร์แซล ปลั๊ก)"
+  },
+  {
+    "bandName": "Runshine (รันไชน์)"
+  },
+  {
+    "bandName": "GIP (จีไอพี)"
+  },
+  {
+    "bandName": "Apexi (เอเป็กซ์)"
+  },
+  {
+    "bandName": "FOUVOR (ฟูเวอร์)"
+  },
+  {
+    "bandName": "TVDirect (ทีวีไดเร็กท์)"
+  },
+  {
+    "bandName": "Car Jack (คาร์ แจ็ค)"
+  },
+  {
+    "bandName": "PPspeed (พีพี สปีด)"
+  },
+  {
+    "bandName": "PP Speed (พีพี สปีด)"
+  },
+  {
+    "bandName": "Buddy car mat (บัดดี้คาร์แมท)"
+  },
+  {
+    "bandName": "Ezy Guard (อีซี่ การ์ด)"
+  },
+  {
+    "bandName": "ชีต้า คาเมล"
+  },
+  {
+    "bandName": "Cleanmate24 (คลีนเมท24)"
+  },
+  {
+    "bandName": "DD Sprocket (ดีดี สป็อคเก็ต)"
+  },
+  {
+    "bandName": "ST Power (เอสที เพาเวอร์)"
+  },
+  {
+    "bandName": "R Tech (อาร์ เทค)"
+  },
+  {
+    "bandName": "Kazito (คาซิโต้)"
+  },
+  {
+    "bandName": "Proroqic (โปรโรคิก)"
+  },
+  {
+    "bandName": "PROALARM (โปรอะลาม)"
+  },
+  {
+    "bandName": "Minnie Mouse (มินนี่ เมาส์)"
+  },
+  {
+    "bandName": "Arai Ducati (เอไรน์ ดูคาติ)"
+  },
+  {
+    "bandName": "Transcend  (ทรานส์เซนด์)"
+  },
+  {
+    "bandName": "JYC (เจวายซี)"
+  },
+  {
+    "bandName": "Puma (พูม่า)"
+  },
+  {
+    "bandName": "Reevo Professional Rim (รีโว่ โปรเฟรสซินอล ริม)"
+  },
+  {
+    "bandName": "MPD Seep (เอ็มพีดี สปีด)"
+  },
+  {
+    "bandName": "Heartee (เฮียตี๋)"
+  },
+  {
+    "bandName": "Freed Conn (ฟรีดคอนน์)"
+  },
+  {
+    "bandName": "K Rubber (เครับเบอร์)"
+  },
+  {
+    "bandName": "SPORZO"
+  },
+  {
+    "bandName": "Yang Chang (ยางช้าง)"
+  },
+  {
+    "bandName": "DNA Performance (ดีเอ็นเอ เพอร์ฟอร์แมนซ์)"
+  },
+  {
+    "bandName": "CTR (ซีทีอาร์)"
+  },
+  {
+    "bandName": "Lamborg9 (แลมบอร์ค9)"
+  },
+  {
+    "bandName": "Lamborg (แลมเบิร์ก)"
+  },
+  {
+    "bandName": "Xiaomi (เสี่ยวมี่)"
+  },
+  {
+    "bandName": "Turbo LED (เทอร์โบ แอลอีดี)"
+  },
+  {
+    "bandName": "Careud (คาเรียด)"
+  },
+  {
+    "bandName": "S7 (เอส7)"
+  },
+  {
+    "bandName": "HXS (เอชเอ็กซ์เอส)"
+  },
+  {
+    "bandName": "Soundsttream (ซาวด์สตรีม)"
+  },
+  {
+    "bandName": "Invech (อินเว็ช)"
+  },
+  {
+    "bandName": "PPTech (พีพีเทค)"
+  },
+  {
+    "bandName": "Uclear (ยูเคลียร์)"
+  },
+  {
+    "bandName": "Phorogic (โฟโรจิค)"
+  },
+  {
+    "bandName": "Shofer (โชเฟอร์)"
+  },
+  {
+    "bandName": "Motor Up (มอเตอร์อัพ)"
+  },
+  {
+    "bandName": "﻿Toys RUs (ทอยส์อาร์อัส)"
+  },
+  {
+    "bandName": "MITSUBISHI TRITON (มิตซูบิชิไทรทัน)"
+  },
+  {
+    "bandName": "SML (เอสเอ็มแอล)"
+  },
+  {
+    "bandName": "Galaxy (กาแล็คซี่)"
+  },
+  {
+    "bandName": "ADS (เอดีเอส)"
+  },
+  {
+    "bandName": "KLASS (คลาส)"
+  },
+  {
+    "bandName": "Airoh (ไอโร่)"
+  },
+  {
+    "bandName": "Hikvision"
+  },
+  {
+    "bandName": "Carr Max  (คาร์แม๊กซ์)"
+  },
+  {
+    "bandName": "Starnavi  (สตาร์นาวิ)"
+  },
+  {
+    "bandName": "IMMoBilizer"
+  },
+  {
+    "bandName": "Sonar (โซนาร์)"
+  },
+  {
+    "bandName": "Shopsmart (ช็อปสมาร์ท)"
+  },
+  {
+    "bandName": "a/d/s/ (อีดีเอส)"
+  },
+  {
+    "bandName": "MTX (เอ็มทีเอ็กซ์)"
+  },
+  {
+    "bandName": "NEWTHON (นิวตัน)"
+  },
+  {
+    "bandName": "A Pillar (เอพิลล่า)"
+  },
+  {
+    "bandName": "ADV (เอดีวี)"
+  },
+  {
+    "bandName": "อุ๋ม อ้อมน้อย"
+  },
+  {
+    "bandName": "Kool M Shop (ครูเอ็มช๊อป)"
+  },
+  {
+    "bandName": "OBD2Meter (โอบีดี2มิเตอร์)"
+  },
+  {
+    "bandName": "โมริน"
+  },
+  {
+    "bandName": "Moto Play (โมโตเพลย์)"
+  },
+  {
+    "bandName": "KIT (เคไอที)"
+  },
+  {
+    "bandName": "Leegoog (ลีกุ๊ก)"
+  },
+  {
+    "bandName": "Mazda CX3 (มาสด้า ซีเอ็กซ์3)"
+  },
+  {
+    "bandName": "Champ (แชมป์)"
+  },
+  {
+    "bandName": "GXT (จีเอ็กซ์ที)"
+  },
+  {
+    "bandName": "Carmax (คาร์แมกซ์)"
+  },
+  {
+    "bandName": "Keyless Entry System (คีย์เลส เอ็นทรี ซิสเท็ม)"
+  },
+  {
+    "bandName": "Tsukigi (ซึกิจิ)"
+  },
+  {
+    "bandName": "Everready (อีเวอร์รีดดี้)"
+  },
+  {
+    "bandName": "KT Daylight (เคที เดย์ไลต์)"
+  },
+  {
+    "bandName": "My and Carr (มายแอนด์คาร์)"
+  },
+  {
+    "bandName": "Shad (แซด)"
+  },
+  {
+    "bandName": "Hi Kool (ไฮคูล)"
+  },
+  {
+    "bandName": "Sena Bluetooth (เซน่า บลูทูธ)"
+  },
+  {
+    "bandName": "West Voice (เวสท์  วอยซ์)"
+  },
+  {
+    "bandName": "ORBR (โออาร์บีอาร์)"
+  },
+  {
+    "bandName": "Super Cam (ซุปเปอร์ แคม)"
+  },
+  {
+    "bandName": "KMC (เคเอ็มซี)"
+  },
+  {
+    "bandName": "Docono (ดูคอโน่)"
+  },
+  {
+    "bandName": "Bom Racing (บอม เรซซิ่ง)"
+  },
+  {
+    "bandName": "Sunpoh (ซันพูห์)"
+  },
+  {
+    "bandName": "ครูบิ๊กสติ๊กเกอร์"
+  },
+  {
+    "bandName": "Bigboy Products (บิ๊กบอย โปรดักส์)"
+  },
+  {
+    "bandName": "Orico (โอริโค)"
+  },
+  {
+    "bandName": "Rizz (ริซ)"
+  },
+  {
+    "bandName": "X Lite (เอ็กซ์ไลท์)"
+  },
+  {
+    "bandName": "K -RUBBER (เครับเบอร์)"
+  },
+  {
+    "bandName": "Zippo (ซิปโป้)"
+  },
+  {
+    "bandName": "DZ Power (ดีแซด พาวเวอร์)"
+  },
+  {
+    "bandName": "Erang (อีแรงค์)"
+  },
+  {
+    "bandName": "Redline (เรดไลน์)"
+  },
+  {
+    "bandName": "Auto Fan (ออโต้แฟน)"
+  },
+  {
+    "bandName": "Nautilus (นูทีรัส)"
+  },
+  {
+    "bandName": "Annbaby (แอนเบบี้)"
+  },
+  {
+    "bandName": "Cosmo Preorder (คอสโม พรีออร์เดอร์)"
+  },
+  {
+    "bandName": "Amtex (แอมเท็ก)"
+  },
+  {
+    "bandName": "Image Dynamics (อิมเมจ ไดนามิคส์)"
+  },
+  {
+    "bandName": "Klyde (คลีดี)"
+  },
+  {
+    "bandName": "OMY (โอเอ็มวาย)"
+  },
+  {
+    "bandName": "Photon (โฟตอน)"
+  },
+  {
+    "bandName": "Lobster's Garage (ลอปเตอร์ การ์ลาจ)"
+  },
+  {
+    "bandName": "Tatung (ต้าถุง)"
+  },
+  {
+    "bandName": "We Bare Bears (วีแบร์แบร์)"
+  },
+  {
+    "bandName": "RSV (อาร์เอสวี)"
+  },
+  {
+    "bandName": "I Car Design (ไอ คาร์ ดีไซน์)"
+  },
+  {
+    "bandName": "TRD (ทีอาร์ดี)"
+  },
+  {
+    "bandName": "DMK (ดีเอ็มเค)"
+  },
+  {
+    "bandName": "JGZ (เจจีซี)"
+  },
+  {
+    "bandName": "Luxury cars (ลัคชัวรี่ คาร์)"
+  },
+  {
+    "bandName": "Speed star (สปีด สตาร์)"
+  },
+  {
+    "bandName": "Bogo (โบโก้)"
+  },
+  {
+    "bandName": "Urban (เออเบิ้น)"
+  },
+  {
+    "bandName": "Commy (คอมมี่)"
+  },
+  {
+    "bandName": "Draga (ดราก้า)"
+  },
+  {
+    "bandName": "Fitt (ฟิต)"
+  },
+  {
+    "bandName": "GPS Lion1 (จีพีเอส ไลออนวัน)"
+  },
+  {
+    "bandName": "GGear Moto (จีเกียร์โมโต้)"
+  },
+  {
+    "bandName": "Lupromax (ลูโปรแม็ก)"
+  },
+  {
+    "bandName": "GPX (จีพีเอ็กซ์)"
+  },
+  {
+    "bandName": "Bewon (บีวัน)"
+  },
+  {
+    "bandName": "BlackMagic (แบล็คเมจิก)"
+  },
+  {
+    "bandName": "วงล้อนินจา"
+  },
+  {
+    "bandName": "Japauto (จาพัวโต้)"
+  },
+  {
+    "bandName": "DTD Racing (ดีทีดี เรซซิ่ง)"
+  },
+  {
+    "bandName": "Champion (แชมเปี้ยน)"
+  },
+  {
+    "bandName": "Quick (ควิก)"
+  },
+  {
+    "bandName": "PRISM (ปริซึม)"
+  },
+  {
+    "bandName": "Husqvarna (ฮุสซาวาน่า)"
+  },
+  {
+    "bandName": "Pro 1 (โปรวัน)"
+  },
+  {
+    "bandName": "Autool (ออทูล)"
+  },
+  {
+    "bandName": "PROMA (โพม่า)"
+  },
+  {
+    "bandName": "Dynacom (ไดน่าคอม)"
+  },
+  {
+    "bandName": "BoosterPlug (บุ๊สเตอร์ พลัก)"
+  },
+  {
+    "bandName": "S P LED (เอสพี แอลอีดี)"
+  },
+  {
+    "bandName": "G Speed (จี สปีด)"
+  },
+  {
+    "bandName": "KV Accessories (เควี แอคเชสซอรี่ส์)"
+  },
+  {
+    "bandName": "DF Daddy (ดีเอฟแด็ดดี้)"
+  },
+  {
+    "bandName": "Light Up (ไลท์อัพ)"
+  },
+  {
+    "bandName": "KONNWEI (คอนน์เว่ย)"
+  },
+  {
+    "bandName": "Miniso (มินิโซ)"
+  },
+  {
+    "bandName": "Artpowerlink (อาร์ท พาวเวอร์ ลิงก์)"
+  },
+  {
+    "bandName": "Vollara (วอลลาล่า)"
+  },
+  {
+    "bandName": "Sabelt (ซาเบลท์)"
+  },
+  {
+    "bandName": "AUTOLITE (ออโต้ไลท์)"
+  },
+  {
+    "bandName": "Amplus​ (แอมพลัส)"
+  },
+  {
+    "bandName": "US Audio (ยูเอส ออดิโอ)"
+  },
+  {
+    "bandName": "Aston (แอสตั้น)"
+  },
+  {
+    "bandName": "Termignoni (เทอมิโนนี่)"
+  },
+  {
+    "bandName": "Two Brother (ทูบาร์เธอร์)"
+  },
+  {
+    "bandName": "Link Pro (ลิ้งค์โปร)"
+  },
+  {
+    "bandName": "LHK (แอลเอชเค)"
+  },
+  {
+    "bandName": "Yooku (โยวคู่)"
+  },
+  {
+    "bandName": "UDAMOTOR (ยูด้ามอเตอร์)"
+  },
+  {
+    "bandName": "Karshine (คาร์ชายน์)"
+  },
+  {
+    "bandName": "Elevo (อีเลโว่)"
+  },
+  {
+    "bandName": "Harada (ฮาราดา)"
+  },
+  {
+    "bandName": "Groovy Thailand (กรู๊ฟวี่ ไทยแลนด์)"
+  },
+  {
+    "bandName": "Digital Research (ดิจิตอลรีเสิร์ช)"
+  },
+  {
+    "bandName": "KKD (เคเคดี)"
+  },
+  {
+    "bandName": "Pirelli (พิราลี่)"
+  },
+  {
+    "bandName": "GAS helmets (แกส เฮลเมท)"
+  },
+  {
+    "bandName": "HJC Helmet (เอชเจซี เฮลเมท)"
+  },
+  {
+    "bandName": "Mixed Gadget (มิกซ์แก็ดเจ็ต)"
+  },
+  {
+    "bandName": "Autoban (ออโต้บาน)"
+  },
+  {
+    "bandName": "Buse (บุซ)"
+  },
+  {
+    "bandName": "Coocase (คูเคส)"
+  },
+  {
+    "bandName": "A Kit SpeedTuning (อคิท สปีด ทันนิ่ง)"
+  },
+  {
+    "bandName": "Lanmodo (แลนโมโด)"
+  },
+  {
+    "bandName": "Firefly (ไฟร์ฟลาย)"
+  },
+  {
+    "bandName": "TCX Boots (ทีซีเอ็กซ์ บูทส์)"
+  },
+  {
+    "bandName": "LEXUS (เลกซัส)"
+  },
+  {
+    "bandName": "XPD (เอ็กซ์พีดี)"
+  },
+  {
+    "bandName": "Duhan (ดูฮาน)"
+  },
+  {
+    "bandName": "Furuno (ฟูรูโน่)"
+  },
+  {
+    "bandName": "GAS (แก๊ส)"
+  },
+  {
+    "bandName": "Myxdec (เมกซ์เด็ค)"
+  },
+  {
+    "bandName": "REFLECT (รีเฟล็คท์)"
+  },
+  {
+    "bandName": "Zipper (ซิปเปอร์)"
+  },
+  {
+    "bandName": "Domino (โดมิโน)"
+  },
+  {
+    "bandName": "HIP (ฮิป)"
+  },
+  {
+    "bandName": "Manta (แมนต้า)"
+  },
+  {
+    "bandName": "Moto9 (โมโต9)"
+  },
+  {
+    "bandName": "Stebel (สเตเบล)"
+  },
+  {
+    "bandName": "Dunlop​ (ดันลอปไทร์)"
+  },
+  {
+    "bandName": "Exustar (เอ็กซัสทาร์)"
+  },
+  {
+    "bandName": "Afam (อาแฟม)"
+  },
+  {
+    "bandName": "G Hood (จีฮู้ด)"
+  },
+  {
+    "bandName": "Hana Tools (ฮานา ทูลส์)"
+  },
+  {
+    "bandName": "LWN4x4 (แอลดับบลิวเอ็น4x4)"
+  },
+  {
+    "bandName": "Harley Davidson (ฮาร์ลีย์ เดวิดสัน)"
+  },
+  {
+    "bandName": "TDCHELMET (ทีดีซีแฮลเมท )"
+  },
+  {
+    "bandName": "Yul san (ยูลแซน)"
+  },
+  {
+    "bandName": "Thieye (เทียอาย)"
+  },
+  {
+    "bandName": "Kayaba (คายาบา)"
+  },
+  {
+    "bandName": "Titan Helmet (ไททัน เฮลเมท)"
+  },
+  {
+    "bandName": "REV'IT! (เรฟอิท)"
+  },
+  {
+    "bandName": "BJ Auto Seat Cover (บีเจ ออโต้ ซีท คัฟเวอร์)"
+  },
+  {
+    "bandName": "Onemaster (วันมาสเตอร์)"
+  },
+  {
+    "bandName": "Koyo (โคโย)"
+  },
+  {
+    "bandName": "RUNSTOP (รันสต็อป)"
+  },
+  {
+    "bandName": "Eagle One (อีเกิ้ลวัน)"
+  },
+  {
+    "bandName": "MT Carbon (เอ็มทีคาร์บอน)"
+  },
+  {
+    "bandName": "Girling (เกิร์ลลิ่ง)"
+  },
+  {
+    "bandName": "INA (ไอเอ็นเอ)"
+  },
+  {
+    "bandName": "Hubrid (ไฮบริด)"
+  },
+  {
+    "bandName": "Kingkrob (คิงกรอบ)"
+  },
+  {
+    "bandName": "Bell1 (เบลล์1)"
+  },
+  {
+    "bandName": "Power Speed (พาวเวอร์ สปีด)"
+  },
+  {
+    "bandName": "Force (ฟอร์ซ)"
+  },
+  {
+    "bandName": "Sonex (โซเน็กซ์)"
+  },
+  {
+    "bandName": "Kim hi (คิมไฮ)"
+  },
+  {
+    "bandName": "Kimhi (คิมมี่)"
+  },
+  {
+    "bandName": "Wuerth (เวือร์ท)"
+  },
+  {
+    "bandName": "M Pro (เอ็มโปร)"
+  },
+  {
+    "bandName": "Airy (แอร์รี่)"
+  },
+  {
+    "bandName": "Aun (อ้วน)"
+  },
+  {
+    "bandName": "Anto Green (แอนโตกรีน)"
+  },
+  {
+    "bandName": "Antogreen (แอนโต้กรีน)"
+  },
+  {
+    "bandName": "Bbb (บีบีบี)"
+  },
+  {
+    "bandName": "Podofo (โพโดโฟ)"
+  },
+  {
+    "bandName": "Wato (วาโต้)"
+  },
+  {
+    "bandName": "Blizt (บลิซท์)"
+  },
+  {
+    "bandName": "Duprosca (ดูโปรสกา)"
+  },
+  {
+    "bandName": "Sparko (สปาร์โก้)"
+  },
+  {
+    "bandName": "Vr46 (วีอาร์46)"
+  },
+  {
+    "bandName": "Hamatite (เฮมาไทต์)"
+  },
+  {
+    "bandName": "Unbrandedgeneric (อันแบรนเดดเจเนริค)"
+  },
+  {
+    "bandName": "Comeup (คัมอัพ)"
+  },
+  {
+    "bandName": "TT (ทีที)"
+  },
+  {
+    "bandName": "TITAN1 Armrest (ไททัน1อาร์มเรสต์)"
+  },
+  {
+    "bandName": "Fakie Genma (เฟกกี้เจนม่า)"
+  },
+  {
+    "bandName": "DECO (ดีโค่)"
+  },
+  {
+    "bandName": "Nitto (นิตโต้)"
+  },
+  {
+    "bandName": "Frostech (ฟรอสเทค)"
+  },
+  {
+    "bandName": "Capcar (แค็ปคาร์)"
+  },
+  {
+    "bandName": "XtiveBike (เอ็กซ์ทีฟไบค์)"
+  },
+  {
+    "bandName": "Answer (อานเซอร์)"
+  },
+  {
+    "bandName": "CK2 Autopart (ซีเคทู ออโต้พาร์ท)"
+  },
+  {
+    "bandName": "Mechanic-5 (เมคานิค5)"
+  },
+  {
+    "bandName": "Ojungwa (โอจังวะ)"
+  },
+  {
+    "bandName": "B Boy (บีบอย)"
+  },
+  {
+    "bandName": "Tokico (โทคิโคะ)"
+  },
+  {
+    "bandName": "Plus Bat (พลัสแบต)"
+  },
+  {
+    "bandName": "Power Blue (พาวเวอร์ บลู)"
+  },
+  {
+    "bandName": "Brc (บีอาร์ซี)"
+  },
+  {
+    "bandName": "Bacuda (บาคุด้า)"
+  },
+  {
+    "bandName": "Speed Tuner (สปีดจูนเนอร์)"
+  },
+  {
+    "bandName": "Autowit (ออโต้วิท)"
+  },
+  {
+    "bandName": "Hom dee (หอมดี)"
+  },
+  {
+    "bandName": "KEMiMOTO (เคมิโมโต้)"
+  },
+  {
+    "bandName": "Mikuni (มิคูนิ)"
+  },
+  {
+    "bandName": "MJ Tech (เอ็มเจเทค)"
+  },
+  {
+    "bandName": "Wire Man (ไวด์แมน)"
+  },
+  {
+    "bandName": "Daimond (ไดมอนด์)"
+  },
+  {
+    "bandName": "Belkin (เบลกิน)"
+  },
+  {
+    "bandName": "Allomn (อลอมน์)"
+  },
+  {
+    "bandName": "SR (เอสอาร์)"
+  },
+  {
+    "bandName": "Benzol Cycle (เบนซอลไซเคิล)"
+  },
+  {
+    "bandName": "Ecomax (อีโค่แม็กซ์)"
+  },
+  {
+    "bandName": "Falken (ฟอลเคน)"
+  },
+  {
+    "bandName": "Winjet (วินเจ็ท)"
+  },
+  {
+    "bandName": "Gsb (จีเอสบี)"
+  },
+  {
+    "bandName": "Selva (เซลวา)"
+  },
+  {
+    "bandName": "Nolan (นอแลน)"
+  },
+  {
+    "bandName": "Yazaki (ยาซากิ)"
+  },
+  {
+    "bandName": "Keeway (คีเวย์)"
+  },
+  {
+    "bandName": "FURYGAN AFS19 (เฟอริแก้น เอเอฟเอส19)"
+  },
+  {
+    "bandName": "A&W (เอ แอนด์ ดับบลิว)"
+  },
+  {
+    "bandName": "Skunk2 Racing (สกั๊ก2เรซิ่ง)"
+  },
+  {
+    "bandName": "GLP (จีแอลพี)"
+  },
+  {
+    "bandName": "Hitachi  (ฮิตาชิ)"
+  },
+  {
+    "bandName": "YANMAR (ยานมาร์)"
+  },
+  {
+    "bandName": "Skunk2 (สคูล2)"
+  },
+  {
+    "bandName": "Fkg (เอฟเคจี)"
+  },
+  {
+    "bandName": "Qniglo (คิวนิโกล)"
+  },
+  {
+    "bandName": "Canuwax (คานูแว็กซ์)"
+  },
+  {
+    "bandName": "Super Drag (ซุปเปอร์แดร็ก)"
+  },
+  {
+    "bandName": "Motorex (โมโต้เร็กซ์)"
+  },
+  {
+    "bandName": "Car Seat Saver (คาร์ ซีท เซฟเวอร์)"
+  },
+  {
+    "bandName": "Love Sticker Thailand (เลิฟสติ๊กเกอร์ไทยแลนด์)"
+  },
+  {
+    "bandName": "JKC (เจเคซี)"
+  },
+  {
+    "bandName": "Toyota C-Hr (โตโยต้า ซี-เอชอาร์)"
+  },
+  {
+    "bandName": "Toyota Fortuner (โตโยต้า ฟอร์จูนเนอร์)"
+  },
+  {
+    "bandName": "VRK (วีอาร์เค)"
+  },
+  {
+    "bandName": "Bbcarbons (บีบีคาร์บอนส์)"
+  },
+  {
+    "bandName": "BB Carbons (บีบี คาร์บอน)"
+  },
+  {
+    "bandName": "Spidi (สไปดี้)"
+  },
+  {
+    "bandName": "T Racing (ทีเรซซิ่ง)"
+  },
+  {
+    "bandName": "Accetel (แอคเชเทล)"
+  },
+  {
+    "bandName": "Silentzer​ (ไซเลนท์เซอร์)"
+  },
+  {
+    "bandName": "Yorkim (ยอร์คอิม)"
+  },
+  {
+    "bandName": "F&M Motorbike (เอฟแอนด์เอ็ม มอเตอร์ไบร์ค)"
+  },
+  {
+    "bandName": "PAB (พีเอบี)"
+  },
+  {
+    "bandName": "Cnc (ซีเอ็นซี)"
+  },
+  {
+    "bandName": "Goop (กูพ)"
+  },
+  {
+    "bandName": "Auto Cover (ออโต้ คัฟเวอร์)"
+  },
+  {
+    "bandName": "Matsuba (มัตซูบา)"
+  },
+  {
+    "bandName": "Gtp Racing (จีทีพีเรสซิ่ง)"
+  },
+  {
+    "bandName": "TTS Car Accessories (ทีทีเอส คาร์ เอซเซสซอรี่)"
+  },
+  {
+    "bandName": "Robust (โรบัสท์)"
+  },
+  {
+    "bandName": "Mann Filter (แมนฟิลเตอร์)"
+  },
+  {
+    "bandName": "Aegis Moto (อีจิส โมโต)"
+  },
+  {
+    "bandName": "TYC (ทีวายซี)"
+  },
+  {
+    "bandName": "Morin (มอริน)"
+  },
+  {
+    "bandName": "Marvel (มาร์เวล)"
+  },
+  {
+    "bandName": "SN (เอสเอ็น)"
+  },
+  {
+    "bandName": "Armando4×4 (อาร์แมนโด้4คูณ4)"
+  },
+  {
+    "bandName": "Immos (อิมมอส)"
+  },
+  {
+    "bandName": "Grape Effect (เกรป เอฟเฟ็ค)"
+  },
+  {
+    "bandName": "Atoplee (แอตโทพลี)"
+  },
+  {
+    "bandName": "Takara (ทาคาร่า)"
+  },
+  {
+    "bandName": "Pulzar (เพาว์ซ่าร์)"
+  },
+  {
+    "bandName": "MOVICX (โมวิคซ์)"
+  },
+  {
+    "bandName": "Jumper Horse (จัมเปอร์ฮอส)"
+  },
+  {
+    "bandName": "Cosmo (คอสโม)"
+  },
+  {
+    "bandName": "Grip (กริป)"
+  },
+  {
+    "bandName": "Qualifier (คลอลิไฟเออร์)"
+  },
+  {
+    "bandName": "Racer Windy (เรเซอร์วินดี้)"
+  },
+  {
+    "bandName": "Five (ไฟฟ์)"
+  },
+  {
+    "bandName": "Racer (เรเซอร์)"
+  },
+  {
+    "bandName": "Bell Pit (เบลพิต)"
+  },
+  {
+    "bandName": "Racer Sprint (เรเชอร์ สปริ้นต์)"
+  },
+  {
+    "bandName": "Troy Lee (ทรอยลี)"
+  },
+  {
+    "bandName": "168helmet (168เฮลเมท)"
+  },
+  {
+    "bandName": "Somot (โซโมต)"
+  },
+  {
+    "bandName": "Ad Audio (เอดีออดิโอ)"
+  },
+  {
+    "bandName": "Launch (ลอนซ์)"
+  },
+  {
+    "bandName": "T-Drive (ที-ไดรฟ์)"
+  },
+  {
+    "bandName": "DTX (ดีทีเอ็กซ์)"
+  },
+  {
+    "bandName": "Double Elephant (ดับเบิ้ลอิเลฟเฟ่น)"
+  },
+  {
+    "bandName": "Fbk (เอฟบีเค)"
+  },
+  {
+    "bandName": "Flim 2U (ฟิล์ม ทูยู)"
+  },
+  {
+    "bandName": "Jaauto (เจเอออโต้)"
+  },
+  {
+    "bandName": "Morrison (มอร์ริสัน)"
+  },
+  {
+    "bandName": "NCR (เอ็น ซี อาร์)"
+  },
+  {
+    "bandName": "Mobilcam (โมบิลแคม)"
+  },
+  {
+    "bandName": "USAMS (ยูเอสเอเอ็มเอส)"
+  },
+  {
+    "bandName": "Hi View​ (ไอวิว)"
+  },
+  {
+    "bandName": "Racing Goggle (เรซซิ่ง ก็อกเกิ้ล)"
+  },
+  {
+    "bandName": "Vic (วิค)"
+  },
+  {
+    "bandName": "Koolsap (คูณทรัพย์)"
+  },
+  {
+    "bandName": "NPP (เอ็นพีพี)"
+  },
+  {
+    "bandName": "Ice Cream Fairy (ไอศครีมแฟรี่)"
+  },
+  {
+    "bandName": "CT SMILE (ซี ที สไมล์)"
+  },
+  {
+    "bandName": "เจเอออโต้โมบิล"
+  },
+  {
+    "bandName": "M Max (เอ็มแม็กซ์)"
+  },
+  {
+    "bandName": "อ้วน ออเงิน"
+  },
+  {
+    "bandName": "OGK (โอจีเค)"
+  },
+  {
+    "bandName": "Victory (วิคตอรี่)"
+  },
+  {
+    "bandName": "AmadaXtreme (อามาด้าเอ็กซ์ตรีม)"
+  },
+  {
+    "bandName": "Sky (สกาย)"
+  },
+  {
+    "bandName": "Joyroom (จอยรูม)"
+  },
+  {
+    "bandName": "Trk Autoseat (ที อาร์ เค ออโตซีท)"
+  },
+  {
+    "bandName": "Redboat (เรดโบ๊ท)"
+  },
+  {
+    "bandName": "Luckdragon (ลัคดราก้อน)"
+  },
+  {
+    "bandName": "Wharfedale Pro (วาร์ฟีเดลโปร)"
+  },
+  {
+    "bandName": "POWERPLUS (พาวเวอร์พลัส)"
+  },
+  {
+    "bandName": "POLINI (โพลินี)"
+  },
+  {
+    "bandName": "TDC Helmet (ทีดีซี เฮลเมท)"
+  },
+  {
+    "bandName": "F4 Sport (เอฟโฟร์สปอร์ต)"
+  },
+  {
+    "bandName": "Rida360 (ริดะ360)"
+  },
+  {
+    "bandName": "BS Racing (บีเอส เรซซิ่ง)"
+  },
+  {
+    "bandName": "Hammer (แฮมเมอร์)"
+  },
+  {
+    "bandName": "คิวเจ"
+  },
+  {
+    "bandName": "Codan (คอดาน)"
+  },
+  {
+    "bandName": "Locktech (ล๊อคเทค)"
+  },
+  {
+    "bandName": "Yak Ryder (ยักษ์ ไรเดอร์)"
+  },
+  {
+    "bandName": "King Panther (คิงแพนเธอร์)"
+  },
+  {
+    "bandName": "SHUUKEN (ชูเก็น)"
+  },
+  {
+    "bandName": "Cibie (ซิบี้)"
+  },
+  {
+    "bandName": "Neko Shop (เนโกะ ช็อป)"
+  },
+  {
+    "bandName": "KR Auto Sport (เอ็นอาร์ ออโต้ สปอร์ต)"
+  },
+  {
+    "bandName": "Paintitezy (เพ้นท์ติเทสซี่)"
+  },
+  {
+    "bandName": "THB (ทีเอชบี)"
+  },
+  {
+    "bandName": "Euro King (ยูโร่ คิง)"
+  },
+  {
+    "bandName": "Carvip (คาร์วิป)"
+  },
+  {
+    "bandName": "N One Project (เอ็น วัน โปรเจ็ค)"
+  },
+  {
+    "bandName": "Woodward (วู้ดเวิร์ด)"
+  },
+  {
+    "bandName": "JC Power (เจซี เพาเวอร์)"
+  },
+  {
+    "bandName": "Mcdodo (แมคโดโด่)"
+  },
+  {
+    "bandName": "Soundwave (ซาวด์เวฟ)"
+  },
+  {
+    "bandName": "Bluewave (บูลเวฟ)"
+  },
+  {
+    "bandName": "DTS (ดีทีเอส)"
+  },
+  {
+    "bandName": "Ae Audio (เออี ออดิโอ)"
+  },
+  {
+    "bandName": "A Tech (เอ เท็ค)"
+  },
+  {
+    "bandName": "M Audio (เอ็ม ออดิโอ)"
+  },
+  {
+    "bandName": "Hytec (ไฮเทค)"
+  },
+  {
+    "bandName": "Auto Gauge (ออโต้เกจ)"
+  },
+  {
+    "bandName": "Carwales (คาร์เวล)"
+  },
+  {
+    "bandName": "Mosclean (มอสคลีน)"
+  },
+  {
+    "bandName": "OHM (โอมห์)"
+  },
+  {
+    "bandName": "Explorers (เอ็กซ์เพอเรอ)"
+  },
+  {
+    "bandName": "Premium Carmat (พรีเมี่ยมคาร์แมท)"
+  },
+  {
+    "bandName": "Top Cover (ท็อปโคลเวอร์)"
+  },
+  {
+    "bandName": "Xerxes (เซิร์กซีส)"
+  },
+  {
+    "bandName": "Falcon Argon (ฟาวคอล อาร์กอน)"
+  },
+  {
+    "bandName": "Rtech (อาร์เทค)"
+  },
+  {
+    "bandName": "Rstrong (อาร์สตรอง)"
+  },
+  {
+    "bandName": "Lambretta (แลมเบรตต้า)"
+  },
+  {
+    "bandName": "Moto Loot (โมโต้ลูท)"
+  },
+  {
+    "bandName": "Techline (เทคไลน์)"
+  },
+  {
+    "bandName": "Pic Auto (พิคออโต้)"
+  },
+  {
+    "bandName": "Cambo (แคมโบ)"
+  },
+  {
+    "bandName": "Leepee (ลีปี้)"
+  },
+  {
+    "bandName": "Kao&Boton (เคาแอนด์โบตัน)"
+  },
+  {
+    "bandName": "Fb Battery (เอฟบีแบตเตอรี่)"
+  },
+  {
+    "bandName": "Bluepower (บลูเพาเวอร์)"
+  },
+  {
+    "bandName": "Atiker (อะติกเกอร์)"
+  },
+  {
+    "bandName": "Lucas (ลูคัส)"
+  },
+  {
+    "bandName": "D.K.T. (ดีเคที)"
+  },
+  {
+    "bandName": "BSS (บีเอสเอส)"
+  },
+  {
+    "bandName": "Daiso (ไดโซ)"
+  },
+  {
+    "bandName": "Moto Centric (โมโต เซ็นทริค)"
+  },
+  {
+    "bandName": "Jjbikeshop (เจเจไบค์ช็อป)"
+  },
+  {
+    "bandName": "NK Indy Shop (เอ็นเค อินดี้ ช็อป)"
+  },
+  {
+    "bandName": "แบงค์นครสวรรค์BNS"
+  },
+  {
+    "bandName": "FMF (เอฟเอ็มเอฟ)"
+  },
+  {
+    "bandName": "DLD (ดีแอลดี)"
+  },
+  {
+    "bandName": "Speedster (สปีดเตอร์)"
+  },
+  {
+    "bandName": "Epina (เอพินา)"
+  },
+  {
+    "bandName": "Aim (เอไอเอ็ม)"
+  },
+  {
+    "bandName": "Station Paint (สเตชั่นเพ้นท์)"
+  },
+  {
+    "bandName": "Blue Power (บลู พาวเวอร์)"
+  },
+  {
+    "bandName": "Mario (มาริโอ้)"
+  },
+  {
+    "bandName": "Laser (เลเซอร์)"
+  },
+  {
+    "bandName": "KSC (เคเอสซี)"
+  },
+  {
+    "bandName": "My carr super (มายคาร์ ซูเปอร์)"
+  },
+  {
+    "bandName": "JS (เจเอส)"
+  },
+  {
+    "bandName": "Winner&Champ (วินเนอร์แอนด์แชมป์)"
+  },
+  {
+    "bandName": "Speedy (สปีดี้)"
+  },
+  {
+    "bandName": "K2K Project Bike (เคทูเคโปรเจคท์ไบค์)"
+  },
+  {
+    "bandName": "Motowoft (โมโตวอฟท์)"
+  },
+  {
+    "bandName": "Gliwe (กลิว)"
+  },
+  {
+    "bandName": "VVIP (วีไอพี)"
+  },
+  {
+    "bandName": "LAZER (เลเซอร์)"
+  },
+  {
+    "bandName": "JA Auto (เจเอ ออโต้)"
+  },
+  {
+    "bandName": "Badass (แบ็ดแอส)"
+  },
+  {
+    "bandName": "X-Bar Klong 2 (เอ็กซ์บาร์ คลอง 2)"
+  },
+  {
+    "bandName": "Lazer Helmet (เลเซอร์ เฮลเม็ท)"
+  },
+  {
+    "bandName": "Ultra (อัลตร้า)"
+  },
+  {
+    "bandName": "Landmart (แลนด์มาร์ท)"
+  },
+  {
+    "bandName": "Auto Friend (ออโต้เฟรนด์)"
+  },
+  {
+    "bandName": "Wax Wow (แว็กซ์ว้าว)"
+  },
+  {
+    "bandName": "Oran Racing (ออแรน เรซซิ่ง)"
+  },
+  {
+    "bandName": "NTN (เอ็นทีเอ็น)"
+  },
+  {
+    "bandName": "No Body (โนบอดี้)"
+  },
+  {
+    "bandName": "Kubota (คูโบต้า)"
+  },
+  {
+    "bandName": "Kingtools (คิงทูลส์)"
+  },
+  {
+    "bandName": "Masaki (มาซากิ)"
+  },
+  {
+    "bandName": "Immobilizers (อิมโมบิไลเซอร์)"
+  },
+  {
+    "bandName": "สราวุธ แคมซิ่ง"
+  },
+  {
+    "bandName": "Happy In Car (แฮปปี้อินคาร์)"
+  },
+  {
+    "bandName": "Pheangjai Thai Spa (เพียงใจไทยสปา)"
+  },
+  {
+    "bandName": "NSK (เอ็นเอสเค)"
+  },
+  {
+    "bandName": "Bearcutsticker (หมีตัดสติกเกอร์)"
+  },
+  {
+    "bandName": "ADR (เอดีอาร์)"
+  },
+  {
+    "bandName": "Space Auto (สเปซออโต้)"
+  },
+  {
+    "bandName": "Shiliduo (ชิลลิดูโอ)"
+  },
+  {
+    "bandName": "Headbutt​ Helmet (เฮดบัตต์ เฮลเมท)"
+  },
+  {
+    "bandName": "Dragon (ดราก้อน)"
+  },
+  {
+    "bandName": "Play Sai5 Racing (เพลย์ สาย5 เรสซิ่ง)"
+  },
+  {
+    "bandName": "Sport R (สปอร์ต อาร์)"
+  },
+  {
+    "bandName": "Wells Lamont (เวล ลาเม้าท์)"
+  },
+  {
+    "bandName": "GMB (จีเอ็มบี)"
+  },
+  {
+    "bandName": "Tuffmate (ทัฟฟ์เมท)"
+  },
+  {
+    "bandName": "TCR (ทีซีอาร์)"
+  },
+  {
+    "bandName": "SC Racing Style (เอสอาร์เรซซิ่งสไตล์)"
+  },
+  {
+    "bandName": "Vox (ว๊อก)"
+  },
+  {
+    "bandName": "Genuine (เจนนูเอิน)"
+  },
+  {
+    "bandName": "Monotex (โมโนเทค)"
+  },
+  {
+    "bandName": "HD Playground (เอชดี เพลย์กราวด์)"
+  },
+  {
+    "bandName": "Misaka (มิซากะ)"
+  },
+  {
+    "bandName": "SK Accessories (เอสเคแอสเซสโซรี่)"
+  },
+  {
+    "bandName": "Branta (เบรนต้า)"
+  },
+  {
+    "bandName": "Meguiar's (แมกไกวส์)"
+  },
+  {
+    "bandName": "Rain X (เรน เอ็กซ์)"
+  },
+  {
+    "bandName": "ASMN (เอเอสเอ็มเอ็น)"
+  },
+  {
+    "bandName": "One Master (วันมาสเตอร์)"
+  },
+  {
+    "bandName": "Asuka (อาซูกะ)"
+  },
+  {
+    "bandName": "สว"
+  },
+  {
+    "bandName": "Militec-1 (มิลิเทค1)"
+  },
+  {
+    "bandName": "Uni (ยูนิ)"
+  },
+  {
+    "bandName": "SBS (เอสบีเอส)"
+  },
+  {
+    "bandName": "Wolfgang (วูฟแก้งค์)"
+  },
+  {
+    "bandName": "Toshiba (โตชิบา)"
+  },
+  {
+    "bandName": "SSS (เอสเอสเอส)"
+  },
+  {
+    "bandName": "Lingpi (ลิงบี้)"
+  },
+  {
+    "bandName": "TTK (ทีทีเค)"
+  },
+  {
+    "bandName": "Golden Eye (โกลเด้นอาย)"
+  },
+  {
+    "bandName": "Happy Cheeks (แฮปปี้ชีคส์)"
+  },
+  {
+    "bandName": "impac tec (อิมแพ็ค เท็ก)"
+  },
+  {
+    "bandName": "Khodlang (โคตรแรง)"
+  },
+  {
+    "bandName": "D-Honor (ดีโฮเนอร์)"
+  },
+  {
+    "bandName": "Rik (ริค)"
+  },
+  {
+    "bandName": "Fakie & Genma (ฟาเกีย แอนด์ แกนม่า)"
+  },
+  {
+    "bandName": "Kou Mahachai (กู่ มหาชัย)"
+  },
+  {
+    "bandName": "GMS (จีเอ็มเอส)"
+  },
+  {
+    "bandName": "Loctite  (ล็อคไทท์)"
+  },
+  {
+    "bandName": "Basico (บาซิโอ้)"
+  },
+  {
+    "bandName": "Aeroklas (แอร์โรคลาส)"
+  },
+  {
+    "bandName": "ARB (เออาร์บี)"
+  },
+  {
+    "bandName": "Jowsua (เจ้าสัว)"
+  },
+  {
+    "bandName": "Banwinoto (บันวิโนโต)"
+  },
+  {
+    "bandName": "Craft Square (คราฟท์สแควร์)"
+  },
+  {
+    "bandName": "Ant Lion (แอนท์ ไลอ้อน)"
+  },
+  {
+    "bandName": "FBJ (เอฟบีเจ)"
+  },
+  {
+    "bandName": "Brammo (แบรมโม)"
+  },
+  {
+    "bandName": "ULTRACORE (อัลตร้าคอร์)"
+  },
+  {
+    "bandName": "Pro Biker (โปรไบเกอร์)"
+  },
+  {
+    "bandName": "Balance​ Arm (บาลานซ์อาร์ม)"
+  },
+  {
+    "bandName": "BMC Air Filter (บีเอ็มซี แอร์ ฟิลเตอร์)"
+  },
+  {
+    "bandName": "akie & Genma (ฟาเกีย&เก็นม่า)"
+  },
+  {
+    "bandName": "Window (วินโดว์)"
+  },
+  {
+    "bandName": "Soudwave (ซาวด์เวฟ)"
+  },
+  {
+    "bandName": "Nofear (โนเฟียร์)"
+  },
+  {
+    "bandName": "Race Track (เรสแทร็ค)"
+  },
+  {
+    "bandName": "Yunming (ยุนหมิง)"
+  },
+  {
+    "bandName": "Boneka (โบนีก้า)"
+  },
+  {
+    "bandName": "Hic (ฮิค)"
+  },
+  {
+    "bandName": "Philips (ฟิลลิป)"
+  },
+  {
+    "bandName": "JDR (เจดีอาร์)"
+  },
+  {
+    "bandName": "CHAOYANG (เชายัง)"
+  },
+  {
+    "bandName": "Imuki Auto Boutique (ไอมูกิ ออโต้บูติก)"
+  },
+  {
+    "bandName": "Bee Racing By Boy ECU (บีเรซซิ่ง บายบอย อีซียู)"
+  },
+  {
+    "bandName": "Skud audio  (สกัด อดิโอ)"
+  },
+  {
+    "bandName": "Skudaudio (เอสเคยูดีออดิโอ)"
+  },
+  {
+    "bandName": "Power bronze  (เพาเวอร์ บรอนซ์)"
+  },
+  {
+    "bandName": "Bamboo (แบมบู)"
+  },
+  {
+    "bandName": "TonYon (ต่อนยอน)"
+  },
+  {
+    "bandName": "Febi Bilstein (เฟบิ บิลสเตน)"
+  },
+  {
+    "bandName": "Working Wicking (เวิร์คกิ้งวิคกิ้ง)"
+  },
+  {
+    "bandName": "๋Jomthai (จอมไทย)"
+  },
+  {
+    "bandName": "Angle Blue (แองเจิล บลู)"
+  },
+  {
+    "bandName": "Bow (โบว์)"
+  },
+  {
+    "bandName": "Atom-P1 (อะตอมพีวัน)"
+  },
+  {
+    "bandName": "Speed Oil (สปีดออยล์)"
+  },
+  {
+    "bandName": "Uncle Ice Sticker (อังเคิล ไอซ์ สติ๊กเกอร์)"
+  },
+  {
+    "bandName": "Rat Off (แรทออฟ)"
+  },
+  {
+    "bandName": "anitech (แอนนิเทค)"
+  },
+  {
+    "bandName": "Jet (เจ็ต)"
+  },
+  {
+    "bandName": "G FORCE (จีฟอร์ช)"
+  },
+  {
+    "bandName": "K-Tuned (เค-จูนเนด)"
+  },
+  {
+    "bandName": "Focus (โฟกัส)"
+  },
+  {
+    "bandName": "Musashi (มูซาชิ)"
+  },
+  {
+    "bandName": "Stream Light (สตรีมไลท์)"
+  },
+  {
+    "bandName": "Morny Star (มอร์นี่สตาร์)"
+  },
+  {
+    "bandName": "Hook Lock (ฮุคล็อค)"
+  },
+  {
+    "bandName": "Kinetik (ไคน์ติค)"
+  },
+  {
+    "bandName": "Joway (โจเวย์)"
+  },
+  {
+    "bandName": "Reach (รีช)"
+  },
+  {
+    "bandName": "Oriental (ออร์เรียนทอล)"
+  },
+  {
+    "bandName": "Mornystar​ (มอร์มี่สตาร์)"
+  },
+  {
+    "bandName": "Hola (โฮร่า)"
+  },
+  {
+    "bandName": "Mcumax (เอ็มซียูแม็กซ์)"
+  },
+  {
+    "bandName": "ST Sticker (เอสทีสติกเกอร์)"
+  },
+  {
+    "bandName": "Haiyang (ไฮยัง)"
+  },
+  {
+    "bandName": "Rhinogear (ไรโนเกียร์)"
+  },
+  {
+    "bandName": "Foguz (โฟกัซ)"
+  },
+  {
+    "bandName": "GZDL (จีแซดดีแอล)"
+  },
+  {
+    "bandName": "First Auto Car (เฟิร์ส ออโต้คาร์)"
+  },
+  {
+    "bandName": "YSS Thailand (วายเอสเอส ไทยแลนด์)"
+  },
+  {
+    "bandName": "GANGTER (แก๊งเตอร์)"
+  },
+  {
+    "bandName": "Piranha (ปิรันย่า)"
+  },
+  {
+    "bandName": "King of Drag (คิงออฟแดร็ก)"
+  },
+  {
+    "bandName": "Joe Rocket (โจ ร็อคเก็ต)"
+  },
+  {
+    "bandName": "autoclover (ออโต้โคลเวอร์)"
+  },
+  {
+    "bandName": "Drop Stop (ดรอป สต๊อบ)"
+  },
+  {
+    "bandName": "SCENE (ซีน)"
+  },
+  {
+    "bandName": "Yellow corn (เยลโล่คอร์น)"
+  },
+  {
+    "bandName": "Audiomax (ออดิโอแม็กซ์)"
+  },
+  {
+    "bandName": "H Drive (เอชไดร์ฟ)"
+  },
+  {
+    "bandName": "Sonax (โซแน็กซ์)"
+  },
+  {
+    "bandName": "Wax One (แว็กซ์วัน)"
+  },
+  {
+    "bandName": "Infinit (อินฟินิท)"
+  },
+  {
+    "bandName": "Blitz (บลิทซ์)"
+  },
+  {
+    "bandName": "Max Carbon (แม็กซ์ คาร์บอน)"
+  },
+  {
+    "bandName": "Kumall (คูมอลล์)"
+  },
+  {
+    "bandName": "Peugeot (เปอโยต์)"
+  },
+  {
+    "bandName": "Buick (บิวอิคก์)"
+  },
+  {
+    "bandName": "น้าคมน๊อตซิ่ง"
+  },
+  {
+    "bandName": "JM (เจเอ็ม)"
+  },
+  {
+    "bandName": "Acerbis (อเซอร์บิส)"
+  },
+  {
+    "bandName": "Jaguar (จากัวร์)"
+  },
+  {
+    "bandName": "Cadillac (คาดิลแลค)"
+  },
+  {
+    "bandName": "Lincoln (ลินคอล์น)"
+  },
+  {
+    "bandName": "Maserati (มาเซราตี)"
+  },
+  {
+    "bandName": "Land Rover (แลนด์โรเวอร์)"
+  },
+  {
+    "bandName": "Kingneed (คิงนีด)"
+  },
+  {
+    "bandName": "Zanheadgear (แซนเฮดเกียร์)"
+  },
+  {
+    "bandName": "ช่างนัท KRP"
+  },
+  {
+    "bandName": "Lenyes (เลนเยส)"
+  },
+  {
+    "bandName": "Ath Racing (เอทีเอชเรซซิ่ง)"
+  },
+  {
+    "bandName": "Speed and Strength (สปีดแอนด์สเตรนท์)"
+  },
+  {
+    "bandName": "Auto Tools (เอจีซีออโต้ทูล)"
+  },
+  {
+    "bandName": "EA ONLINE (อีเอออนไลน์)"
+  },
+  {
+    "bandName": "Winner Car Seat (วินเนอร์ คาร์ ซีท)"
+  },
+  {
+    "bandName": "ท่อสูตร อ้วนออเงิน"
+  },
+  {
+    "bandName": "D.I.D. (ดีไอดี)"
+  },
+  {
+    "bandName": "Veta (วีต้า)"
+  },
+  {
+    "bandName": "Penguin Racing (เพนกวินเรชซิ่ง)"
+  },
+  {
+    "bandName": "Kw Shop (เคดับเบิลยูช็อป)"
+  },
+  {
+    "bandName": "ABT (เอบีที)"
+  },
+  {
+    "bandName": "Sun'Soil (ซันซอยล์)"
+  },
+  {
+    "bandName": "Waxy (แว็กซี่)"
+  },
+  {
+    "bandName": "SMART CAM (สมาร์ทแคม)"
+  },
+  {
+    "bandName": "Huanqiu Thailand (ฮวนควินไทยแลนด์)"
+  },
+  {
+    "bandName": "Vance & Hines (แวนซ์แอนด์ฮายน์ส)"
+  },
+  {
+    "bandName": "FEAW (เฟี้ยว)"
+  },
+  {
+    "bandName": "Sc Siam (เอสซีสยาม)"
+  },
+  {
+    "bandName": "N.E.T. Bearing (เอ็นอีที แบริ่ง)"
+  },
+  {
+    "bandName": "Northwell (นอร์ธเวล)"
+  },
+  {
+    "bandName": "Airtech (แอร์เทค)"
+  },
+  {
+    "bandName": "Blaupunkt (บลาวพุ้งค์)"
+  },
+  {
+    "bandName": "ELEPHANT (อีเลแฟลน)"
+  },
+  {
+    "bandName": "Maru's ​Factory (มารุ แฟคทอรี๋)"
+  },
+  {
+    "bandName": "Setpha (เซตฟา)"
+  },
+  {
+    "bandName": "The Little Dog  (เดอะลิตเติ้ลด็อก)"
+  },
+  {
+    "bandName": "Istartek (ไอสตาร์เทค)"
+  },
+  {
+    "bandName": "Motoboy (โมโตบอย)"
+  },
+  {
+    "bandName": "Infiniti (อินฟินิที)"
+  },
+  {
+    "bandName": "Acdison (แอคดิสัน)"
+  },
+  {
+    "bandName": "OD (โอดี)"
+  },
+  {
+    "bandName": "Landrover (แลนด์โรเวอร์)"
+  },
+  {
+    "bandName": "Delonghi (ดีลองกี้)"
+  },
+  {
+    "bandName": "P Electronic (พี อิเล็กทรอนิกส์)"
+  },
+  {
+    "bandName": "Tune Boss (ทูนบอส)"
+  },
+  {
+    "bandName": "SSCUS Thailand (เอสเอสคัส ไทยแลนด์)"
+  },
+  {
+    "bandName": "Master​ Lock (มาสเตอร์ล็อค)"
+  },
+  {
+    "bandName": "Haihan (ไฮฮาน)"
+  },
+  {
+    "bandName": "Argon (อาก้อน)"
+  },
+  {
+    "bandName": "Eton (อีตัน)"
+  },
+  {
+    "bandName": "O'Neal (โอนีล)"
+  },
+  {
+    "bandName": "Maengshoprb (เหม่งช็อปอาร์บี)"
+  },
+  {
+    "bandName": "Ton Sticker (ต้น  สติ๊กเกอร์)"
+  },
+  {
+    "bandName": "Besta (เบสต้า)"
+  },
+  {
+    "bandName": "โอราชบุรี"
+  },
+  {
+    "bandName": "Jam 72 Japan (แจม72เจแปน)"
+  },
+  {
+    "bandName": "Hong Hom (ห้องหอม)"
+  },
+  {
+    "bandName": "SK Zic (เอสเค ซิค)"
+  },
+  {
+    "bandName": "Spear (สเปียร์)"
+  },
+  {
+    "bandName": "Okura (โอกุระ)"
+  },
+  {
+    "bandName": "TTautospeed (ทีทีออโต้สปีด)"
+  },
+  {
+    "bandName": "Hypersonic (ไฮเปอร์โซนิก)"
+  },
+  {
+    "bandName": "OMB (โอเอ็มบี)"
+  },
+  {
+    "bandName": "Ram Mounts (แรมเมาท์)"
+  },
+  {
+    "bandName": "Thunder (ธันเดอร์)"
+  },
+  {
+    "bandName": "In The Car (อินเดอะ คาร์)"
+  },
+  {
+    "bandName": "Mong Car (มองคาร์)"
+  },
+  {
+    "bandName": "J Speed (เจสปีด)"
+  },
+  {
+    "bandName": "ปูลมท่อไอเสีย"
+  },
+  {
+    "bandName": "Carryboy (แครี่บอย)"
+  },
+  {
+    "bandName": "Back Liners By Ei (แบ็คไลเนอร์ บาย ไอ)"
+  },
+  {
+    "bandName": "Axon (เอซอน)"
+  },
+  {
+    "bandName": "Coolife (คูลไลฟ์)"
+  },
+  {
+    "bandName": "Mb Autopart (เอ็มบีออโต้พาร์ท)"
+  },
+  {
+    "bandName": "KK Motors (เคเค มอเตอร์)"
+  },
+  {
+    "bandName": "AV Speed Motor (เอวี สปีด มอเตอร์)"
+  },
+  {
+    "bandName": "Heritage (เฮอริเทจ)"
+  },
+  {
+    "bandName": "Emblaze (เอมเบลซ)"
+  },
+  {
+    "bandName": "Poly-Brite (โพลี-ไบรท์)"
+  },
+  {
+    "bandName": "Krane (เครน)"
+  },
+  {
+    "bandName": "ปูลมท่อไอเสึย"
+  },
+  {
+    "bandName": "TKS (ทีเคเอส)"
+  },
+  {
+    "bandName": "เลย์แลนด์"
+  },
+  {
+    "bandName": "D TECH (ดีเท็กซ์)"
+  },
+  {
+    "bandName": "Ozone (โอโซน)​"
+  },
+  {
+    "bandName": "Tt Auto Speed Thailand (ทีทีออโต้สปีดไทยแลนด์)"
+  },
+  {
+    "bandName": "Clausius (เคลาซีอุส)"
+  },
+  {
+    "bandName": "อาร์ทอะไหล่ซิ่งคลองสาม"
+  },
+  {
+    "bandName": "Topbooster (ท็อปบูสเตอร์)"
+  },
+  {
+    "bandName": "็Huatai (ฮัวไต๋)"
+  },
+  {
+    "bandName": "Thai Kansai Paint (ไทยกันไซเพ้นท์)"
+  },
+  {
+    "bandName": "Keihin (เคฮิน)"
+  },
+  {
+    "bandName": "Kobe (โกเบ)"
+  },
+  {
+    "bandName": "Sps Rasing (เอสพีเอสไรซิ่ง)"
+  },
+  {
+    "bandName": "TDR (ทีดีอาร์)"
+  },
+  {
+    "bandName": "Samco Sport (แซมโก้สปอร์ต)"
+  },
+  {
+    "bandName": "Star Way (สตาร์ วอร์ส)"
+  },
+  {
+    "bandName": "Moshi Moshi (โมชิ โมชิ)"
+  },
+  {
+    "bandName": "Stabilus (สตาบิลัส)"
+  },
+  {
+    "bandName": "Lamborghini (ลัมโบร์กีนี)"
+  },
+  {
+    "bandName": "Realtech System (เรียลเทค ซิสเตอร์)"
+  },
+  {
+    "bandName": "Silver Neo Max One (ซิลเวอร์ นีโอ แม็ก วัน)"
+  },
+  {
+    "bandName": "Apps2car (แอปส์ทูคาร์)"
+  },
+  {
+    "bandName": "Iroad (ไอโร้ด)"
+  },
+  {
+    "bandName": "Kumaridelam (พี่หมีขี่แลม)"
+  },
+  {
+    "bandName": "เอ เอ็ม อาร์ อินดัสตรี้"
+  },
+  {
+    "bandName": "Works Engineering (เวิร์ค เอ็นจิเนียริ่ง)"
+  },
+  {
+    "bandName": "ออโต้เอ็นจิ้น"
+  },
+  {
+    "bandName": "JBS (เจบีเอส)"
+  },
+  {
+    "bandName": "Baimer (ไบเมอร์)"
+  },
+  {
+    "bandName": "Otto (ออตโต้)"
+  },
+  {
+    "bandName": "Queen's Solution (ควีนส์โซลูชั่น)"
+  },
+  {
+    "bandName": "Racing Boy (เรซซิ่งบอย)"
+  },
+  {
+    "bandName": "Zeco (ซีโก้)"
+  },
+  {
+    "bandName": "Dudeeshop (ดูดีช็อป)"
+  },
+  {
+    "bandName": "Rottae (ล๊อตเต้)"
+  },
+  {
+    "bandName": "Unitbomb (ยูนิตบอมบ์)"
+  },
+  {
+    "bandName": "D1 Sport (ดีวัน สปอร์ต)"
+  },
+  {
+    "bandName": "Arm Carbon (อาร์ม คาร์บอน)"
+  },
+  {
+    "bandName": "Audio Work (ออดิโอ วอร์ค)"
+  },
+  {
+    "bandName": "MPH (เอ็มพีเอช)"
+  },
+  {
+    "bandName": "By ช่างต่อ"
+  },
+  {
+    "bandName": "R Easy (อาร์ อีซี่)"
+  },
+  {
+    "bandName": "Morestech (มอซเตก)"
+  },
+  {
+    "bandName": "PD Power Drive (พีดี เพาเวอร์ ไดรฟ์)"
+  },
+  {
+    "bandName": "Napoleon (นาโพลีออน)"
+  },
+  {
+    "bandName": "Armadillo (อาร์มันดิโอ้)"
+  },
+  {
+    "bandName": "Gu Shop​ Mini​ Bike (กุ ช็อป มินิ ไบค์)​"
+  },
+  {
+    "bandName": "JRD (เจอาร์ดี)"
+  },
+  {
+    "bandName": "Senk Shop (เซ้ง ช็อป)"
+  },
+  {
+    "bandName": "Emkarate (เอมคาเรท)"
+  },
+  {
+    "bandName": "Getihu (จีทิฮู)"
+  },
+  {
+    "bandName": "Eagle Eye (อีเกิ้ลอาย)"
+  },
+  {
+    "bandName": "MA (เอ็มเอ)"
+  },
+  {
+    "bandName": "Senk Shop (เซนค์ช็อป)"
+  },
+  {
+    "bandName": "Ekoyyy Moto Parts (อีก๋อยโมโตพาร์ท)"
+  },
+  {
+    "bandName": "Eachpai (อีชไพ)"
+  },
+  {
+    "bandName": "Moto Cove (โมโตโคฟ)"
+  },
+  {
+    "bandName": "Hi Maxx (ไฮแม็ก)"
+  },
+  {
+    "bandName": "Oracal (โอราคอล)"
+  },
+  {
+    "bandName": "Zovii (โซวี่)"
+  },
+  {
+    "bandName": "Gpne Thailand (จีพีเอ็นอีไทยแลนด์)"
+  },
+  {
+    "bandName": "Riding Tribe (ไรดิ้งไทร์บ)"
+  },
+  {
+    "bandName": "Diamond Seat (เบาะตราเพชร)"
+  },
+  {
+    "bandName": "RYNO (ไรโน่)"
+  },
+  {
+    "bandName": "SHARKY (ฉลาม)"
+  },
+  {
+    "bandName": "T Rex (ทีเร็กซ์)"
+  },
+  {
+    "bandName": "Soft99 (ซอฟท์99)"
+  },
+  {
+    "bandName": "TK Star (ทีเค สตาร์)"
+  },
+  {
+    "bandName": "Tech Radar (เทค เรดาร์)"
+  },
+  {
+    "bandName": "Alicar​ (อาลิคาร์)"
+  },
+  {
+    "bandName": "Matris (มาทริส)"
+  },
+  {
+    "bandName": "Midland (มิดแลนด์)"
+  },
+  {
+    "bandName": "Bigspray (บิ๊กสเปรย์)"
+  },
+  {
+    "bandName": "Mr.Balon (มิสเตอร์บาลอน)"
+  },
+  {
+    "bandName": "Azdome (แอซโดม)"
+  },
+  {
+    "bandName": "MONTA (มนต์ตรา)"
+  },
+  {
+    "bandName": "Techart (ทีชาร์ท)"
+  },
+  {
+    "bandName": "WORKFORCE (วอคฟอร์ซ)"
+  },
+  {
+    "bandName": "Bridgestone (บริดจสโตน)"
+  },
+  {
+    "bandName": "KYB Wear (เควายบี แวร์)"
+  },
+  {
+    "bandName": "NSC (เอ็นเอสซี)"
+  },
+  {
+    "bandName": "Clarion (แคเลียน)"
+  },
+  {
+    "bandName": "ANG.product (เอเอ็นเจโปรดักท์)"
+  },
+  {
+    "bandName": "Pipe Kids (ไพพ์ คิดส์)"
+  },
+  {
+    "bandName": "Vortex  (วอร์เท็กซ์)"
+  },
+  {
+    "bandName": "K-Flo (เคฟอ)"
+  },
+  {
+    "bandName": "Gulf (กัลฟ์)"
+  },
+  {
+    "bandName": "Blue Wave (บลูเวฟ)"
+  },
+  {
+    "bandName": "S Tech (เอสเทค)"
+  },
+  {
+    "bandName": "Sportcarracter (สปอร์ตคาร์แร็คเตอร์)"
+  },
+  {
+    "bandName": "90 Sticker Shop (90สติกเกอร์ช็อป)"
+  },
+  {
+    "bandName": "Vland (วีแลนด์)"
+  },
+  {
+    "bandName": "Sps Racing (เอสพีเอสเรซซิ่ง)"
+  },
+  {
+    "bandName": "Samspeed (แซมสปีด)"
+  },
+  {
+    "bandName": "Blackvue (แบล็ควิว)"
+  },
+  {
+    "bandName": "Halley (ฮอลเลย์)"
+  },
+  {
+    "bandName": "MP racing (เอ็มพี เรซซิ่ง)"
+  },
+  {
+    "bandName": "Ceflar (ซีเฟียร์)"
+  },
+  {
+    "bandName": "Imuki (ไอมูกิ)"
+  },
+  {
+    "bandName": "GrabTH (แกร็บทีเอช)"
+  },
+  {
+    "bandName": "Rex Denki (เร็กซ์เดนกิ)"
+  },
+  {
+    "bandName": "Gps Lion1 (จีพีเอสไลอ้อนวัน)"
+  },
+  {
+    "bandName": "Qstarz (คิวสตาร์ซ)"
+  },
+  {
+    "bandName": "VStarcam (วีสตาร์แคม)"
+  },
+  {
+    "bandName": "Fakie (ฟาเกีย)"
+  },
+  {
+    "bandName": "Royaltyth (รอยัลตี้)"
+  },
+  {
+    "bandName": "TWZ (ทีดีบลิวแซด)"
+  },
+  {
+    "bandName": "DW (ดีดับบลิว)"
+  },
+  {
+    "bandName": "NOS (นอส)"
+  },
+  {
+    "bandName": "Proof (พรูฟ)"
+  },
+  {
+    "bandName": "V Kool (วีคูล)"
+  },
+  {
+    "bandName": "GF (จีเอฟ)"
+  },
+  {
+    "bandName": "7 Lubricants (7 ลูบริแคนท์)"
+  },
+  {
+    "bandName": "Thinkware (ติงค์แวร์)"
+  },
+  {
+    "bandName": "Dee Cars (ดีคาร์)"
+  },
+  {
+    "bandName": "555 Yanyon (555 ยานยนต์)"
+  },
+  {
+    "bandName": "Varp (วาร์ป)"
+  },
+  {
+    "bandName": "Lovestruck (เลิฟสตรัค)"
+  },
+  {
+    "bandName": "KR Auto Sport (เคอาร์ออโตสปอร์ต)"
+  },
+  {
+    "bandName": "Associated (แอสโซเซีย)"
+  },
+  {
+    "bandName": "KR Auto Sport (เคอาร์ ออโต้ สปอร์ต)"
+  },
+  {
+    "bandName": "Benz Nanotech (เบนซ์นาโนเทค)"
+  },
+  {
+    "bandName": "FNS (เอฟเอ็นเอส)"
+  },
+  {
+    "bandName": "Power Clean (เพาเวอร์คลีน)"
+  },
+  {
+    "bandName": "Carpro (คาร์โปร)"
+  },
+  {
+    "bandName": "Locktech (ล็อคเทค)"
+  },
+  {
+    "bandName": "Mini A8 (มินิเอ8)"
+  },
+  {
+    "bandName": "Wizard (วิซาร์ด)"
+  },
+  {
+    "bandName": "Asaki (อาซากิ)"
+  },
+  {
+    "bandName": "Arca (ออร์ก้า)"
+  },
+  {
+    "bandName": "Oldman​ (โอลด์แมน)"
+  },
+  {
+    "bandName": "Format (ฟอร์แมต)"
+  },
+  {
+    "bandName": "PT (พีที)"
+  },
+  {
+    "bandName": "Vistic (วิสติค)"
+  },
+  {
+    "bandName": "hma auto partHMA (เอชเอ็มเอ)"
+  },
+  {
+    "bandName": "MR Horn (มิสเตอร์ฮอร์น)"
+  },
+  {
+    "bandName": "Extramat (เอ็กซ์ตร้าแมท)"
+  },
+  {
+    "bandName": "PCY Auto Parts (พีซีวาย ออโต้ พาร์ท)"
+  },
+  {
+    "bandName": "PCY (พีซีวาย)"
+  },
+  {
+    "bandName": "Mc Pp (เอ็มซีพีพี)"
+  },
+  {
+    "bandName": "Realhornetvirago (ฮอร์เน็ตวีราโก้)"
+  },
+  {
+    "bandName": "D-kevlar (ดีเคฟล่า)"
+  },
+  {
+    "bandName": "Radar Khonthai (เรดาร์ คนไทย)"
+  },
+  {
+    "bandName": "Revolution (รีโวลูชั่น)"
+  },
+  {
+    "bandName": "มีนอะไหล่แต่ง"
+  },
+  {
+    "bandName": "Hasda (ฮัสด้า)"
+  },
+  {
+    "bandName": "Bestsafe (เบสท์เซฟ)"
+  },
+  {
+    "bandName": "AE Racing Shop (เออี เรซซิ่ง ช็อป)"
+  },
+  {
+    "bandName": "Benkai (เบนเกีย)"
+  },
+  {
+    "bandName": "Sen Power (เซนพาวเดอร์)"
+  },
+  {
+    "bandName": "Autel (ออเทล)"
+  },
+  {
+    "bandName": "Zhenou (ซีนู)"
+  },
+  {
+    "bandName": "x tech  (เอ็กซ เทค)"
+  },
+  {
+    "bandName": "Tony Wrap A Car (โทนี่ แรพ อะ คาร์)"
+  },
+  {
+    "bandName": "HPCORSE (เอชพี  คอร์เซ)"
+  },
+  {
+    "bandName": "M Audio (เอ็ม ออดิโอ้)"
+  },
+  {
+    "bandName": "Ba Racing (บา เรซซิ่ง)"
+  },
+  {
+    "bandName": "DKT (ดีเคที)"
+  },
+  {
+    "bandName": "Federal (เฟเดรัล)"
+  },
+  {
+    "bandName": "Sbuydee Shopping (สบายดี ช็อปปิ้ง)"
+  },
+  {
+    "bandName": "Yakx Helmet (ยักษ์ เฮลเมต)"
+  },
+  {
+    "bandName": "B M (บีเอ็ม)"
+  },
+  {
+    "bandName": "Bikers (ไบเกอร์)"
+  },
+  {
+    "bandName": "Super (ซุปเปอร์)"
+  },
+  {
+    "bandName": "Clair (แคลร์)"
+  },
+  {
+    "bandName": "Mr Diy (มิสเตอร์ดีไอวาย)"
+  },
+  {
+    "bandName": "Pirelli (ไพเรลลี)"
+  },
+  {
+    "bandName": "IQAir (ไอคิวแอร์)"
+  },
+  {
+    "bandName": "Kuruma (คูลูม่าร์)"
+  },
+  {
+    "bandName": "Maka (มาก้า)"
+  },
+  {
+    "bandName": "EKCAM"
+  },
+  {
+    "bandName": "TPA (ทีพีเอ)"
+  },
+  {
+    "bandName": "Preston (เพรสตัน)"
+  },
+  {
+    "bandName": "Chemical Guys (เคมิคอล กัสส์)"
+  },
+  {
+    "bandName": "Amiton (อมิตัน)"
+  },
+  {
+    "bandName": "Nanban Racing (น้ำบาน เรซซิ่ง)"
+  },
+  {
+    "bandName": "R Max G (อาร์แม็กซ์จี)"
+  },
+  {
+    "bandName": "Rider (ไรเดอร์)"
+  },
+  {
+    "bandName": "Hasda (แฮสดา)"
+  },
+  {
+    "bandName": "Yamoto (ยามาโตะ)"
+  },
+  {
+    "bandName": "Nu Finish (นูฟินิช)"
+  },
+  {
+    "bandName": "Maxliner (แมกซ์ลายเนอร์)"
+  },
+  {
+    "bandName": "S Buy Dee (สบายดี)"
+  },
+  {
+    "bandName": "TianC (เทียนซี)"
+  },
+  {
+    "bandName": "Litetec (ไลท์เทค)"
+  },
+  {
+    "bandName": "G Max (จีแม็ก)"
+  },
+  {
+    "bandName": "Polyshield Diy (โพลีชิลด์ดีไอวาย)"
+  },
+  {
+    "bandName": "Dinco (ดิงโก้)"
+  },
+  {
+    "bandName": "Factory 22 (แฟคทอรี่ 22)"
+  },
+  {
+    "bandName": "Dickies (ดิกกี้)"
+  },
+  {
+    "bandName": "Sunwax"
+  },
+  {
+    "bandName": "Somjin (สมจินต์)"
+  },
+  {
+    "bandName": "Fire Man (ไฟร์แมน)"
+  },
+  {
+    "bandName": "K-Lion (เคไลออน)"
+  },
+  {
+    "bandName": "Unicity (ยูนิซิตี้)"
+  },
+  {
+    "bandName": "Biker Friends (ไบเกอร์ เฟรนด์)"
+  },
+  {
+    "bandName": "NK Racing (เอ็นเค เรซซิ่ง)"
+  },
+  {
+    "bandName": "KDR Racing (เคดีอาร์ เรซซิ่ง)"
+  },
+  {
+    "bandName": "Overmatch (โอเวอร์แมทช์)"
+  },
+  {
+    "bandName": "Modeka (โมเดก้า)"
+  },
+  {
+    "bandName": "Infone (อินโฟน)"
+  },
+  {
+    "bandName": "Giahol (เจียฮอล)"
+  },
+  {
+    "bandName": "Cs Series (ซีเอสซีรีย์)"
+  },
+  {
+    "bandName": "Meguiar's (เมกไกวส์)"
+  },
+  {
+    "bandName": "ส.ONE"
+  },
+  {
+    "bandName": "ZuIex (ซูเล็กซ์)"
+  },
+  {
+    "bandName": "Yamoto (ไทยยามาโตะ)"
+  },
+  {
+    "bandName": "Motive (โมทีฟ)"
+  },
+  {
+    "bandName": "TVB (ทีวีบี)"
+  },
+  {
+    "bandName": "NB Shop (เอ็นบีช็อป)"
+  },
+  {
+    "bandName": "Goal Wax (โกลแว็กซ์)"
+  },
+  {
+    "bandName": "โอ๊ตอู่ช่างขวัญ"
+  },
+  {
+    "bandName": "Tong Racing Cam (โต้งแคมซิ่ง)"
+  },
+  {
+    "bandName": "Aura Auto (ออร่า ออโต้)"
+  },
+  {
+    "bandName": "Khunsuni (คุณสุนิ)"
+  },
+  {
+    "bandName": "M One (เอ็มวัน)"
+  },
+  {
+    "bandName": "Grand Thai Rider (แกรนด์ไทยไรเดอร์)"
+  },
+  {
+    "bandName": "Gerson Pneus (เกอร์สัน พีเนาส์)"
+  },
+  {
+    "bandName": "NCA (เอ็นซีเอ)"
+  },
+  {
+    "bandName": "Amshine (แอมชายร์)"
+  },
+  {
+    "bandName": "Tao Shop (เต่า ช็อป)"
+  },
+  {
+    "bandName": "Speed Mate (สปีดเมท)"
+  },
+  {
+    "bandName": "Oslong (ออสลอง)"
+  },
+  {
+    "bandName": "Comstar (คอมสตาร์)"
+  },
+  {
+    "bandName": "Worksafe (เวิร์คเซฟ)"
+  },
+  {
+    "bandName": "Fuse Helmet (ฟิวส์ เฮลแม็ท)"
+  },
+  {
+    "bandName": "Hit Air (ฮิทแอร์)"
+  },
+  {
+    "bandName": "Mirka (เมอก้า)"
+  },
+  {
+    "bandName": "BBP (บีบีพี)"
+  },
+  {
+    "bandName": "Navigator (เนวิเกเตอร์)"
+  },
+  {
+    "bandName": "Groz (กรอซ)"
+  },
+  {
+    "bandName": "Hammer (ฮัมเมอร์)"
+  },
+  {
+    "bandName": "Thai Fast Racing (ไทยฟาสท์เรซซิ่ง)"
+  },
+  {
+    "bandName": "Heonyirry (ฮีออนยีรี่)"
+  },
+  {
+    "bandName": "Nitrinos (ไนทรีโนส)"
+  },
+  {
+    "bandName": "H2C (เอชทูซี)"
+  },
+  {
+    "bandName": "King Carbon (คิงส์คาร์บอน)"
+  },
+  {
+    "bandName": "MX (เอ็มเอ็กซ์)"
+  },
+  {
+    "bandName": "Defi (เดฟิ)"
+  },
+  {
+    "bandName": "พงศ์พิทักษ์อะไหล่ยนต์"
+  },
+  {
+    "bandName": "ซี.เอส.ซีรี่"
+  },
+  {
+    "bandName": "PPT Racing (พีพีที เรซซิ่ง)"
+  },
+  {
+    "bandName": "New Era (นิวเอรา)"
+  },
+  {
+    "bandName": "PKT (พีเคที)"
+  },
+  {
+    "bandName": "Homec (โฮมซี)"
+  },
+  {
+    "bandName": "Thai Car Show (ไทยคาร์โชว์)"
+  },
+  {
+    "bandName": "พงศ์พิทักษ์ อะไหล่ยนต์"
+  },
+  {
+    "bandName": "Diamond Shine (ไดมอนด์ชายน์)"
+  },
+  {
+    "bandName": "Hi Bond (ไฮบอนด์)"
+  },
+  {
+    "bandName": "Haoshun (เฮาชุน)"
+  },
+  {
+    "bandName": "Yomoto (โยโมโต)"
+  },
+  {
+    "bandName": "Yanmar (ยันมาร์)"
+  },
+  {
+    "bandName": "KDM Part (เคดีเอ็ม พาร์ท)"
+  },
+  {
+    "bandName": "Audiopipe (ออดิโอไพพ์)"
+  },
+  {
+    "bandName": "J Racing (เจเรซซิ่ง)"
+  },
+  {
+    "bandName": "CTS (ซีทีเอส)"
+  },
+  {
+    "bandName": "Shafer (แชฟเฟอร์)"
+  },
+  {
+    "bandName": "Hoyaki (โฮยากิ)"
+  },
+  {
+    "bandName": "Ucam (ยูแคม)"
+  },
+  {
+    "bandName": "Window X (วินโดวเอ็กซ์)"
+  },
+  {
+    "bandName": "Maru's Factory (มารุ แฟคทอรี่)"
+  },
+  {
+    "bandName": "Motoskin (โมโตสกิน)"
+  },
+  {
+    "bandName": "Fit Ceramic (ฟิต เซรามิก)"
+  },
+  {
+    "bandName": "Pomy (โพมี่)"
+  },
+  {
+    "bandName": "Timtec (ทิมเทค)"
+  },
+  {
+    "bandName": "Shoda (โชด้า)"
+  },
+  {
+    "bandName": "Ironclad (ไอรอนแคลด)"
+  },
+  {
+    "bandName": "Lasixi (ลาซิซี่)"
+  },
+  {
+    "bandName": "Pegasus Power  (เพกาซัส พาวเวอร์)"
+  },
+  {
+    "bandName": "Lasixi (ลาซิซี)"
+  },
+  {
+    "bandName": "LYNX (ลิ้งซ์)"
+  },
+  {
+    "bandName": "Three Arrow (ทรีอาโรว์)"
+  },
+  {
+    "bandName": "DMG (ดีเอ็มจี)"
+  },
+  {
+    "bandName": "VNR Racing Shop (วีเอ็นอาร์ เรซซิ่ง ช็อป)"
+  },
+  {
+    "bandName": "Harsh (ฮาร์ช)"
+  },
+  {
+    "bandName": "Chevrolet (เชฟโรเลต)"
+  },
+  {
+    "bandName": "Ssangyong (ซันยอง)"
+  },
+  {
+    "bandName": "VRTH (วีอาร์ทีเอช)"
+  },
+  {
+    "bandName": "Banzai (บันไซ)"
+  },
+  {
+    "bandName": "OKD High Performance (โอเคดีไฮเพอร์ฟอร์แม็นซ์)"
+  },
+  {
+    "bandName": "Yamoto  (ยาโมโต)"
+  },
+  {
+    "bandName": "Wossner (วอสเนอร์)"
+  },
+  {
+    "bandName": "Kalenji (คาเลนจิ)"
+  },
+  {
+    "bandName": "Carvenfia (คาร์เวนเฟีย)"
+  },
+  {
+    "bandName": "Setrab"
+  },
+  {
+    "bandName": "Greenscents (กรีนเซนต์​)"
+  },
+  {
+    "bandName": "BGM (บีจีเอ็ม)"
+  },
+  {
+    "bandName": "Wink Clean (วิ้งค์คลีน)"
+  },
+  {
+    "bandName": "Driven (ไดร์ฟเวน)"
+  },
+  {
+    "bandName": "Willkey (วิลคีย์)"
+  },
+  {
+    "bandName": "CARPOW (คาร์โพว)"
+  },
+  {
+    "bandName": "Yato (ยาโต้)"
+  },
+  {
+    "bandName": "Thompson (ทอมป์สัน)"
+  },
+  {
+    "bandName": "BRG (บีอาร์จี)"
+  },
+  {
+    "bandName": "CSRK (ซีเอสอาร์เค)"
+  },
+  {
+    "bandName": "Greenmind (กรีนมายด์)"
+  },
+  {
+    "bandName": "Alpha (อัลฟ่า)"
+  },
+  {
+    "bandName": "AES (เออีเอส)"
+  },
+  {
+    "bandName": "Nexus Green (เน็กซัส กรีน)"
+  },
+  {
+    "bandName": "Tunap (ทูนแนป)"
+  },
+  {
+    "bandName": "KCS (เคซีเอส)"
+  },
+  {
+    "bandName": "Protaper (โปรเทเปอร์)"
+  },
+  {
+    "bandName": "56 design (56ดีไซน์)"
+  },
+  {
+    "bandName": "Magic Gold (เมจิก โกลว)"
+  },
+  {
+    "bandName": "HOKO (โฮโค)"
+  },
+  {
+    "bandName": "Folamdo (โฟแลมโด)"
+  },
+  {
+    "bandName": "Upper Speed  (อัพเปอร์ สปีด)"
+  },
+  {
+    "bandName": "K-Tech  (เคเทค)"
+  },
+  {
+    "bandName": "Der Racing  (เดอเรสซิ่ง)"
+  },
+  {
+    "bandName": "Maxxma (แม็กซ์ม่า)"
+  },
+  {
+    "bandName": "Hiso Car Shop (ไฮโซคาร์ช็อป)"
+  },
+  {
+    "bandName": "Glorsun (กลอร์ซัน)"
+  },
+  {
+    "bandName": "3KKK (3เคเคเค)"
+  },
+  {
+    "bandName": "Stone (สโตน)"
+  },
+  {
+    "bandName": "Italy Racing (อิตาลี เรซซิ่ง)"
+  },
+  {
+    "bandName": "Rotax (โรแท็กซ์)"
+  },
+  {
+    "bandName": "Ultra Racing (อัลตร้าเรซซิ่ง)"
+  },
+  {
+    "bandName": "Lopor (โลพอร์)"
+  },
+  {
+    "bandName": "KNB (เคเอ็นบี)"
+  },
+  {
+    "bandName": "Layergloss (เลเยอร์กลอส)"
+  },
+  {
+    "bandName": "Nobico (โนบิโค)"
+  },
+  {
+    "bandName": "MAD (เอ็มเอดี)"
+  },
+  {
+    "bandName": "HAVERKAMP (เฮฟเวอร์แคม)"
+  },
+  {
+    "bandName": "Taikom Racing (ไทยคอม เรซซิ่ง)"
+  },
+  {
+    "bandName": "Carine (แครีน)"
+  },
+  {
+    "bandName": "Doonghwa  (ดองฮวา)"
+  },
+  {
+    "bandName": "Rapicon (แรปพิคอน)​"
+  },
+  {
+    "bandName": "Kabuto (คาบูโตะ)"
+  },
+  {
+    "bandName": "71 Bike (71 ไบค์)"
+  },
+  {
+    "bandName": "Choiyo (ชัยโย)"
+  },
+  {
+    "bandName": "Tecstar (เทคสตาร์)"
+  },
+  {
+    "bandName": "Yalu (ยาลู)"
+  },
+  {
+    "bandName": "Aron (เอรอน)"
+  },
+  {
+    "bandName": "Atlas Copco (แอตลาส คอปโค)"
+  },
+  {
+    "bandName": "แจ็ค อำนาจเจริญยนต์"
+  },
+  {
+    "bandName": "MonoRacingThailand (โมโนเรซซิ่งไทยแลนด์)"
+  },
+  {
+    "bandName": "Dynojet (ไดโน่เจ็ท)"
+  },
+  {
+    "bandName": "Nerve (เนิร์ฟ)"
+  },
+  {
+    "bandName": "Hizpo (ฮิซโป)"
+  },
+  {
+    "bandName": "Hasda (ฮาสด้า)"
+  },
+  {
+    "bandName": "Hasda (แฮสด้า)"
+  },
+  {
+    "bandName": "Ultraracing (อัลต้าเรสซิ่ง)"
+  },
+  {
+    "bandName": "Hasda  (ฮาสดาร์)"
+  },
+  {
+    "bandName": "Ultra Racing (อัลตร้า เรซซิ่ง)"
+  },
+  {
+    "bandName": "Hasda (เอชเอเอสดีเอ)"
+  },
+  {
+    "bandName": "Maxpeedingrods  (แม็กซ์พีดินกรอดส์)"
+  },
+  {
+    "bandName": "U wash  (ยูวอซ)"
+  },
+  {
+    "bandName": "Ocean Eagle (โอเชี่ยนอีเกิ้ล)"
+  },
+  {
+    "bandName": "Response (เรซพอนซ์)"
+  },
+  {
+    "bandName": "Ongo (ออนโก)"
+  },
+  {
+    "bandName": "Klose (โคลเซอ)"
+  },
+  {
+    "bandName": "Speedangel911  (สปีดแองเจิ้ล911)"
+  },
+  {
+    "bandName": "Parlok-SK (พาลอค-เอสเค)"
+  },
+  {
+    "bandName": "Sony  (โซนี่)"
+  },
+  {
+    "bandName": "DTD (ดีทีดี)"
+  },
+  {
+    "bandName": "Mitsudaiwa (มิตซูไดว่า)"
+  },
+  {
+    "bandName": "Maxpeedingrods (แม็กสปีดดิ้งร็อดส์)"
+  },
+  {
+    "bandName": "Nobico NB (โนบิโค่เอ็นบี)"
+  },
+  {
+    "bandName": "Qepae (เคเป)"
+  },
+  {
+    "bandName": "MDI (เอ็มดีไอ)"
+  },
+  {
+    "bandName": "Art (อาร์ท)"
+  },
+  {
+    "bandName": "Qualy Design (ควอลี่ ดีไซน์)"
+  },
+  {
+    "bandName": "จอมไทย"
+  },
+  {
+    "bandName": "Enduristan (เอนดูริสแตน)"
+  },
+  {
+    "bandName": "Gut Machine (กัตมัชชิน)"
+  },
+  {
+    "bandName": "QIHANG (ซีฮาง)"
+  },
+  {
+    "bandName": "Giovani (จีโอวานี)"
+  },
+  {
+    "bandName": "Motor 2T  (มอเตอร์2ที)"
+  },
+  {
+    "bandName": "Moto parts (โมโตพาร์ท)"
+  },
+  {
+    "bandName": "PWshop (พีวี ช็อป)"
+  },
+  {
+    "bandName": "Kenking (เคนกิ้ง)"
+  },
+  {
+    "bandName": "Takasago Excel (ทาคาซาโก้ เอ็กเซล)"
+  },
+  {
+    "bandName": "Prima (พริม่า)"
+  },
+  {
+    "bandName": "ตู่ ปากน้ำ"
+  },
+  {
+    "bandName": "Ram mounts  (แรมเม้าท์)"
+  },
+  {
+    "bandName": "Brenta (เบรนต้า)"
+  },
+  {
+    "bandName": "MotohdCam (มอเตอร์เอชดีแคม)"
+  },
+  {
+    "bandName": "Car S7 (คาร์เอส7)"
+  },
+  {
+    "bandName": "Pucam (พียูแคม)"
+  },
+  {
+    "bandName": "Martin  (มาร์ติน)"
+  },
+  {
+    "bandName": "VTC (วีทีซี)"
+  },
+  {
+    "bandName": "D Care Clean (ดีแคร์คลีน)"
+  },
+  {
+    "bandName": "DN Shop (ดีเอ็นช็อป)"
+  },
+  {
+    "bandName": "BM (บีเอ็ม)"
+  },
+  {
+    "bandName": "DCam (ดีแคม)"
+  },
+  {
+    "bandName": "Aibek (ไอเบค)"
+  },
+  {
+    "bandName": "Promptec plus (พร้อมเทค พลัส)"
+  },
+  {
+    "bandName": "Infinity (อินฟินิตี้)"
+  },
+  {
+    "bandName": "SSK (เอสเอสเค)"
+  },
+  {
+    "bandName": "Koso (โคโซ)"
+  },
+  {
+    "bandName": "Kingdom (คิงดอม)"
+  },
+  {
+    "bandName": "Whelen (เวเลน)"
+  },
+  {
+    "bandName": "Genisys (ยีนิซิส)"
+  },
+  {
+    "bandName": "D1 Spec (ดีวันสเปค)"
+  },
+  {
+    "bandName": "Imuki Auto​ Boutique​ (ไอมูกิ​ออโต้บูติก)​"
+  },
+  {
+    "bandName": "Marton (มาร์ตั้น)"
+  },
+  {
+    "bandName": "Auto Tech (ออโต้เทค)"
+  },
+  {
+    "bandName": "Fakie & Genma (ฟาเกีย&เก็นม่า)"
+  },
+  {
+    "bandName": "Stark (สตาร์ค)"
+  },
+  {
+    "bandName": "กระทิงดุ"
+  },
+  {
+    "bandName": "Ram Mount (แรมเมาท์)"
+  },
+  {
+    "bandName": "DDPai (ดีดีไพร์)"
+  },
+  {
+    "bandName": "Batterytender (แบตเตอรี่เทนเดอร์)"
+  },
+  {
+    "bandName": "Battery Tender (แบตตเตอรี่ เทนเดอร์)"
+  },
+  {
+    "bandName": "Billion (บิลเลียน)"
+  },
+  {
+    "bandName": "ช่างเอ เพชรเกษม"
+  },
+  {
+    "bandName": "All Shine (ออลไชน์)"
+  },
+  {
+    "bandName": "Tdikien (ทีดิเคียน)"
+  },
+  {
+    "bandName": "Zenith (เซนิต)"
+  },
+  {
+    "bandName": "Corse Racing (ครอสเรสซิ่ง)"
+  },
+  {
+    "bandName": "Sonax (โซนากซ์)"
+  },
+  {
+    "bandName": "Powerpunch199 (พาวเวอร์พั๊นช์199)"
+  },
+  {
+    "bandName": "Je Tech (เจเทค)"
+  },
+  {
+    "bandName": "Defi  (ดิฟฟี่)"
+  },
+  {
+    "bandName": "Defi (ดิฟฟี่)"
+  },
+  {
+    "bandName": "Kamui (คามุย)"
+  },
+  {
+    "bandName": "Kamui  (คามุย)"
+  },
+  {
+    "bandName": "Protect  (โพรเทค)"
+  },
+  {
+    "bandName": "ฺBanzai (บันไซ)"
+  },
+  {
+    "bandName": "ฺBanzai  (บานไซ)"
+  },
+  {
+    "bandName": "Protect (โพรเทค)"
+  },
+  {
+    "bandName": "Wanwaytech (วันเวย์เทค)"
+  },
+  {
+    "bandName": "V-Mafa (วีมาฟา)"
+  },
+  {
+    "bandName": "V Mafa (วีมาฟา)"
+  },
+  {
+    "bandName": "Wanwaytrack (วันเวย์แทร็ค)"
+  },
+  {
+    "bandName": "Zoom Engineering (ซูม เอ็นจิเนียริ่ง)"
+  },
+  {
+    "bandName": "Sport OBD (สปอร์ต โอบีดี)"
+  },
+  {
+    "bandName": "Rammount (แรมเมาส์)"
+  },
+  {
+    "bandName": "Ecosse (อีโคส)"
+  },
+  {
+    "bandName": "HL (เอชแอล)"
+  },
+  {
+    "bandName": "Scar (เอสคา)"
+  },
+  {
+    "bandName": "JRYRack (เจอาร์วายแร็ค)"
+  },
+  {
+    "bandName": "Benelli​ (เบเนลลี)"
+  },
+  {
+    "bandName": "Klingspor (คิงสปอร์)"
+  },
+  {
+    "bandName": "โจ้ประดับยนต์"
+  },
+  {
+    "bandName": "Gmax (จีแม็กซ์)"
+  },
+  {
+    "bandName": "Audi (ออดี้)"
+  },
+  {
+    "bandName": "Swit (สวิต)"
+  },
+  {
+    "bandName": "Skhm (ไซเก้นไฮมาค)"
+  },
+  {
+    "bandName": "Motorimracing (โมโต้ริมเรซซิ่ง)"
+  },
+  {
+    "bandName": "Moto Rim Racing (โมโต้ ริม เรซซิ่ง)"
+  },
+  {
+    "bandName": "MOTO RIM Racing"
+  },
+  {
+    "bandName": "Komatsa (โคมัสสุ)"
+  },
+  {
+    "bandName": "Jet Oiler (เจ็ทออลเลอร์)"
+  },
+  {
+    "bandName": "Atlas (แอทลาส)"
+  },
+  {
+    "bandName": "Atlas  (แอตลาส)"
+  },
+  {
+    "bandName": "DZ (ดีซี)"
+  },
+  {
+    "bandName": "Novawista  (โนว่าวิสต้า)"
+  },
+  {
+    "bandName": "DTE (ดีทีอี)"
+  },
+  {
+    "bandName": "American Sound (อเมริกันซาวด์)"
+  },
+  {
+    "bandName": "Americansound (อเมริกันซาวด์)"
+  },
+  {
+    "bandName": "American Sound  (อเมริกันซาวด์)"
+  },
+  {
+    "bandName": "American Sound (อเมริกัน ซาวด์)"
+  },
+  {
+    "bandName": "American Sound (อเมริกันซาว)"
+  },
+  {
+    "bandName": "TOD (ทีโอดี)"
+  },
+  {
+    "bandName": "TOD GPS (ทีโอดีจีพีเอส)"
+  },
+  {
+    "bandName": "Handsome Performance (แฮนด์ซั่ม เพอร์ฟอร์แมนซ์)"
+  },
+  {
+    "bandName": "Fomoco (โฟโมโค)"
+  },
+  {
+    "bandName": "Tchernov (เชอนอพ)"
+  },
+  {
+    "bandName": "Tara Labs (ทาร่า แล็บ)"
+  },
+  {
+    "bandName": "ARC Audio  (เออาร์ซี ออดิโอ)"
+  },
+  {
+    "bandName": "Helix  (ฮีลิกซ์)"
+  },
+  {
+    "bandName": "Concox (คอนคอกซ์)"
+  },
+  {
+    "bandName": "Jimi (จีมี)"
+  },
+  {
+    "bandName": "HARMOTECH (ฮาร์โมเทค)"
+  },
+  {
+    "bandName": "Blackhole  (แบล็คโฮล)"
+  },
+  {
+    "bandName": "Romane  (โรเมน)"
+  },
+  {
+    "bandName": "Maker Bike (เมคเกอร์ ไบค์)"
+  },
+  {
+    "bandName": "Poli Chem (โปลิแคม)"
+  },
+  {
+    "bandName": "Audiopipe (ออดิโอไปป์)"
+  },
+  {
+    "bandName": "Poli Chem (โปรริ เคม)"
+  },
+  {
+    "bandName": "Audiopipe  (ออดิโอไป้)"
+  },
+  {
+    "bandName": "De Dee (ดีดี)"
+  },
+  {
+    "bandName": "Phoenix (โฟนิกซ์)"
+  },
+  {
+    "bandName": "Rust Cleaner  (รัช คลีนเนอ)"
+  },
+  {
+    "bandName": "Lemon Clean  (เลม่อนคลีน)"
+  },
+  {
+    "bandName": "Lemonz Rust Cleaner (เลม่อน รัช คลีนเนอร์)"
+  },
+  {
+    "bandName": "BlackShip (เรือใบ)"
+  },
+  {
+    "bandName": "Klingspor (คลิงสปอร์)"
+  },
+  {
+    "bandName": "CT  (ซีที)"
+  },
+  {
+    "bandName": "Klingspor (คองสปอร์)"
+  },
+  {
+    "bandName": "Klingspor  (ของสปอร์)"
+  },
+  {
+    "bandName": "Good Gloss (กู๊ด กลอส)"
+  },
+  {
+    "bandName": "Sures (ซูเรย์)"
+  },
+  {
+    "bandName": "Sures (ซูเรส)"
+  },
+  {
+    "bandName": "Sures  (ชัวร์)"
+  },
+  {
+    "bandName": "Sures (ชัวเรส)"
+  },
+  {
+    "bandName": "Yinbodi"
+  },
+  {
+    "bandName": "YinBodi (หงษ์เสียง)"
+  },
+  {
+    "bandName": "Samsung (ซัมซุง)"
+  },
+  {
+    "bandName": "Yinbodi (ยินโบดิ)"
+  },
+  {
+    "bandName": "Yinbodi  (ยินบอดิ)"
+  },
+  {
+    "bandName": "Yin Bo Di (ยินบอดิ)"
+  },
+  {
+    "bandName": "NST (เอ็นเอสที)"
+  },
+  {
+    "bandName": "Moteo (โมเตโอะ)"
+  },
+  {
+    "bandName": "Goluk (โกลัค)"
+  },
+  {
+    "bandName": "Goluk"
+  },
+  {
+    "bandName": "Goluk (โกลั๊ก)"
+  },
+  {
+    "bandName": "Goluk (โกลัก)"
+  },
+  {
+    "bandName": "Fiamm (เอฟไอเอเอ็มเอ็ม)"
+  },
+  {
+    "bandName": "Fiamm (ฟีอัมม์)"
+  },
+  {
+    "bandName": "Fiamm (เฟียมม์)"
+  },
+  {
+    "bandName": "FIAMM"
+  },
+  {
+    "bandName": "Fiamm (ฟิแอมม์)"
+  },
+  {
+    "bandName": "YHR  (วายเอชอาร์)"
+  },
+  {
+    "bandName": "YHR (วายเอชอาร์)"
+  },
+  {
+    "bandName": "Mappico (แมพปิโก)"
+  },
+  {
+    "bandName": "Logitechg (โลจิิเทค)"
+  },
+  {
+    "bandName": "XO Carmat (เอ็กซ์โอคาร์มาต)"
+  },
+  {
+    "bandName": "X One (เอ็กซ์ วัน)"
+  },
+  {
+    "bandName": "Nexzter (เน็กเตอร์)"
+  },
+  {
+    "bandName": "Al Ko (อัลโก้)"
+  },
+  {
+    "bandName": "Alko (อัลโก้)"
+  },
+  {
+    "bandName": "Minigood (มินิกู๊ด)"
+  },
+  {
+    "bandName": "MAX-R (แม็กซ์ อาร์)"
+  },
+  {
+    "bandName": "สามศร"
+  },
+  {
+    "bandName": "ตราดาว"
+  },
+  {
+    "bandName": "Circle lmmortal (เซอร์เคิล อิมเมอร์ทัล)"
+  },
+  {
+    "bandName": "Circle Immortal (เซอร์เคิลอิมมอร์ทัล)"
+  },
+  {
+    "bandName": "Circle Immortal (เซอเคิล อิมเมอร์ทัล)"
+  },
+  {
+    "bandName": "E Car E Cam (อี คาร์ อี แคม)"
+  },
+  {
+    "bandName": "รถพ่วงอัพบีทและชุดลากมาสเตอร์ฮุค"
+  },
+  {
+    "bandName": "Masterhook (มาสเตอร์ฮุค)"
+  },
+  {
+    "bandName": "Masterhook (มาสเตอร์ฮุก)"
+  },
+  {
+    "bandName": "Master Hook (มาสเตอร์ฮุ๊ค)"
+  },
+  {
+    "bandName": "Masterhook (มาสเตอรืฮุค)"
+  },
+  {
+    "bandName": "Evoracingprojet (อีโว้)"
+  },
+  {
+    "bandName": "เก่งสุรินทร์"
+  },
+  {
+    "bandName": "Evoracingprojet (อีโวเรซซิ่งโปรเจค)"
+  },
+  {
+    "bandName": "King Kong (คิงคอง)"
+  },
+  {
+    "bandName": "Chaiyo (ไชโย)"
+  },
+  {
+    "bandName": "Wellex  (เวลเล็กซ์)"
+  },
+  {
+    "bandName": "RCB Racing Boy (อาร์ซีบี เรซซิ่ง บอย)"
+  },
+  {
+    "bandName": "AutoBot  (ออโต้บอท)"
+  },
+  {
+    "bandName": "Bright Zone (ไบร์ท โซน)"
+  },
+  {
+    "bandName": "Bright Zone (ไบร์ทโซน)"
+  },
+  {
+    "bandName": "Bright Zone (ไบรท์โซน)"
+  },
+  {
+    "bandName": "Bright Zone (ไบรท์ โซน)"
+  },
+  {
+    "bandName": "Maruni (มารูนิ)"
+  },
+  {
+    "bandName": "Civic (ซีวิค)"
+  },
+  {
+    "bandName": "Toei (โทอิ)"
+  },
+  {
+    "bandName": "Prius (พรีซส์)"
+  },
+  {
+    "bandName": "Fixme (ฟิกซ์มี)"
+  },
+  {
+    "bandName": "Clean Cham (คลีนแชมป์)"
+  },
+  {
+    "bandName": "NS Home (เอ็นเอสโฮม)"
+  },
+  {
+    "bandName": "NS Home (เอ็นเอส โฮม)"
+  },
+  {
+    "bandName": "N1Cleaner (เอ็นวันคลีนเนอร์)"
+  },
+  {
+    "bandName": "N1 คลีนเนอร์"
+  },
+  {
+    "bandName": "D2towbarfactory (ดีทูโทวบาร์แฟคทอรี่)"
+  },
+  {
+    "bandName": "Tatum Rack (ตาตั้ม แร็ค)"
+  },
+  {
+    "bandName": "D2towbar Factory (ดีทูโทวบาร์ แฟคทอรี่)"
+  },
+  {
+    "bandName": "Promo Jean (โปรโม ยีนส์)"
+  },
+  {
+    "bandName": "Kabom Gloves (คาบอม โกลฟ)"
+  },
+  {
+    "bandName": "D2Towbar Factory (ดีทูทาวบาร์ แฟคทอรี่)"
+  },
+  {
+    "bandName": "Morin (โมริน)"
+  },
+  {
+    "bandName": "Gorilla Supreme (กอริลล่า ซูพรีม)"
+  },
+  {
+    "bandName": "Gorilla Supreme (กอริลล่าซูพรีม)"
+  },
+  {
+    "bandName": "GorillaSupreme (กอริลล่าซูพรีม)"
+  },
+  {
+    "bandName": "Gorilla Supreme  (กอริลล่า ซูพรีม)"
+  },
+  {
+    "bandName": "MBQ (เอ็มบีคิว)"
+  },
+  {
+    "bandName": "Motor2T (มอเตอร์ทูที)"
+  },
+  {
+    "bandName": "Ryo Industry (เรียว อินดัสรี่)"
+  },
+  {
+    "bandName": "Ryo Industry (ริว อินตัสรี่)"
+  },
+  {
+    "bandName": "Ryo Industry (ลโยอินดิสตี้)"
+  },
+  {
+    "bandName": "RyoIndusry (ริวอินดัสรี่)"
+  },
+  {
+    "bandName": "Ryo Industry (ริว อินดัสทรี่)"
+  },
+  {
+    "bandName": "Ryo Industry (ริวอินดัสทรี่)"
+  },
+  {
+    "bandName": "D2towbar factory (ดีทูโทวบาร์แฟคทอรี่)"
+  },
+  {
+    "bandName": "Wax Shine (แว็กซ์ ชายน์)"
+  },
+  {
+    "bandName": "Super Clean (ซุปเปอร์คลีน)"
+  },
+  {
+    "bandName": "OTO  (โอโต)"
+  },
+  {
+    "bandName": "Tech Care (เทค แคร์)"
+  },
+  {
+    "bandName": "Kit Racing (กิจ เรสซิ่ง)"
+  },
+  {
+    "bandName": "Yi (ยี่)"
+  },
+  {
+    "bandName": "Yi (อี้)"
+  },
+  {
+    "bandName": "Mooken (มูเคน)"
+  },
+  {
+    "bandName": "Traxpro (แทร็กโปร)"
+  },
+  {
+    "bandName": "KarPro (คาร์โปร)"
+  },
+  {
+    "bandName": "Motocentric (โมโต้เซนทริค)"
+  },
+  {
+    "bandName": "Motocentric (โมโตเซนทริค)"
+  },
+  {
+    "bandName": "Motocentric (โมโตเซนตริค)"
+  },
+  {
+    "bandName": "Motocentricโมโต้เซนทริค)"
+  },
+  {
+    "bandName": "Motocentric (โมโตเซนทริก)"
+  },
+  {
+    "bandName": "Motocentric (มอโตเซ็นตริค)"
+  },
+  {
+    "bandName": "Hardrace (ฮาร์ดเรส)"
+  },
+  {
+    "bandName": "Hi Tech (ไฮเทค)"
+  },
+  {
+    "bandName": "TaTumRack (ทาทั่มแร็ค)"
+  },
+  {
+    "bandName": "Nobico (โนบิโค่)"
+  },
+  {
+    "bandName": "KTR Thailand (เคทีอา ไทยแลนด์)"
+  },
+  {
+    "bandName": "Ktr Thailand (เคทีอาร์ ไทยแลนด์)"
+  },
+  {
+    "bandName": "KTR (เคทีอาร์)"
+  },
+  {
+    "bandName": "Maxpeedingrods (แม็กซ์ปีดินโกรดส์)"
+  },
+  {
+    "bandName": "Nexzter​ (เน็คเตอร์)​"
+  },
+  {
+    "bandName": "Nexzter Bigbike (เน็คเตอร์บิ๊กไบค์)"
+  },
+  {
+    "bandName": "Focus Moove (โฟกัส มูฟว์)"
+  },
+  {
+    "bandName": "Focus Moove (โฟกัสมูฟ)"
+  },
+  {
+    "bandName": "Focus Moove (โฟกัส มูฟ)"
+  },
+  {
+    "bandName": "Tst (ทีเอสที)"
+  },
+  {
+    "bandName": "Rumira (ลูมิร่า)"
+  },
+  {
+    "bandName": "Imukiautoboutique (ไอมูกิออโต้บูติก)"
+  },
+  {
+    "bandName": "Theseus (ธีซูส)"
+  },
+  {
+    "bandName": "๋John Deere (จอห์น เดียร์)"
+  },
+  {
+    "bandName": "PPRC (พีพีอาร์ซี)"
+  },
+  {
+    "bandName": "Yesido (เยสิโด้)"
+  },
+  {
+    "bandName": "Yesido (เยสไอดู)"
+  },
+  {
+    "bandName": "Yesido (เยซิโด)"
+  },
+  {
+    "bandName": "Yesido (เยสซิโด้)"
+  },
+  {
+    "bandName": "Yesido (ยะสิโด)"
+  },
+  {
+    "bandName": "King kong (คิง คอง)"
+  },
+  {
+    "bandName": "PD Power Drive (พีดี พาวเวอร์ ไดฟ์)"
+  },
+  {
+    "bandName": "Seikenhei Mark (ไซเก้นไฮ มาค)"
+  },
+  {
+    "bandName": "SeikenheiMark (ไซเก้นไฮมาร์ค)"
+  },
+  {
+    "bandName": "PD Power drive (พีดี เพาเวอร์ไดร์)"
+  },
+  {
+    "bandName": "Figo (ฟิโก้)"
+  },
+  {
+    "bandName": "Fox Helmet (ฟ็อกซ์แฮวเม็ด)"
+  },
+  {
+    "bandName": "Fujikok (ฟูจิโคคิ)"
+  },
+  {
+    "bandName": "Tsv (ทีเอสวี)"
+  },
+  {
+    "bandName": "Alseal (แอลซีล)"
+  },
+  {
+    "bandName": "Denso (เด็นโซ่)"
+  },
+  {
+    "bandName": "CSI (ซีเอสไอ)"
+  },
+  {
+    "bandName": "Kero (เคโระ)"
+  },
+  {
+    "bandName": "KKK (เคเคเค)"
+  },
+  {
+    "bandName": "Gorilla Supreme (กอริลล่า สุพรีม)"
+  },
+  {
+    "bandName": "Kodak (โกดัก)"
+  },
+  {
+    "bandName": "Ark Sakorn (เอก สาคร)"
+  },
+  {
+    "bandName": "เอก SA-KORN (สา คอน)"
+  },
+  {
+    "bandName": "Ake (เอก)"
+  },
+  {
+    "bandName": "เอก Sa Korn"
+  },
+  {
+    "bandName": "Focal (โฟคัล)"
+  },
+  {
+    "bandName": "Nkracing (เอ็นเคแรคซิ่ง)"
+  },
+  {
+    "bandName": "TP agentwax (ทีพีเอเจ็นท์แว็กซ์)"
+  },
+  {
+    "bandName": "Lui (ลุย)"
+  },
+  {
+    "bandName": "Veslee (เวสลี)"
+  },
+  {
+    "bandName": "CAREGUARD (แคร์การ์ด)"
+  },
+  {
+    "bandName": "Pureworld (เพียวเวิลด์)"
+  },
+  {
+    "bandName": "Neotechz (นีโอเทค)"
+  },
+  {
+    "bandName": "Profender (โปรเฟนเดอร์)"
+  },
+  {
+    "bandName": "Carlack (คาร์แลค)"
+  },
+  {
+    "bandName": "Zelioni (ซีลีโอนี่)"
+  },
+  {
+    "bandName": "Archele (อาเชว)"
+  },
+  {
+    "bandName": "Archele (อาร์เชเล่)"
+  },
+  {
+    "bandName": "Lezzon (เลซซอน)"
+  },
+  {
+    "bandName": "Unic (ยูนิค)"
+  },
+  {
+    "bandName": "Winnie's Gadget (วินนี่ แก๊ดเจต)"
+  },
+  {
+    "bandName": "Tyl Supply (ทีวายแอล ซัพพลาย)"
+  },
+  {
+    "bandName": "Film Tech (ฟิล์มเทค)"
+  },
+  {
+    "bandName": "Supercam (ซุปเปอร์แคม)"
+  },
+  {
+    "bandName": "Magician (เมจิเชี่ยน)"
+  },
+  {
+    "bandName": "Ohm Audio (โอห์มออดิโอ)"
+  },
+  {
+    "bandName": "สมาร์ทโฮม"
+  },
+  {
+    "bandName": "Superaof (ซุปเปอร์ออฟ)"
+  },
+  {
+    "bandName": "Sabai Cover (สบายคัฟเวอร์)"
+  },
+  {
+    "bandName": "Amway (แอมเวย์)"
+  },
+  {
+    "bandName": "BJN (บีเจเอ็น)"
+  },
+  {
+    "bandName": "Volkstory (โฟล์คสตอรี่)"
+  },
+  {
+    "bandName": "Ohm Handmade (โอห์มแฮนเมด)"
+  },
+  {
+    "bandName": "Sabai (สบาย)"
+  },
+  {
+    "bandName": "Autosol (ออโต้โซล)"
+  },
+  {
+    "bandName": "PT NEW CENTURY (พีที นิว เซ็นจูรี่)"
+  },
+  {
+    "bandName": "GVP (จีวีพี)"
+  },
+  {
+    "bandName": "Car Concept (คาร์ คอนเซป)"
+  },
+  {
+    "bandName": "FCCI (เอฟซีซีไอ)"
+  },
+  {
+    "bandName": "Street Link (สตรีท ลิงค์)"
+  },
+  {
+    "bandName": "Equator (อีควอเตอร์)"
+  },
+  {
+    "bandName": "Novawista (โนว่าวิสต้า)"
+  },
+  {
+    "bandName": "Artech (อาร์เทค)"
+  },
+  {
+    "bandName": "Nurburgring (นูร์เบอร์กริง)"
+  },
+  {
+    "bandName": "Cotran (โคทราน)"
+  },
+  {
+    "bandName": "Dpower (ดีเพาเวอร์)"
+  },
+  {
+    "bandName": "Getsun Foam (เกรทชันโฟม)"
+  },
+  {
+    "bandName": "Artech (แอร์เทค)"
+  },
+  {
+    "bandName": "Gribz (กริบซ์)"
+  },
+  {
+    "bandName": "Rodimi (โรดิมี่)"
+  },
+  {
+    "bandName": "Original Wax (ออริจินอล แว๊กซ์)"
+  },
+  {
+    "bandName": "Volean (โวลีน)"
+  },
+  {
+    "bandName": "SKS Racing (เอสเคเอส เรซซิ่ง)"
+  },
+  {
+    "bandName": "Ten (เทน)"
+  },
+  {
+    "bandName": "Paintitezy (เพนท์อิทอีซี่)"
+  },
+  {
+    "bandName": "Carz (คาร์ซ)"
+  },
+  {
+    "bandName": "Gold Elephant (โกลด์ เอเลเฟนท์)"
+  },
+  {
+    "bandName": "Komatsu (โคมัตสุ)"
+  },
+  {
+    "bandName": "Hanashi (ฮานาชิ)"
+  },
+  {
+    "bandName": "TCM (ทีซีเอ็ม)"
+  },
+  {
+    "bandName": "Stilo (สติลโล่)"
+  },
+  {
+    "bandName": "Soway (โซเวย์)"
+  },
+  {
+    "bandName": "Paintitezy (เพ้นท์อิทอีซี่)"
+  },
+  {
+    "bandName": "หมีรวย"
+  },
+  {
+    "bandName": "DOD (ดีโอดี)"
+  },
+  {
+    "bandName": "Rust Oleum (รัสต์โอเลี่ยม)"
+  },
+  {
+    "bandName": "Hardware Station (ฮาร์ดแวร์ สเตชั่น)"
+  },
+  {
+    "bandName": "Pokka (พอกก้า)"
+  },
+  {
+    "bandName": "Kitaco (กิตาโค)"
+  },
+  {
+    "bandName": "Sino Track (ไซโนแทร็ก)"
+  },
+  {
+    "bandName": "Bose (โบส)"
+  },
+  {
+    "bandName": "59 Automobile (59 ออโต้โมบิล)"
+  },
+  {
+    "bandName": "DINCO   (ดิงโก้)"
+  },
+  {
+    "bandName": "Noi Watdan (หน่อย วัดด่าน)"
+  },
+  {
+    "bandName": "Mad Bike"
+  },
+  {
+    "bandName": "Chen Ying (เฉินหยิง)"
+  },
+  {
+    "bandName": "Safety (เซฟตี้)"
+  },
+  {
+    "bandName": "Autotech (ออโต้เทค)"
+  },
+  {
+    "bandName": "Bontec (บอนเทค)"
+  },
+  {
+    "bandName": "Alphard (อัลพาส)"
+  },
+  {
+    "bandName": "Eagle Bolts (อีเกิ้ลโบลต์)"
+  },
+  {
+    "bandName": "Dukshin (ดักชิน)"
+  },
+  {
+    "bandName": "Sumo  (ซูโม่)"
+  },
+  {
+    "bandName": "R Tech (อาร์เทค)"
+  },
+  {
+    "bandName": "Greenyi (กรีนยี)"
+  },
+  {
+    "bandName": "Mpro (เอ็มโปร)"
+  },
+  {
+    "bandName": "GJ Super Wax (จีเจซุปเปอร์แว๊กซ์)"
+  },
+  {
+    "bandName": "LMC (แอลเอ็มซี)"
+  },
+  {
+    "bandName": "G9 Super Wax (จีไนท์ซุปเปอร์แว๊กซ์)"
+  },
+  {
+    "bandName": "Kirakote (คิราโค้ท)"
+  },
+  {
+    "bandName": "Limitedpart (อออาออ)"
+  },
+  {
+    "bandName": "Cover (คัพเวอร์)"
+  },
+  {
+    "bandName": "Alcohol Pads (แอลกอฮอล์แพด)"
+  },
+  {
+    "bandName": "Race Safety (เรซเซฟตี้)"
+  },
+  {
+    "bandName": "Frogstar (โรสด์สตาร์)"
+  },
+  {
+    "bandName": "บุญชู รวมช่าง"
+  },
+  {
+    "bandName": "ViniTie (วินิไทร์)"
+  },
+  {
+    "bandName": "Esproshop (อีเอสโปรช็อป)"
+  },
+  {
+    "bandName": "ES Pro (อีเอสโปร)"
+  },
+  {
+    "bandName": "ESPro (อีเอสโปร)"
+  },
+  {
+    "bandName": "Revive Titan (รีไวว์ไททัน)"
+  },
+  {
+    "bandName": "Sika 255 (สิก้า255)"
+  },
+  {
+    "bandName": "Sika258 (ซิก้า)"
+  },
+  {
+    "bandName": "Black Magic (แบล็ค เมจิก)"
+  },
+  {
+    "bandName": "Black Magic (แบล็กเมจิค)"
+  },
+  {
+    "bandName": "Stuffit (สตั๊ฟฟิต)"
+  },
+  {
+    "bandName": "365 Perfection (365 เพอร์เฟคชั่น)"
+  },
+  {
+    "bandName": "365perfection ( 365เพอร์เฟคชั่น)"
+  },
+  {
+    "bandName": "365Perfection (365เพอร์เฟคชั่น)"
+  },
+  {
+    "bandName": "FA (เอฟเอ)"
+  },
+  {
+    "bandName": "Cau (ซีเอยู)"
+  },
+  {
+    "bandName": "ตราคนป่า"
+  },
+  {
+    "bandName": "Semspeed (แซมสปีด)"
+  },
+  {
+    "bandName": "Carclo (คาร์โกล)"
+  },
+  {
+    "bandName": "Shadow (ชาโดว์)"
+  },
+  {
+    "bandName": "Touratech"
+  },
+  {
+    "bandName": "Touratech (ทัวร์เรเท็ช)"
+  },
+  {
+    "bandName": "CNH (ซีเอ็นเอช)"
+  },
+  {
+    "bandName": "Seiken (ไซเคน)"
+  },
+  {
+    "bandName": "Autotape (ออโต้เทป)"
+  },
+  {
+    "bandName": "Funia Microfiber (ฟันเนียไมโครไฟเบอร์)"
+  },
+  {
+    "bandName": "Lucky668 (ลักกี้668)"
+  },
+  {
+    "bandName": "Nano Shine (นาโน ชายน์)"
+  },
+  {
+    "bandName": "Signal Reds (ซิกเนล เรดส์)"
+  },
+  {
+    "bandName": "Flat 4 (แฟลต 4)"
+  },
+  {
+    "bandName": "Crocodile (คร็อกโคไดล์)"
+  },
+  {
+    "bandName": "KMB 99 (เคเอ็มบี99)"
+  },
+  {
+    "bandName": "Iceberg (ไอซ์เบิร์ก)"
+  },
+  {
+    "bandName": "Xiaomi (เสี่ยวหมี่)"
+  },
+  {
+    "bandName": "Winnex Thailand (วินเน็คซ์ ไทยแลนด์)"
+  },
+  {
+    "bandName": "NACHI (นาชิ)"
+  },
+  {
+    "bandName": "Gokar (โกคาร์)"
+  },
+  {
+    "bandName": "Specialized (สเปเชียลไลซ์)"
+  },
+  {
+    "bandName": "Kranes (เครนส์)"
+  },
+  {
+    "bandName": "Airgle (แอร์เกิ้ล)"
+  },
+  {
+    "bandName": "Surecom (ชัวร์คอม)"
+  },
+  {
+    "bandName": "Ballfix (บอลฟิกซ์)"
+  },
+  {
+    "bandName": "Kub (คับ)"
+  },
+  {
+    "bandName": "Mohawk (โมฮอก)"
+  },
+  {
+    "bandName": "Xing Qiu (ซิงคิว)"
+  },
+  {
+    "bandName": "Milwaukee (มิลวอกี้)"
+  },
+  {
+    "bandName": "Bjhandmade  (บีเจแฮนด์เมด)"
+  },
+  {
+    "bandName": "Decar (ดีคาร์)"
+  },
+  {
+    "bandName": "Decar (เดอคาร์)"
+  },
+  {
+    "bandName": "Shin Etsu (ชิน เอทซุ)"
+  },
+  {
+    "bandName": "Colad (โคลาด)"
+  },
+  {
+    "bandName": "KSF (เคเอชเอฟ)"
+  },
+  {
+    "bandName": "Autocom (ออโต้คอม)"
+  },
+  {
+    "bandName": "Nichiban (นิจิบัน)"
+  },
+  {
+    "bandName": "Exo (เอ็กซ์โซ่)"
+  },
+  {
+    "bandName": "Tesa (เทซ่า)"
+  },
+  {
+    "bandName": "DRIFT (ดริฟ)"
+  },
+  {
+    "bandName": "ตราสมอ"
+  },
+  {
+    "bandName": "Dogracing Design (ดอกเรซิ่งดีไซน์)"
+  },
+  {
+    "bandName": "Top From (ท็อปฟอร์ม)"
+  },
+  {
+    "bandName": "EVANGELION STORE (เอวาเกเลียน สโตร์)"
+  },
+  {
+    "bandName": "UBO (ยูบีโอ)"
+  },
+  {
+    "bandName": "Promlikit (พรมลิขิต)"
+  },
+  {
+    "bandName": "FAG (เอฟเอจี)"
+  },
+  {
+    "bandName": "Cfmoto​ (ซีเอฟโมโต้)"
+  },
+  {
+    "bandName": "Spy (สปาย)"
+  },
+  {
+    "bandName": "Hi Link (ไฮลิ้งค์)"
+  },
+  {
+    "bandName": "Falante (ฟาแลนเต้)"
+  },
+  {
+    "bandName": "Falante (ฟาเลนท์)"
+  },
+  {
+    "bandName": "Bjhandmade  (บี้เจแฮนด์เมด)"
+  },
+  {
+    "bandName": "S Max (เอส แม็กซ์)"
+  },
+  {
+    "bandName": "Rok Straps (ร็อกสแตรป)"
+  },
+  {
+    "bandName": "Tk Car Care Shop (ทีเคคาร์แคร์)"
+  },
+  {
+    "bandName": "Gocom (โกคอม)"
+  },
+  {
+    "bandName": "BTN (บีทีเอ็น)"
+  },
+  {
+    "bandName": "Intro Innovation (อินโทรอินโนเวชั่น)"
+  },
+  {
+    "bandName": "Workshop (เวิร์คช้อป)"
+  },
+  {
+    "bandName": "Belkin (เบลคิน)"
+  },
+  {
+    "bandName": "Tony (โทนี่)"
+  },
+  {
+    "bandName": "Plug Me (ปลั๊กมี)"
+  },
+  {
+    "bandName": "Glofe (กลอฟ)"
+  },
+  {
+    "bandName": "Platinum X (แพลทตินั่ม เอ็กซ์)"
+  },
+  {
+    "bandName": "Tire Shine (ไทย์ชาย)"
+  },
+  {
+    "bandName": "Buco  (บูโค่)"
+  },
+  {
+    "bandName": "Nui (หนุ่ย)"
+  },
+  {
+    "bandName": "Getsun (เกทซัน)"
+  },
+  {
+    "bandName": "Alicar (อลิคาร์)"
+  },
+  {
+    "bandName": "Shark Helmet (ชาร์คเฮลเมท)"
+  },
+  {
+    "bandName": "Sport HD (สปอร์ต เอชดี)"
+  },
+  {
+    "bandName": "Adele (อะเดล)"
+  },
+  {
+    "bandName": "Zeal Bond (ซีล บอนด์)"
+  },
+  {
+    "bandName": "น้าคมน็อตซิ่ง"
+  },
+  {
+    "bandName": "Also (ออลโซ)"
+  },
+  {
+    "bandName": "Beger (เบเยอร์)"
+  },
+  {
+    "bandName": "Alicar (เอลี่คาร์)"
+  },
+  {
+    "bandName": "Mitsumi (มิตซูมิ)"
+  },
+  {
+    "bandName": "Mahle (เมเฮล)"
+  },
+  {
+    "bandName": "M14  เอ็มวันโฟร์"
+  },
+  {
+    "bandName": "VC Tech (วีซี เทค)"
+  },
+  {
+    "bandName": "Makita (มากิตะ)"
+  },
+  {
+    "bandName": "Tagkita (แท็กกีต้า)"
+  },
+  {
+    "bandName": "Waxj Boss (แว็กซ์เจ บอส)"
+  },
+  {
+    "bandName": "Greenleaf (กรีนลีฟ)"
+  },
+  {
+    "bandName": "Hurricane (เฮอริเคน)"
+  },
+  {
+    "bandName": "Avenger (อเวนเจอร์)"
+  },
+  {
+    "bandName": "TOA (ทีโอเอ)"
+  },
+  {
+    "bandName": "Digieye (ดิจิอาย)"
+  },
+  {
+    "bandName": "Shibaura (ชิบูร่า)"
+  },
+  {
+    "bandName": "Mpact (เอ็มแพ็ค)"
+  },
+  {
+    "bandName": "Shibaura (ชิบัวร่า)"
+  },
+  {
+    "bandName": "Audi (อาวดี้)"
+  },
+  {
+    "bandName": "Shibaura (ชิบอร่า)"
+  },
+  {
+    "bandName": "Wenol (วีนอล)"
+  },
+  {
+    "bandName": "Bridesmaidcloseup (ไบรด์เมดคลอสอัพ)"
+  },
+  {
+    "bandName": "Platinum-X (เเพลททินั่มเอ็กซ์)"
+  },
+  {
+    "bandName": "EBC Brakes (อีบีซี เบรค)"
+  },
+  {
+    "bandName": "Advanced portable (แอดเวนเซทพอลเทเบิล)"
+  },
+  {
+    "bandName": "SMax (เอสแม็กส์)"
+  },
+  {
+    "bandName": "EBC Brakes (อีบีซีเบรค)"
+  },
+  {
+    "bandName": "Neocosmic (นีโอคอสมิค)"
+  },
+  {
+    "bandName": "Plusdip (พลัสดีพ)"
+  },
+  {
+    "bandName": "Zuper (ซุปเปอร์)"
+  },
+  {
+    "bandName": "TT Auto Speed (ทีที ออโต้ สปีด)"
+  },
+  {
+    "bandName": "Hi Wash Pro (ไฮวอชโปร)"
+  },
+  {
+    "bandName": "Vevotech (เวโวเทค)"
+  },
+  {
+    "bandName": "Glasso (แกลซโซ)"
+  },
+  {
+    "bandName": "Laize (เลซี่)"
+  },
+  {
+    "bandName": "Forma Boots (ฟอร์ม่า บู๊ทส์)"
+  },
+  {
+    "bandName": "Gaerne (การ์เน่ย์)"
+  },
+  {
+    "bandName": "Sidi (ซิดี้)"
+  },
+  {
+    "bandName": "D.I.D (ดี.ไอ.ดี)"
+  },
+  {
+    "bandName": "Gt Power (จีที พาวเวอร์)"
+  },
+  {
+    "bandName": "Foliatec (โฟเลียเทค)"
+  },
+  {
+    "bandName": "SDB (เอสดีบี)"
+  },
+  {
+    "bandName": "Hi Wash Pro (ไฮวอชโปร)​"
+  },
+  {
+    "bandName": "Mononza (โมนอนซ่า)"
+  },
+  {
+    "bandName": "Ground Zero (กราวด์ซีโร่)"
+  },
+  {
+    "bandName": "Ground Zero (กราวนด์ซีโร)"
+  },
+  {
+    "bandName": "Ground Zero (กราวด์ ซีโร)"
+  },
+  {
+    "bandName": "Ground Zero (กราวด์ ซีโร่)"
+  },
+  {
+    "bandName": "Car A2 (คาร์ เอทู)"
+  },
+  {
+    "bandName": "Sandisk (แซนดิสก์)"
+  },
+  {
+    "bandName": "Glasso (กลาสโซ)"
+  },
+  {
+    "bandName": "JH (เจเอช)"
+  },
+  {
+    "bandName": "K Keen (เคคีน)"
+  },
+  {
+    "bandName": "Phisung (พิซัง)"
+  },
+  {
+    "bandName": "Phisung (พิซุง)"
+  },
+  {
+    "bandName": "Phisung (ฟิซัง)"
+  },
+  {
+    "bandName": "Phisung (พิซอง)"
+  },
+  {
+    "bandName": "Poli Chem (โปลิเคม)"
+  },
+  {
+    "bandName": "Poli Chem (โพลิ เคม)"
+  },
+  {
+    "bandName": "Momax (โมแม็กซ์)"
+  },
+  {
+    "bandName": "Poli-Chem (โพลิเคม)"
+  },
+  {
+    "bandName": "Wib Wub (วิบวับ)"
+  },
+  {
+    "bandName": "Wibwub (วิบวับ)"
+  },
+  {
+    "bandName": "Sunford (ซันโฟร์ด)"
+  },
+  {
+    "bandName": "Sunford (ซันฟอร์ด)"
+  },
+  {
+    "bandName": "H2shop (เอชทูช็อป)"
+  },
+  {
+    "bandName": "Anakin (อนาคิน)"
+  },
+  {
+    "bandName": "Alteco (อัลเทโก้)"
+  },
+  {
+    "bandName": "Onkar (โองการ์)"
+  },
+  {
+    "bandName": "Onkar (ออนคาร์)"
+  },
+  {
+    "bandName": "Alteco (อัลเทคโก)"
+  },
+  {
+    "bandName": "Ghost Racing (โกสท์เรสซิ่ง)"
+  },
+  {
+    "bandName": "YST  (วายเอสที)"
+  },
+  {
+    "bandName": "Onkar (ออนการ์)"
+  },
+  {
+    "bandName": "Alteco (อัลทีโก้)"
+  },
+  {
+    "bandName": "Ghost Racing (โกสต์ เรสซิ่ง)"
+  },
+  {
+    "bandName": "Ghostracing (โกสเรสซิ่ง)"
+  },
+  {
+    "bandName": "Ghost Racing (โกสท์เรซิ่ง)"
+  },
+  {
+    "bandName": "Hiview (ไฮวิว)"
+  },
+  {
+    "bandName": "Overwax (โอเวอร์แว็กซ์)"
+  },
+  {
+    "bandName": "Mahle (มาเล่)"
+  },
+  {
+    "bandName": "ตราหยดน้ำ"
+  },
+  {
+    "bandName": "Mitsu Toyo (มิซซูโตโย)"
+  },
+  {
+    "bandName": "V Force (วีฟอร์ซ)"
+  },
+  {
+    "bandName": "Tanutong (ธนูทอง)"
+  },
+  {
+    "bandName": "EVSSport (อีวีเอชสปอต)"
+  },
+  {
+    "bandName": "X Shot (เอ็กซ์ ช็อต)"
+  },
+  {
+    "bandName": "Xshot  (เอ็กซ์ช็อต)"
+  },
+  {
+    "bandName": "Gentlize (เจนทีซี)"
+  },
+  {
+    "bandName": "Gentlize (เจนเทิล)"
+  },
+  {
+    "bandName": "Anitech (แอนิเทค)"
+  },
+  {
+    "bandName": "Alflash (แอลเฟรช)"
+  },
+  {
+    "bandName": "Aoi (อาโออิ)"
+  },
+  {
+    "bandName": "Daimond Class (ไดม่อนคลาส)"
+  },
+  {
+    "bandName": "DaimondClass (ไดมอนด์คลาส)"
+  },
+  {
+    "bandName": "Diamond Class (ไดมอนด์ คลาส)"
+  },
+  {
+    "bandName": "Polar Cold (โพล่าโคลด์)"
+  },
+  {
+    "bandName": "Diamond Class (ไดม่อนคลาส)"
+  },
+  {
+    "bandName": "Polar Cold (โพล่าโคล)"
+  },
+  {
+    "bandName": "Velocifero​ (เวโลซิฟีโร)"
+  },
+  {
+    "bandName": "velocifero​ (วีโรซิฟิโร่)"
+  },
+  {
+    "bandName": "Happy Bady (แฮปปี้เบบี้)"
+  },
+  {
+    "bandName": "Velocifero (เวโลชิเฟโร่)"
+  },
+  {
+    "bandName": "Proplus (โปรพลัส)"
+  },
+  {
+    "bandName": "Madbike (เมดไบค์)"
+  },
+  {
+    "bandName": "Madbike (แมดไบค์)"
+  },
+  {
+    "bandName": "DC (ดีซี)"
+  },
+  {
+    "bandName": "J Preme (เจพรีม)"
+  },
+  {
+    "bandName": "Jpreme (เจพรีม)"
+  },
+  {
+    "bandName": "Wink Auto Sure (วิงค์ ออโต้ ชัวร์)"
+  },
+  {
+    "bandName": "J Preme (เจ พรีม)"
+  },
+  {
+    "bandName": "Wink Auto Sure (วิ้งค์ ออโต้ ชัวร์)"
+  },
+  {
+    "bandName": "N-Hance (เอ็นแฮนซ์)"
+  },
+  {
+    "bandName": "WinkAutoSure (วิงค์ออโต้ชัวร์)"
+  },
+  {
+    "bandName": "BJCarparts (บีเจคาร์พาร์ท)"
+  },
+  {
+    "bandName": "N-Hance  (เอ็น แฮนซ์)"
+  },
+  {
+    "bandName": "Wink Auto Sure (วิงค์ออโต้ชัวร์)"
+  },
+  {
+    "bandName": "Wink Auto Sure (วิ้งค์ออโต้ชัวร์)"
+  },
+  {
+    "bandName": "Autowinksure (ออโต้วิงชัวร์)"
+  },
+  {
+    "bandName": "BJ Car Parts (บีเจคาร์พาร์ท)"
+  },
+  {
+    "bandName": "NHance (เอ็นแฮนซ์)"
+  },
+  {
+    "bandName": "Lezen (ลีเซ่น)"
+  },
+  {
+    "bandName": "Lezen (เลเซน)"
+  },
+  {
+    "bandName": "Car 2 Premium (คาร์ทูพรีเมียม)"
+  },
+  {
+    "bandName": "TOA Win (ทีโอเอ็นวิน)"
+  },
+  {
+    "bandName": "3M (สามเอ็ม)"
+  },
+  {
+    "bandName": "ELM327 (อีแอลเอ็ม327)"
+  },
+  {
+    "bandName": "ELM 327 (อีแอลเอ็ม 327)"
+  },
+  {
+    "bandName": "Niko (นิโค)"
+  },
+  {
+    "bandName": "Unity X (ยูนิตี้ เอ็กซ์)"
+  },
+  {
+    "bandName": "Niko (นิคโค)"
+  },
+  {
+    "bandName": "Niko (นิโกะ)"
+  },
+  {
+    "bandName": "UnityX (ยูนิตี้เอ็กซ์)"
+  },
+  {
+    "bandName": "Ordinary (ออดิเนรี่)"
+  },
+  {
+    "bandName": "HIFLO FILTRO (ไฮโฟทิฟโท)"
+  },
+  {
+    "bandName": "Hiflo Filtro (ไฮโฟรฟิลโทร)"
+  },
+  {
+    "bandName": "Hiflofiltro (ฮิฟโลฟิลโทร)"
+  },
+  {
+    "bandName": "Promount (โพรมอนท์)"
+  },
+  {
+    "bandName": "Nano Plus One (นีโอพลัสวัน)"
+  },
+  {
+    "bandName": "promount"
+  },
+  {
+    "bandName": "Promount (โปรเม้าส์)"
+  },
+  {
+    "bandName": "Friends Wax (เฟรนด์ แว็กซ์)"
+  },
+  {
+    "bandName": "TDK (ทีดีเค)"
+  },
+  {
+    "bandName": "T One Wax (ทีวันแว็กซ์)"
+  },
+  {
+    "bandName": "NPD (เอ็นพีดี)"
+  },
+  {
+    "bandName": "HMQS (เอชเอ็มคิวเอส)"
+  },
+  {
+    "bandName": "Bum Shaker (บัม เชกเกอร์)"
+  },
+  {
+    "bandName": "Valeo (วาลีโอ้)"
+  },
+  {
+    "bandName": "Solar (โซล่า)"
+  },
+  {
+    "bandName": "SCK (เอสซีเค)"
+  },
+  {
+    "bandName": "Red Lion (เรด ไลออน)"
+  },
+  {
+    "bandName": "Vmafacarcare (วีมาฟาคาร์แคร์)"
+  },
+  {
+    "bandName": "T One (ทีวัน)"
+  },
+  {
+    "bandName": "Phillips (ฟิลิปส์)"
+  },
+  {
+    "bandName": "Lufi (ลูฟิ)"
+  },
+  {
+    "bandName": "Lufi (ลูฟี่)"
+  },
+  {
+    "bandName": "Acustika (อคูลติก้า)"
+  },
+  {
+    "bandName": "TONEWAX (ทีวัน)"
+  },
+  {
+    "bandName": "J's Racing (เจเอส เรซซิ่ง)"
+  },
+  {
+    "bandName": "HZTWFC (เอชซีทีดับบลิวเอฟซี)"
+  },
+  {
+    "bandName": "Pylac (ไพแลค)"
+  },
+  {
+    "bandName": "StormRider (สตอร์มไรเดอร์)"
+  },
+  {
+    "bandName": "GP8 Sport Drive (จีพี8 สปอร์ต ไดร์ฟ)"
+  },
+  {
+    "bandName": "Storm Rider (สตรอมไรเดอร์)"
+  },
+  {
+    "bandName": "Martin Racing (มาร์ติน เรซซิ่ง)"
+  },
+  {
+    "bandName": "Storm Rider (สตรอม ไรเดอร์)"
+  },
+  {
+    "bandName": "Gp8sportdrive (จีพีเอทสปอร์ตไดร์ฟ)"
+  },
+  {
+    "bandName": "MR Martin Racing"
+  },
+  {
+    "bandName": "Mannol (แมนนอล)"
+  },
+  {
+    "bandName": "Stormrider (สตรอมไรเดอร์)"
+  },
+  {
+    "bandName": "MR Martin Racing (มิสเตอร์มาตินเรซซิ่ง)"
+  },
+  {
+    "bandName": "GP8 (จีพี8)"
+  },
+  {
+    "bandName": "Eagle One (อีเกิ้ล วัน)"
+  },
+  {
+    "bandName": "Madbike (แม็ดไบค์)"
+  },
+  {
+    "bandName": "Anycast (แอนนี่แคส)"
+  },
+  {
+    "bandName": "anycast (เอนี่แคสต์)"
+  },
+  {
+    "bandName": "Honey (ฮันนี่)"
+  },
+  {
+    "bandName": "Anycast (เอนี่แคส)"
+  },
+  {
+    "bandName": "Anycast (เอนี่แคสท์)"
+  },
+  {
+    "bandName": "Anycast (แอนนี่เคสท์)"
+  },
+  {
+    "bandName": "Xtech Shine (เอ็กซ์เทคชายน์)"
+  },
+  {
+    "bandName": "Xtech (เอกซ์เทค)"
+  },
+  {
+    "bandName": "X Tech (เอ็กซ์เทค)"
+  },
+  {
+    "bandName": "Xtechshine (เอ็กซ์เทคไชน์)"
+  },
+  {
+    "bandName": "Xtech-shine"
+  },
+  {
+    "bandName": "Metel mate (แมทเทิลเมด)"
+  },
+  {
+    "bandName": "Decathlon (ดีแคทลอน)"
+  },
+  {
+    "bandName": "S Archon (เอสอาร์ชน)"
+  },
+  {
+    "bandName": "Sarchon (เอสอาร์คฮอน)"
+  },
+  {
+    "bandName": "s.archon"
+  },
+  {
+    "bandName": "S Archon (เอสอาร์ชอน)"
+  },
+  {
+    "bandName": "SLP Racing (เอสแอลพี เรซซิ่ง)"
+  },
+  {
+    "bandName": "Atmosphere Sky (แอทโมทเฟียร์ สกาย)"
+  },
+  {
+    "bandName": "Atmosphere (แอทโมสเฟียร์)"
+  },
+  {
+    "bandName": "MrHorn (มิสเตอร์ฮอร์น)"
+  },
+  {
+    "bandName": "Mr.Horn (มิสเตอร์ฮอร์น)"
+  },
+  {
+    "bandName": "Aftonca (อาฟตอนก้า)"
+  },
+  {
+    "bandName": "Falcon (ฟอลคอล)"
+  },
+  {
+    "bandName": "Asahi (อาซาฮี)"
+  },
+  {
+    "bandName": "Angry Rhino (แองกรี้ไรโน่)"
+  },
+  {
+    "bandName": "NASA-Nano-Wax (นาซ่านาโนแว๊กซ์)"
+  },
+  {
+    "bandName": "Nasa (นาซ่า)"
+  },
+  {
+    "bandName": "Nasa Nano Wax (นาซ่า นาโนแว็กซ์)"
+  },
+  {
+    "bandName": "NASANanoWax (นันซ่าโนวาแวก)"
+  },
+  {
+    "bandName": "Swits (สวิท)"
+  },
+  {
+    "bandName": "acdison  (แอคติสัน)"
+  },
+  {
+    "bandName": "G1wcarcam (จีวันดับเบิ้ลยูคาร์แคร์)"
+  },
+  {
+    "bandName": "G1W (จีวันดับบิว)"
+  },
+  {
+    "bandName": "G1w (จี1ดับเบิ้ล)"
+  },
+  {
+    "bandName": "G1w (จีวันดับเบิ้ลยู)"
+  },
+  {
+    "bandName": "Orafon (โอราฟอน)"
+  },
+  {
+    "bandName": "P Lite (พี่ไลท์)"
+  },
+  {
+    "bandName": "Orafon (ออเรฟอน)"
+  },
+  {
+    "bandName": "Nanoplusone (นาโนพลัสวัน)"
+  },
+  {
+    "bandName": "Bacuda (บาคูด้า)"
+  },
+  {
+    "bandName": "Bacuda (บาคูดา)"
+  },
+  {
+    "bandName": "Reckhorn (เรคฮอร์น)"
+  },
+  {
+    "bandName": "Ford Mustang (ฟอร์ด มัสแตงค์)"
+  },
+  {
+    "bandName": "Mustang (มัสแตงค์)"
+  },
+  {
+    "bandName": "Elka (เอลกา)"
+  },
+  {
+    "bandName": "S.I.P (เอสไอพี)"
+  },
+  {
+    "bandName": "Aorto (ออร์โต้)"
+  },
+  {
+    "bandName": "Super Wash (ซุปเปอร์ วอช)"
+  },
+  {
+    "bandName": "Kats (แคทส์)"
+  },
+  {
+    "bandName": "Aurora (ออโรร่า)"
+  },
+  {
+    "bandName": "Glasurit (กลาซูริต)"
+  },
+  {
+    "bandName": "Glasurit (กลาซูริท)"
+  },
+  {
+    "bandName": "Shengge (เชิงจี)"
+  },
+  {
+    "bandName": "Shengge (เชินจี)"
+  },
+  {
+    "bandName": "Kokla (คอกก้า)"
+  },
+  {
+    "bandName": "Castle Camp (แคสเทิ้ล แคมป์)"
+  },
+  {
+    "bandName": "TY (ทีวาย)"
+  },
+  {
+    "bandName": "Tanin (ธานินทร์)"
+  },
+  {
+    "bandName": "EA-Audio (อีเอ ออดิโอ)"
+  },
+  {
+    "bandName": "Mr.DIY (มิสเตอร์ดีไอวาย)"
+  },
+  {
+    "bandName": "Mr. D.I.Y. (มิสเตอร์ดีไอวาย)"
+  },
+  {
+    "bandName": "Lube71 (ลูปเซ่เว่นตี้วัน)"
+  },
+  {
+    "bandName": "Auto Master (ออร์โต้มาสเตอร์)"
+  },
+  {
+    "bandName": "Glasklare (กลาสแคลร์)"
+  },
+  {
+    "bandName": "MR Fix (มิสเตอร์ฟิกซ์)"
+  },
+  {
+    "bandName": "MT Helmets (เอ็มที เฮลเม็ทส์)"
+  },
+  {
+    "bandName": "BLD (บีแอลดี)"
+  },
+  {
+    "bandName": "Nenki (เนนกิ)"
+  },
+  {
+    "bandName": "Hs2 (เอชเอสทู)"
+  },
+  {
+    "bandName": "HTC (เอชทีซี)"
+  },
+  {
+    "bandName": "Motocube (โมโต้คิวบ์)"
+  },
+  {
+    "bandName": "Vecchio (เวคชิโอ)"
+  },
+  {
+    "bandName": "DFG (ดีเอฟจี)"
+  },
+  {
+    "bandName": "Motorax (โมโตแลต)"
+  },
+  {
+    "bandName": "Shinecon (ซินิคอน)"
+  },
+  {
+    "bandName": "Ammex (แอมเม็กซ์)"
+  },
+  {
+    "bandName": "Seeson (ซีซั่น)"
+  },
+  {
+    "bandName": "NTQS (เอ็นทีคิวเอส)"
+  },
+  {
+    "bandName": "Najie (นาเจีย)"
+  },
+  {
+    "bandName": "Z-One (ซีวัน)"
+  },
+  {
+    "bandName": "Woke Up Town (โว๊ค อัพ ทาวน์)"
+  },
+  {
+    "bandName": "Mooneyes (มูนอายส์)"
+  },
+  {
+    "bandName": "ARPHA (อาร์ฟา)"
+  },
+  {
+    "bandName": "KATANA (กันตนา)"
+  },
+  {
+    "bandName": "SolarClean  (โซล่าคลีน)"
+  },
+  {
+    "bandName": "DURACON (ดูราคอน)"
+  },
+  {
+    "bandName": "Hi-Q (ไฮคิว)"
+  },
+  {
+    "bandName": "omorn"
+  },
+  {
+    "bandName": "Borgward (บอร์กวอร์ด)"
+  },
+  {
+    "bandName": "WEY (ดับบลิวอีวาย)"
+  },
+  {
+    "bandName": "Senqcia (เซ็นคิวเซีย)"
+  },
+  {
+    "bandName": "TT Carmets (ทีที คาร์เมต)"
+  },
+  {
+    "bandName": "Viriyah  (วิริยะ)"
+  },
+  {
+    "bandName": "Raxfly (แร็กซ์ฟลาย)"
+  },
+  {
+    "bandName": "Arrma (อาร์ม่า)"
+  },
+  {
+    "bandName": "Jeep (จี๊ป)"
+  },
+  {
+    "bandName": "JR AUTO  (เจอาร์ออโต้)"
+  },
+  {
+    "bandName": "Kane (เคน)"
+  },
+  {
+    "bandName": "MOZA (โมซ่า)"
+  },
+  {
+    "bandName": "Stal (สเตล)"
+  },
+  {
+    "bandName": "TESCO (เทสโก้)"
+  },
+  {
+    "bandName": "X-tiger (เอ็กซ์ไทเกอร์)"
+  },
+  {
+    "bandName": "UPS (ยูพีเอส)"
+  },
+  {
+    "bandName": "BLL (บีแอลแอล)"
+  },
+  {
+    "bandName": "Spectrum (สเปกตรัม)"
+  },
+  {
+    "bandName": "GNS (จีเอ็นเอส)"
+  },
+  {
+    "bandName": "Cartec (คาร์เท็ค)"
+  },
+  {
+    "bandName": "NoiWatdan (หน่อยวัดด่าน)"
+  },
+  {
+    "bandName": "ALCtrack (เอแอลแทรค)"
+  },
+  {
+    "bandName": "Rosekey (โรสคีย์)"
+  },
+  {
+    "bandName": "King Merch Car (คิง เมิร์ซ คาร์)"
+  },
+  {
+    "bandName": "Menzerna (เมนเซอร์น่า)"
+  },
+  {
+    "bandName": "Orbit (ออร์บิท)"
+  },
+  {
+    "bandName": "CZ Film (ซีแซดฟิล์ม)"
+  },
+  {
+    "bandName": "BBR (บีบีอาร์)"
+  },
+  {
+    "bandName": "Ehop Wax (อีฮ็อพแว๊กซ์)"
+  },
+  {
+    "bandName": "Kineo (คิเนโอะ)"
+  },
+  {
+    "bandName": "Navman (นาฟแมน)"
+  },
+  {
+    "bandName": "Navman (เนฟแมน)"
+  },
+  {
+    "bandName": "Deco (เดโค่)"
+  },
+  {
+    "bandName": "Mototechnik (โมโตเทคนิค)"
+  },
+  {
+    "bandName": "Comet (โคเม็ต)"
+  },
+  {
+    "bandName": "Noco Genius (โนโค จีเนียส)"
+  },
+  {
+    "bandName": "NOCO GENIUS (โนโค่จีเนียส)"
+  },
+  {
+    "bandName": "Tech Eye (เทคอาย)"
+  },
+  {
+    "bandName": "Maxwell (แม็กซ์เวลล์)"
+  },
+  {
+    "bandName": "Komak (โคแมค)"
+  },
+  {
+    "bandName": "Platinum (แพลตตินั่ม)"
+  },
+  {
+    "bandName": "Xukey (ซูคีย์)"
+  },
+  {
+    "bandName": "Heng (เฮง)"
+  },
+  {
+    "bandName": "Shokku Sports (โช๊คคุสปอร์ต)"
+  },
+  {
+    "bandName": "Blueskysea (บลูสกายซี)"
+  },
+  {
+    "bandName": "FH Group (เอฟเฮชกรุ๊ป)"
+  },
+  {
+    "bandName": "ShinoTrack (ชิโน แทรค)"
+  },
+  {
+    "bandName": "Seal Packing (ซีล แพ็คกิ้ง)"
+  },
+  {
+    "bandName": "Puig (พูอิก)"
+  },
+  {
+    "bandName": "Puig (พูค)"
+  },
+  {
+    "bandName": "People FU (พีเพิ้ล เอฟยู)"
+  },
+  {
+    "bandName": "Goliton (กอลิตัน)"
+  },
+  {
+    "bandName": "Vesidea (เวสไอเดีย)"
+  },
+  {
+    "bandName": "Magic Carmat (เมจิก คาร์แมต)"
+  },
+  {
+    "bandName": "Golovejoy (โกเลิฟจอย)"
+  },
+  {
+    "bandName": "Kaisi (ไคซี)"
+  },
+  {
+    "bandName": "Maxwell (แม็กซ์เวล)"
+  },
+  {
+    "bandName": "Mini (มินิ)"
+  },
+  {
+    "bandName": "Airofog (แอร์โรวฟ็อกซ์)"
+  },
+  {
+    "bandName": "Ichinen Chemical (อิชิเนน เคมิคัล)"
+  },
+  {
+    "bandName": "Togami (โตกามิ)"
+  },
+  {
+    "bandName": "Osah (โอซา)"
+  },
+  {
+    "bandName": "Osah Drypak (โอซา ดายปาค)"
+  },
+  {
+    "bandName": "Super Clean (ซูเปอร์ คลีน)"
+  },
+  {
+    "bandName": "WISPCLEAN (วิซคลีน)"
+  },
+  {
+    "bandName": "น้าคมน็อตซิ่ง (น้าคมน็อตซิ่ง)"
+  },
+  {
+    "bandName": "Big Spray (บิ๊กสเปรย์)"
+  },
+  {
+    "bandName": "MWL (เอ็มดับบลิวแอล)"
+  },
+  {
+    "bandName": "H&C (เอชแอนด์ซี)"
+  },
+  {
+    "bandName": "Foxwell (ฟ็อกซ์เวล)"
+  },
+  {
+    "bandName": "WACA (วาคา)"
+  },
+  {
+    "bandName": "LF, LADYFIRST (เลดี้เฟิร์ส)"
+  },
+  {
+    "bandName": "M​&S (เอ็มแอนด์เอส)​"
+  },
+  {
+    "bandName": "Qualcomm (ควอลคอมม์)"
+  },
+  {
+    "bandName": "The Boss888 (เดอะบอส888)"
+  },
+  {
+    "bandName": "Yuda (ยูด้า)"
+  },
+  {
+    "bandName": "Heyner (เฮย์เนอร์)"
+  },
+  {
+    "bandName": "AON (ออน)"
+  },
+  {
+    "bandName": "Forten (ฟอร์เทน)"
+  },
+  {
+    "bandName": "Rundong Auto Accessories (รันดองออโต้เอคเซสเซอรี่)"
+  },
+  {
+    "bandName": "BS Racing (อาร์เอส เรซซิ่ง)"
+  },
+  {
+    "bandName": "TP  (ทีพี)"
+  },
+  {
+    "bandName": "Harada (ฮาราดะ)"
+  },
+  {
+    "bandName": "Dewtreetali (ดิวทรีทาลิ)"
+  },
+  {
+    "bandName": "Sebter (เซบเตอร์)"
+  },
+  {
+    "bandName": "Simpson​ (ชิปช๊อป)"
+  },
+  {
+    "bandName": "365 Always Shine (365 ออลเวย์ ไชน์)"
+  },
+  {
+    "bandName": "ProCare  (โปรแคร์)"
+  },
+  {
+    "bandName": "NTT MOTOR​ BIKE (เอ็นทีทีมอเตอร์ไบร์ท)"
+  },
+  {
+    "bandName": "MMC (เอ็มเอ็มซี)"
+  },
+  {
+    "bandName": "MMC Oil Filter (เอ็ม เอ็ม ซี ออย โฟรเท็ค)"
+  },
+  {
+    "bandName": "Shellcolor (เชลคัลเลอร์)"
+  },
+  {
+    "bandName": "ยี่ห้อ M&F​ Wax (เอ็มแอนด์เอ็กซ์แว็กซ์)"
+  },
+  {
+    "bandName": "Turtlewax (เทอร์เทิ่ลแว็กซ์)"
+  },
+  {
+    "bandName": "Turtle Wax (เทอร์เทิ่ล แว็กซ์)"
+  },
+  {
+    "bandName": "Turtle Wax (เทอร์เทิล แว็กซ์)"
+  },
+  {
+    "bandName": "Carzone (คาร์โซน)"
+  },
+  {
+    "bandName": "Baer (แบเออร์)"
+  },
+  {
+    "bandName": "Mr Horn (มายฮอร์น)"
+  },
+  {
+    "bandName": "Nilino (นิลิโน่)"
+  },
+  {
+    "bandName": "Motowolf (มอเตอร์วูฟ)"
+  },
+  {
+    "bandName": "Dinobox (ไดโนบ๊อกซ์)"
+  },
+  {
+    "bandName": "Dpower (ดีพาวเวอร์)"
+  },
+  {
+    "bandName": "Wey (เวย์)"
+  },
+  {
+    "bandName": "Difi ZD (ดีฟี่ แซดดี)"
+  },
+  {
+    "bandName": "Borgward (บอร์ควาร์ด)"
+  },
+  {
+    "bandName": "70mai (70ไมล์)"
+  },
+  {
+    "bandName": "JEEP (จิ๊บ)"
+  },
+  {
+    "bandName": "Pro Kleen (โปรคลีน)"
+  },
+  {
+    "bandName": "Adams Polishes (อดัม โพลิเชส)"
+  },
+  {
+    "bandName": "UR1 (ยูอาร์วัน)"
+  },
+  {
+    "bandName": "Muki (มูกิ)"
+  },
+  {
+    "bandName": "Xado (ซาโด)"
+  },
+  {
+    "bandName": "Red oil (เรด ออย)"
+  },
+  {
+    "bandName": "Kokla (โกกล้า)"
+  },
+  {
+    "bandName": "Boss Armadillo (บอส อามาดิโล่)"
+  },
+  {
+    "bandName": "Vpro Wax (วีโปร แว๊กซ์)"
+  },
+  {
+    "bandName": "Nspeed (เอ็นสปีด)"
+  },
+  {
+    "bandName": "Novalax (โนวาแล็กซ์)"
+  },
+  {
+    "bandName": "R Mini (อาร์มินิ)"
+  },
+  {
+    "bandName": "Borgward (บอร์กวาร์ด)"
+  },
+  {
+    "bandName": "Alpina (อัลพิน่า)"
+  },
+  {
+    "bandName": "Red Fighter (เรด ไฟท์เตอร์)"
+  },
+  {
+    "bandName": "Gremlins (แกรมลินส์)"
+  },
+  {
+    "bandName": "Weilanxu (เว่ยหลันซู)"
+  },
+  {
+    "bandName": "RR (อาร์อาร์)"
+  },
+  {
+    "bandName": "TURTLE WAX (เทอร์เทิลแว็กซ์)"
+  },
+  {
+    "bandName": "Turtlewax (เทอร์เทิลแว็กซ์)"
+  },
+  {
+    "bandName": "Powervox (พาวเวอร์ว็อกซ์)"
+  },
+  {
+    "bandName": "SUNFOOT (ซันฟุต)"
+  },
+  {
+    "bandName": "Rock Space (ร๊อคสเปซ)"
+  },
+  {
+    "bandName": "Gloszer  (กลอสเซอร์)"
+  },
+  {
+    "bandName": "LUBE23 (ลูฟ23)"
+  },
+  {
+    "bandName": "TCJ Asia (ทีซีเจ เอเชีย)"
+  },
+  {
+    "bandName": "Vuplex (วูเฟก)"
+  },
+  {
+    "bandName": "Frando (ฟรังโด)"
+  },
+  {
+    "bandName": "Backliners By EI (แบ็คไลเนอร์บายอีไอ)"
+  },
+  {
+    "bandName": "Backliners By Ei (แบ็คไลเนอร์ บาย ไอ)"
+  },
+  {
+    "bandName": "V Tex (วีเท็กซ์)"
+  },
+  {
+    "bandName": "Usefor (ยูสฟอร์)"
+  },
+  {
+    "bandName": "STN (เอสทีเอ็น)"
+  },
+  {
+    "bandName": "VFOZEVFoze  (วีฟอซ)"
+  },
+  {
+    "bandName": "TP (ทีพี่)"
+  },
+  {
+    "bandName": "Focopo (โฟโคโป)"
+  },
+  {
+    "bandName": "JKT (เจเคที)"
+  },
+  {
+    "bandName": "Carpower By Monacor (คาร์เพาเวอร์บายโมโนคอร์)"
+  },
+  {
+    "bandName": "Auto Finesse (ออโต้ฟินเนส)"
+  },
+  {
+    "bandName": "เออะไหล่ซิ่งอรัญ (เออะไหล่ซิ่งอรัญ)"
+  },
+  {
+    "bandName": "เออะไหล่ซิ่ง อรัญประเทศ"
+  },
+  {
+    "bandName": "VDO (วีดิโอ)"
+  },
+  {
+    "bandName": "Mba (เอ็มบีเอ)"
+  },
+  {
+    "bandName": "Magic Gold (เมจิกโกลด์)"
+  },
+  {
+    "bandName": "Diamond Class (ไดมอนด์คลาส)"
+  },
+  {
+    "bandName": "Hugger (ฮักเกอร์)"
+  },
+  {
+    "bandName": "Titan Laser (ไททัน เลเซอร์)"
+  },
+  {
+    "bandName": "Phanalai (พันอะไหล่)"
+  },
+  {
+    "bandName": "TN Racing Bolt (ทีเอ็น เรซซิ่ง โบลต์)"
+  },
+  {
+    "bandName": "Super Black (ซุปเปอร์แบล็ค)"
+  },
+  {
+    "bandName": "Essager (เอสเซเกอร์)"
+  },
+  {
+    "bandName": "RBI (อาร์บีไอ)"
+  },
+  {
+    "bandName": "333 (ตองสาม)"
+  },
+  {
+    "bandName": "Dymo (ไดโม)"
+  },
+  {
+    "bandName": "Hafele (เฮเฟเล่)"
+  },
+  {
+    "bandName": "Boshi (โบชิ)"
+  },
+  {
+    "bandName": "ANR (เอเอ็นอาร์)"
+  },
+  {
+    "bandName": "B Fren (บีเฟิร์น)"
+  },
+  {
+    "bandName": "TTW  (ทีทีดับบลิว)"
+  },
+  {
+    "bandName": "Mojipic (โมจิพิค)"
+  },
+  {
+    "bandName": "Choho (โชโช)"
+  },
+  {
+    "bandName": "Choho (โชโฮ)"
+  },
+  {
+    "bandName": "Accnic (แอคนิค)"
+  },
+  {
+    "bandName": "Philips (ฟิลลิปส์)"
+  },
+  {
+    "bandName": "HSC (เอชเอสซี)"
+  },
+  {
+    "bandName": "Newmine (นิวมาย)"
+  },
+  {
+    "bandName": "Philips (ฟิลิปส์)"
+  },
+  {
+    "bandName": "Aolike (เอโอไลค์)"
+  },
+  {
+    "bandName": "Netpor (เน็ตพอร์)"
+  },
+  {
+    "bandName": "Ozio (โอซิโอ)"
+  },
+  {
+    "bandName": "Ruici (ริทซ์)"
+  },
+  {
+    "bandName": "Sast (แซสท์)"
+  },
+  {
+    "bandName": "Accnic (แอคนิก)"
+  },
+  {
+    "bandName": "Newsmy (นิวส์มี่)"
+  },
+  {
+    "bandName": "Aisikai (ไอสิไก)"
+  },
+  {
+    "bandName": "Pisen (ไพเซน)"
+  },
+  {
+    "bandName": "Newsmy (นิวส์มาย)"
+  },
+  {
+    "bandName": "Veecle (วีเซิล)"
+  },
+  {
+    "bandName": "Newmine (นิวมีน)"
+  },
+  {
+    "bandName": "Rundong (รันดง)"
+  },
+  {
+    "bandName": "Aolike (โอไลก์)"
+  },
+  {
+    "bandName": "Aikesi (ไอเคซิ)"
+  },
+  {
+    "bandName": "Aiboostpro (ไอบูสต์โปร)"
+  },
+  {
+    "bandName": "Shunwei (ชุนเหว่ย)"
+  },
+  {
+    "bandName": "Xiaomi (เสียวหมี่)"
+  },
+  {
+    "bandName": "Solam (โซแลม)"
+  },
+  {
+    "bandName": "Netpor (เนทปอร์)"
+  },
+  {
+    "bandName": "SAST (เอสเอเอสที)"
+  },
+  {
+    "bandName": "Aiboostpro (ไอบูสท์โปร)"
+  },
+  {
+    "bandName": "Sonogoo (โซโนกู)"
+  },
+  {
+    "bandName": "Starnic (สตาร์นิค)"
+  },
+  {
+    "bandName": "True Ful (ทรู ฟูล)"
+  },
+  {
+    "bandName": "Thainam (ไทยนำ)"
+  },
+  {
+    "bandName": "KDX (เคดีเอ็กซ์)"
+  },
+  {
+    "bandName": "Cicido (ซิซิโด)"
+  },
+  {
+    "bandName": "Ma Audio (มา ออดิโอ)"
+  },
+  {
+    "bandName": "PSBB (พีเอสบีบี)"
+  },
+  {
+    "bandName": "Dian Bin (เตี้ยน บิน)"
+  },
+  {
+    "bandName": "YTM  Motor (วายทีเอ็มมอเตอร์)"
+  },
+  {
+    "bandName": "Windek (วินเดค)"
+  },
+  {
+    "bandName": "YTM (วายทีเอ็ม)"
+  },
+  {
+    "bandName": "Flusso (ฟลัซโซ่)"
+  },
+  {
+    "bandName": "U-Route (ยู-รูท)"
+  },
+  {
+    "bandName": "Zhuai Mao (ซุย เหมา)"
+  },
+  {
+    "bandName": "Truefai (ทรูฟาย)"
+  },
+  {
+    "bandName": "Truefai (ทรูไฟ)"
+  },
+  {
+    "bandName": "Aidu (ไอดู)"
+  },
+  {
+    "bandName": "Truefai (ทรูฝ้าย)"
+  },
+  {
+    "bandName": "Wheel Up (วีล อัพ)"
+  },
+  {
+    "bandName": "SNBLO (เอสเอ็นบีแอลโอ)"
+  },
+  {
+    "bandName": "Whenfor (เวนฟอร์)"
+  },
+  {
+    "bandName": "NBM (เอ็นบีเอ็ม)"
+  },
+  {
+    "bandName": "Picauto (พิคออโต้)"
+  },
+  {
+    "bandName": "PIC Auto (พีไอซีออโต้)"
+  },
+  {
+    "bandName": "Nash (แนช)"
+  },
+  {
+    "bandName": "Barracuda (บาร์ราคิวด้า)"
+  },
+  {
+    "bandName": "Nimble (นิมเบิล)"
+  },
+  {
+    "bandName": "Baseus (บาเซอุส)"
+  },
+  {
+    "bandName": "Vu Plex (วูเพล็กซ์)"
+  },
+  {
+    "bandName": "GCraft (จีคราฟ)"
+  },
+  {
+    "bandName": "Swallow Brand (ตรานกนางแอ่น)"
+  },
+  {
+    "bandName": "Karcher (คาร์เชอร์)"
+  },
+  {
+    "bandName": "TST By Cardinal Store (ทีเอสทีบายคาร์ดินอลสโตร)"
+  },
+  {
+    "bandName": "Ping (ปิง)"
+  },
+  {
+    "bandName": "Garcia (การ์เซีย)"
+  },
+  {
+    "bandName": "Continez (คอนติเนซ)"
+  },
+  {
+    "bandName": "Hitex Sling (ไฮเท็กซ์สลิง)"
+  },
+  {
+    "bandName": "CNT (ซีเอ็นที)"
+  },
+  {
+    "bandName": "Metzeler (เมทเซลเลอร์)"
+  },
+  {
+    "bandName": "Naverdie (เนเวอร์ได)"
+  },
+  {
+    "bandName": "Equal (อีควล)"
+  },
+  {
+    "bandName": "Yopin (โยพิน)"
+  },
+  {
+    "bandName": "Auto Darin (ออโต้ดาริน)"
+  },
+  {
+    "bandName": "Sampo (แซมโพ)"
+  },
+  {
+    "bandName": "Balea (บาลีอา)"
+  },
+  {
+    "bandName": "Onpineep (ออนปินีป)"
+  },
+  {
+    "bandName": "Safsof (เซฟซอฟ)"
+  },
+  {
+    "bandName": "Carjay (คาร์เจย์)"
+  },
+  {
+    "bandName": "Yiizand (ยีแซนด์)"
+  },
+  {
+    "bandName": "Xiaomi (เสียวมี่)"
+  },
+  {
+    "bandName": "Crosselec (ครอสอีเล็ค)"
+  },
+  {
+    "bandName": "Respect Auto (เรสเปคต์ ออโต้)"
+  },
+  {
+    "bandName": "Cool HKS (คูลเอชเคเอส)"
+  },
+  {
+    "bandName": "Carzkool (คาร์ซคูล)"
+  },
+  {
+    "bandName": "Qing Feng Weishi (ชิง เฟิง เหว่ยชิ)"
+  },
+  {
+    "bandName": "Laofuche (ลัวฟูเช่)"
+  },
+  {
+    "bandName": "Thailand Fabric Covers (ไทยแลนด์แฟบริค)"
+  },
+  {
+    "bandName": "Forever (ฟอร์เอฟเวอร์)"
+  },
+  {
+    "bandName": "KST (เคเอสที)"
+  },
+  {
+    "bandName": "AUX (เอยูเอ็กซ์)"
+  },
+  {
+    "bandName": "BBS (บีบีเอส)"
+  },
+  {
+    "bandName": "Volkswagen (โฟล์คสวาเกน)"
+  },
+  {
+    "bandName": "Ehop Wax (อีฮ็อป แว็กซ์)"
+  },
+  {
+    "bandName": "Ehop Wax (อีโฮปแว๊กซ์)"
+  },
+  {
+    "bandName": "Ehop Wax (อีฮ็อปแว็กซ์)"
+  },
+  {
+    "bandName": "Ehop Wax (อีฮอป แว็กซ์)"
+  },
+  {
+    "bandName": "Buddy Seat (บัดดี้ซีท)"
+  },
+  {
+    "bandName": "Carretex (คาร์รีเท็กซ์)"
+  },
+  {
+    "bandName": "Zoom X by Carretex (ซูม​เอ็กซ์บายเเคร์รีเท็กซ์)"
+  },
+  {
+    "bandName": "Luxgen (ลัคเก้น)"
+  },
+  {
+    "bandName": "Jaguar Land Rover (จากัวร์แลนด์โรเวอร์)"
+  },
+  {
+    "bandName": "Karry (คาร์รี๋)"
+  },
+  {
+    "bandName": "Kaiyi (ไก่ยี่)"
+  },
+  {
+    "bandName": "Foday (ฟู๋ดี๋)"
+  },
+  {
+    "bandName": "Alfa·Romeo (อัลฟาโรเมโอ)"
+  },
+  {
+    "bandName": "SWM (เอสดับบลิวเอ็ม)"
+  },
+  {
+    "bandName": "Posh (พอร์ช)"
+  },
+  {
+    "bandName": "ASW Balance (เอเอสดับวิว บาลานซ์)"
+  },
+  {
+    "bandName": "Hali (ฮาลิ)"
+  },
+  {
+    "bandName": "Econo (อีโคโน)"
+  },
+  {
+    "bandName": "Vforce (วีฟอส)"
+  },
+  {
+    "bandName": "Oppo (ออปโป้)"
+  },
+  {
+    "bandName": "Racetech (เรซเทค)"
+  },
+  {
+    "bandName": "Flex (เฟล็กซ์)"
+  },
+  {
+    "bandName": "Bell (เบลล์)"
+  },
+  {
+    "bandName": "BM Auto Car (บีเอ็มออโต้คาร์)"
+  },
+  {
+    "bandName": "K6 (เค6)"
+  },
+  {
+    "bandName": "DM (ดีเอ็ม)"
+  },
+  {
+    "bandName": "Topmost (ท็อปมอสท์)"
+  },
+  {
+    "bandName": "Papago (พาพาโก้)"
+  },
+  {
+    "bandName": "Jk Max (เจเค แม็กซ์)"
+  },
+  {
+    "bandName": "Nagoya (นาโกย่า)"
+  },
+  {
+    "bandName": "CC Chabu Clean (ซีซี ชาบู คลีน)"
+  },
+  {
+    "bandName": "Tata (ทาทา)"
+  },
+  {
+    "bandName": "Ceratizit (เซอร์เลทิซิท)"
+  },
+  {
+    "bandName": "Ceratizit (เซราทิซิท)"
+  },
+  {
+    "bandName": "KS Racing (เคเอสเรซซิ่ง)"
+  },
+  {
+    "bandName": "UT (ยู ที)"
+  },
+  {
+    "bandName": "UT (ยูที)"
+  },
+  {
+    "bandName": "Hagen Wax (ฮาเจ้นแว๊กซ์)"
+  },
+  {
+    "bandName": "K6 (เค 6)"
+  },
+  {
+    "bandName": "Racingboy (ราซินบอย)"
+  },
+  {
+    "bandName": "Cheya (ชียา)"
+  },
+  {
+    "bandName": "XT60 (เอ็กซ์ที60)"
+  },
+  {
+    "bandName": "Maxwell (แม๊คเวลล์)"
+  },
+  {
+    "bandName": "Mag Auto Care (แม็กออโต้คาร์)"
+  },
+  {
+    "bandName": "Car Coloni (คาร์โคโลนิ)"
+  },
+  {
+    "bandName": "Car Coloni (คาร์ โคโลนิ)"
+  },
+  {
+    "bandName": "Jadeno (จาเดโน)"
+  },
+  {
+    "bandName": "Momo (โมโม่)"
+  },
+  {
+    "bandName": "Sparco (สปาร์โค่)"
+  },
+  {
+    "bandName": "Riich (รุยฉี)"
+  },
+  {
+    "bandName": "Alfa Romeo (อัลฟา โรมีโอ)"
+  },
+  {
+    "bandName": "Byvin (บายวิน)"
+  },
+  {
+    "bandName": "ZD (ซีดี)"
+  },
+  {
+    "bandName": "Wey (ดับเบิ้ลยูยีวาย)"
+  },
+  {
+    "bandName": "Dark Glasses (ดาร์ค กลาสเสส)"
+  },
+  {
+    "bandName": "K6 Performance (เคซิกส์ เพอร์ฟอร์แมนซ์)"
+  },
+  {
+    "bandName": "SEIWA (ซิลวา)"
+  },
+  {
+    "bandName": "Motoskill (โมโตสกิล)"
+  },
+  {
+    "bandName": "Futaba (ฟูตะบะ)"
+  },
+  {
+    "bandName": "Moto Skill (โมโตสกิล)"
+  },
+  {
+    "bandName": "Maxima Racing Oils (แม็กซิม่าเรซซิ่งออลย์)"
+  },
+  {
+    "bandName": "Yamaha (ยามาฮา)"
+  },
+  {
+    "bandName": "Red Fox (เรดฟ๊อกซ์)"
+  },
+  {
+    "bandName": "Huafeng (ฮัวเฟง)"
+  },
+  {
+    "bandName": "M.A.D. (แมด)"
+  },
+  {
+    "bandName": "Engi (เอ็นจิ)"
+  },
+  {
+    "bandName": "Motostuka (มาโตรชกา)"
+  },
+  {
+    "bandName": "NGK (เอ็นจีเค)"
+  },
+  {
+    "bandName": "Manuallock (แมนนวลล็อค)"
+  },
+  {
+    "bandName": "Chupa Chups (จูปา จุ๊ปส์)"
+  },
+  {
+    "bandName": "Motex (โมเท็กซ์)"
+  },
+  {
+    "bandName": "Alatour (อลาเทอร์)"
+  },
+  {
+    "bandName": "Shamwow (ฉ่ำว้าว)"
+  },
+  {
+    "bandName": "Sammitr Autopart (สามมิตร ออโต้พาร์ท)"
+  },
+  {
+    "bandName": "Galfer (กาล์ฟเฟอร์)"
+  },
+  {
+    "bandName": "Shiliduo (ชิลิดูโอ)"
+  },
+  {
+    "bandName": "Maxsol (แม็กซ์โซล)"
+  },
+  {
+    "bandName": "N Super Black Shine (เอ็นซุปเปอร์ซายน์)"
+  },
+  {
+    "bandName": "Nigrin (นิกริน)"
+  },
+  {
+    "bandName": "ADM (เอดีเอ็ม)"
+  },
+  {
+    "bandName": "Qiu Bie Kai (คิวบีไค)"
+  },
+  {
+    "bandName": "J Car (เจคาร์)"
+  },
+  {
+    "bandName": "J-Car (เจคาร์)"
+  },
+  {
+    "bandName": "Garant (กาแรนท์)"
+  },
+  {
+    "bandName": "Vrrfilter (วีอาร์อาร์ฟิลเตอร์)"
+  },
+  {
+    "bandName": "Cheerjoy (เชียร์จอย)"
+  },
+  {
+    "bandName": "BT Power (พีที พาวเวอร์)"
+  },
+  {
+    "bandName": "Tesla (เทสล่า)"
+  },
+  {
+    "bandName": "Hi-Kool (ไฮคูล)"
+  },
+  {
+    "bandName": "Wild Heart (ไวล์ด เฮอร์ด)"
+  },
+  {
+    "bandName": "Pentosin (เพ็นโทซิน)"
+  },
+  {
+    "bandName": "CHT (ซีเอชที)"
+  },
+  {
+    "bandName": "CHT Racing (ซีเอชที เรซซิ่ง)"
+  },
+  {
+    "bandName": "Brake Quip (เบรค ควิป)"
+  },
+  {
+    "bandName": "CHTracing (ซีเอชที เรสซิ่งส์)"
+  },
+  {
+    "bandName": "Shima (ชิมะ)"
+  },
+  {
+    "bandName": "X Speed (เอ็กซ์สปีด)"
+  },
+  {
+    "bandName": "Roidmi (รอยด์มี่)"
+  },
+  {
+    "bandName": "Gub Pro (กั๊บโปร)"
+  },
+  {
+    "bandName": "Xtech (เอ็กซ์เทค)"
+  },
+  {
+    "bandName": "เอกพูนทรัพย์ (เอกพูนทรัพย์)"
+  },
+  {
+    "bandName": "Flennor (เฟลนนอร์)"
+  },
+  {
+    "bandName": "Tupaknam (ตู่ปากน้ำ)"
+  },
+  {
+    "bandName": "TWH (ทีดับเบิลยูเอช)"
+  },
+  {
+    "bandName": "Vikan (วีเคน)"
+  },
+  {
+    "bandName": "Moueol (เมาล์)"
+  },
+  {
+    "bandName": "Napa (นภา)"
+  },
+  {
+    "bandName": "ฺBobster (บ็อบเตอร์)"
+  },
+  {
+    "bandName": "Mini Hornit (มินิ ฮอร์นิต)"
+  },
+  {
+    "bandName": "Wild Heart (ไวท์ฮาร์ท)"
+  },
+  {
+    "bandName": "Alps (แอลป์)"
+  },
+  {
+    "bandName": "Mercedes-Benz (เมอร์เซเดส-เบนซ์)"
+  },
+  {
+    "bandName": "Fashine1 (แฟซายส์1)"
+  },
+  {
+    "bandName": "Rust Away (รูทออลเวย์)"
+  },
+  {
+    "bandName": "Knack (แนค)"
+  },
+  {
+    "bandName": "Knack (แน็ค)"
+  },
+  {
+    "bandName": "Vfoze (วีโฟซ)"
+  },
+  {
+    "bandName": "Rust Away (รัสท์ อเวย์)"
+  },
+  {
+    "bandName": "Asr (เอเอสอาร์)"
+  },
+  {
+    "bandName": "Project Fi (โปรเจ็ค เอฟไอ)"
+  },
+  {
+    "bandName": "Project Fi (โปรเจ็คเอฟไอ)"
+  },
+  {
+    "bandName": "Mercedes Benz (เมอร์เซเดสเบนซ์)"
+  },
+  {
+    "bandName": "Baseus (เบซีอัส)"
+  },
+  {
+    "bandName": "Dumd (ดียูเอ็มดี)"
+  },
+  {
+    "bandName": "PS Clear&Shine (พีเอส คลีนแอนด์ชายน์)"
+  },
+  {
+    "bandName": "ืNinja (นินจา)"
+  },
+  {
+    "bandName": "K Racing (เค เรซซิ่ง)"
+  },
+  {
+    "bandName": "Morris Garages (มอร์ริส การาจส์)"
+  },
+  {
+    "bandName": "Kroops (ครู๊ปส์)"
+  },
+  {
+    "bandName": "West Coast Choppers (เวสต์โคสชอปเปอร์)"
+  },
+  {
+    "bandName": "Kozi (โกซี่)"
+  },
+  {
+    "bandName": "West Coast Choppers (เวสโคส ช๊อปเปอร์)"
+  },
+  {
+    "bandName": "White Wolf (ไวท์วอลฟ์)"
+  },
+  {
+    "bandName": "Technoflex (เทคโน เฟลกซ์)"
+  },
+  {
+    "bandName": "Kasoz (คาสอซ)"
+  },
+  {
+    "bandName": "Mitsuboshi Boeki (มิตซูโบชิ โบเอกิ)"
+  },
+  {
+    "bandName": "Mitsu (มิตซู)"
+  },
+  {
+    "bandName": "Mitsuboshi boiki (มิตซูโบชิโบกิ)"
+  },
+  {
+    "bandName": "Mitsuboshi Boeki (มิตซูโบชิโบเอกิ)"
+  },
+  {
+    "bandName": "Yaguso (ยากูโซ่)"
+  },
+  {
+    "bandName": "Spa Clean (สปาคลีน)"
+  },
+  {
+    "bandName": "The Ohmega (เดอะ โอเมก้า)"
+  },
+  {
+    "bandName": "Zulex (ซูเล็ค)"
+  },
+  {
+    "bandName": "Boost (บูสท์)"
+  },
+  {
+    "bandName": "Botny (บอทนี่)"
+  },
+  {
+    "bandName": "365 Always Shine (365ออเวย์ไชน์)"
+  },
+  {
+    "bandName": "SMK Helmet (เอสเอ็มเค เฮลเมทส์)"
+  },
+  {
+    "bandName": "Qgeem (คิวจีม)"
+  },
+  {
+    "bandName": "Vango (แวนโก้)"
+  },
+  {
+    "bandName": "Deerma (เดียร์ม่า)"
+  },
+  {
+    "bandName": "Chamwow (ฉ่ำว้าว)"
+  },
+  {
+    "bandName": "Boots (บูทส์)"
+  },
+  {
+    "bandName": "Kaiser (ไกเซอร์)"
+  },
+  {
+    "bandName": "Sast (แซส)"
+  },
+  {
+    "bandName": "Royal (รอยัล)"
+  },
+  {
+    "bandName": "Liberloo (ไลเบอร์โล)"
+  },
+  {
+    "bandName": "Starway (สตาร์เวย์)"
+  },
+  {
+    "bandName": "Star Way (สตาร์เวย์)"
+  },
+  {
+    "bandName": "RD Random (อาร์ดี แรนดอม)"
+  },
+  {
+    "bandName": "HD Corse (เอชดี คอร์เซ่)"
+  },
+  {
+    "bandName": "FK (เอฟเค)"
+  },
+  {
+    "bandName": "Kobelco (โคเบลโค)"
+  },
+  {
+    "bandName": "VIA Helmet (วีไอเอ เฮลเมท)"
+  },
+  {
+    "bandName": "Cat (แคท)"
+  },
+  {
+    "bandName": "MWUPP (เอ็มดับเบิ้ลยูยูพีพี)"
+  },
+  {
+    "bandName": "Mwupp (เอ็มวัปป์)"
+  },
+  {
+    "bandName": "Exoshield (เอ็กซ์ชิลด์)"
+  },
+  {
+    "bandName": "AB Audio Builder (เอบี ออดิโอ บิลเดอร์)"
+  },
+  {
+    "bandName": "Exo Shield (เอ็กซ์โซชิลด์)"
+  },
+  {
+    "bandName": "Ride On (ไรด์ ออน)"
+  },
+  {
+    "bandName": "Ride - On (ไรด์ออน)"
+  },
+  {
+    "bandName": "Ride On (ไรด์ออน)"
+  },
+  {
+    "bandName": "ไทยวิวัฒน์ (ไทยวิวัฒน์)"
+  },
+  {
+    "bandName": "PS-Tech (พีเอส-เทค)"
+  },
+  {
+    "bandName": "Greattech (เกรทเทค)"
+  },
+  {
+    "bandName": "Ecoair Vietnam (อีโค่แอร์ เวียดนาม)"
+  },
+  {
+    "bandName": "Winswift (วินสวิฟท์)"
+  },
+  {
+    "bandName": "Winswift (วินสวิ๊ฟ)"
+  },
+  {
+    "bandName": "Do-Ar (ดู-อาร์)"
+  },
+  {
+    "bandName": "Do Ar (ดูอาร์)"
+  },
+  {
+    "bandName": "Three  Peaks (สามพีคซ์)"
+  },
+  {
+    "bandName": "Serie’s1 (ซีรี่ส์วัน)"
+  },
+  {
+    "bandName": "AB Audio Builder (เอบีออดิโอบิลเดอร์)"
+  },
+  {
+    "bandName": "BEC (บีอีซี)"
+  },
+  {
+    "bandName": "Mamove (มามูฟ)"
+  },
+  {
+    "bandName": "Hobby (ฮ็อบบี้)"
+  },
+  {
+    "bandName": "Skywing (สกายวิ้ง)"
+  },
+  {
+    "bandName": "G.T. Power (จี.ที.เพาเวอร์)"
+  },
+  {
+    "bandName": "T Synergy (ทีซินเนอร์ยี่)"
+  },
+  {
+    "bandName": "T Synergy (ที ซีเนจี้)"
+  },
+  {
+    "bandName": "T-Synergy (ที-ซินเนอร์จี้)"
+  },
+  {
+    "bandName": "Hobbywing (ฮอบบี้ วิงค์)"
+  },
+  {
+    "bandName": "Ruiao (รุยเอ้า)"
+  },
+  {
+    "bandName": "Bass Apostle (เบส อโพสต์)"
+  },
+  {
+    "bandName": "MCU​ Max (เอ็มซียู แม็กซ์)"
+  },
+  {
+    "bandName": "Cromax (โครแม็กซ์)"
+  },
+  {
+    "bandName": "Edison (เอดิสัน)"
+  },
+  {
+    "bandName": "Cherish (เชอริส)"
+  },
+  {
+    "bandName": "Emax (อีแม็กซ์)"
+  },
+  {
+    "bandName": "Tengle (เทนเกิล)"
+  },
+  {
+    "bandName": "Jimmy (จิมมี่)"
+  },
+  {
+    "bandName": "Irwin (เออร์วิ่น)"
+  },
+  {
+    "bandName": "Alpha Tech (อัลฟ่าเทค)"
+  },
+  {
+    "bandName": "Swan (สวอน)"
+  },
+  {
+    "bandName": "Pricol (เพอ)"
+  },
+  {
+    "bandName": "Eagle Tay (อีเกิ้ล เทย์)"
+  },
+  {
+    "bandName": "Autoglym (ออโต้กริม)"
+  },
+  {
+    "bandName": "Autoglym (ออโต้กลิม)"
+  },
+  {
+    "bandName": "JCS (เจซีเอส)"
+  },
+  {
+    "bandName": "Soundstream (ซาวด์สตรีม)"
+  },
+  {
+    "bandName": "The Tank (เดอะแทงค์)"
+  },
+  {
+    "bandName": "Bass Apostle (เบส อะโพสเทิล)"
+  },
+  {
+    "bandName": "Bass Apostle (เบสอะโพสเทิล)"
+  },
+  {
+    "bandName": "Five Advanced Gloves (ไฟว์แอดวานซ์โกลฟ)"
+  },
+  {
+    "bandName": "Five Advance Gloves (ไฟฟ์ แอดวานซ์ โกลฟ)"
+  },
+  {
+    "bandName": "Bass Apostle (บาส อะพอสเทิล)"
+  },
+  {
+    "bandName": "Katsuya (คัตสึยะ)"
+  },
+  {
+    "bandName": "Clula (คลูล่า)"
+  },
+  {
+    "bandName": "Leomax (ลีโอแมกซ์)"
+  },
+  {
+    "bandName": "Biomate (ไบโอเมท)"
+  },
+  {
+    "bandName": "Isuzu (อิซูซุ)"
+  },
+  {
+    "bandName": "Little Bird (ลิตเติล เบิร์ด)"
+  },
+  {
+    "bandName": "Cana (กาน่า)"
+  },
+  {
+    "bandName": "Mr.Peter (มิสเตอร์ปีเตอร์)"
+  },
+  {
+    "bandName": "Mr Peter (มิสเตอร์ ปีเตอร์)"
+  },
+  {
+    "bandName": "Primas (พรีม่า)"
+  },
+  {
+    "bandName": "Ohsunny (โอซันนี่)"
+  },
+  {
+    "bandName": "Koto (โกโต้)"
+  },
+  {
+    "bandName": "Tateno (ทาเทโน่)"
+  },
+  {
+    "bandName": "PSK (พี.เอส.เค)"
+  },
+  {
+    "bandName": "DR Tech (ดอกเตอร์เทค)"
+  },
+  {
+    "bandName": "Cherly (เชอร์รี่)"
+  },
+  {
+    "bandName": "Cherly (เชอร์ลี่)"
+  },
+  {
+    "bandName": "New Erajapan (นิวเอร่าเจแพน)"
+  },
+  {
+    "bandName": "3K (สามเค)"
+  },
+  {
+    "bandName": "Armor All (อาร์เมอร์ออล)"
+  },
+  {
+    "bandName": "Barrier (บาร์เรียร์)"
+  },
+  {
+    "bandName": "Prosport (โปรสปอร์ต)"
+  },
+  {
+    "bandName": "Hashiken (ฮาชิเคน)"
+  },
+  {
+    "bandName": "Thrashin Supply Company (ธราชินซัพพลาย คอมพานี)"
+  },
+  {
+    "bandName": "Strom (สตรอม์)"
+  },
+  {
+    "bandName": "Yukon (ยูคอน)"
+  },
+  {
+    "bandName": "Sport R (สปอรืตอาร์)"
+  },
+  {
+    "bandName": "Segway (เซ็กเวย์)"
+  },
+  {
+    "bandName": "Segway (เซกเวย์)"
+  },
+  {
+    "bandName": "Mototec (โมโตเทค)"
+  },
+  {
+    "bandName": "Pricol (พรีคูล)"
+  },
+  {
+    "bandName": "Speed up (สปีด อัพ)"
+  },
+  {
+    "bandName": "N Super Black Shine (เอ็นซุปเปอร์แบล็คชายน์)"
+  },
+  {
+    "bandName": "Aico (ไอโก้)"
+  },
+  {
+    "bandName": "Geely (จีลี่)"
+  },
+  {
+    "bandName": "Trumpchi (ทรัมป์ชิ)"
+  },
+  {
+    "bandName": "BYD (บีวายดี)"
+  },
+  {
+    "bandName": "Skoda (สโกด้า)"
+  },
+  {
+    "bandName": "Jo Floor Mat (โจ้ฟลอร์แมท)"
+  },
+  {
+    "bandName": "Aura Clean (ออร่าคลีน)"
+  },
+  {
+    "bandName": "Zhongshen (จงเซิน)"
+  },
+  {
+    "bandName": "Mito (มิโตะ)"
+  },
+  {
+    "bandName": "Mito (มิโต้)"
+  },
+  {
+    "bandName": "SGCB (เอสจีซีบี)"
+  },
+  {
+    "bandName": "IMS (ไอเอ็มเอส)"
+  },
+  {
+    "bandName": "Never Die (เนเวอร์ ได)"
+  },
+  {
+    "bandName": "Morris Garages (มอร์ริสการาจส์)"
+  },
+  {
+    "bandName": "Chery (เฌอรี่)"
+  },
+  {
+    "bandName": "BS (บีเอส)"
+  },
+  {
+    "bandName": "Worldtech (เวิล์ดเทค)"
+  },
+  {
+    "bandName": "Hepa Airfilter (เฮป้าแอร์ฟิลเตอร์)"
+  },
+  {
+    "bandName": "Maxto (แม็กซ์โตะ)"
+  },
+  {
+    "bandName": "Tong Yang (ทงหยัง)"
+  },
+  {
+    "bandName": "King Black (คิงแบล็ค)"
+  },
+  {
+    "bandName": "Devilbiss (เดวิลบิส)"
+  },
+  {
+    "bandName": "Devilbiss (เดวิบิส)"
+  },
+  {
+    "bandName": "Devilbiss (ดีวี่บิส)"
+  },
+  {
+    "bandName": "Huayi (หัวอี้)"
+  },
+  {
+    "bandName": "Carloflex (คาร์โลเฟล็กซ์)"
+  },
+  {
+    "bandName": "Kuragard (คุระการ์ด)"
+  },
+  {
+    "bandName": "Pretty Gloss (พริตตี้ กลอส)"
+  },
+  {
+    "bandName": "Boss Armadillo (บอสอาร์มันดิโอ้)"
+  },
+  {
+    "bandName": "Otoyeek (ออโต้ยีค)"
+  },
+  {
+    "bandName": "Ai Car Fun (เอไอ คาร์ฟัน)"
+  },
+  {
+    "bandName": "Hcalory (เอชแคลอรี่)"
+  },
+  {
+    "bandName": "BYGD (บีวายจีดี)"
+  },
+  {
+    "bandName": "Yantu (ยันทู)"
+  },
+  {
+    "bandName": "Tts Hispeed (ทีทีเอส ไฮสปรีด)"
+  },
+  {
+    "bandName": "Nile (ไนล์)"
+  },
+  {
+    "bandName": "Dominic (โดมินิค)"
+  },
+  {
+    "bandName": "Motobatt (โมโตแบต)"
+  },
+  {
+    "bandName": "Meta (เมต้า)"
+  },
+  {
+    "bandName": "Ambipur (แอมบิเพอร์)"
+  },
+  {
+    "bandName": "Fleetguard (ฟลีทการ์ด)"
+  },
+  {
+    "bandName": "Yazumo (ยาซูโม่)"
+  },
+  {
+    "bandName": "Id (ไอดี)"
+  },
+  {
+    "bandName": "BK Wax (บีเคแว็กซ์)"
+  },
+  {
+    "bandName": "V Tech (วี เทค)"
+  },
+  {
+    "bandName": "BKwax (บีเคแว็กซ์)"
+  },
+  {
+    "bandName": "BKwax (บีเคเเว็กซ์)"
+  },
+  {
+    "bandName": "Lamina films (ลามิน่าฟิล์ม)"
+  },
+  {
+    "bandName": "Nisin (นิสชิน)"
+  },
+  {
+    "bandName": "Spa (สปา)"
+  },
+  {
+    "bandName": "Tar Racing (ต้าร์​ เรซซิ่ง)​"
+  },
+  {
+    "bandName": "Elecom (เอเลคอม)"
+  },
+  {
+    "bandName": "Koma (โคม่า)"
+  },
+  {
+    "bandName": "Wolfs Head (วูลฟ์เฮด)"
+  },
+  {
+    "bandName": "Aeromotive (เอโร่โมทีฟ)"
+  },
+  {
+    "bandName": "K Tech (เคเทค)"
+  },
+  {
+    "bandName": "Ultramax (อัลตร้าแม็กซ์)"
+  },
+  {
+    "bandName": "Veison (เวยสัน)"
+  },
+  {
+    "bandName": "SFC (เอสเอฟซี)"
+  },
+  {
+    "bandName": "Kage (เคจ)"
+  },
+  {
+    "bandName": "Nisto (นิสโต้)"
+  },
+  {
+    "bandName": "MT Helmets (เอ็มที เฮลเมท)"
+  },
+  {
+    "bandName": "SP Autoclean (เอสพี ออโต้คลีน)"
+  },
+  {
+    "bandName": "Shuaxinbao (ชัวซินเบา)"
+  },
+  {
+    "bandName": "Gtechniq (จีเทคนิค)"
+  },
+  {
+    "bandName": "Wax One (แว๊กซ์วัน)"
+  },
+  {
+    "bandName": "Wax1 (แว๊กซ์วัน)"
+  },
+  {
+    "bandName": "Nui Racing Project (หนุ่ยเรซซิ่งโปรเจ็ค)"
+  },
+  {
+    "bandName": "Playlife (เพลย์ไลฟ์)"
+  },
+  {
+    "bandName": "44 Factory (44แฟคตอรี่)y"
+  },
+  {
+    "bandName": "Fuel Enhancer (ฟูเอล เอ็นฮานเซอร์)"
+  },
+  {
+    "bandName": "DS (ดีเอส)"
+  },
+  {
+    "bandName": "Kore Kn (คอร์ เคเอ็น)"
+  },
+  {
+    "bandName": "KN Kikaku (เคเอ็น คิคากุ)"
+  },
+  {
+    "bandName": "CRC (ซีอาร์ซี)"
+  },
+  {
+    "bandName": "OK Product (โอเคโปรดักส์)"
+  },
+  {
+    "bandName": "Stickergorgoong (กกุ้งสติ๊กเกอร์)"
+  },
+  {
+    "bandName": "Giga Gel (จิก้า)"
+  },
+  {
+    "bandName": "Bset Matel (บีเซ็ต แมเทล)"
+  },
+  {
+    "bandName": "Bset Matel (บีเซ็ท มาเทล)"
+  },
+  {
+    "bandName": "Giga Gel (กิ๊กก้าเจล)"
+  },
+  {
+    "bandName": "Giga Gel  (กิก้า เกลร์)"
+  },
+  {
+    "bandName": "Tmax (ทีแม็กซ์)"
+  },
+  {
+    "bandName": "Floron (โฟลรอน)"
+  },
+  {
+    "bandName": "Floron (ฟลอรอน)"
+  },
+  {
+    "bandName": "Allegri (อัลเลกรี)"
+  },
+  {
+    "bandName": "Fonken (ฟอนเคน)"
+  },
+  {
+    "bandName": "Airdog (แอร์ด็อก)"
+  },
+  {
+    "bandName": "Lamina (ลามิน่า)"
+  },
+  {
+    "bandName": "Vuplex (วูเฟล็กซ์)"
+  },
+  {
+    "bandName": "Vuplex (วูเพล็กซ์)"
+  },
+  {
+    "bandName": "Winner (วินเนอร์)"
+  },
+  {
+    "bandName": "Rhinowalk (ไรโน่ วอล์ค)"
+  },
+  {
+    "bandName": "JW (เจดับเบิลยู)"
+  },
+  {
+    "bandName": "YKZ (วายเคแซ่ด)"
+  },
+  {
+    "bandName": "YKZ (วายเคแซด)"
+  },
+  {
+    "bandName": "Tonyin (โทนี่อิน)"
+  },
+  {
+    "bandName": "Glasurit (นกแก้ว)"
+  },
+  {
+    "bandName": "BC (บีซี)"
+  },
+  {
+    "bandName": "V Mafa (วี มาฟา)"
+  },
+  {
+    "bandName": "Moko (โมโกะ)"
+  },
+  {
+    "bandName": "Hachem (ฮาเคม)"
+  },
+  {
+    "bandName": "Fixnow (ฟิกซ์นาว)"
+  },
+  {
+    "bandName": "Kanyaphat (กัญญาพัชร)"
+  },
+  {
+    "bandName": "Caproni (คาโปรนี่)"
+  },
+  {
+    "bandName": "Extra Black (เอ็กตร้าแบล็ค)"
+  },
+  {
+    "bandName": "Monster Shield (มอนสเตอร์ชิลด์)"
+  },
+  {
+    "bandName": "Monster Shield (มอนสเตอร์ ชิลด์)"
+  },
+  {
+    "bandName": "Yasuki (ยาซูกิ)"
+  },
+  {
+    "bandName": "Microtex (ไมโครเท็กซ์)"
+  },
+  {
+    "bandName": "Bioq (ไบโอคิว)"
+  },
+  {
+    "bandName": "GB9 (จีบีไนน์)"
+  },
+  {
+    "bandName": "Urban (เออร์เบิน)"
+  },
+  {
+    "bandName": "Belta (เบลต้า)"
+  },
+  {
+    "bandName": "Helmetlok (เฮลเมทล็อค)"
+  },
+  {
+    "bandName": "Abee (เอบี)"
+  },
+  {
+    "bandName": "Ghost Racing (โกสต์ เรซซิ่ง)"
+  },
+  {
+    "bandName": "Mercedes Benz (เมอร์เซเดส เบนซ์)"
+  },
+  {
+    "bandName": "Xtra Cole (เอ็กตร้า โคล)"
+  },
+  {
+    "bandName": "Ghost Racing (โกสท์ เรซซิ่ง)"
+  },
+  {
+    "bandName": "NPE (เอ็นพีอี)"
+  },
+  {
+    "bandName": "NDK (เอ็น.ดี.เค)"
+  },
+  {
+    "bandName": "Minor (มินอร์)"
+  },
+  {
+    "bandName": "Black King (แบล็คคิง)"
+  },
+  {
+    "bandName": "Power of Alien (ควิกชิพเตอร์พลังเอเลี่ยน)"
+  },
+  {
+    "bandName": "Kar Seal (คาร์ซีล)"
+  },
+  {
+    "bandName": "Bobster (บ๊อบสเตอร์)"
+  },
+  {
+    "bandName": "Shinano (ชินาโนะ)"
+  },
+  {
+    "bandName": "Wipwup (วิบวับ)"
+  },
+  {
+    "bandName": "Bering (เบอริ่ง)"
+  },
+  {
+    "bandName": "Longde (ลองเด๊ะ)"
+  },
+  {
+    "bandName": "72Jam (72แจม)"
+  },
+  {
+    "bandName": "Taze The Ultimate (เทซ เดอะอัลติเมท)"
+  },
+  {
+    "bandName": "Dino Box (ไดโนบ๊อกซ์)"
+  },
+  {
+    "bandName": "Apple (แอปเปิ้ล)"
+  },
+  {
+    "bandName": "New Lock (นิวล็อค)"
+  },
+  {
+    "bandName": "Dino Box  (ไดโนบ๊อกซ์)"
+  },
+  {
+    "bandName": "N.C.R (เอ็น.ซี.อาร์)"
+  },
+  {
+    "bandName": "LXJ (แอลเอ็กซ์เจ)"
+  },
+  {
+    "bandName": "Desmoworld (เดสโมเวิลด์)"
+  },
+  {
+    "bandName": "CMC (ซีเอ็มซี)"
+  },
+  {
+    "bandName": "Run Drag (รันแดร็ก)"
+  },
+  {
+    "bandName": "Zongshen (ซองเชน)"
+  },
+  {
+    "bandName": "Zongshen (จงเซิน)"
+  },
+  {
+    "bandName": "Strom Bass (สตรอม บาส)"
+  },
+  {
+    "bandName": "Pika (พิก้า)"
+  },
+  {
+    "bandName": "Kodama (โคดามะ)"
+  },
+  {
+    "bandName": "ATM Spray (เอทีเอ็ม สเปรย์)"
+  },
+  {
+    "bandName": "Quest Laboratory (เควสต์ ลาบอราทอรี่)"
+  },
+  {
+    "bandName": "Quest Laboratory (เควส แลบระโทริ)"
+  },
+  {
+    "bandName": "Pinlock (พินล็อค)"
+  },
+  {
+    "bandName": "Iottie (ไอออทตี่)"
+  },
+  {
+    "bandName": "Schunk (ชั้งค์)"
+  },
+  {
+    "bandName": "Boushi Thailand (โบชิ ไทยแลนด์)"
+  },
+  {
+    "bandName": "Eurox (ยูร๊อกซ์)"
+  },
+  {
+    "bandName": "Eurox (ยูร็อกซ์)"
+  },
+  {
+    "bandName": "Super Black (ซูปเปอร์แบล็ค)"
+  },
+  {
+    "bandName": "Koarm (โครม)"
+  },
+  {
+    "bandName": "TT Racing (ทีที เรซซิ่ง)"
+  },
+  {
+    "bandName": "Ryuka (ริวก้า)"
+  },
+  {
+    "bandName": "Owens Corning (โอเวนส์ คอร์นิง)"
+  },
+  {
+    "bandName": "Kuragard (คูร่าการ์ด)"
+  },
+  {
+    "bandName": "Keep Kool Film (คีพคูลฟิล์ม)"
+  },
+  {
+    "bandName": "Viva Loco (วีว่า โลโค่)"
+  },
+  {
+    "bandName": "Glossy Crazy (กลอสซี เครซี่)"
+  },
+  {
+    "bandName": "Grossy Crazy (กลอสซี่ เครซี่)"
+  },
+  {
+    "bandName": "Glossy crazy กัสโซ คาร์"
+  },
+  {
+    "bandName": "Osah (โอซาห์)"
+  },
+  {
+    "bandName": "Kadz (แคดซ์)"
+  },
+  {
+    "bandName": "Borgward (โบร์กวาร์ด)"
+  },
+  {
+    "bandName": "Retevis (เรเตวิส)"
+  },
+  {
+    "bandName": "Tony Scooter (โทนี่ สกู๊ตเตอร์)"
+  },
+  {
+    "bandName": "MPP (เอ็มพีพี)"
+  },
+  {
+    "bandName": "Volcano4x4 (วอลเคโน4x4)"
+  },
+  {
+    "bandName": "Baseus (บาซุส)"
+  },
+  {
+    "bandName": "Jo Malone London (โจ มาโลน ลอนดอน)"
+  },
+  {
+    "bandName": "Money Car Wash (มันนี่คาร์วอช)"
+  },
+  {
+    "bandName": "Karlibra (คาร์ลิบรา)"
+  },
+  {
+    "bandName": "LIC"
+  },
+  {
+    "bandName": "N Class (เอ็น คลาส)"
+  },
+  {
+    "bandName": "Taspow (ทัสพาว)"
+  },
+  {
+    "bandName": "ช่างพัฒน์นครสวรรค์ (ช่างพัฒน์นครสวรรค์)"
+  },
+  {
+    "bandName": "Vibe (ไวบ์)"
+  },
+  {
+    "bandName": "Rally Armor (แรลลี่ อาร์เมอร์)"
+  },
+  {
+    "bandName": "Textar (เท็กส์ตาร์)"
+  },
+  {
+    "bandName": "TPM (ทีพีเอ็ม)"
+  },
+  {
+    "bandName": "Aotorr (ออตเตอร์)"
+  },
+  {
+    "bandName": "King Drag (คิงแดร็ก)"
+  },
+  {
+    "bandName": "Autodec (ออโต้เด็ค)"
+  },
+  {
+    "bandName": "M Maxx (เอ็มแม็กซ์)"
+  },
+  {
+    "bandName": "Vbestlife (วีเบสท์ไลฟ์)"
+  },
+  {
+    "bandName": "Andoer (แอนเดอร์)"
+  },
+  {
+    "bandName": "Sizheng (ชีเซ่ง)"
+  },
+  {
+    "bandName": "WDskivi (ดับบลิวดีสกีวิ)"
+  },
+  {
+    "bandName": "Wiistar (ไวสตาร์)"
+  },
+  {
+    "bandName": "Darverson (ดาร์เวอร์สัน)"
+  },
+  {
+    "bandName": "Xberstar (เอ็กซ์เบอร์สตาร์)"
+  },
+  {
+    "bandName": "Liandlee (ลีแอนด์ลี)"
+  },
+  {
+    "bandName": "Oupushi (ออพูชิ)"
+  },
+  {
+    "bandName": "Bgektoth (บีเกกทอท)"
+  },
+  {
+    "bandName": "Astro Products (อัสโทรโพรดักส์)"
+  },
+  {
+    "bandName": "West Biking (เวสต์ บีกิ้ง)"
+  },
+  {
+    "bandName": "HoIo (โฮโล)"
+  },
+  {
+    "bandName": "Vertex (เวอร์เทคซ์)"
+  },
+  {
+    "bandName": "Tumex (ทูเม็กซ์)"
+  },
+  {
+    "bandName": "Tumex (ทิวเม็กซ์)"
+  },
+  {
+    "bandName": "Preme Auto (พรีออโต้)"
+  },
+  {
+    "bandName": "Anjing (แอนจิง)"
+  },
+  {
+    "bandName": "Jeep (จิ๊ป)"
+  },
+  {
+    "bandName": "Hydromax (ไฮโดรแม็กซ์)"
+  },
+  {
+    "bandName": "Step (สเต็ป)"
+  },
+  {
+    "bandName": "Skon (เอสคอน)"
+  },
+  {
+    "bandName": "Leybold (เลย์โบลด์)"
+  },
+  {
+    "bandName": "Assa (แอสซ่า)"
+  },
+  {
+    "bandName": "A Plus (เอพลัส)"
+  },
+  {
+    "bandName": "A-Plus (เอพลัส)"
+  },
+  {
+    "bandName": "V Vaxy (วีแว็กซี่)"
+  },
+  {
+    "bandName": "Precision9 (พรีซิชั่น9)"
+  },
+  {
+    "bandName": "Precision9 Racing (พรีซิสไอออนนาย เรชซิ่ง)"
+  },
+  {
+    "bandName": "A Bill Art Industrial (เอบิล อาร์ท อินดัสเตรียล)"
+  },
+  {
+    "bandName": "Ronix (โรนิกซ์)"
+  },
+  {
+    "bandName": "PP Ceramic (พีพี เซรามิค)"
+  },
+  {
+    "bandName": "PP Ceramic Coating (พีพี เซรามิค โค้ทติ้ง)"
+  },
+  {
+    "bandName": "Kia (เกีย)"
+  },
+  {
+    "bandName": "Virtue (เวอชุ)"
+  },
+  {
+    "bandName": "Wosawe (โวซาเว่)"
+  },
+  {
+    "bandName": "Autoleader (ออโต้ลีดเดอร์)"
+  },
+  {
+    "bandName": "LVS (แอลวีเอส)"
+  },
+  {
+    "bandName": "TT&CO (ทีทีแอนด์โค)"
+  },
+  {
+    "bandName": "Oumurs (อูเมอร์ส)"
+  },
+  {
+    "bandName": "Morris Garages (มอร์ริส การ์ราจ)"
+  },
+  {
+    "bandName": "Favocent (ฟาโวเซ็นท์)"
+  },
+  {
+    "bandName": "Chery  (เฌอรี่)"
+  },
+  {
+    "bandName": "DQL (ดีคิวแอล)"
+  },
+  {
+    "bandName": "Recaro (เรคาโร่)"
+  },
+  {
+    "bandName": "MMA Auto (เอ็มเอ็มเอ ออโต้)"
+  },
+  {
+    "bandName": "Unco&Boror Va Tor189 (อันโคโบรอร์วาทอร์189)"
+  },
+  {
+    "bandName": "Raemco (รีมโค)"
+  },
+  {
+    "bandName": "Lumi Party (ลูมี่ ปาร์ตี้)"
+  },
+  {
+    "bandName": "IBK (ไอบีเค)"
+  },
+  {
+    "bandName": "Wolfbike (วูลฟ์ไบค์)"
+  },
+  {
+    "bandName": "NKracing (เอ็นเคเรซซิ่ง)"
+  },
+  {
+    "bandName": "Wolf Bike (วูบ ไบร์)"
+  },
+  {
+    "bandName": "Assa (แอ็สซ่า)"
+  },
+  {
+    "bandName": "MA Audio (เอ็มเอ ออดิโอ้)"
+  },
+  {
+    "bandName": "Jianxing (เจียนซิง)"
+  },
+  {
+    "bandName": "Yapai (ยาไปป์)"
+  },
+  {
+    "bandName": "Cimiva (ซิมิวา)"
+  },
+  {
+    "bandName": "WCarfun (ดับบลิวคาร์ฟัน)"
+  },
+  {
+    "bandName": "Carsun (คาร์ซัน)"
+  },
+  {
+    "bandName": "Mewant (มีวอนท์)"
+  },
+  {
+    "bandName": "Autoyouth (ออโต้ยูธ)"
+  },
+  {
+    "bandName": "Gyeon Quartz (จียอน ควอวซ์)"
+  },
+  {
+    "bandName": "Cool Gear (คูลเกียร์)"
+  },
+  {
+    "bandName": "Tospra (ทอสพรา)"
+  },
+  {
+    "bandName": "Kawosen (คาโวเซน)"
+  },
+  {
+    "bandName": "Dehyaton (เดยาตัน)"
+  },
+  {
+    "bandName": "Kukakey (คูก้าคีย์)"
+  },
+  {
+    "bandName": "Midoon (มิดูน)"
+  },
+  {
+    "bandName": "Lunda (ลูนดา)"
+  },
+  {
+    "bandName": "Wiz (วิซ)"
+  },
+  {
+    "bandName": "Daito (ไดโตะ)"
+  },
+  {
+    "bandName": "Helmo (เฮลโม่)"
+  },
+  {
+    "bandName": "Motocube (โมโตคิวบ์)"
+  },
+  {
+    "bandName": "Helmo (เฮลโม)"
+  },
+  {
+    "bandName": "XHT (เอ็กซ์เอชที)"
+  },
+  {
+    "bandName": "Bigbro (บิ๊กโบร)"
+  },
+  {
+    "bandName": "Qishi (คิชิ)"
+  },
+  {
+    "bandName": "Bigpro (บิ๊กโปร)"
+  },
+  {
+    "bandName": "Goods Mann (กู๊ดส์แมน)"
+  },
+  {
+    "bandName": "Pinlock (พินล็อก)"
+  },
+  {
+    "bandName": "Lulae (ลูแล)"
+  },
+  {
+    "bandName": "Freshtime (เฟรชไทม์)"
+  },
+  {
+    "bandName": "Scratch Dini (สแครช ดีนี)"
+  },
+  {
+    "bandName": "Thaiken (ไทยเคน)"
+  },
+  {
+    "bandName": "RCY (อาร์ซีวาย)"
+  },
+  {
+    "bandName": "Mentos (เมนทอส)"
+  },
+  {
+    "bandName": "Super Wax (ซุปเปอร์แว๊กซ์)"
+  },
+  {
+    "bandName": "Meltec (เมลเทค)"
+  },
+  {
+    "bandName": "Hydrosyn (ไฮโดรซิน)"
+  },
+  {
+    "bandName": "Special7 (สเปเชี่ยล7)"
+  },
+  {
+    "bandName": "Ma Fra (มาฟรา)"
+  },
+  {
+    "bandName": "Mechanix Wear (เมคคานิกซ์ แวร์)"
+  },
+  {
+    "bandName": "Ma Fra (เอ็มเอ ฟา)"
+  },
+  {
+    "bandName": "Mechanix Wear (เมคานิกซ์แวร์)"
+  },
+  {
+    "bandName": "Kingdrag (คิงแดร็ก)"
+  },
+  {
+    "bandName": "Tdpoly (ทีดีโพลี่)"
+  },
+  {
+    "bandName": "TD Poly (ทีดีโพลี)"
+  },
+  {
+    "bandName": "Firetorch (ไฟทอร์ช)"
+  },
+  {
+    "bandName": "Usams (ยูแซม)"
+  },
+  {
+    "bandName": "Namo (นาโม่)"
+  },
+  {
+    "bandName": "Cotora (โคโตร่า)"
+  },
+  {
+    "bandName": "Smart (สมาร์ท)"
+  },
+  {
+    "bandName": "S Strong (เอส-สตรอง)"
+  },
+  {
+    "bandName": "Diatex (ไดอะเท็กซ์)"
+  },
+  {
+    "bandName": "Panther (แพนเธอร์)"
+  },
+  {
+    "bandName": "Fiat (เฟียต)"
+  },
+  {
+    "bandName": "Tomasetto (โทมาเซ็ตโต้)"
+  },
+  {
+    "bandName": "Dodge (ดอดจ์)"
+  },
+  {
+    "bandName": "Body Waxy (บอดี้แว็กซี่)"
+  },
+  {
+    "bandName": "Jolly Jumper (จอลลี่ จัมพ์เปอร์)"
+  },
+  {
+    "bandName": "Bodywaxy (บอดี้แว็กซี่)"
+  },
+  {
+    "bandName": "Bodywaxy (บอดี้แว็กชี่)"
+  },
+  {
+    "bandName": "MR Crystal (เอ็มอาร์ คริสตัล)"
+  },
+  {
+    "bandName": "Nano Washer (นาโน วอสเชอร์)"
+  },
+  {
+    "bandName": "Body Glass (บอดี้กลาส)"
+  },
+  {
+    "bandName": "Body (บอดี้)"
+  },
+  {
+    "bandName": "Renault (เรโนลต์)"
+  },
+  {
+    "bandName": "Goot (กูท)"
+  },
+  {
+    "bandName": "Rec (เรค)"
+  },
+  {
+    "bandName": "Coclean (โคคลีน)"
+  },
+  {
+    "bandName": "Neekin (นีคิน)"
+  },
+  {
+    "bandName": "Yoelbaer (โยลแบร์)"
+  },
+  {
+    "bandName": "Neekin (นีกิ้น)"
+  },
+  {
+    "bandName": "Bentsu (เบนซึ)"
+  },
+  {
+    "bandName": "Shutter B (ชัตเตอร์ บี)"
+  },
+  {
+    "bandName": "Plan Paint (แพลนเพ้นท์)"
+  },
+  {
+    "bandName": "Kum Ba (คัมบ้า)"
+  },
+  {
+    "bandName": "Random (แรนดอม)"
+  },
+  {
+    "bandName": "Ultimate (อัลติเมท)"
+  },
+  {
+    "bandName": "Nano Wax (นาโน แว็กซ์)"
+  },
+  {
+    "bandName": "Mountainskin (เมาเท่นสกิน)"
+  },
+  {
+    "bandName": "Gorch (กอร์ช)"
+  },
+  {
+    "bandName": "Rainfreem (เรนฟรีม)"
+  },
+  {
+    "bandName": "Tiny Spark (ไทนี่ สปาร์ค)"
+  },
+  {
+    "bandName": "Safebet (เซฟเบท)"
+  },
+  {
+    "bandName": "Bachash (บาคัช)"
+  },
+  {
+    "bandName": "Hzyeyo (เซย์โย)"
+  },
+  {
+    "bandName": "Pole Racing (โพเล เรซซิ่ง)"
+  },
+  {
+    "bandName": "Stitchdog (สติ๊ชด็อก)"
+  },
+  {
+    "bandName": "Yaterku (ยาเตอร์กุ)"
+  },
+  {
+    "bandName": "Demon (เดมอน)"
+  },
+  {
+    "bandName": "Demon (ดีมอน)"
+  },
+  {
+    "bandName": "Super Fast (ซุปเปอร์ฟาส)"
+  },
+  {
+    "bandName": "Fagis (ฟาจิส)"
+  },
+  {
+    "bandName": "Amoi (อาโมอิ)"
+  },
+  {
+    "bandName": "RHEX (อาร์เฮ็กซ์)"
+  },
+  {
+    "bandName": "UBC (ยูบีซี)"
+  },
+  {
+    "bandName": "MCU (เอ็มซียู)"
+  }
+]

@@ -1,0 +1,110 @@
+.input-style {
+  padding: 16px 16px 16px 24px; 
+  border-radius: 10px; 
+  background-color: #F2F6FA;
+}
+
+.row-top-menu {
+  margin-left: -4px;
+  margin-right: -4px;
+}
+
+.col-top-menu {
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+.dropdown-menu {
+  width: 200%;
+}
+
+.scrollable-menu {
+  height: auto;
+  max-height: 250px;
+  overflow-x: hidden;
+}
+
+.dropdown-item:active {
+  color: #FFF; 
+  background-color: #FE5721;
+}
+
+
+/* Datepicker */
+.form-group.hidden {
+  width: 0;
+  margin-top: 65px;
+  border: none;
+  padding: 0;
+}
+
+.custom-day {
+  text-align: center;
+  padding: 0.185rem 0.25rem;
+  display: inline-block;
+  height: 2rem;
+  width: 2rem;
+}
+
+.custom-day.focused {
+  background-color: #e6e6e6;
+}
+
+.custom-day.range, .custom-day:hover {
+  background-color: rgb(217, 83, 79);
+  color: white;
+}
+
+.custom-day.faded {
+  background-color: rgb(217, 83, 79, 0.5);
+}
+/* End Datepicker */
+
+.text-active {
+  color: #FFA101; 
+  cursor: pointer;
+}
+
+.text-dark {
+  color: #000; 
+  cursor: pointer;
+}
+
+.horizontal-scroll {
+  overflow: auto;
+  white-space: nowrap;
+}
+
+.disabled {
+  pointer-events: none;
+  opacity: 0.4;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media only screen and (max-width: 480px) {
+  .form-group {
+    margin-bottom: 0px;
+  }
+
+  .form-group.hidden {
+    margin-top: 40px;
+  }
+
+  .input-style {
+    padding: 10px 10px 10px 15px; 
+    border-radius: 0px;
+  }
+
+  .card-padding-sm {
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+  
+  .text-input {
+    font-size: 0.8rem;
+  }
+
+  .text-placeholder {
+    font-size: 0.7rem;
+  }
+}

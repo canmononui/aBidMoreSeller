@@ -1,0 +1,86 @@
+.container-bg-color {
+  background-color: #F2F6FA; 
+  border-radius: 10px; 
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.productDes {
+  background-color: #FFF; 
+  border-radius: 10px; 
+  padding: 20px;
+}
+
+.productDataText {
+  color: #8E8D8D;
+}
+
+.border-radius-10 {
+  border-radius: 10px;
+}
+
+.row-img-m {
+  margin-left: -4px;
+  margin-right: -4px;
+}
+
+.col-img-p {
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+.btn-copy {
+  border: none; 
+  border-radius: 1.5rem; 
+  color: #D9534F; 
+  border: 1px solid #D9534F; 
+  background-color: #F2F6FA;
+}
+
+.btn-edit {
+  width: 100%; 
+  border: none; 
+  border-radius: 1.5rem; 
+  color: #FFF; 
+  border: 1px solid #D9534F; 
+  background-color: #FE5721;
+}
+
+.btn-des {
+  border: none; 
+  border-radius: 1.5rem; 
+  color: #FFF; 
+  border: 1px solid #D9534F; 
+  background-color: #FE5721;
+}
+
+.btn-delete {
+width: 100%; 
+border: none; 
+border-radius: 1.5rem; 
+color: #FFF; 
+border: 1px solid #373E48; 
+background-color: #373E48;
+}
+
+.disabled {
+  pointer-events: none;
+  opacity: 0.4;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media only screen and (max-width: 480px) {
+.container-bg-color {
+  border-radius: 0px; 
+  padding: 10px;
+  margin-bottom: 0px;
+}
+
+.productDes {
+  padding-top: 10px;
+  padding-left: 15px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+}

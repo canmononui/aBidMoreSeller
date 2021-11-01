@@ -1,0 +1,836 @@
+[
+  {
+    "bandName": "No Brand (ไม่มียี่ห้อ)"
+  },
+  {
+    "bandName": "Central (เซ็นทรัล)"
+  },
+  {
+    "bandName": "Major (เมเจอร์)"
+  },
+  {
+    "bandName": "Rabbit card (แรบบิทการ์ด)"
+  },
+  {
+    "bandName": "Garena (การีน่า)"
+  },
+  {
+    "bandName": "Starbucks (สตาร์บัคส์)"
+  },
+  {
+    "bandName": "Yayoi (ยาโยอิ)"
+  },
+  {
+    "bandName": "The Mall (เดอะมอลล์)"
+  },
+  {
+    "bandName": "AIS (เอไอเอส)"
+  },
+  {
+    "bandName": "BNK48 (บีเอ็นเค48)"
+  },
+  {
+    "bandName": "Winner Card (วินเนอร์ การ์ด)"
+  },
+  {
+    "bandName": "Lotus (โลตัส)"
+  },
+  {
+    "bandName": "Line Prepaid (ไลน์ พริเพด)"
+  },
+  {
+    "bandName": "Caltex (แคลเท็กซ์)"
+  },
+  {
+    "bandName": "Dtac (ดีแทค)"
+  },
+  {
+    "bandName": "BigC (บิ๊กซ๊)"
+  },
+  {
+    "bandName": "SF CINEMA MBK (เอสเอฟซีเนม่าเอ็มบีเค)"
+  },
+  {
+    "bandName": "TRUE (ทรู)"
+  },
+  {
+    "bandName": "DConPrimeCondo (ดีคอนไพร์มคอนโด)"
+  },
+  {
+    "bandName": "Jetsadabet (เจทสดาเบท)"
+  },
+  {
+    "bandName": "T-Money (ทีโมนี่ย์)"
+  },
+  {
+    "bandName": "SF CENEMA (เอสเอฟ ซีนีม่า)"
+  },
+  {
+    "bandName": "Steam Wallet (สตรีมวอลเลต)"
+  },
+  {
+    "bandName": "Joox (จู๊ค)"
+  },
+  {
+    "bandName": "Honda (ฮอนด้า)"
+  },
+  {
+    "bandName": "Siam gift card (สยาม กิ๊ฟท์ การ์ด)"
+  },
+  {
+    "bandName": "Netflix (เน็ตฟลิกซ์)"
+  },
+  {
+    "bandName": "Swensens (สเวนเซ่น)"
+  },
+  {
+    "bandName": "Cartoon Network Amazone (การ์ตูนเน็ตเวิร์คอเมโซน)"
+  },
+  {
+    "bandName": "OISHI (โออิชิ)"
+  },
+  {
+    "bandName": "Black mountain (แบล็ค เมาส์เท้น)"
+  },
+  {
+    "bandName": "Kidzania (คิดส์ซาเนีย)"
+  },
+  {
+    "bandName": "Centara (เซ็นทาร่า)"
+  },
+  {
+    "bandName": "Vana Nava Water Jungle (วานา นาวา วอเตอร์ จังเกิ้ล)"
+  },
+  {
+    "bandName": "Dreamworld (ดรีมเวิลด์)"
+  },
+  {
+    "bandName": "Bar B Q Plaza (บาร์บีคิวพลาซ่า)"
+  },
+  {
+    "bandName": "Tiger Zoo (ไทเกอร์ ซู)"
+  },
+  {
+    "bandName": "Nong Nooch (สวนนงนุช)"
+  },
+  {
+    "bandName": "Hertz Car Rental (เฮิร์ทซคาร์เรนทัล)"
+  },
+  {
+    "bandName": "Fuji (ฟูจิ)"
+  },
+  {
+    "bandName": "EXO (เอ็กโซ)"
+  },
+  {
+    "bandName": "Safari world (ซาฟารีเวิล์ด)"
+  },
+  {
+    "bandName": "HOLLYWOOD HDTV (ฮอลีวู๊ดดีเฮชทีวี)"
+  },
+  {
+    "bandName": "Adidas (อดิดาส)"
+  },
+  {
+    "bandName": "Mcdonald (แมคโดนัลด์)"
+  },
+  {
+    "bandName": "Lawson (ลอว์สัน)"
+  },
+  {
+    "bandName": "Kingpower (คิงเพาเวอร์)"
+  },
+  {
+    "bandName": "Nature Republic (เนเจอร์ รีพับบลิค)"
+  },
+  {
+    "bandName": "Harbor land (ฮาร์ดอร์ แลนด์)"
+  },
+  {
+    "bandName": "Stickerline (สติ๊กเกอร์ไลน์)"
+  },
+  {
+    "bandName": "Cash (แคช)"
+  },
+  {
+    "bandName": "Auntie Annes (อันตี้แอนด์)"
+  },
+  {
+    "bandName": "Holiday inn (โฮลิเดย์ อิน)"
+  },
+  {
+    "bandName": "KATE (คาเต้)"
+  },
+  {
+    "bandName": "Sub Zero (ซับซีโร่)"
+  },
+  {
+    "bandName": "After You (อัฟเตอร์ยู)"
+  },
+  {
+    "bandName": "Haagen-Dazs (ฮาเก้นดาส)"
+  },
+  {
+    "bandName": "Watsons (วัสสัน)"
+  },
+  {
+    "bandName": "Immagini clinic (อิมเมจินี่แอนด์เดซี่ดิว่า)"
+  },
+  {
+    "bandName": "MK (เอ็มเค)"
+  },
+  {
+    "bandName": "SE-ED Book Center (ซีเอ็ดบุ๊ค เซนเตอร์)"
+  },
+  {
+    "bandName": "HomePro (โฮมโปร)"
+  },
+  {
+    "bandName": "Laem charoen (แหลมเจริญ)"
+  },
+  {
+    "bandName": "Slim concept (สลิม คอนเซป)"
+  },
+  {
+    "bandName": "Pororo (โปโลโล)"
+  },
+  {
+    "bandName": "PTT (ปตท)"
+  },
+  {
+    "bandName": "Google Play (กูเกิ้ลเพลย์)"
+  },
+  {
+    "bandName": "SWAROVSKI (สวาโรฟ์สกิ)"
+  },
+  {
+    "bandName": "IKEA (อิเกีย)"
+  },
+  {
+    "bandName": "IKON (ไอคอน)"
+  },
+  {
+    "bandName": "Watezonic (วัตโซนิค)"
+  },
+  {
+    "bandName": "Disney (ดิสนีย์)"
+  },
+  {
+    "bandName": "Viz card titanium (วิซ การ์ด ไททาเนี่ยม)"
+  },
+  {
+    "bandName": "Hoka (โฮก้า)"
+  },
+  {
+    "bandName": "Zen (เซ็น)"
+  },
+  {
+    "bandName": "Kizventure (คิดส์เวนเจอร์)"
+  },
+  {
+    "bandName": "Modern Rent A Car (โทเดิน เรนท์ อา คาร์)"
+  },
+  {
+    "bandName": "Ginza (กินซะ)"
+  },
+  {
+    "bandName": "Lotte duty free (ล็อทเต้)"
+  },
+  {
+    "bandName": "Lineman (ไลน์แมน)"
+  },
+  {
+    "bandName": "National (เนชั่นแนล)"
+  },
+  {
+    "bandName": "Powerbuy (เพาเวอร์บาย)"
+  },
+  {
+    "bandName": "Maisen (ไมเซน)"
+  },
+  {
+    "bandName": "Budget (บัดเกต)"
+  },
+  {
+    "bandName": "Sretsis Parlour (สเล็ทซิส พาร์เออร์)"
+  },
+  {
+    "bandName": "Line Store (ไลน์ สตอรี่)"
+  },
+  {
+    "bandName": "Sports Club (สปอร์ต คลับ)"
+  },
+  {
+    "bandName": "Disneyland (ดิสนีย์แลนด์)"
+  },
+  {
+    "bandName": "Emporium (แอมโพเรียม)"
+  },
+  {
+    "bandName": "BFGoodrich (บีเอฟกู๊ดริช)"
+  },
+  {
+    "bandName": "Grab (แกร็บ)"
+  },
+  {
+    "bandName": "iflix (ไอฟลิกซ์)"
+  },
+  {
+    "bandName": "Michelin (มิชลิน)"
+  },
+  {
+    "bandName": "Asics (เอสิคส์)"
+  },
+  {
+    "bandName": "Meridian Cruise (เมอริเดียน ครูซ)"
+  },
+  {
+    "bandName": "Blu O (บลุโอ)"
+  },
+  {
+    "bandName": "Nars (นาร์ส)"
+  },
+  {
+    "bandName": "SM True (เอสเอ็ม ทรู)"
+  },
+  {
+    "bandName": "Index Living Mall (อินเด็ก ลิปวิง มอลล์)"
+  },
+  {
+    "bandName": "Cashbee (แคชบี้)"
+  },
+  {
+    "bandName": "USJ (ยูเอสเจ)"
+  },
+  {
+    "bandName": "Camp BKK (แคมป์ บีเคเค)"
+  },
+  {
+    "bandName": "The Mall Group (เดอะมอลล์กรุ๊ป)"
+  },
+  {
+    "bandName": "Giffarine (กิฟฟาริน)"
+  },
+  {
+    "bandName": "Scoot (สคูต)"
+  },
+  {
+    "bandName": "Amazon (อเมซอน)"
+  },
+  {
+    "bandName": "SB Furniture (เอสบี เฟอร์นิเจอร์)"
+  },
+  {
+    "bandName": "Gaysorn (เกษร)"
+  },
+  {
+    "bandName": "Shell (เซลล์)"
+  },
+  {
+    "bandName": "Thaiticeketmajor (ไทยทิกเก็ตเมเจอร์)"
+  },
+  {
+    "bandName": "Air Asia (แอร์เอเชีย)"
+  },
+  {
+    "bandName": "Better Vision (เบทเทอร์ วิชั่น)"
+  },
+  {
+    "bandName": "Dyson (ไดสัน)"
+  },
+  {
+    "bandName": "Red Velvet (เรด เวลเวท)"
+  },
+  {
+    "bandName": "The Lorry (เดอะ ลอร์รี่)"
+  },
+  {
+    "bandName": "Sea life bangkok (ซีไลฟ์ แบงคอก)"
+  },
+  {
+    "bandName": "Mahassaya (มหัสยา)"
+  },
+  {
+    "bandName": "TRW (ทีอาร์ดับบลิว)"
+  },
+  {
+    "bandName": "Gardens by the Bay (การ์เดนบายเดอะเบย์)"
+  },
+  {
+    "bandName": "The Cafe (เดอะ คาเฟ่)"
+  },
+  {
+    "bandName": "Pai Phuket (ไปภูเก็ต)"
+  },
+  {
+    "bandName": "JYP (เจวายพี)"
+  },
+  {
+    "bandName": "Siam Car Park (สยามคาร์ปาร์ค)"
+  },
+  {
+    "bandName": "Sprinkle (สปริงเกิ้ล)"
+  },
+  {
+    "bandName": "RIMOWA (ริโมว่า)"
+  },
+  {
+    "bandName": "Thaiairway (ไทยแอร์เวย์)"
+  },
+  {
+    "bandName": "Paragon (พารากอน)"
+  },
+  {
+    "bandName": "Power Mall (พาวเวอร์ มอลล์)"
+  },
+  {
+    "bandName": "Koh Chang Resort & Spa (เกาะช้างรีสอร์ทแอนด์สปา)"
+  },
+  {
+    "bandName": "Servis Hero (เซอร์วิสฮีโร่)"
+  },
+  {
+    "bandName": "Basics by Sita (เบสิค บาย สิตา)"
+  },
+  {
+    "bandName": "Maroon5 (มารูน5)"
+  },
+  {
+    "bandName": "Bodyslam (บอดี้สแลม)"
+  },
+  {
+    "bandName": "KFC (เคเอฟซี)"
+  },
+  {
+    "bandName": "Bonchon (บอนชอน)"
+  },
+  {
+    "bandName": "Healthland (เฮลท์แลนด์)"
+  },
+  {
+    "bandName": "Bridgestone (บริดจสโตน)"
+  },
+  {
+    "bandName": "The Pizza Company (เดอะ พิซซ่า คอมปะนี)"
+  },
+  {
+    "bandName": "YG (วายจี)"
+  },
+  {
+    "bandName": "Royal Orchid Plus (รอยัล ออคิด พลัส)"
+  },
+  {
+    "bandName": "EZ-Link (อีซี่ลิงค์)"
+  },
+  {
+    "bandName": "Nok Air (นกแอร์)"
+  },
+  {
+    "bandName": "Viu (วิว)"
+  },
+  {
+    "bandName": "UOB (ยูโอบี)"
+  },
+  {
+    "bandName": "Pomelo (โพมีโล่)"
+  },
+  {
+    "bandName": "The Wisdom (เดอะวิซดอม)"
+  },
+  {
+    "bandName": "Amway (แอมเวย์)"
+  },
+  {
+    "bandName": "Photobook Thailand (โฟโต้บุ๊คไทยแลนด์)"
+  },
+  {
+    "bandName": "Ramada Plaza (รามาดาพลาซา)"
+  },
+  {
+    "bandName": "Apple (แอปเปิ้ล)"
+  },
+  {
+    "bandName": "Mini Murrah Farm (มินิ มูร่าห์ ฟาร์ม)"
+  },
+  {
+    "bandName": "ACES (เอซีอีเอส)"
+  },
+  {
+    "bandName": "TRSC (ทีอาร์เอสซี)"
+  },
+  {
+    "bandName": "Ananda Development (อนันดา ดีเวลลอปเม้นท์)"
+  },
+  {
+    "bandName": "Bumbim Stickerline (บุ๋มบิ๋ม สติกเกอร์ไลน์)"
+  },
+  {
+    "bandName": "MG5 (เอ็มจี5)"
+  },
+  {
+    "bandName": "HappyChef (แฮปปี้เชฟ)"
+  },
+  {
+    "bandName": "MR DIY (มิสเตอร์ ดีไอวาย)"
+  },
+  {
+    "bandName": "Swiss Coupon Pass (สวิสคูปองพาส)"
+  },
+  {
+    "bandName": "S2O (เอส2โอ)"
+  },
+  {
+    "bandName": "Owndays (โอนเดย์)"
+  },
+  {
+    "bandName": "Spa Life (สปาไลฟ์)"
+  },
+  {
+    "bandName": "Mr.D.I.Y. (มิสเตอร์ดีไอวาย)"
+  },
+  {
+    "bandName": "Danny Tailor (แดนนี่ เทเลอร์)"
+  },
+  {
+    "bandName": "Tailor 22 (เทเลอร์ 22)"
+  },
+  {
+    "bandName": "Jaidee Shop (ใจดีช๊อป)"
+  },
+  {
+    "bandName": "Siam Takashimaya (สยาม ทาคาชิมาย่า)"
+  },
+  {
+    "bandName": "Sf (เอสเอฟ)"
+  },
+  {
+    "bandName": "Seven Seas (เซเว่น ซี)"
+  },
+  {
+    "bandName": "Termgamee (เทิร์มเกมี)"
+  },
+  {
+    "bandName": "Siam Big Pack (สยามบิ๊กแพ็ค)"
+  },
+  {
+    "bandName": "PUBG MOBILE (พับจีโมบาย)"
+  },
+  {
+    "bandName": "PX Electronic (พีเอ็กซ์อิเล็กทรอนิคส์)"
+  },
+  {
+    "bandName": "Passorn (ภัสสร)"
+  },
+  {
+    "bandName": "B Trip Phuket (บีทริป ภูเก็ต​)"
+  },
+  {
+    "bandName": "Pruksa (พฤกษา​)"
+  },
+  {
+    "bandName": "Sweat16 (สเวตซิกซ์ทีน)"
+  },
+  {
+    "bandName": "Kamu Tea (เคมุที)"
+  },
+  {
+    "bandName": "Scenical World (ซีนิคอลเวิลด์)"
+  },
+  {
+    "bandName": "Baan & Beyond (บ้านแอนด์บียอนด์)"
+  },
+  {
+    "bandName": "Panpuri (ปัญญ์ปุริ)"
+  },
+  {
+    "bandName": "Wizard (วิซเซิร์ด)"
+  },
+  {
+    "bandName": "Major Cineplex (เมเจอร์ซีนีเพล็กซ์​)"
+  },
+  {
+    "bandName": "Playstation4 (เพลย์สเตชัน 4)"
+  },
+  {
+    "bandName": "Toyota (โตโยต้า)"
+  },
+  {
+    "bandName": "Esique Clinic (เอสซ์ทรีค คลินิก)"
+  },
+  {
+    "bandName": "Lucky (ลัคกี้)"
+  },
+  {
+    "bandName": "True Money (ทรู มันนี่)"
+  },
+  {
+    "bandName": "Samsung Galaxy (ซัมซุง กาแล็คซี่)"
+  },
+  {
+    "bandName": "HIHOME (ไฮโฮม)"
+  },
+  {
+    "bandName": "The Street (เดอะ สตรีท)"
+  },
+  {
+    "bandName": "JD Sports (เจดีสปอร์ต)"
+  },
+  {
+    "bandName": "Walmart (วอลมาร์ต)"
+  },
+  {
+    "bandName": "Super Sport (ซุปเปอร์ สปอร์ต)"
+  },
+  {
+    "bandName": "Avis (เอวิส)"
+  },
+  {
+    "bandName": "Isuzu (อีซูซุ)"
+  },
+  {
+    "bandName": "JS Limousine Service (เจเอส ลีมูซีน เซอร์วิส)"
+  },
+  {
+    "bandName": "Origin (ออริจิน)"
+  },
+  {
+    "bandName": "Vermouth (เวอร์มุธ)"
+  },
+  {
+    "bandName": "De hygienique (ดีไฮจีนิค)"
+  },
+  {
+    "bandName": "TMB wow (ทีเอ็มบีว้าว)"
+  },
+  {
+    "bandName": "Line Points (ไลน์ พ้อยท์)"
+  },
+  {
+    "bandName": "AIA (เอไอเอ)"
+  },
+  {
+    "bandName": "Iconics (ไอคอนนิคส์)"
+  },
+  {
+    "bandName": "Isetan (ห้างอิเซตัน)"
+  },
+  {
+    "bandName": "Top (ท็อป)"
+  },
+  {
+    "bandName": "Topica Native (ท็อปปิก้า เนทีฟ)"
+  },
+  {
+    "bandName": "Emquartier (เอ็มควอเทียร์)"
+  },
+  {
+    "bandName": "Tesco Lotus (เทสโก้โลตัส)"
+  },
+  {
+    "bandName": "Peakdeal (พีกดีล)"
+  },
+  {
+    "bandName": "Family Mart (แฟมิลี่มาร์ท)"
+  },
+  {
+    "bandName": "Monkey Town (มังกี้ทาวน์)"
+  },
+  {
+    "bandName": "Dero (ดีโร่)"
+  },
+  {
+    "bandName": "Viz Card (วิซ การ์ด)"
+  },
+  {
+    "bandName": "Illamasqua (อิลลามาสก้า)"
+  },
+  {
+    "bandName": "Drawkana (ดรอคานะ)"
+  },
+  {
+    "bandName": "Yanhee (ยันฮี)"
+  },
+  {
+    "bandName": "Easy Pass (อีซี่พาส)"
+  },
+  {
+    "bandName": "KTB Precious Plus (เคทีบี พรีเชียส พลัส)"
+  },
+  {
+    "bandName": "Boonthavorn (บุญถาวร)"
+  },
+  {
+    "bandName": "Funariuam (ฟันเนเรี่ยม)"
+  },
+  {
+    "bandName": "Toyo Tires (โตโย ไทร์)"
+  },
+  {
+    "bandName": "Drivehub (ไดรฟ์ฮับ)"
+  },
+  {
+    "bandName": "Onesiam (วันสยาม)"
+  },
+  {
+    "bandName": "Line Melody (ไลน์ เมโลดี้)"
+  },
+  {
+    "bandName": "Cenpay (เซนเพย์)"
+  },
+  {
+    "bandName": "Pandora (แพนดอร่า)"
+  },
+  {
+    "bandName": "Ecoblue (อีโค่บลู)"
+  },
+  {
+    "bandName": "Paypal (เพย์แพล)"
+  },
+  {
+    "bandName": "AG Specs (เอจี สเป็ค)"
+  },
+  {
+    "bandName": "Siam Amazing Park (สยามอะเมซิ่งพาร์ค)"
+  },
+  {
+    "bandName": "Easy Card (อีซี่ การ์ด)"
+  },
+  {
+    "bandName": "Esso (เอสโซ่)"
+  },
+  {
+    "bandName": "True Money Wallet (ทรูมันนี่ วอลเล็ท)"
+  },
+  {
+    "bandName": "Beauty Diamond (บิวตี้ ไดมอนด์)"
+  },
+  {
+    "bandName": "Bangkok Airways (บางกอกแอร์เวย์ส)"
+  },
+  {
+    "bandName": "Hip Club (ฮิปคลับ)"
+  },
+  {
+    "bandName": "7-Eleven (เซเว่น อีเลฟเว่น)"
+  },
+  {
+    "bandName": "Paul Smith (พอล สมิธ)"
+  },
+  {
+    "bandName": "Bigo Live (บีโก้ไลฟ์)"
+  },
+  {
+    "bandName": "SCB (ธนาคารไทยพาณิชย์)"
+  },
+  {
+    "bandName": "Microsoft (ไมโครซอฟท์)"
+  },
+  {
+    "bandName": "Mac (แมค)"
+  },
+  {
+    "bandName": "3M (สามเอ็ม)"
+  },
+  {
+    "bandName": "CGM48 (ซีจีเอ็มโฟร์ตีเอต)"
+  },
+  {
+    "bandName": "Aland (เอแลนด์)"
+  },
+  {
+    "bandName": "Microink (ไมโครอิงค์)"
+  },
+  {
+    "bandName": "WISH23 (วิท23)"
+  },
+  {
+    "bandName": "MRT (เอ็มอาร์ที)"
+  },
+  {
+    "bandName": "Thaismile (ไทยสมายล์)"
+  },
+  {
+    "bandName": "JIB (เจบีไอ)"
+  },
+  {
+    "bandName": "Socialgiver (โซเชียลกิฟเวอร์)"
+  },
+  {
+    "bandName": "Be I Am (บีไอแอม)"
+  },
+  {
+    "bandName": "Vodana (โวดาน่า)"
+  },
+  {
+    "bandName": "Shipnity (ชิปนิตี้)"
+  },
+  {
+    "bandName": "Nestival (เนสติวอล)"
+  },
+  {
+    "bandName": "Panpho (แพนโฟ)"
+  },
+  {
+    "bandName": "Bridesmaid Closeup (บริดเมดโคลสอัพ)"
+  },
+  {
+    "bandName": "Youtube (ยูทูป)"
+  },
+  {
+    "bandName": "บางจาก"
+  },
+  {
+    "bandName": "Bangchak (บางจาก)"
+  },
+  {
+    "bandName": "Anantara Siam (อนันตารา สยาม)"
+  },
+  {
+    "bandName": "The Sims (เดอะซิม)"
+  },
+  {
+    "bandName": "Inter Art (อินเตอร์อาท)"
+  },
+  {
+    "bandName": "The Botanical House (เดอะโบทานิคอลเฮาส์)"
+  },
+  {
+    "bandName": "Boonumpar (บุญนำพา)"
+  },
+  {
+    "bandName": "Mamypoko (มามี่โพโค)"
+  },
+  {
+    "bandName": "TrueID (ทรูไอดี)"
+  },
+  {
+    "bandName": "ฺBMN (บีเอ็มเอ็น)"
+  },
+  {
+    "bandName": "BMN (บีเอ็มเอ็น)"
+  },
+  {
+    "bandName": "Netflix (เน๊ตเฟล็กซ์)"
+  },
+  {
+    "bandName": "PT (พีที)"
+  },
+  {
+    "bandName": "Fitstill (ฟิตสติล)"
+  },
+  {
+    "bandName": "Cardinal (คาร์ดินอล)"
+  },
+  {
+    "bandName": "Bolttech (โบลต์เทค)"
+  },
+  {
+    "bandName": "Bolttech (โบลท์เทค)"
+  },
+  {
+    "bandName": "โรงเรียนกวดวิชาปิยภัทร (โรงเรียนกวดวิชาปิยภัทร)"
+  },
+  {
+    "bandName": "Siam Park City (สวนสยาม)"
+  }
+]

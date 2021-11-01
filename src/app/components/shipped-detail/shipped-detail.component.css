@@ -1,0 +1,131 @@
+.row-m {
+  margin-left: -4px;
+  margin-right: -4px;
+}
+
+.col-p {
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+.col-auction-date {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  border-radius: 10px; 
+  color: #FFF;
+  background-color: #FECB7F;
+}
+
+.col-order-date {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  border-radius: 10px; 
+  color: #FFF;
+  background-color: #FFAE81;
+}
+
+.text-07 {
+  font-size: .7rem;
+}
+
+.container-bg-color {
+  background-color: #F2F6FA; 
+  border-radius: 10px; 
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.btn-copy {
+  border: none; 
+  border-radius: 1.5rem; 
+  color: #D9534F; 
+  border: 1px solid #D9534F; 
+  background-color: #F2F6FA;
+}
+
+.productDataText {
+  color: #8E8D8D;
+}
+
+.row-img-m {
+  margin-left: -4px;
+  margin-right: -4px;
+}
+
+.col-img-p {
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+.border-radius-10 {
+  border-radius: 10px;
+}
+
+.btn-create-pdf {
+  width: auto; 
+  border: none; 
+  border-radius: 1.5rem; 
+  color: #FFF; 
+  border: 1px solid #F0AD4E; 
+  background-color: #F0AD4E;
+}
+
+.btn-call-courier {
+  width: auto; 
+  border: none; 
+  border-radius: 1.5rem; 
+  color: #FFF; 
+  border: 1px solid #FF967E; 
+  background-color: #FF967E;
+}
+
+.btn-cancel {
+  width: 100%; 
+  border: none; 
+  border-radius: 1.5rem; 
+  color: #FFF; 
+  border: 1px solid #373E48; 
+  background-color: #373E48;
+  }
+
+.btn-success {
+  width: 100%; 
+  border: none; 
+  border-radius: 1.5rem; 
+  color: #FFF; 
+  border: 1px solid #D9534F; 
+  background-color: #FE5721;
+}
+
+.col-send-date {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  border-radius: 10px; 
+  color: #FFF;
+  background-color: #FF967E;
+}
+
+.disabled {
+  pointer-events: none;
+  opacity: 0.4;
+}
+
+.modalShow {
+  display: block;
+  overflow-y: auto;
+  padding-right: 15px;
+  background: rgba(0,0,0,0.5);
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media only screen and (max-width: 480px) {
+  .container-bg-color {
+    border-radius: 0px; 
+    padding: 10px;
+    margin-bottom: 0px;
+  }
+  
+  }

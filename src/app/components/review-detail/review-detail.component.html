@@ -1,0 +1,94 @@
+<!-- TOP MENU -->
+<div class="row row-m">
+  <div class="col-auto pl-1 pointer" [class.star-color]="rateStar == 5" (click)="selecStarMenu(5)">
+    <i class="fa fa-sm fa-star"></i><a> 5 ดาว</a>
+  </div>
+  <div class="col-auto pl-1 pointer" [class.star-color]="rateStar == 4" (click)="selecStarMenu(4)">
+    <i class="fa fa-sm fa-star"></i><a> 4 ดาว</a>
+  </div>
+  <div class="col-auto pl-1 pointer" [class.star-color]="rateStar == 3" (click)="selecStarMenu(3)">
+    <i class="fa fa-sm fa-star"></i><a> 3 ดาว</a>
+  </div>
+  <div class="col-auto pl-1 pointer" [class.star-color]="rateStar == 2" (click)="selecStarMenu(2)">
+    <i class="fa fa-sm fa-star"></i><a> 2 ดาว</a>
+  </div>
+  <div class="col-auto pl-1 pointer" [class.star-color]="rateStar == 1" (click)="selecStarMenu(1)">
+    <i class="fa fa-sm fa-star"></i><a> 1 ดาว</a>
+  </div>
+</div>
+<!-- END TOP MENU -->
+
+<!-- PRODUCT DETAIL -->
+<div *ngIf="shopProductDes" class="container-bg-color mt-2">
+  <div class="row m-0">
+    <div class="col-auto p-0">
+      <img src="{{ productDes.imgProduct[0].imgUrl }}" class="img-fluid border-radius-10" width="80 px">
+    </div>
+    <div class="col-auto pl-2">
+      <p class="mb-0">{{ productDes.name }}</p>
+      <p class="mb-0">• {{ id }}</p>
+      <p class="mb-0 productDataText">รหัสสินค้า</p>
+    </div>
+  </div>
+</div>
+<!-- END PRODUCT DETAIL -->
+
+<!-- REVIEW List -->
+<div *ngIf="reviewList.length == 0" class="text-center" style="padding-top: 56px;">
+  <p class="text-danger">ยังไม่มีรีวิวที่ดาวเท่ากับ {{ rateStar }}</p>
+</div>
+
+<div *ngIf="reviewList.length != 0">
+  <div class="card-border-3 bg-white mt-2" *ngFor="let data of reviewList">
+    <div class="row">
+      <div class="col-auto">
+        <img src="./assets/img/profile-icon-BG.svg" class="img-fluid rounded" width="50 px">
+      </div>  
+      <div class="col pl-0">
+      <p class="mb-0">**********{{ data.value.buyerUID[25] }}{{ data.value.buyerUID[26] }}{{ data.value.buyerUID[27] }}{{ data.value.buyerUID[28] }}</p>
+      <ul class="rating-stars">
+        <li>
+          <i class="fa fa-star" [class.star-color]="data.value.ratingStars >= 1"></i>
+          <i class="fa fa-star" [class.star-color]="data.value.ratingStars >= 2"></i>
+          <i class="fa fa-star" [class.star-color]="data.value.ratingStars >= 3"></i>
+          <i class="fa fa-star" [class.star-color]="data.value.ratingStars >= 4"></i>
+          <i class="fa fa-star" [class.star-color]="data.value.ratingStars == 5"></i>
+        </li>
+      </ul>
+      </div>
+      <div class="col-auto" style="cursor: pointer;" data-toggle="modal" data-target="#ModalPopupReport">
+        <p class="mb-0" (click)="reportDes(data)">รายงาน</p>
+      </div>  
+    </div>
+    <p class="mt-2 mb-0">{{ data.value.comment }}</p>
+  </div>
+</div>
+
+<!-- MODAL POPUP CANCEL -->
+<div class="modal fade" id="ModalPopupReport" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+      <div class="input-style">
+        <p class="mb-0 text-input">กรุณาแจ้งเหตุผลหรือรายละเอียด</p>
+        <textarea class="form-control border-0 p-0 text-placeholder" maxlength="500"
+          style="box-shadow: none; background-color: #F2F6FA;" #reportDescription_ [(ngModel)]="reportDesInput"
+          placeholder="ข้อความ"></textarea>
+      </div>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal" (click)="reportComment(reportDescription_.value)">ตกลง</button>
+        </div>
+        <div class="mt-2">
+          <a data-dismiss="modal" aria-label="Close" style="cursor: pointer;">
+            <p class="text-center">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- ENG MODAL POPUP CANCEL -->

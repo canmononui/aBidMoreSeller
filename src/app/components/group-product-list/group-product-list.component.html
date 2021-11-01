@@ -1,0 +1,39 @@
+<!-- TOP MENU -->
+<div class="row">
+  <div class="col-auto" style="color: #FFA101; cursor: pointer;">
+    <p>กลุ่มสินค้า</p>
+  </div>
+  <div class="col-auto pl-1" style="cursor: pointer;" (click)="createGroup()">
+    <p>เพิ่มกลุ่มสินค้า</p>
+  </div>
+</div>
+<!-- END TOP MENU -->
+
+<!-- NO GROUP PRODUCT -->
+<div *ngIf="groupProductList.length == 0" class="text-center" style="padding-top: 48px; padding-bottom: 48px;">
+  <p class="mb-0" style="font-size: .8rem;">ไม่มีกลุ่มสินค้าของร้าน</p>
+</div>
+
+<!-- GROUP PRODUCT 1 -->
+<div class="card-border-3 bg-white mt-2" style="cursor: pointer;" *ngFor="let data of groupProductList" (click)="editGroupProduct(data.groupName)">
+  <div class="row">
+    <div class="col">
+      <p class="mb-0">• {{ data.groupName }}</p>
+    </div>  
+    <div class="col-auto">
+    <p class="mb-0">{{ data.count }} รายการ</p>
+    </div> 
+  </div>
+</div>
+
+<!-- GROUP PRODUCT 2 -->
+<!-- <div class="card-border-3 bg-white mt-2" style="cursor: pointer;" (click)="editGroupProduct('editGroupProductNAME')">
+  <div class="row">
+    <div class="col">
+      <p class="mb-0">• สินค้าฟรีการจัดส่ง</p>
+    </div>  
+    <div class="col-auto">
+    <p class="mb-0">20 รายการ</p>
+    </div> 
+  </div>
+</div> -->

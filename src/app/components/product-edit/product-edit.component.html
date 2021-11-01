@@ -1,0 +1,1354 @@
+<div *ngIf="showContent && ((productData.productStatus == 'waitAuction' || productData.productStatus == 'forSale'))">
+  <!-- Product Name -->
+  <div class="input-style">
+    <p class="mb-0 text-input">ชื่อสินค้า* ({{ nameInputLength }}/50)</p>
+    <input (keyup)='productNameInput($event)' [value]="productData.name" maxlength="100" class="form-control border-0 pl-3 text-placeholder bg-input-white"
+    placeholder="กรุณาใส่ชื่อสินค้า">
+  </div>
+
+  <!-- Dropdown Product Type 1 -->
+  <div class="dropdown">
+    <div class="input-style mt-2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      <p class="mb-0 text-input">ประเภทสินค้า*</p>
+      <div style="cursor: pointer; box-shadow: none; background-color: #FFF; border-radius: 5px; padding: 6px 12px 6px 16px;">
+        <div class="row">
+          <div class="col-10 pr-0">
+            <p class="mb-0 text-placeholder">{{ placeholderProductTag }}</p>
+          </div>
+          <div class="col-2 pl-0 text-right">
+            <p class="mb-0 dropdown-toggle"></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="dropdown-menu" [class.dropdown-menu-show]="dropdownMenuShow">
+      <div class="row">
+        <div class="col text-right" (click)="closeDropdownMenu()">
+            <i class="fa fa-times-circle mr-2" style="cursor: pointer;"></i>
+        </div>
+      </div>
+      <div class="row">
+        <!-- Col SubCat 1 -->
+        <div class="col pr-0 scrollable-menu">
+          <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'maleClothes'">
+            <div class="row">
+              <div class="col pr-0">
+                <p class="text-input mb-0" (click)="selectTag('maleClothes', 'เสื้อผ้าชาย')">เสื้อผ้าชาย</p>
+              </div>
+              <div class="col-auto pl-0">
+                <i class="fa fa-chevron-right text-right"></i>
+              </div>
+            </div>
+          </a>
+          <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'maleShoes'">
+            <div class="row">
+              <div class="col pr-0">
+                <p class="text-input mb-0" (click)="selectTag('maleShoes', 'รองเท้าชาย')">รองเท้าชาย</p>
+              </div>
+              <div class="col-auto pl-0">
+                <i class="fa fa-chevron-right text-right"></i>
+              </div>
+            </div>
+          </a>
+          <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'femaleClothes'">
+            <div class="row">
+              <div class="col pr-0">
+                <p class="text-input mb-0" (click)="selectTag('femaleClothes', 'เสื้อผ้าหญิง')">เสื้อผ้าหญิง</p>
+              </div>
+              <div class="col-auto pl-0">
+                <i class="fa fa-chevron-right text-right"></i>
+              </div>
+            </div>
+          </a>
+          <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'femaleShoes'">
+            <div class="row">
+              <div class="col pr-0">
+                <p class="text-input mb-0" (click)="selectTag('femaleShoes', 'รองเท้าหญิง')">รองเท้าหญิง</p>
+              </div>
+              <div class="col-auto pl-0">
+                <i class="fa fa-chevron-right text-right"></i>
+              </div>
+            </div>
+          </a>
+          <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'beauty'">
+            <div class="row">
+              <div class="col pr-0">
+                <p class="text-input mb-0" (click)="selectTag('beauty', 'ความงาม')">ความงาม</p>
+              </div>
+              <div class="col-auto pl-0">
+                <i class="fa fa-chevron-right text-right"></i>
+              </div>
+            </div>
+          </a>
+          <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'bag'">
+            <div class="row">
+              <div class="col pr-0">
+                <p class="text-input mb-0" (click)="selectTag('bag', 'กระเป๋า')">กระเป๋า</p>
+              </div>
+              <div class="col-auto pl-0">
+                <i class="fa fa-chevron-right text-right"></i>
+              </div>
+            </div>
+          </a>
+          <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'accessories'">
+            <div class="row">
+              <div class="col pr-0">
+                <p class="text-input mb-0" (click)="selectTag('accessories', 'เครื่องประดับ')">เครื่องประดับ</p>
+              </div>
+              <div class="col-auto pl-0">
+                <i class="fa fa-chevron-right text-right"></i>
+              </div>
+            </div>
+          </a>
+          <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'homeAppliances'">
+            <div class="row">
+              <div class="col pr-0">
+                <p class="text-input mb-0" (click)="selectTag('homeAppliances', 'เครื่องใช้ในบ้าน')">เครื่องใช้ในบ้าน</p>
+              </div>
+              <div class="col-auto pl-0">
+                <i class="fa fa-chevron-right text-right"></i>
+              </div>
+            </div>
+          </a>
+          <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'mobilePhone'">
+            <div class="row">
+              <div class="col pr-0">
+                <p class="text-input mb-0" (click)="selectTag('mobilePhone', 'มือถือ')">มือถือ</p>
+              </div>
+              <div class="col-auto pl-0">
+                <i class="fa fa-chevron-right text-right"></i>
+              </div>
+            </div>
+          </a>
+          <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'game'">
+            <div class="row">
+              <div class="col pr-0">
+                <p class="text-input mb-0" (click)="selectTag('game', 'เกม')">เกม</p>
+              </div>
+              <div class="col-auto pl-0">
+                <i class="fa fa-chevron-right text-right"></i>
+              </div>
+            </div>
+          </a>
+          <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'camera'">
+            <div class="row">
+              <div class="col pr-0">
+                <p class="text-input mb-0" (click)="selectTag('camera', 'กล้อง')">กล้อง</p>
+              </div>
+              <div class="col-auto pl-0">
+                <i class="fa fa-chevron-right text-right"></i>
+              </div>
+            </div>
+          </a>
+          <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'sport'">
+            <div class="row">
+              <div class="col pr-0">
+                <p class="text-input mb-0" (click)="selectTag('sport', 'กีฬา')">กีฬา</p>
+              </div>
+              <div class="col-auto pl-0">
+                <i class="fa fa-chevron-right text-right"></i>
+              </div>
+            </div>
+          </a>
+          <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'computer'">
+            <div class="row">
+              <div class="col pr-0">
+                <p class="text-input mb-0" (click)="selectTag('computer', 'คอมพิวเตอร์')">คอมพิวเตอร์</p>
+              </div>
+              <div class="col-auto pl-0">
+                <i class="fa fa-chevron-right text-right"></i>
+              </div>
+            </div>
+          </a>
+          <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'food'">
+            <div class="row">
+              <div class="col pr-0">
+                <p class="text-input mb-0" (click)="selectTag('food', 'อาหาร')">อาหาร</p>
+              </div>
+              <div class="col-auto pl-0">
+                <i class="fa fa-chevron-right text-right"></i>
+              </div>
+            </div>
+          </a>
+          <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'electricalApp'">
+            <div class="row">
+              <div class="col pr-0">
+                <p class="text-input mb-0" (click)="selectTag('electricalApp', 'เครื่องใช้ไฟฟ้า')">เครื่องใช้ไฟฟ้า</p>
+              </div>
+              <div class="col-auto pl-0">
+                <i class="fa fa-chevron-right text-right"></i>
+              </div>
+            </div>
+          </a>
+          <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'motorVehicle'">
+            <div class="row">
+              <div class="col pr-0">
+                <p class="text-input mb-0" (click)="selectTag('motorVehicle', 'ยานยนต์')">ยานยนต์</p>
+              </div>
+              <div class="col-auto pl-0">
+                <i class="fa fa-chevron-right text-right"></i>
+              </div>
+            </div>
+          </a>
+          <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'voucher'">
+            <div class="row">
+              <div class="col pr-0">
+                <p class="text-input mb-0" (click)="selectTag('voucher', 'voucher')">voucher</p>
+              </div>
+              <div class="col-auto pl-0">
+                <i class="fa fa-chevron-right text-right"></i>
+              </div>
+            </div>
+          </a>
+          <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'fetish'">
+            <div class="row">
+              <div class="col pr-0">
+                <p class="text-input mb-0" (click)="selectTag('fetish', 'เครื่องราง')">เครื่องราง</p>
+              </div>
+              <div class="col-auto pl-0">
+                <i class="fa fa-chevron-right text-right"></i>
+              </div>
+            </div>
+          </a>
+          <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'collectibles'">
+            <div class="row">
+              <div class="col pr-0">
+                <p class="text-input mb-0" (click)="selectTag('collectibles', 'ของสะสม')">ของสะสม</p>
+              </div>
+              <div class="col-auto pl-0">
+                <i class="fa fa-chevron-right text-right"></i>
+              </div>
+            </div>
+          </a>
+          <a class="dropdown-item pr-0" [class.dropdown-menu-select]="tagEN == 'other'">
+            <div class="row">
+              <div class="col pr-0">
+                <p class="text-input mb-0" (click)="selectTag('other', 'อื่นๆ')">อื่นๆ</p>
+              </div>
+              <div class="col-auto pl-0">
+                <i class="fa fa-chevron-right text-right"></i>
+              </div>
+            </div>
+          </a>
+        </div>
+        <!-- End Col SubCat 1 -->
+        <!-- Col SubCat 2 -->
+        <div class="col col-sub-cat scrollable-menu">
+          <a class="dropdown-item" [class.dropdown-menu-select]="dataSubCat == subTagTH" *ngFor="let dataSubCat of subCat" (click)="selectSubTag(dataSubCat)">
+            <div class="row">
+              <div class="col">
+                <p class="text-input mb-0">{{ dataSubCat }}</p>
+              </div>
+            </div>
+          </a>
+        </div>
+        <!-- End Col SubCat 2 -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Product Type 2 -->
+  <div class="input-style mt-2">
+    <p class="mb-2 text-input">ชนิดสินค้า*</p>
+    <div *ngIf="type == 'new'">
+      <div class="custom-control custom-radio custom-control-inline">
+        <input type="radio" id="customRadioInline1" name="customRadioInline1" class="custom-control-input" (click)="productType('new')" checked>
+        <label class="custom-control-label" style="color: #616a71;" for="customRadioInline1">สินค้าใหม่</label>
+      </div>
+      <div class="custom-control custom-radio custom-control-inline">
+        <input type="radio" id="customRadioInline2" name="customRadioInline1" class="custom-control-input" (click)="productType('secondHand')">
+        <label class="custom-control-label" style="color: #616a71;" for="customRadioInline2">สินค้ามือสอง</label>
+      </div>
+    </div>
+    <div *ngIf="type == 'secondHand'">
+      <div class="custom-control custom-radio custom-control-inline">
+        <input type="radio" id="customRadioInline1" name="customRadioInline1" class="custom-control-input" (click)="productType('new')">
+        <label class="custom-control-label" style="color: #616a71;" for="customRadioInline1">สินค้าใหม่</label>
+      </div>
+      <div class="custom-control custom-radio custom-control-inline">
+        <input type="radio" id="customRadioInline2" name="customRadioInline1" class="custom-control-input" (click)="productType('secondHand')" checked>
+        <label class="custom-control-label" style="color: #616a71;" for="customRadioInline2">สินค้ามือสอง</label>
+      </div>
+    </div>
+    <!-- SELECT TYPE SECOND HAND  -->
+    <div *ngIf="type == 'secondHand'" class="mt-2">
+      <div class="dropdown" style="cursor: pointer;">
+        <div data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="box-shadow: none; background-color: #FFF; border-radius: 5px; padding: 6px 12px 6px 16px;">
+          <div class="row">
+            <div class="col-10 pr-0">
+              <p class="mb-0 text-placeholder">{{ placeholderSecondHandPer }}</p>
+            </div>
+            <div class="col-2 pl-0 text-right">
+              <p class="mb-0 dropdown-toggle"></p>
+            </div>
+          </div>
+        </div>
+        <div class="dropdown-menu scrollable-menu">
+          <a (click)="secondHandPer('95% (สภาพเหมือนใหม่)')" class="dropdown-item" style="cursor: pointer;">95% (สภาพเหมือนใหม่)</a>
+            <a (click)="secondHandPer('70% (ผ่านการใช้งาน)')" class="dropdown-item" style="cursor: pointer;">70% (ผ่านการใช้งาน)</a>
+            <a (click)="secondHandPer('50% (ปานกลาง)')" class="dropdown-item" style="cursor: pointer;">50% (ปานกลาง)</a>
+            <a (click)="secondHandPer('25% (ไม่สมบูรณ์)')" class="dropdown-item" style="cursor: pointer;">25% (ไม่สมบูรณ์)</a>
+            <a (click)="secondHandPer('10% (ไม่สามารถใช้งานได้)')" class="dropdown-item" style="cursor: pointer;">10% (ไม่สามารถใช้งานได้)</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Product Type 3 -->
+  <div class="input-style mt-2">
+    <p class="mb-2 text-input">ประเภทการขาย*</p>
+    <div *ngIf="productData.salesType == 'auction'">
+      <div class="custom-control custom-radio custom-control-inline">
+        <input type="radio" id="customRadioInlineType1" name="customRadioInlineType1" class="custom-control-input" (click)="_salesType('auction')" checked>
+        <label class="custom-control-label" style="color: #616a71;" for="customRadioInlineType1">ประมูล</label>
+      </div>
+      <div class="custom-control custom-radio custom-control-inline">
+        <input type="radio" id="customRadioInlineType2" name="customRadioInlineType1" class="custom-control-input" (click)="_salesType('setSellingPrice')">
+        <label class="custom-control-label" style="color: #616a71;" for="customRadioInlineType2">ตั้งราคาขาย</label>
+      </div>
+    </div>
+    <div *ngIf="productData.salesType == 'setSellingPrice'">
+      <div class="custom-control custom-radio custom-control-inline">
+        <input type="radio" id="customRadioInlineType1" name="customRadioInlineType1" class="custom-control-input" (click)="_salesType('auction')">
+        <label class="custom-control-label" style="color: #616a71;" for="customRadioInlineType1">ประมูล</label>
+      </div>
+      <div class="custom-control custom-radio custom-control-inline">
+        <input type="radio" id="customRadioInlineType2" name="customRadioInlineType1" class="custom-control-input" (click)="_salesType('setSellingPrice')" checked>
+        <label class="custom-control-label" style="color: #616a71;" for="customRadioInlineType2">ตั้งราคาขาย</label>
+      </div>
+    </div>
+  </div>
+
+  <div class="dropdown">
+    <div class="input-style mt-2" data-toggle="dropdown">
+      <p class="mb-0 text-input">แบรนด์สินค้า*</p>
+      <!-- Input -->
+      <input class="form-control border-0 pl-3 text-placeholder bg-input-white" maxlength="100"
+        #productBrand_ (keyup)='productBrandInput($event)'
+        [value]="placeholderBrandList" placeholder="ชื่อแบรนด์สินค้า">
+    </div>
+     <!-- Dropdown-Menu -->
+    <div class="dropdown-menu scrollable-menu" [class.opa]="groupBrandList.length == 0">
+      <div *ngFor="let data of groupBrandList">
+        <a (click)="selectBrandList(data.bandName)" class="dropdown-item">{{ data.bandName }}</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Dropdown Group Product (Setting) -->
+  <div class="dropdown">
+    <div class="input-style mt-2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      <p class="mb-0 text-input">กลุ่มสินค้าของร้าน (จากการตั้งค่า)</p>
+      <div style="box-shadow: none; background-color: #FFF; border-radius: 5px; padding: 6px 12px 6px 16px;">
+        <div class="row">
+          <div class="col-10 pr-0">
+            <p class="mb-0 text-placeholder">{{ placeholderGroupProduct }}</p>
+          </div>
+          <div class="col-2 pl-0 text-right">
+            <p class="mb-0 dropdown-toggle"></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="dropdown-menu scrollable-menu">
+      <div *ngFor="let data of groupProduct">
+        <a class="dropdown-item" (click)="selectGroupProduct(data)">{{ data }}</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Product Description -->
+  <div class="input-style mt-2">
+    <p class="mb-0 text-input">รายละเอียดสินค้า*</p>
+    <!-- <p class="mt-2 mb-2 text-placeholder" style="color: #616a71;">Text </p>-->
+    <ejs-richtexteditor id='defaultRTE' #fromRTE [(value)]='value' [toolbarSettings]='tools'
+      [quickToolbarSettings]='quickTools'></ejs-richtexteditor>
+  </div>
+
+  <!-- Product Keyword -->
+  <div class="input-style mt-2">
+    <p class="mb-0 text-input">Keyword สำหรับการค้นหาสินค้า (ขั้นต่ำ 5 คำ)*</p>
+    <p class="mb-0" style="font-size: .9rem;">เพิ่ม Keyword เพื่อช่วยให้ผู้ซื้อสามารถค้นหาและพบสินค้าของคุณ
+      โดยใส่เครื่องหมาย "," ในการคั่นแต่ละคำ(โดยไม่เว้นวรรค) เช่น กางเกง,กางเกงขายาว,กางเกงยีนส์,กางเกงยีนส์ชาย</p>
+    <!-- INPUT KEYWORD NEW V -->
+    <div class="row mt-2">
+      <div class="col">
+        <textarea #keyword [(ngModel)]="keySearch" maxlength="1500" class="form-control border-0 pl-3 text-placeholder bg-input-white" rows="4" placeholder="กรุณาเพิ่ม Keyword"></textarea>
+      </div>
+    </div>
+  </div>
+
+<!-- Product Options -->
+<div class="input-style mt-2">
+  <p class="mb-0 text-input">ตัวเลือกสินค้า* (ขั้นต่ำ 1 ตัวเลือก)</p>
+  <p class="mb-0" style="cursor: pointer; font-size: .9rem;" data-toggle="modal" data-target="#ModalPopupAddProductOption">
+    ขั้นตอนการใช้งานเมนูเพิ่มตัวเลือกสินค้า (แสดงเพิ่มเติม <i class="fa fa-question-circle" aria-hidden="true"></i>)
+  </p>
+  <!-- SHOW OPTION -->
+  <div class="shadow mt-2" style="background-color: #FFF; border-radius: 10px; padding: 20px;" *ngFor="let _option of optionArray; let i = index;">
+    <div class="row">
+      <div class="col">
+        <p class="mb-0">ตัวเลือกสินค้าที่ {{ i+1 }}</p>
+        <p class="mb-0">ชื่อตัวเลือก : {{ _option.optionName }}</p>
+        <p class="mb-0" *ngIf="_option.subOption.length == 0">จำนวน : {{ _option.optionNumber }}</p>
+        <p class="mb-0" *ngIf="_option.subOption.length != 0">จำนวนทั้งหมด : {{ _option.optionNumber }}</p>
+      </div>
+      <div class="col text-right">
+        <p class="mb-0 button-hover" style="cursor: pointer;" (click)="deleteOption(_option)">ลบ</p>
+      </div>
+    </div>
+    <!-- SHOW SUB OPTION -->
+    <div class="subOp mt-2" *ngFor="let _subOption of _option.subOption">
+      <div class="row">
+        <div class="col text-left">
+          ชื่อตัวเลือกย่อย : {{ _subOption.subOption }}
+        </div>
+      </div>
+      <div class="row">
+        <div class="col ">
+          จำนวน : {{ _subOption.subOptionNumber }}
+        </div>
+      </div>
+    </div>
+    <!-- END SHOW SUB OPTION -->
+  </div>
+  <!-- END SHOW OPTION -->
+
+  <!--  -->
+  <div class="shadow mt-2" style="background-color: #FFF; border-radius: 10px; padding: 20px;">
+    <p>ตัวเลือกหลักที่ {{ optionCount+1 }}</p>
+    <div class="row mt-2">
+      <div class="col-auto align-self-center pr-0">
+        <p class="mb-0">ชื่อตัวเลือก</p>
+      </div>
+      <div class="col">
+        <input #optionName [(ngModel)]="optionNameValue" maxlength="50" class="form-control text-placeholder"
+          style="border-radius: 50px;" placeholder="ชื่อตัวเลือกของสินค้า เช่น ขนาด,สี,รุ่น">
+      </div>
+    </div>
+
+    <div class="row mt-2" [hidden]="subOptionShow || subOptionArray.length != 0">
+      <div class="col-auto align-self-center pr-0">
+        <p class="mb-0">จำนวน</p>
+      </div>
+      <div class="col">
+        <input #optionNumber type="text" oninput="this.value=this.value.replace(/[^0-9]/g,'');"
+            [(ngModel)]="optionNumberValue" maxlength="50" class="form-control text-placeholder"
+            style="border-radius: 50px;" placeholder="คลังจำนวนของตัวเลือกนี้ (ตัวเลข)">
+      </div>
+    </div>
+    <div class="row mt-2" [hidden]="!subOptionShow && subOptionArray.length == 0">
+      <div class="col">
+        จำนวน : {{ countProductInSupOption }}
+      </div>
+    </div>
+    <!-- SHOW PRE SUB OPTION -->
+    <div class="subOp mt-2" *ngFor="let _subOp of subOptionArray; let j = index;" [class.disabled]="j == dataEditSubOption.j">
+      <div class="row">
+        <div class="col">
+          <div class="row">
+            <div class="col">
+              ตัวเลือกย่อยที่ {{ j+1 }} : {{ _subOp.subOption }}
+            </div>
+            <div class="col text-right">
+              <a class="mb-0 button-hover" (click)="editSubOp(j, _subOp)">แก้ไข</a> / <a class="mb-0 button-hover" (click)="deleteSubOp(_subOp)">ลบ</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+          จำนวน : {{ _subOp.subOptionNumber }}
+        </div>
+      </div>
+    </div>
+    <!-- END SHOW PRE SUB OPTION -->
+    <div *ngIf="!subOptionShow" class="text-center mt-3">
+      <p class="mb-0" style="cursor: pointer;" (click)="selecAddSub()"><i class="fa fa-plus-circle" aria-hidden="true"></i> เพิ่มตัวเลือกย่อย</p>
+    </div>
+    <!-- ADD SUB OPTION -->
+    <div *ngIf="subOptionShow" class="subOp mt-2">
+      <div class="row">
+        <div class="col">
+          <p>ตัวเลือกย่อยที่ {{ subOptionCount+1 }}</p>
+        </div>
+        <div class="col text-right">
+          <i (click)="selecAddSub()" class="fa fa-times-circle" style="cursor: pointer;" aria-hidden="true"></i>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-auto align-self-center pr-0">
+          <p class="mb-0">ชื่อตัวเลือก</p>
+        </div>
+        <div class="col">
+          <input #subOption [(ngModel)]="subOptionValue" maxlength="50" class="form-control text-placeholder"
+            style="border-radius: 50px;" placeholder="ข้อมูลตัวเลือกชื่อตัวเลือกของสินค้า เช่น สีแดง,สีขาว,สีดำ">
+        </div>
+      </div>
+      <div class="row mt-2">
+        <div class="col-auto align-self-center pr-0">
+          <p class="mb-0">จำนวน</p>
+        </div>
+        <div class="col">
+          <input #subOptionNumber type="text" oninput="this.value=this.value.replace(/[^0-9]/g,'');"
+            [(ngModel)]="subOptionNumberValue" maxlength="50" class="form-control text-placeholder"
+            style="border-radius: 50px;" placeholder="คลังจำนวนของตัวเลือกนี้ (ตัวเลข)">
+        </div>
+      </div>
+      <div class="text-center">
+        <button (click)="addSupOption(subOption.value, subOptionNumber.value)" type="button"
+        class="btn mt-2 pl-4 pr-4 text-center btn-add-option" style="border: none; border-radius: 1.5rem; color: #fff; background-color: #D9534F;">
+        บันทึกตัวเลือกย่อยที่ {{ subOptionCount+1 }} (สูงสุด {{ subOptionCount }}/20)
+      </button>
+      </div>
+    </div>
+    <!-- END ADD SUB OPTION -->
+    <!-- EDIT SUB OPTION -->
+    <div *ngIf="editSubOptionShow" class="subOpEdit mt-2">
+      <div class="row">
+        <div class="col">
+          <p>แก้ไขตัวเลือกย่อยที่ {{ dataEditSubOption.j+1 }}</p>
+        </div>
+        <div class="col text-right">
+          <i (click)="selecEditSub()" class="fa fa-times-circle" style="cursor: pointer;" aria-hidden="true"></i>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-auto align-self-center pr-0">
+          <p class="mb-0">ชื่อตัวเลือก</p>
+        </div>
+        <div class="col">
+          <input #subOptionEdit [(value)]="dataEditSubOption.subOp.subOption" maxlength="50" class="form-control text-placeholder"
+            style="border-radius: 50px;" placeholder="ข้อมูลตัวเลือกชื่อตัวเลือกของสินค้า เช่น สีแดง,สีขาว,สีดำ">
+        </div>
+      </div>
+      <div class="row mt-2">
+        <div class="col-auto align-self-center pr-0">
+          <p class="mb-0">จำนวน</p>
+        </div>
+        <div class="col">
+          <input #subOptionNumberEdit type="text" oninput="this.value=this.value.replace(/[^0-9]/g,'');"
+            [(value)]="dataEditSubOption.subOp.subOptionNumber" maxlength="50" class="form-control text-placeholder"
+            style="border-radius: 50px;" placeholder="คลังจำนวนของตัวเลือกนี้ (ตัวเลข)">
+        </div>
+      </div>
+      <div class="text-center">
+        <button (click)="updateSupOption(subOptionEdit.value, subOptionNumberEdit.value)" type="button"
+        class="btn mt-2 pl-4 pr-4 text-center btn-add-option" style="border: none; border-radius: 1.5rem; color: #fff; background-color: #D9534F;">
+        บันทึกแก้ไขตัวเลือกย่อยที่ {{ dataEditSubOption.j+1 }}
+      </button>
+      </div>
+    </div>
+    <!-- END EDIT SUB OPTION -->
+  </div>
+  <!--  -->
+  <div class="text-center">
+    <button (click)="addOption(optionName.value, optionNumber.value)" type="button" class="btn mt-3 text-center"
+      [class.disabled]="subOptionShow"
+      style="border: none; border-radius: 1.5rem; width: 50%; color: #fff; background-color: #D9534F;">
+      บันทึกตัวเลือกที่ {{ optionCount+1 }} (สูงสุด {{ optionCount }}/20)
+    </button>
+  </div>
+  <!-- ADD OPTION -->
+</div>
+
+<!-- Product Img -->
+<div class="input-style mt-2">
+  <p class="mb-0 text-input">รูปภาพสินค้า* (สูงสุด 5 ภาพ)</p>
+  <p class="mb-0" style="font-size: .9rem;">•
+    ภาพแรกของรายการสินค้าจะต้องเป็นภาพพื้นหลังเรียบอาจจะเป็นพื้นหลังขาวหรือพื้นหลังสีเรียบ
+    หากมีการตรวจพบว่าภาพสินค้าไม่ตรงตามเงื่อนไขทางร้านยินยอมให้ A Bid More ลบสินค้านั้น</p>
+  <p class="mb-0" style="font-size: .9rem;">• หลังอัพโหลดภาพเรียบร้อยสามารถจัดเรียงภาพตามต้องการได้</p>
+
+  <div class="row">
+    <div class="col-6 col-md-6 col-lg-2 mt-4 text-center" [class.disabled]="imgDisabled1">
+      <!-- IMG -->
+      <div class="" style="background-color: #FFF; border: 0.2px solid #585858;">
+        <img src="{{ imgURL1 }}" class="img-fluid">
+      </div>
+      <!-- Button -->
+      <div class="row mt-2 m-0">
+        <div class="col-2 p-0">
+          <p class="mb-0 button-hover" style="cursor: pointer;" (click)="deleteProductImg1()">ลบ</p>
+        </div>
+        <div class="col-8 p-0">
+          รูปภาพ 1
+        </div>
+        <div class="col-2 p-0">
+          <p class="mb-0 button-hover" style="cursor: pointer;" data-toggle="modal" data-target="#ModalAddImg1">เพิ่ม</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-6 col-md-6 col-lg-2 mt-4 text-center" [class.disabled]="imgDisabled2">
+      <!-- IMG -->
+      <div class="" style="background-color: #FFF; border: 0.2px solid #585858;">
+        <img src="{{ imgURL2 }}" class="img-fluid">
+      </div>
+      <!-- Button -->
+      <div class="row mt-2 m-0">
+        <div class="col-2 p-0">
+          <p class="mb-0 button-hover" style="cursor: pointer;" (click)="deleteProductImg2()">ลบ</p>
+        </div>
+        <div class="col-8 p-0">
+          รูปภาพ 2
+        </div>
+        <div class="col-2 p-0">
+          <p class="mb-0 button-hover" style="cursor: pointer;" data-toggle="modal" data-target="#ModalAddImg2">เพิ่ม</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-6 col-md-6 col-lg-2 mt-4 text-center" [class.disabled]="imgDisabled3">
+      <!-- IMG -->
+      <div class="" style="background-color: #FFF; border: 0.2px solid #585858;">
+        <img src="{{ imgURL3 }}" class="img-fluid">
+      </div>
+      <!-- Button -->
+      <div class="row mt-2 m-0">
+        <div class="col-2 p-0">
+          <p class="mb-0 button-hover" style="cursor: pointer;" (click)="deleteProductImg3()">ลบ</p>
+        </div>
+        <div class="col-8 p-0">
+          รูปภาพ 3
+        </div>
+        <div class="col-2 p-0">
+          <p class="mb-0 button-hover" style="cursor: pointer;" data-toggle="modal" data-target="#ModalAddImg3">เพิ่ม</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-6 col-md-6 col-lg-2 mt-4 text-center" [class.disabled]="imgDisabled4">
+      <!-- IMG -->
+      <div class="" style="background-color: #FFF; border: 0.2px solid #585858;">
+        <img src="{{ imgURL4 }}" class="img-fluid">
+      </div>
+      <!-- Button -->
+      <div class="row mt-2 m-0">
+        <div class="col-2 p-0">
+          <p class="mb-0 button-hover" style="cursor: pointer;" (click)="deleteProductImg4()">ลบ</p>
+        </div>
+        <div class="col-8 p-0">
+          รูปภาพ 4
+        </div>
+        <div class="col-2 p-0">
+          <p class="mb-0 button-hover" style="cursor: pointer;" data-toggle="modal" data-target="#ModalAddImg4">เพิ่ม</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-6 col-md-6 col-lg-2 mt-4 text-center" [class.disabled]="imgDisabled5">
+      <!-- IMG -->
+      <div class="" style="background-color: #FFF; border: 0.2px solid #585858;">
+        <img src="{{ imgURL5 }}" class="img-fluid">
+      </div>
+      <!-- Button -->
+      <div class="row mt-2 m-0">
+        <div class="col-2 p-0">
+          <p class="mb-0 button-hover" style="cursor: pointer;" (click)="deleteProductImg5()">ลบ</p>
+        </div>
+        <div class="col-8 p-0">
+          รูปภาพ 5
+        </div>
+        <div class="col-2 p-0">
+          <p class="mb-0 button-hover" style="cursor: pointer;" data-toggle="modal" data-target="#ModalAddImg5">เพิ่ม</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div *ngIf="salesTypeSelectAuction">
+  <!-- Price Setting -->
+  <div class="row" style="margin-left: -4px; margin-right: -4px;">
+    <!-- Price Start Bid -->
+    <div class="col-12 col-md-6 col-lg-6 mt-2" style="padding-left: 4px; padding-right: 4px;">
+      <div class="input-style">
+        <p class="mb-0 text-input">ราคาเริ่มประมูล*</p>
+        <input (keyup)="priceStart($event)" [value]="productData.priceData.priceStart" type="text" oninput="this.value=this.value.replace(/[^0-9]/g,'');" maxlength="10"
+          class="form-control border-0 p-0 text-placeholder input_"
+          placeholder="กรุณาใส่ราคาสำหรับเปิดประมูล">
+      </div>
+    </div>
+    <!-- Price Bid -->
+    <div class="col-12 col-md-6 col-lg-6 mt-2" style="padding-left: 4px; padding-right: 4px;">
+      <div class="input-style">
+        <p class="mb-0 text-input">ราคาบิด*</p>
+        <input (keyup)="priceBid($event)" [value]="productData.priceData.priceBid" type="text" oninput="this.value=this.value.replace(/[^0-9]/g,'');" maxlength="10"
+          class="form-control border-0 p-0 text-placeholder input_"
+          placeholder="กรุณาใส่ราคาสำหรับบิดขั้นต่ำ">
+      </div>
+    </div>
+    <!-- Price Auto Win -->
+    <div class="col-12 col-md-6 col-lg-6 mt-2" style="padding-left: 4px; padding-right: 4px;">
+      <div class="input-style">
+        <p class="mb-0 text-input">ราคา AutoWin</p>
+        <input (keyup)="priceAutoWin($event)" [value]="productData.priceData.priceAutoWin" type="text" oninput="this.value=this.value.replace(/[^0-9]/g,'');" maxlength="10"
+          class="form-control border-0 p-0 text-placeholder input_"
+          placeholder="กรุณาใส่ราคาสำหรับชนะประมูล/เพื่อซื้อสินค้านั้นทันที">
+      </div>
+    </div>
+  </div>
+  <div class="mt-2 pl-des">
+    <p class="mb-0 text-input">*ราคาเริ่มประมูล คือราคาสำหรับการเริ่มประมูลสามารถระบุได้ต่ำสุดที่ 0 บาท
+      หากระบุราคาเริ่มประมูลที่สูงอาจทำให้ไม่มีผู้เข้าร่วมประมูล</p>
+    <p class="mb-0 text-input">*ราคาบิด คือราคาสำหรับการบิดขั้นต่ำสำหรับการระบุราคาของผู้เข้าร่วมประมูล
+      หากระบุราคาบิดที่สูงอาจทำให้ไม่มีผู้เข้าร่วมประมูล</p>
+    <p class="mb-0 text-input">*ราคา AutoWin คือราคาสูงสุดของสินค้าที่เราคาดหวังสามารถไม่ระบุได้
+      หากระบุราคาเมื่อผู้เข้าร่วมประมูลเพิ่มสินค้าชิ้นนี้ด้วยเมนู AutoWin จะต้องชำระเงินสินค้าตามที่ได้ระบุไว้หากระบุราคา AutoWin
+      ที่สูงอาจทำให้ไม่มีผู้เข้าร่วมประมูลที่ต้องการซื้อสินค้าจากเมนูนี้</p>
+  </div>
+
+  <!-- Date Setting -->
+  <div class="row" style="margin-left: -4px; margin-right: -4px;">
+    <div class="col-12 col-md-auto col-lg-auto mt-2" style="padding-left: 4px; padding-right: 4px;">
+      <div class="row">
+        <div class="col-auto">
+          <!-- Date Start Bid -->
+          <div class="input-style-datepicker">
+            <p class="mb-0 text-input">วันที่เริ่มประมูล (ล่วงหน้า 90 วัน)*</p>
+            <ngb-datepicker [minDate]="minDate" [maxDate]="maxDate" #d1 [(ngModel)]="model2" #c1="ngModel" (ngModelChange)="dateSelect(model2)"></ngb-datepicker>
+            <div class="row">
+              <div class="col-auto mt-2" style="width: 100%;">
+                <button (click)="model2 = dateNow; d1.navigateTo(dateNow); dateSelect = dateNow" type="button" class="btn  text-center"
+                  style="width: 100%; border: none; border-radius: 1.5rem; color: #D9534F; border: 1px solid #D9534F; background-color: #F2F6FA;">
+                  วันนี้
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-12 col-md col-lg mt-2"  style="padding-left: 4px; padding-right: 4px;">
+      <div class="row">
+        <div class="col-12">
+          <!-- Time Start Bid -->
+          <div class="input-style">
+            <p class="mb-0 text-input">เวลาเริ่มประมูล*</p>
+            <ngb-timepicker [(ngModel)]="timeStartBid" (ngModelChange)="timeSelect(timeStartBid)"></ngb-timepicker>
+          </div>
+        </div>
+        <!-- <div class="col-12 mt-2">
+          <div class="input-style">
+            <p class="mb-0 text-input">ระยะเวลาประมูลสูงสุด 6,000 นาที (หน่วยนาที)*</p>
+            <input (keyup)='timeBidInput($event)' [value]='timeBidAutoCom' maxlength="4" type="text"
+              oninput="this.value=this.value.replace(/[^0-9]/g,'');"
+              class="form-control border-0 p-0 text-placeholder input_" id="timeBid"
+              placeholder="ระยะเวลานับถอยหลังจากวันที่เริ่มประมูล 1 นาทีถึง 100 ชั่วโมง">
+          </div>
+        </div> -->
+        <div class="col-12 mt-2">
+          <div class="input-style">
+            <p class="mb-0 text-input">ระยะเวลาประมูล/ชิ้น (00:00:30-99:59:59)*</p>
+            <div class="row">
+              <!-- TIME BID COUNT HR -->
+              <div class="col-4">
+                <div class="dropdown" style="cursor: pointer;" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  <p class="mb-0 text-input">ชั่วโมง</p>
+                  <input class="form-control border-0 pl-3 text-placeholder bg-input-white" style="border-radius: 50px"
+                    maxlength="2" type="text" oninput="this.value=this.value.replace(/[^0-9.]/g,'');" 
+                    (keyup)='countHrInput($event)' [value]="timeBidCH">
+                  <ul class="dropdown-menu scrollable-menu" role="menu">
+                    <div *ngFor="let dataHr of timeBidCountHr">
+                      <li class="item-list pl-3 pr-3" (click)="selectHR(dataHr)"><a style="cursor: pointer;">{{ dataHr }}</a></li>
+                    </div>
+                  </ul>
+                </div>
+              </div>  
+              <!-- TIME BID COUNT MIN -->
+              <div class="col-4">
+                <div class="dropdown" style="cursor: pointer;" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  <p class="mb-0 text-input">นาที</p>
+                  <input class="form-control border-0 pl-3 text-placeholder bg-input-white" style="border-radius: 50px"
+                    maxlength="2" type="text" oninput="this.value=this.value.replace(/[^0-9.]/g,'');" 
+                    (keyup)='countMinInput($event)' [value]="timeBidCM">
+                  <ul class="dropdown-menu scrollable-menu" role="menu">
+                    <div *ngFor="let dataMin of timeBidCountMin">
+                      <li class="item-list pl-3 pr-3" (click)="selectM(dataMin)"><a style="cursor: pointer;">{{ dataMin }}</a></li>
+                    </div>
+                  </ul>
+                </div>
+              </div>  
+              <!-- TIME BID COUNT SEC -->
+              <div class="col-4">
+                <div class="dropdown" style="cursor: pointer;" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  <p class="mb-0 text-input">วินาที่</p>
+                  <input class="form-control border-0 pl-3 text-placeholder bg-input-white" style="border-radius: 50px"
+                    maxlength="2" type="text" oninput="this.value=this.value.replace(/[^0-9.]/g,'');" 
+                    (keyup)='countSecInput($event)' [value]="timeBidCS">
+                    <ul class="dropdown-menu scrollable-menu" role="menu">
+                      <div *ngFor="let dataSec of timeBidCountSec">
+                        <li class="item-list pl-3 pr-3" (click)="selectS(dataSec)"><a style="cursor: pointer;">{{ dataSec }}</a></li>
+                      </div>
+                    </ul>
+                </div>
+              </div>  
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>  
+
+<div *ngIf="!salesTypeSelectAuction">
+  <div class="input-style mt-2">
+    <p class="mb-0 text-input">ราคาขาย*</p>
+    <input (keyup)="priceProduct($event)" [value]='priceProductInput' type="text" oninput="this.value=this.value.replace(/[^0-9]/g,'');" maxlength="10"
+      class="form-control border-0 p-0 text-placeholder input_"
+      placeholder="กรุณาใส่ราคาสินค้า">
+  </div>
+</div>
+
+  <!-- Transport Details -->
+  <div class="input-style mt-2">
+    <p class="mb-0 text-input">รายละเอียดขนส่ง*</p>
+    <p *ngIf="checkPrice" class="mb-0 text-danger">กรุณาเพิ่มราคาขาย</p>
+
+    <div class="row">
+      <div class="col-12 col-md-3 col-lg-3 _size mt-2">
+        น้ำหนัก (kg)*
+      </div>
+      <div class="col-12 col-md-9 col-lg-9 mt-2">
+        <input (keyup)="weightInput($event)" [value]='weightDelivery' type="text" oninput="this.value=this.value.replace(/[^0-9.]/g,'');" maxlength="3"
+        class="form-control text-placeholder" style="border-radius: 50px;" placeholder="หน่วย kg">
+        <p *ngIf="weightNaN" class="mb-0 text-danger">น้ำหนักไม่ถูกต้อง</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12 col-md-3 col-lg-3 _size mt-2">
+        ขนาดพัสดุ (cm)*
+      </div>
+      <div class="col-12 col-md-3 col-lg-3 mt-2">
+        <input (keyup)="wideInput($event)" [value]='wideDelivery' type="text" oninput="this.value=this.value.replace(/[^0-9]/g,'');" maxlength="3"
+        class="form-control text-placeholder" style="border-radius: 50px;" placeholder="กว้าง cm">
+      </div>
+      <div class="col-12 col-md-3 col-lg-3 mt-2">
+        <input (keyup)="longInput($event)" [value]='longDelivery' type="text" oninput="this.value=this.value.replace(/[^0-9]/g,'');" maxlength="3"
+        class="form-control text-placeholder" style="border-radius: 50px;" placeholder="ยาว cm">
+      </div>
+      <div class="col-12 col-md-3 col-lg-3 mt-2">
+        <input (keyup)="highInput($event)" [value]='highDelivery' type="text" oninput="this.value=this.value.replace(/[^0-9]/g,'');" maxlength="3"
+        class="form-control text-placeholder" style="border-radius: 50px;" placeholder="สูง cm">
+      </div>
+    </div>
+    <p class="mt-4 mb-0">ค่าจัดส่ง</p>
+
+    <!-- Kerry Express -->
+    <div [class.disabled]="!kerryStatus">
+      <div class="row">
+        <div class="col-auto align-self-center">
+          <div class="custom-checkbox checkbox-m-l">
+            <input [checked]="checkedKerry" class="custom-control-input" type="checkbox" id="Kerry" (click)="checkBoxDelivery('Kerry')">
+            <label class="custom-control-label" for="Kerry">Kerry Express</label>
+          </div>
+        </div>
+        <div [class.disabled]="!checkBoxKerry" class="col-auto align-self-center">
+          <input class="form-control text-placeholder" style="border-radius: 50px;"
+            [value]='priceKerryDelivery.priceDeliveryInput' (keyup)="kerryInput($event)" type="text"
+            oninput="this.value=this.value.replace(/[^0-9]/g,'');" maxlength="6">
+        </div>
+        <div class="col-auto align-self-center">
+          บาท
+        </div>
+      </div>
+      <p *ngIf="checkBoxKerry" class="mb-0">• ไม่รองรับการเก็บเงินปลายทาง</p>
+      <!-- <p *ngIf="!salesTypeSelectAuction && checkBoxKerry" class="mb-0">• ราคาแนะนำคือราคาค่าขนส่งสินค้าและค่าบริการเรียกเก็บเงินปลายทาง</p>
+      <p *ngIf="salesTypeSelectAuction && checkBoxKerry" class="mb-0">• ราคาแนะนำคือราคาค่าขนส่งสินค้ายังไม่รวมค่าบริการเรียกเก็บเงินปลายทาง</p>
+      <p *ngIf="!priceProductOverForCOD && checkBoxKerry" class="mb-0">• รองรับการเก็บเงินปลายทาง</p>
+      <p *ngIf="priceProductOverForCOD && checkBoxKerry" class="mb-0 text-danger">• ไม่รองรับการเก็บเงินปลายทางเนื่องจากราคาสินค้าเกิน 10,000 บาท (ตามเงื่อนไขของ A Bid More)</p> -->
+      <p *ngIf="remoteAreaStatusKerry && checkBoxKerry" class="mb-0 text-danger">• ร้านค้าอยู่ในพื้นที่ห่างไกล (ตามเงื่อนไขของ Kerry Express)</p>
+    </div>
+    <p *ngIf="kerryOver" data-toggle="modal" data-target="#ModalPopupDeliveryOver" class="mb-0 text-danger"
+      style="cursor: pointer;">
+      • ไม่สามารถใช้งานได้เนื่องจากขนาดพัสดุมีขนาดเกินกำหนด (ตามเงื่อนไขของ Kerry Express)
+      <i class="fa fa-question-circle" aria-hidden="true"></i>
+    </p>
+
+    <!-- Thailand Post -->
+    <div [class.disabled]="!thaiPostStatus">
+      <div class="row mt-2">
+        <div class="col-auto align-self-center">
+          <div class="custom-checkbox checkbox-m-l">
+            <input [checked]="checkedThaiPost" class="custom-control-input" type="checkbox" id="ThaiPost" (click)="checkBoxDelivery('ThaiPost')">
+            <label class="custom-control-label" for="ThaiPost">Thailand Post</label>
+          </div>
+        </div>
+        <div [class.disabled]="!checkBoxThaiPost" class="col-auto align-self-center">
+          <input class="form-control text-placeholder" style="border-radius: 50px;" 
+          [value]='priceThaiPostDelivery.priceDeliveryInput' (keyup)="thaiPostInput($event)" type="text" oninput="this.value=this.value.replace(/[^0-9]/g,'');" maxlength="6">
+        </div>
+        <div class="col-auto align-self-center">
+          บาท
+        </div>
+      </div>
+      <p *ngIf="checkBoxThaiPost" class="mb-0">• ไม่รองรับการเก็บเงินปลายทาง</p>
+      <!-- <p *ngIf="!salesTypeSelectAuction && checkBoxThaiPost" class="mb-0">• ราคาแนะนำคือราคาค่าขนส่งสินค้าและค่าบริการเรียกเก็บเงินปลายทาง</p>
+      <p *ngIf="salesTypeSelectAuction && checkBoxThaiPost" class="mb-0">• ราคาแนะนำคือราคาค่าขนส่งสินค้ายังไม่รวมค่าบริการเรียกเก็บเงินปลายทาง</p>
+      <p *ngIf="!priceProductOverForCOD && checkBoxThaiPost"class="mb-0">• รองรับการเก็บเงินปลายทาง</p>
+      <p *ngIf="priceProductOverForCOD && checkBoxThaiPost" class="mb-0 text-danger">• ไม่รองรับการเก็บเงินปลายทางเนื่องจากราคาสินค้าเกิน 10,000 บาท (ตามเงื่อนไขของ A Bid More)</p> -->
+    </div>
+    <p *ngIf="thaiPostOver" data-toggle="modal" data-target="#ModalPopupDeliveryOver" class="mb-0 text-danger"
+      style="cursor: pointer;">
+      • ไม่สามารถใช้งานได้เนื่องจากขนาดพัสดุมีขนาดเกินกำหนด (ตามเงื่อนไขของ Thailand Post)
+      <i class="fa fa-question-circle" aria-hidden="true"></i>
+    </p>
+
+    <!-- SCG Express -->
+    <div [class.disabled]="!scgStatus">
+      <div class="row mt-2">
+        <div class="col-auto align-self-center">
+          <div class="custom-checkbox checkbox-m-l">
+            <input [checked]="checkedScg" class="custom-control-input" type="checkbox" id="SCG" (click)="checkBoxDelivery('scg')">
+            <label class="custom-control-label" for="SCG">SCG Express</label>
+          </div>
+        </div>
+        <div [class.disabled]="!checkBoxScg" class="col-auto align-self-center">
+          <input class="form-control text-placeholder" style="border-radius: 50px;" 
+          [value]='priceScgDelivery.priceDeliveryInput' (keyup)="scgInput($event)" type="text" oninput="this.value=this.value.replace(/[^0-9]/g,'');" maxlength="6">
+        </div>
+        <div class="col-auto align-self-center">
+          บาท
+        </div>
+      </div>
+      <p *ngIf="checkBoxScg" class="mb-0">• ไม่รองรับการเก็บเงินปลายทาง</p>
+      <!-- <p *ngIf="!salesTypeSelectAuction && checkBoxScg" class="mb-0">• ราคาแนะนำคือราคาค่าขนส่งสินค้าและค่าบริการเรียกเก็บเงินปลายทาง</p>
+      <p *ngIf="salesTypeSelectAuction && checkBoxScg" class="mb-0">• ราคาแนะนำคือราคาค่าขนส่งสินค้ายังไม่รวมค่าบริการเรียกเก็บเงินปลายทาง</p>
+      <p *ngIf="!priceProductOverForCOD && checkBoxScg"class="mb-0">• รองรับการเก็บเงินปลายทาง</p>
+      <p *ngIf="priceProductOverForCOD && checkBoxScg" class="mb-0 text-danger">• ไม่รองรับการเก็บเงินปลายทางเนื่องจากราคาสินค้าเกิน 10,000 บาท (ตามเงื่อนไขของ A Bid More)</p> -->
+      <p *ngIf="remoteAreaStatusScg && checkBoxScg" class="mb-0 text-danger">• ร้านค้าอยู่ในพื้นที่ห่างไกล (ตามเงื่อนไขของ SCG Express)</p>
+    </div>
+    <p *ngIf="scgOver" data-toggle="modal" data-target="#ModalPopupDeliveryOver" class="mb-0 text-danger"
+      style="cursor: pointer;">
+      • ไม่สามารถใช้งานได้เนื่องจากขนาดพัสดุมีขนาดเกินกำหนด (ตามเงื่อนไขของ SCG Express)
+      <i class="fa fa-question-circle" aria-hidden="true"></i>
+    </p>
+
+    <!-- Flash Express -->
+    <div [class.disabled]="!flashStatus">
+      <!-- <div class="disabled"> -->
+        <div class="row mt-2">
+          <div class="col-auto align-self-center">
+            <div class="custom-checkbox checkbox-m-l">
+              <input [checked]="checkedFlash" class="custom-control-input" type="checkbox" id="flash" (click)="checkBoxDelivery('flash')">
+              <label class="custom-control-label" for="flash">Flash Express</label>
+            </div>
+          </div>
+          <div [class.disabled]="!checkBoxFlash" class="col-auto align-self-center">
+            <input class="form-control text-placeholder" style="border-radius: 50px;"
+              [value]='priceFlashDelivery.priceDeliveryInput' (keyup)="flashInput($event)" type="text"
+              oninput="this.value=this.value.replace(/[^0-9]/g,'');" maxlength="6">
+          </div>
+          <div class="col-auto align-self-center">
+            บาท
+          </div>
+        </div>
+        <p *ngIf="checkBoxFlash" class="mb-0">• ไม่รองรับการเก็บเงินปลายทาง</p>
+        <!-- <p *ngIf="!salesTypeSelectAuction && checkBoxFlash" class="mb-0">• ราคาแนะนำคือราคาค่าขนส่งสินค้าและค่าบริการเรียกเก็บเงินปลายทาง</p>
+        <p *ngIf="salesTypeSelectAuction && checkBoxFlash" class="mb-0">• ราคาแนะนำคือราคาค่าขนส่งสินค้ายังไม่รวมค่าบริการเรียกเก็บเงินปลายทาง</p>
+        <p *ngIf="!priceProductOverForCOD && checkBoxFlash" class="mb-0">• รองรับการเก็บเงินปลายทาง</p>
+        <p *ngIf="priceProductOverForCOD && checkBoxFlash" class="mb-0 text-danger">• ไม่รองรับการเก็บเงินปลายทางเนื่องจากราคาสินค้าเกิน 10,000 บาท (ตามเงื่อนไขของ A Bid More)</p> -->
+        <p *ngIf="remoteAreaStatusFlash && checkBoxFlash" class="mb-0 text-danger">• ร้านค้าอยู่ในพื้นที่ห่างไกล (ตามเงื่อนไขของ Flash Express)</p>
+      </div>
+      <p *ngIf="flashOver" data-toggle="modal" data-target="#ModalPopupDeliveryOver" class="mb-0 text-danger"
+        style="cursor: pointer;">
+        • ไม่สามารถใช้งานได้เนื่องจากขนาดพัสดุมีขนาดเกินกำหนด (ตามเงื่อนไขของ Flash Express)
+        <i class="fa fa-question-circle" aria-hidden="true"></i>
+      </p>
+
+    <!-- Hand Pick Up -->
+    <!-- THIS VERSION OK -->
+    <!-- <div [class.disabled]="!handPickUp"> -->
+    <!-- NOW VERSION -->
+    <div class="disabled">
+      <div class="row mt-2">
+        <div class="col-sm-12 col-lg-auto mt-2">
+          <div class="custom-checkbox checkbox-m-l">
+            <input [checked]="checkedHandPickUp" class="custom-control-input" type="checkbox" id="handPickUp" (click)="checkBoxDelivery('handPickUp')">
+            <label class="custom-control-label" for="handPickUp">นัดรับสินค้า</label>
+          </div>
+        </div>
+        <div [class.disabled]="!checkBoxhandPickUp" class="col-sm-12 col-lg-auto align-self-center mt-2">
+          <div class="dropdown">
+            <div class="input-style-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <p class="mb-0 text-input">กรุณาเลือกประเทศ</p>
+              <p class="mt-2 mb-2 text-placeholder" style="color: #616a71;">{{ placeholCountry }}</p>
+            </div>
+            <div class="dropdown-menu scrollable-menu">
+              <div *ngFor="let data of dropDownCountry">
+                <a class="dropdown-item" (click)="selectCountry(data)">{{ data }}</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div [class.disabled]="!checkBoxhandPickUp" class="col-sm-12 col-lg-auto align-self-center mt-2">
+          <div class="dropdown">
+            <div class="input-style-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <p class="mb-0 text-input">กรุณาเลือกจังหวัด</p>
+              <p class="mt-2 mb-2 text-placeholder" style="color: #616a71;">{{ placeholProvince }}</p>
+            </div>
+            <div class="dropdown-menu scrollable-menu">
+              <div *ngFor="let data of thaiProvince">
+                <a class="dropdown-item" [class.dropdown-menu-select]="placeholProvince == data" (click)="selectProvince(data)">{{ data }}</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div [class.disabled]="!checkBoxhandPickUp" class="col-sm-12 col-lg-auto mt-2">
+          <input class="form-control text-placeholder" style="border-radius: 50px;" 
+          [value]='handPickUpDescription' placeholder="เพิ่มรายละเอียดเช่น สถานที่" (keyup)="handPickUpInputDes($event)" type="text" maxlength="100">
+        </div>
+      </div>
+    </div>
+    <!-- End Hand Pick Up -->
+
+    <div class="mt-2">
+      <p class="mb-0" style="font-size: .9rem;">• การตั้งค่าการจัดส่งจะมีผลกับสินค้าชนิดนี้เท่านั้น
+        ค่าธรรมเนียมการจัดส่งที่แสดงจะเป็นอัตราค่าจัดส่งมาตรฐานซึ่งอาจมีการเปลี่ยนแปลงขึ้นและอยู่กับสถานที่ตั้งของผู้ซื้อ
+      </p>
+      <p class="mb-0" style="font-size: .9rem;">•
+        โดยราคาจะไม่รวมถึงค่าบริการการจัดส่งแบบเก็บเงินปลายทางที่ผู้ให้บริการแต่ละที่กำหนด
+        โดยค่าใช้จ่ายในส่วนนี้จะเกิดขึ้นก็ต่อเมื่อผู้ซื้อเลือกแบบเก็บเงินปลายทาง
+        แต่ค่าใช้จ่ายในส่วนนี้ผู้ซื้อจะต้องเป็นผู้รับผิดชอบไม่ใช่ส่วนของร้านค้า</p>
+      <p class="mb-0" style="font-size: .9rem;">• การให้บริการเก็บเงินปลายทางรองรับราคาขายสินค้าและราคาสินค้าที่จบการประมูลสูงสุดไม่เกิน
+        10,000 บาท</p>
+      <p class="mb-0" style="font-size: .9rem;">•
+        สามารถแก้ไขราคาการจัดส่งได้ตามต้องการและหากต้องการมีบริการส่งฟรีให้เพิ่มราคาเท่ากับ 0 บาท</p>
+    </div>
+  </div>
+
+  <!-- Transport Time -->
+  <div class="input-style mt-2">
+    <p class="mb-2 text-input">เตรียมส่งนานกว่าปกติ*</p>
+    <div class="custom-control custom-radio custom-control-inline">
+      <input type="radio" id="customRadioInline3" name="customRadioInline2" class="custom-control-input" [checked]="!deliveryLonger"
+        (click)="transportTime('no')" >
+      <label class="custom-control-label" style="color: #616a71;" for="customRadioInline3">ไม่</label>
+    </div>
+    <div class="custom-control custom-radio custom-control-inline">
+      <input type="radio" id="customRadioInline4" name="customRadioInline2" class="custom-control-input" [checked]="deliveryLonger"
+        (click)="transportTime('yes')">
+      <label class="custom-control-label" style="color: #616a71;" for="customRadioInline4">ใช่</label>
+    </div>
+    <div *ngIf="!deliveryLonger">
+      <p class="mt-2 mb-0" style="font-size: .9rem;">• ฉันจะจัดส่งสินค้าภายใน 2 วัน
+        (ไม่รวมวันหยุดนักขัตฤกษ์และวันหยุดทำการของผู้ให้บริการขนส่ง)</p>
+    </div>
+    <div *ngIf="deliveryLonger">
+      <p class="mt-2 mb-0" style="font-size: .9rem;">
+      <div class="row">
+        <div class="col-auto pr-0">
+          <p class="mt-2 mb-0" style="font-size: .9rem;">• ฉันต้องการขยายเวลาในการจัดส่งสินค้าเป็นภายใน</p>
+        </div>
+        <div class="col-auto">
+          <input (keyup)="_dayDelivery($event)" [value]="dayDelivery" type="text" oninput="this.value=this.value.replace(/[^0-9]/g,'');"
+            maxlength="2" class="form-control p-0 text-placeholder input_ border-top-0 border-left-0 border-right-0"
+            placeholder="จำนวน">
+        </div>
+        <div class="col-auto pl-0">
+          <p class="mt-2 mb-0" style="font-size: .9rem;">วัน</p>
+        </div>
+      </div>
+      <p class="mt-2 mb-0" style="font-size: .9rem;">• 5-30 วัน
+        ไม่รวมวันหยุดนักขัตฤกษ์และวันหยุดทำการของผู้ให้บริการขนส่ง</p>
+    </div>
+  </div>
+
+  <!-- Donate Type -->
+  <div class="input-style mt-2">
+    <p class="mb-2 text-input">สินค้าร่วมบริจาค*</p>
+    <div class="custom-checkbox checkbox-m-l">
+      <input class="custom-control-input" type="checkbox" id="gridCheck" (click)="_donateType()"  [checked]="donateType">
+      <label class="custom-control-label" for="gridCheck">ร่วมบริจาค</label>
+    </div>
+
+    <div *ngIf="donateType">
+      <div *ngIf="!groupDonatenull">
+        <!-- Dropdown Donate -->
+        <div class="dropdown">
+          <div class="input-style-dropdown mt-2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <p class="mb-0 text-input">กลุ่มมูลนิธิที่ร่วมกับระบบ</p>
+            <p class="mt-2 mb-2 text-placeholder" style="color: #616a71;">{{ placeholdonate }}</p>
+          </div>
+          <div class="dropdown-menu scrollable-menu">
+            <div *ngFor="let data of groupDonate">
+              <a class="dropdown-item" (click)="selectDonate(data)">{{ data.value.shopName }}</a>
+            </div>
+          </div>
+        </div>
+        <!-- Bar -->
+        <a style="margin-left: 10px; margin-right: 15px;">
+          <mv-slider style="width: 50%;" [value]="sliderDonate" [min]="1" [max]="100" [step]="1" (change)="slider($event)">
+          </mv-slider>
+        </a>
+        <a>{{ sliderDonate }}%</a>
+      </div>
+      <div *ngIf="groupDonatenull">
+        <p class="mt-2 mb-0">ไม่มีมูลนิธิ</p>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- Submit Button -->
+  <div class="text-center mb-2">
+    <button data-toggle="modal" data-target="#ModalPopupSubmit" (click)="addProductAuction(fromRTE.value, keyword.value)" type="button"
+      class="btn mt-2 text-center btn-submit">
+      บันทึกการแก้ไขข้อมูล
+    </button>
+  </div>
+
+
+</div>
+<!-- End Show Content -->
+
+<!-- Show Loading -->
+<div *ngIf="showLoading">
+  <div style="height: 100vh;">
+    <div class="container h-100 d-flex justify-content-center">
+      <div class="my-auto text-center">
+        <img class="rounded-circle shadow" style="width: 60px; height: 60px;"
+          src="./assets/img/WebsiteLogo-hourglass-B-Edit2_MoreBubble_shadow.png">
+        <p>Loading...</p>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Show Loading -->
+
+<!-- Show Cant Edit -->
+<div *ngIf="showContent && productData.productStatus == 'bidding'">
+  <div style="height: 100vh;">
+    <div class="container h-100 d-flex justify-content-center">
+      <div class="my-auto text-center">
+        <p class="mb-0 text-danger">ไม่สามารถแก้ไขข้อมูลสินค้านี้ได้</p>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Show Cant Edit -->
+
+<!-- Modal Popup Submit -->
+<div class="modal fade" id="ModalPopupSubmit" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+      <p class="text-center">{{ textError }}</p>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal" (click)="addProductToFirebase()">ตกลง</button>
+        </div>
+        <div *ngIf="dataProductOK" class="mt-2">
+          <a data-dismiss="modal" aria-label="Close" style="cursor: pointer;">
+            <p class="text-center">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Modal Popup Submit -->
+
+<!-- Modal Popup Img 1 -->
+<div class="modal fade" id="ModalAddImg1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <label class="btn btn-up">กดเพื่ออัพรูปภาพสินค้า 1 (png,jpg)
+        <input type="file" accept="image/png, image/jpeg" style="display: none;" (change)="fileChangeEvent($event)">
+      </label>
+      <image-cropper [imageChangedEvent]="imageChangedEvent" [maintainAspectRatio]="true" [aspectRatio]="1 / 1"
+        [resizeToWidth]="1000" format="png" (imageCropped)="imageCropped($event)">
+      </image-cropper>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;" data-dismiss="modal"
+            (click)="setProductImg1()">ตกลง</button>
+        </div>
+        <div class="mt-2">
+          <a data-dismiss="modal" aria-label="Close" style="cursor: pointer;">
+            <p class="text-center mb-0">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Modal Popup Img 1 -->
+
+<!-- Modal Popup Img 2 -->
+<div class="modal fade" id="ModalAddImg2" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <label class="btn btn-up">กดเพื่ออัพรูปภาพสินค้า 2 (png,jpg)
+        <input type="file" accept="image/png, image/jpeg" style="display: none;" (change)="fileChangeEvent($event)">
+      </label>
+      <image-cropper [imageChangedEvent]="imageChangedEvent" [maintainAspectRatio]="true" [aspectRatio]="1 / 1"
+        [resizeToWidth]="1000" format="png" (imageCropped)="imageCropped($event)">
+      </image-cropper>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;" data-dismiss="modal"
+            (click)="setProductImg2()">ตกลง</button>
+        </div>
+        <div class="mt-2">
+          <a data-dismiss="modal" aria-label="Close" style="cursor: pointer;">
+            <p class="text-center mb-0">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Modal Popup Img 2 -->
+
+<!-- Modal Popup Img 3 -->
+<div class="modal fade" id="ModalAddImg3" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <label class="btn btn-up">กดเพื่ออัพรูปภาพสินค้า 3 (png,jpg)
+        <input type="file" accept="image/png, image/jpeg" style="display: none;" (change)="fileChangeEvent($event)">
+      </label>
+      <image-cropper [imageChangedEvent]="imageChangedEvent" [maintainAspectRatio]="true" [aspectRatio]="1 / 1"
+        [resizeToWidth]="1000" format="png" (imageCropped)="imageCropped($event)">
+      </image-cropper>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;" data-dismiss="modal"
+            (click)="setProductImg3()">ตกลง</button>
+        </div>
+        <div class="mt-2">
+          <a data-dismiss="modal" aria-label="Close" style="cursor: pointer;">
+            <p class="text-center mb-0">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Modal Popup Img 3 -->
+
+<!-- Modal Popup Img 4 -->
+<div class="modal fade" id="ModalAddImg4" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <label class="btn btn-up">กดเพื่ออัพรูปภาพสินค้า 4 (png,jpg)
+        <input type="file" accept="image/png, image/jpeg" style="display: none;" (change)="fileChangeEvent($event)">
+      </label>
+      <image-cropper [imageChangedEvent]="imageChangedEvent" [maintainAspectRatio]="true" [aspectRatio]="1 / 1"
+        [resizeToWidth]="1000" format="png" (imageCropped)="imageCropped($event)">
+      </image-cropper>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;" data-dismiss="modal"
+            (click)="setProductImg4()">ตกลง</button>
+        </div>
+        <div class="mt-2">
+          <a data-dismiss="modal" aria-label="Close" style="cursor: pointer;">
+            <p class="text-center mb-0">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Modal Popup Img 4 -->
+
+<!-- Modal Popup Img 5 -->
+<div class="modal fade" id="ModalAddImg5" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <label class="btn btn-up">กดเพื่ออัพรูปภาพสินค้า 5 (png,jpg)
+        <input type="file" accept="image/png, image/jpeg" style="display: none;" (change)="fileChangeEvent($event)">
+      </label>
+      <image-cropper [imageChangedEvent]="imageChangedEvent" [maintainAspectRatio]="true" [aspectRatio]="1 / 1"
+        [resizeToWidth]="1000" format="png" (imageCropped)="imageCropped($event)">
+      </image-cropper>
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;" data-dismiss="modal"
+            (click)="setProductImg5()">ตกลง</button>
+        </div>
+        <div class="mt-2">
+          <a data-dismiss="modal" aria-label="Close" style="cursor: pointer;">
+            <p class="text-center mb-0">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Modal Popup Img 5 -->
+
+<!-- Modal Popup Add Product Option -->
+<div class="modal fade" id="ModalPopupAddProductOption" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <p class="text-center">ขั้นตอนการใช้งานเมนูเพิ่มตัวเลือกสินค้า</p>
+      <img class="img-fluid" src="../../assets/img/option-product/option-1.png">
+      <p class="mt-2 mb-0">1. เพิ่มข้อมูลตัวเลือกหลัก (ไม่มีตัวเลือกย่อย)</p>
+      <p class="mb-0">1.1 เพิ่มชื่อตัวเลือกหลัก</p>
+      <p class="mb-0">1.2 จำนวนสินค้าสำหรับตัวเลือกหลัก</p>
+      <img class="img-fluid" src="../../assets/img/option-product/option-2.png">
+      <p class="mb-0">1.3 กดปุ่ม "บันทึกตัวเลือก"</p>
+      <img class="img-fluid" src="../../assets/img/option-product/option-3.png">
+      <p class="mt-2 mb-0">เพิ่มข้อมูลแบบมีตัวเลือกย่อย</p>
+      <p class="mb-0">2.1 เพิ่มชื่อตัวเลือกหลัก</p>
+      <p class="mb-0">2.2 กดปุ่ม "เพิ่มตัวเลือกย่อย"</p>
+      <p class="mb-0">2.3 เพิ่มชื่อตัวเลือกย่อย</p>
+      <p class="mb-0">2.4 จำนวนสินค้าสำหรับตัวเลือกย่อย</p>
+      <p class="mb-0">2.5 กดปุ่ม "บันทึกตัวเลือก"</p>
+      <img class="img-fluid" src="../../assets/img/option-product/option-4.png">
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;"
+            data-dismiss="modal">ตกลง</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Modal Popup Add Product Option -->
+
+<!-- Modal Popup Delivery Over ? -->
+<div class="modal fade" id="ModalPopupDeliveryOver" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content pt-5 pr-5 pb-5 pl-5" style="border-radius: 1rem;">
+      <img class="rounded mx-auto d-block" style="width: 120px;" src="../../assets/img/loadingpage-final.png">
+      <h5 class="font-weight-bold text-center mt-5">แจ้งเตือน</h5>
+      <p class="text-center">เงื่อนไขการจัดส่งพัสดุกับผู้ให้บริการขนส่ง</p>
+      <p class="mt-2 mb-0">Thailand Post</p>
+      <p class="mb-0">• พัสดุน้ำหนักไม่เกิน 20 kg/ชิ้น</p>
+      <p class="mb-0">• พัสดุขนาดไม่เกิน 120 cm (กว้าง+ยาว+สูง)</p>
+      <p class="mt-2 mb-0">Kerry Express</p>
+      <p class="mb-0">• พัสดุน้ำหนักไม่เกิน 20 kg/ชิ้น</p>
+      <p class="mb-0">• พัสดุขนาดไม่เกิน 180 cm (กว้าง+ยาว+สูง)</p>
+      <p class="mt-2 mb-0">SCG Express</p>
+      <p class="mb-0">• พัสดุน้ำหนักไม่เกิน 25 kg/ชิ้น</p>
+      <p class="mb-0">• พัสดุขนาดไม่เกิน 200 cm (กว้าง+ยาว+สูง)</p>
+      <p class="mt-2 mb-0">Flash Express</p>
+      <p class="mb-0">• พัสดุน้ำหนักไม่เกิน 50 kg/ชิ้น</p>
+      <p class="mb-0">• พัสดุขนาดไม่เกิน 280 cm (กว้าง+ยาว+สูง)</p>
+
+      <div class="mt-4">
+        <div class="form-group col-12 col-sm-9 col-lg-7 text-center" style="margin: 0 auto;">
+          <button id="Confirm-Singup-btn" type="button" class="btn btn-primary"
+            style="border: none; border-radius: 1.5rem; width: 100%; background-color: #FE5721;" data-dismiss="modal"
+            (click)="addProductToFirebase()">ตกลง</button>
+        </div>
+        <div class="mt-2">
+          <a data-dismiss="modal" aria-label="Close" style="cursor: pointer;">
+            <p class="text-center">ยกเลิก</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Modal Popup Delivery Over ? -->

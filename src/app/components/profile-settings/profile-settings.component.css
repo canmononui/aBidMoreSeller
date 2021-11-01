@@ -1,0 +1,114 @@
+.bg-color-bd {
+  color: #FFF;
+  background-color: #373E48;
+  padding: 16px 16px 16px 24px; 
+  border-radius: 10px; 
+}
+
+.bg-bd {
+  padding: 16px 16px 16px 24px; 
+  border-radius: 10px; 
+  background-color: #F2F6FA;
+}
+
+.p-12 {
+  font-size: 1.2rem;
+}
+
+.p-07 {
+  font-size: .7rem;
+}
+
+.text-gray {
+  color: #8E8D8D;
+}
+
+.btn-edit {
+  border: none; 
+  border-radius: 1.5rem; 
+  color: #D9534F; 
+  border: 1px solid #D9534F; 
+  background-color: #F2F6FA;
+}
+
+.btn-delete {
+  border: none; 
+  border-radius: 1.5rem; 
+  color: #FFF; 
+  border: 1px solid #FFF; 
+  background-color: #373E48;
+}
+
+.img-cover-w {
+  width: 100%;
+}
+
+.bank-card {
+  color: #FFF;
+  background-color: #373E48;
+  padding: 24px 24px 24px 24px; 
+  border-radius: 10px;
+}
+
+.input-style {
+  padding: 16px 16px 16px 24px; 
+  border-radius: 10px; 
+  background-color: #F2F6FA;
+}
+
+.display-none {
+  display: none;
+}
+
+.row-img-m {
+  margin-left: -4px;
+  margin-right: -4px;
+}
+
+.col-img-p {
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+.shop-file-m-w {
+  border-radius: 10px;
+  max-width: 40%;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media only screen and (max-width: 480px) {
+  .shop-file-m-w {
+    border-radius: 10px;
+    max-width: 60%;
+  }
+
+  .bg-color-bd {
+    padding: 10px 10px 10px 15px; 
+    border-radius: 0px; 
+  }
+
+  .bg-bd {
+    padding: 10px 10px 10px 15px; 
+    border-radius: 0px;
+  }
+
+  .mt-mb-sm {
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+
+  .img-cover-w {
+    width: 100%;
+  }
+
+  .bank-card {
+    padding: 16px 16px 16px 24px; 
+    border-radius: 10px;
+  }
+
+  .input-style {
+    padding: 10px 10px 10px 15px; 
+    border-radius: 0px;
+  }
+
+}

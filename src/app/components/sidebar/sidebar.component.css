@@ -1,0 +1,35 @@
+/* Sidebar */
+.btn-sidebar {
+  padding: 1px 6px;
+  color: #373A3C;
+  display: none;
+}
+
+.router {
+  cursor: pointer; 
+  outline: 0;
+}
+
+.text-active {
+  color: #F26E24;
+}
+/* End Sidebar */
+
+.disabled {
+  pointer-events: none;
+  opacity: 30%;
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media only screen and (max-width: 768px) {
+
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media only screen and (max-width: 480px) {
+  /* Sidebar */
+  .btn-sidebar {
+    display: inline;
+  }
+  /* End Sidebar */
+}

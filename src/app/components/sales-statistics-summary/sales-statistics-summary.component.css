@@ -1,0 +1,80 @@
+.input-style {
+  padding: 16px 16px 16px 24px; 
+  border-radius: 10px; 
+  background-color: #F2F6FA;
+}
+
+.page-border-3 {
+  border: 3px solid #E7EDF4; 
+  border-radius: 10px;
+  padding: 20px;
+}
+
+/* Datepicker */
+.form-group.hidden {
+  width: 0;
+  margin-top: 65px;
+  border: none;
+  padding: 0;
+}
+
+.custom-day {
+  text-align: center;
+  padding: 0.185rem 0.25rem;
+  display: inline-block;
+  height: 2rem;
+  width: 2rem;
+}
+
+.custom-day.focused {
+  background-color: #e6e6e6;
+}
+
+.custom-day.range, .custom-day:hover {
+  background-color: rgb(217, 83, 79);
+  color: white;
+}
+
+.custom-day.faded {
+  background-color: rgb(217, 83, 79, 0.5);
+}
+/* End Datepicker */
+
+.displayNone {
+  display: none;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media only screen and (max-width: 480px) {
+  .page-border-3 {
+    border: 1.5px solid #E7EDF4;
+    border-radius: 0px;
+    padding: 10px;
+  }
+
+  .form-group {
+    margin-bottom: 0px;
+  }
+
+  .form-group.hidden {
+    /* width: 0; */
+    margin-top: 40px;
+    /* border: none;
+    padding: 0; */
+  }
+
+  .input-style {
+    padding: 10px 10px 10px 15px; 
+    border-radius: 0px;
+  }
+
+  .text-input {
+    font-size: 0.8rem;
+  }
+
+  .text-placeholder {
+    font-size: 0.7rem;
+  }
+
+
+}

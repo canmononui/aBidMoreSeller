@@ -1,0 +1,40 @@
+.container-bg-color {
+  background-color: #F2F6FA; 
+  border-radius: 10px; 
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.btn-submit {
+  border: none; 
+  border-radius: 1.5rem; 
+  width: 100%; 
+  color: #fff; 
+  background-color: #D9534F;
+}
+
+.disabled {
+  pointer-events: none;
+  opacity: 0.4;
+}
+
+.btn-up {
+  border: 1px solid #585858;
+  border-radius: 1.5rem; 
+  width: auto; 
+  color: #585858; 
+  background-color: #FFF;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media only screen and (max-width: 480px) {
+  .container-bg-color {
+    border-radius: 0px; 
+    padding: 10px;
+    margin-bottom: 0px;
+  }
+
+  .btn-submit {
+    width: 95%;
+  }
+}

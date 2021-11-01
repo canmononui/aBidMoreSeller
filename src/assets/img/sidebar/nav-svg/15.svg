@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #373a3c;
+        stroke-width: 30px;
+      }
+
+      .cls-2 {
+        fill: #373a3c;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="500" cy="500" r="479.969"/>
+  <path class="cls-2" d="M87.172,532.19S99.8,876.043,504.376,906.235c0,0,356.551-8.364,410.491-372.127,0,0-157.321-153.706-408.573,27.814C506.294,561.922,284.031,381.632,87.172,532.19Z"/>
+</svg>

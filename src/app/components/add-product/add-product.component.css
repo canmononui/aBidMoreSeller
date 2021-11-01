@@ -1,0 +1,325 @@
+.input-style {
+  padding: 16px 16px 16px 24px; 
+  border-radius: 10px; 
+  background-color: #F2F6FA;
+}
+
+.bg-input-white {
+  box-shadow: none; 
+  background-color: #FFF; 
+  border-radius: 5px;
+}
+
+.input-style-dropdown {
+  padding: 8px 8px 8px 16px; 
+  border-radius: 10px; 
+  background-color: #FFF;
+}
+
+.input_ {
+  box-shadow: none; 
+  background-color: #F2F6FA;
+}
+
+.btn-dropdown {
+  border: 1px solid #000; 
+  border-radius: 1.5rem; 
+  width: 100%; 
+  color: #000; 
+  background-color: #fff;
+}
+
+.custom-control-input:checked ~ .custom-control-label::before {
+  color: #fff;
+  border-color: #DD5252;
+  background-color: #DD5252;
+}
+
+.custom-checkbox .custom-control-input:checked ~ .custom-control-label::before {
+  background-color: #DD5252;
+}
+
+.scrollable-menu {
+  height: auto;
+  max-height: 250px;
+  overflow-x: hidden;
+}
+
+.item-list {
+  color: #343a40;
+  text-decoration: none;
+}
+
+.item-list:hover {
+  background-color: #f4f4f4;
+}
+
+.item-list:active {
+  color: #FFFF;
+  background-color: #F26E24; 
+}
+
+.pl-des {
+  padding-left: 24px;
+}
+
+.delete_ {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+._size {
+  text-align: right;
+}
+
+.btn-submit {
+  border: none; 
+  border-radius: 1.5rem; 
+  width: 100%; 
+  color: #fff; 
+  background-color: #D9534F;
+}
+
+.subOp {
+  /* border: 3px solid #E7EDF4; */
+  background-color: #E7EDF4;
+  padding: 16px; 
+  border-radius: 10px;
+}
+
+.subOpEdit {
+  /* border: 3px solid #E7EDF4; */
+  background-color: #e8e8e8;
+  padding: 16px; 
+  border-radius: 10px;
+}
+
+.input-style-datepicker {
+  padding: 16px 16px 16px 16px; 
+  border-radius: 10px; 
+  background-color: #F2F6FA;
+}
+
+.btn-up {
+  border: 1px solid #585858;
+  border-radius: 1.5rem; 
+  width: auto; 
+  color: #585858; 
+  background-color: #FFF;
+}
+
+.checkbox-m-l {
+  margin-left: 24px;
+}
+
+.slider {
+  width: 50%;
+}
+
+.disabled {
+  pointer-events: none;
+  opacity: 0.4;
+}
+
+.btn-circle.btn-xl {
+  width: 70px;
+  height: 70px;
+  padding: 10px 16px;
+  border-radius: 35px;
+  font-size: 24px;
+  line-height: 1.33;
+}
+
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  padding: 6px 0px;
+  border-radius: 15px;
+  text-align: center;
+  font-size: 12px;
+  line-height: 1.42857;
+}
+
+.dropdownSubCat {
+  /* position: absolute; */
+  position: relative;
+  z-index: 99;
+  background-color: white;
+  border: 1px solid #DBE1E6;
+  left: 0;
+  right: 0;
+  /* Vertical scroll bar */
+  max-height: 350px;
+  overflow-y: auto;
+  /* Perven horizontal scrollbar */
+  overflow-x: hidden;
+}
+
+#matchList {
+  /* position: absolute; */
+  position: relative;
+  z-index: 99;
+  background-color: white;
+  border: 1px solid #DBE1E6;
+  left: 0;
+  right: 0;
+  /* Vertical scroll bar */
+  max-height: 250px;
+  overflow-y: auto;
+  /* Perven horizontal scrollbar */
+  overflow-x: hidden;
+}
+
+#matchList:hover {
+  cursor: pointer;
+}
+
+.opa {
+  opacity: 0%;
+}
+
+.dropdown-menu {
+  width: 90%;
+}
+
+.dropdown-item:active {
+  color: #FFF;
+  background-color: #F26E24;
+}
+
+.dropdown-menu-show {
+  display: block;
+}
+
+.dropdown-menu-select {
+  color: #FFF;
+  background-color: #F26E24;
+}
+
+.col-sub-cat {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.ref-code {
+  color: #FFF; 
+  background-color: #F26E24; 
+  border-radius: 5px;
+}
+
+.date-input-danger {
+  border: 1.5px solid #D9534F;
+}
+
+.btn-add-option {
+  width: 50%;
+}
+
+.button-hover {
+  color: #343a40;
+  cursor: pointer; 
+  text-decoration: none;
+}
+
+.button-hover:hover {
+  color: #8e8e8e;
+}
+
+@media only screen and (max-width: 768px) {
+  /* .dropdown-menu {
+    width: 330%;
+  } */
+  .col-sub-cat {
+    padding-left: 0px;
+    padding-right: 15px;
+  }
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media only screen and (max-width: 480px) {
+  .dropdown-menu {
+    width: 97%;
+  }
+
+  /* .dropdown-menu-right-custom {
+    right: 0;
+    left: auto;
+  } */
+
+  .input-style {
+    padding: 10px 10px 10px 15px; 
+    border-radius: 0px;
+  }
+
+  .checkbox-m-l {
+    margin-left: 15px;
+  }
+
+  .input-style-dropdown {
+    padding: 4px 4px 4px 8px; 
+    border-radius: 5px;
+  }
+
+  .input-style-datepicker {
+    padding: 10px 10px 10px 10px; 
+    border-radius: 0px;
+  }
+
+  .text-input {
+    font-size: 0.8rem;
+  }
+
+  .text-placeholder {
+    font-size: 0.7rem;
+  }
+
+  .pl-des {
+    padding-left: 15px;
+  }
+
+  .delete_ {
+    padding-right: 16px;
+    text-align: right;
+  }
+
+  ._size {
+    text-align: left;
+  }
+
+  .btn-submit {
+    width: 95%;
+  }
+
+  .subOp {
+    padding: 8px; 
+    /* border: 2px solid #E7EDF4; */
+    border-radius: 5px;
+  }
+
+  .subOpEdit {
+    padding: 8px; 
+    /* border: 2px solid #E7EDF4; */
+    border-radius: 5px;
+  }
+
+  .datepicker-sm {
+    margin-left: 15px;
+  }
+
+  /* .btn-date-sm {
+    margin-left: 15px;
+    margin-right: 15px;
+  } */
+
+  .slider {
+    width: 100%;
+  }
+
+  .ref-code {
+    border-radius: 0px;
+  }
+
+  .btn-add-option {
+    width: 100%;
+  }
+}
